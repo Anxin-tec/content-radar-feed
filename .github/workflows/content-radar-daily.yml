@@ -1,0 +1,276 @@
+name: Content Radar Daily Feed
+
+on:
+  schedule:
+    - cron: "30 16 * * *"
+    - cron: "0 20 * * *"
+    - cron: "30 22 * * *"
+    - cron: "20 23 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        required: true
+        default: build
+        options:
+          - snapshot
+          - build
+          - fixture-small
+          - fixture-maximum
+      logical_slot:
+        type: choice
+        required: false
+        options:
+          - "0030"
+          - "0400"
+          - "0630"
+
+permissions: {}
+
+concurrency:
+  group: content-radar-pages
+  cancel-in-progress: false
+
+jobs:
+  metadata:
+    runs-on: ubuntu-latest
+    outputs:
+      report_date: ${{ steps.metadata.outputs.report_date }}
+      logical_slot: ${{ steps.metadata.outputs.logical_slot }}
+      collect: ${{ steps.metadata.outputs.collect }}
+      build: ${{ steps.metadata.outputs.build }}
+      mode: ${{ steps.metadata.outputs.mode }}
+    steps:
+      - name: Resolve logical run metadata
+        id: metadata
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          INPUT_MODE: ${{ inputs.mode }}
+          INPUT_SLOT: ${{ inputs.logical_slot }}
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          import os
+          from zoneinfo import ZoneInfo
+
+          event = os.environ["EVENT_NAME"]
+          schedule = os.environ.get("EVENT_SCHEDULE", "")
+          mode = os.environ.get("INPUT_MODE", "") or "build"
+          slot = os.environ.get("INPUT_SLOT", "") or "0630"
+          collect = False
+          build = False
+          if event == "schedule":
+              mode = "scheduled"
+              if schedule == "30 16 * * *":
+                  slot, collect = "0030", True
+              elif schedule == "0 20 * * *":
+                  slot, collect = "0400", True
+              elif schedule in {"30 22 * * *", "20 23 * * *"}:
+                  slot, collect, build = "0630", True, True
+              else:
+                  raise SystemExit("unknown_schedule")
+          elif mode == "snapshot":
+              collect = True
+          elif mode in {"build", "fixture-small", "fixture-maximum"}:
+              build = True
+          else:
+              raise SystemExit("unknown_dispatch_mode")
+
+          report_date = datetime.now(
+              ZoneInfo("Asia/Shanghai")
+          ).date().isoformat()
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              print(f"report_date={report_date}", file=output)
+              print(f"logical_slot={slot}", file=output)
+              print(f"collect={str(collect).lower()}", file=output)
+              print(f"build={str(build).lower()}", file=output)
+              print(f"mode={mode}", file=output)
+          PY
+
+  collection:
+    needs: metadata
+    if: needs.metadata.outputs.collect == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out public feed
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Check out pinned TrendRadar
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+        with:
+          repository: sansan0/TrendRadar
+          ref: fb89342bf775608dee05a24586ddbac47c86a606
+          path: _vendor/TrendRadar
+      - name: Install dependencies
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install -r _vendor/TrendRadar/requirements.txt
+      - name: Collect full TrendRadar snapshot
+        run: >-
+          python -m content_radar_feed.cli collect-trendradar
+          --trendradar-root _vendor/TrendRadar
+          --logical-slot "${{ needs.metadata.outputs.logical_slot }}"
+          --output out/snapshot.json
+      - name: Bind snapshot to report date
+        env:
+          REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          path = Path("out/snapshot.json")
+          snapshot = json.loads(path.read_text(encoding="utf-8"))
+          snapshot["report_date"] = os.environ["REPORT_DATE"]
+          path.write_text(
+              json.dumps(
+                  snapshot,
+                  ensure_ascii=False,
+                  separators=(",", ":"),
+                  sort_keys=True,
+              ) + "\n",
+              encoding="utf-8",
+          )
+          PY
+      - name: Upload complete snapshot
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-${{ needs.metadata.outputs.logical_slot }}
+          path: out/snapshot.json
+          if-no-files-found: error
+          retention-days: 4
+
+  build:
+    needs:
+      - metadata
+      - collection
+    if: >-
+      always() &&
+      needs.metadata.result == 'success' &&
+      needs.metadata.outputs.build == 'true' &&
+      (needs.collection.result == 'success' ||
+      needs.collection.result == 'skipped')
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+    steps:
+      - name: Check out public feed
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Run runtime tests
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Restore complete daily snapshots
+        if: needs.metadata.outputs.mode == 'scheduled' || needs.metadata.outputs.mode == 'build'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          from content_radar_feed.github_artifacts import (
+              download_latest_snapshots,
+          )
+
+          result = download_latest_snapshots(
+              os.environ["GITHUB_TOKEN"],
+              report_date=os.environ["REPORT_DATE"],
+              logical_slots=("0030", "0400", "0630"),
+          )
+          if result["missing_slots"]:
+              raise SystemExit(
+                  "missing_slots:" + ",".join(result["missing_slots"])
+              )
+          output = Path("restored")
+          output.mkdir()
+          for slot, snapshot in result["snapshots"].items():
+              (output / f"{slot}.json").write_text(
+                  json.dumps(
+                      snapshot,
+                      ensure_ascii=False,
+                      separators=(",", ":"),
+                      sort_keys=True,
+                  ) + "\n",
+                  encoding="utf-8",
+              )
+          PY
+      - name: Build report or fixture
+        env:
+          MODE: ${{ needs.metadata.outputs.mode }}
+          REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+        run: |
+          if [ "$MODE" = "fixture-small" ]; then
+            python -m content_radar_feed.cli build-fixture \
+              --report-date "$REPORT_DATE" \
+              --size small --site-dir site --max-bytes 2000000
+          elif [ "$MODE" = "fixture-maximum" ]; then
+            python -m content_radar_feed.cli build-fixture \
+              --report-date "$REPORT_DATE" \
+              --size maximum --site-dir site --max-bytes 2000000
+          else
+            python -m content_radar_feed.cli build-report \
+              --report-date "$REPORT_DATE" \
+              --snapshot restored/0030.json \
+              --snapshot restored/0400.json \
+              --snapshot restored/0630.json \
+              --site-dir site --max-bytes 2000000
+          fi
+      - name: Validate report before Pages packaging
+        env:
+          REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+        run: >-
+          python -m content_radar_feed.cli validate-report
+          --input "site/reports/${REPORT_DATE}.json"
+          --max-bytes 2000000
+      - name: Create report digest
+        env:
+          REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+        run: |
+          mkdir -p attestation
+          sha256sum "site/reports/${REPORT_DATE}.json" \
+            > "attestation/${REPORT_DATE}.json.sha256"
+      - name: Upload report digest
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: validated-report-${{ needs.metadata.outputs.report_date }}
+          path: attestation/
+          if-no-files-found: error
+          retention-days: 4
+      - name: Upload validated Pages artifact
+        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b
+        with:
+          path: site/
+
+  publish:
+    needs: build
+    if: needs.build.result == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e

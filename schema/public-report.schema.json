@@ -1,0 +1,357 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://anxin-tec.github.io/content-radar-feed/schema/public-report.schema.json",
+  "title": "Content Radar public daily report",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "run_id",
+    "report_date",
+    "timezone",
+    "generated_at",
+    "window_start",
+    "window_end",
+    "source_status",
+    "counts",
+    "aihot_items",
+    "trendradar_items",
+    "warnings"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "run_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "report_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "timezone": {
+      "const": "Asia/Shanghai"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "window_start": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "window_end": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source_status": {
+      "$ref": "#/$defs/source_status"
+    },
+    "counts": {
+      "$ref": "#/$defs/counts"
+    },
+    "aihot_items": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/aihot_item"
+      }
+    },
+    "trendradar_items": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/trendradar_item"
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "aihot_source_incomplete",
+          "trendradar_incomplete_slots"
+        ]
+      }
+    }
+  },
+  "$defs": {
+    "https_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://[^\\s]+$"
+    },
+    "nullable_https_url": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/https_url"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "nullable_string": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "nullable_number": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "nullable_boolean": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "source_status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "aihot",
+        "trendradar"
+      ],
+      "properties": {
+        "aihot": {
+          "$ref": "#/$defs/aihot_status"
+        },
+        "trendradar": {
+          "$ref": "#/$defs/trendradar_status"
+        }
+      }
+    },
+    "aihot_status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "api_version",
+        "page_count"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "live",
+            "not_modified",
+            "failed",
+            "incomplete"
+          ]
+        },
+        "api_version": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "page_count": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "trendradar_status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "snapshot_count",
+        "platform_count"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "live",
+            "degraded",
+            "failed"
+          ]
+        },
+        "snapshot_count": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "platform_count": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "aihot_upstream",
+        "aihot_published",
+        "trendradar_raw",
+        "trendradar_matched",
+        "trendradar_published"
+      ],
+      "properties": {
+        "aihot_upstream": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "aihot_published": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "trendradar_raw": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "trendradar_matched": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "trendradar_published": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "attribution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source",
+        "canonical"
+      ],
+      "properties": {
+        "source": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "canonical": {
+          "$ref": "#/$defs/nullable_https_url"
+        }
+      }
+    },
+    "aihot_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ref",
+        "id",
+        "title",
+        "title_en",
+        "permalink",
+        "url",
+        "source",
+        "published_at",
+        "summary",
+        "category",
+        "score",
+        "selected",
+        "attribution"
+      ],
+      "properties": {
+        "ref": {
+          "type": "string",
+          "pattern": "^A[1-9][0-9]*$"
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title_en": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "permalink": {
+          "$ref": "#/$defs/https_url"
+        },
+        "url": {
+          "$ref": "#/$defs/nullable_https_url"
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "summary": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "score": {
+          "$ref": "#/$defs/nullable_number"
+        },
+        "selected": {
+          "$ref": "#/$defs/nullable_boolean"
+        },
+        "attribution": {
+          "$ref": "#/$defs/attribution"
+        }
+      }
+    },
+    "trendradar_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ref",
+        "id",
+        "title",
+        "platform_id",
+        "platform",
+        "rank",
+        "url",
+        "first_crawl_time",
+        "last_crawl_time",
+        "crawl_count",
+        "rank_change"
+      ],
+      "properties": {
+        "ref": {
+          "type": "string",
+          "pattern": "^N[1-9][0-9]*$"
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "platform_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "platform": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rank": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "url": {
+          "$ref": "#/$defs/nullable_https_url"
+        },
+        "first_crawl_time": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "last_crawl_time": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "crawl_count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "rank_change": {
+          "type": "integer"
+        }
+      }
+    }
+  }
+}
