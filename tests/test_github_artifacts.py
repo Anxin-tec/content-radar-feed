@@ -5,8 +5,10 @@ import json
 import traceback
 import unittest
 from urllib.error import HTTPError
+from urllib.request import Request
 from zipfile import ZIP_DEFLATED, ZipFile
 
+import content_radar_feed.github_artifacts as github_artifacts
 from content_radar_feed.github_artifacts import (
     API_VERSION,
     ArtifactError,
@@ -134,6 +136,25 @@ class ArchiveTests(unittest.TestCase):
 
 
 class RetrievalTests(unittest.TestCase):
+    def test_cross_origin_redirect_does_not_forward_github_token(self) -> None:
+        original = Request(
+            "https://api.github.com/repos/Anxin-tec/"
+            "content-radar-feed/actions/artifacts/1/zip",
+            headers={"Authorization": "Bearer secret"},
+        )
+
+        redirected = github_artifacts._SafeRedirectHandler().redirect_request(
+            original,
+            None,
+            302,
+            "Found",
+            {},
+            "https://example.blob.core.windows.net/signed.zip",
+        )
+
+        self.assertIsNotNone(redirected)
+        self.assertIsNone(redirected.get_header("Authorization"))
+
     def test_returns_snapshots_and_explicit_missing_slots(self) -> None:
         artifacts = [
             _artifact(101, "0030", "2026-07-23T16:31:00Z"),

@@ -5,7 +5,12 @@ import json
 from pathlib import PurePosixPath
 from typing import Callable, Dict, Iterable, List, Optional
 from urllib.error import HTTPError, URLError
-from urllib.request import Request, urlopen
+from urllib.parse import urlsplit
+from urllib.request import (
+    HTTPRedirectHandler,
+    Request,
+    build_opener,
+)
 from zipfile import BadZipFile, ZipFile
 import io
 
@@ -22,6 +27,18 @@ MAX_ARCHIVE_MEMBER_BYTES = 8 * 1024 * 1024
 
 class ArtifactError(ValueError):
     """A cloud artifact could not be proven safe and complete."""
+
+
+class _SafeRedirectHandler(HTTPRedirectHandler):
+    def redirect_request(self, request, *arguments):
+        redirected = super().redirect_request(request, *arguments)
+        if (
+            redirected is not None
+            and urlsplit(request.full_url).netloc.lower()
+            != urlsplit(redirected.full_url).netloc.lower()
+        ):
+            redirected.remove_header("Authorization")
+        return redirected
 
 
 def artifact_name(report_date: str, logical_slot: str) -> str:
@@ -122,7 +139,10 @@ def _headers(token: str) -> Dict[str, str]:
 
 
 def _default_request(request: Request) -> bytes:
-    with urlopen(request, timeout=30) as response:
+    with build_opener(_SafeRedirectHandler()).open(
+        request,
+        timeout=30,
+    ) as response:
         return response.read()
 
 
