@@ -86,6 +86,7 @@ def run_trendradar(
     failure = None
 
     try:
+        os.chdir(root)
         sys.path[:] = [
             root_text,
             *[entry for entry in previous_path if entry != root_text],
