@@ -57,6 +57,14 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn("actions: read", self.workflow)
         self.assertIn("pages: write", self.workflow)
         self.assertIn("id-token: write", self.workflow)
+        self.assertIn(
+            "publish:\n"
+            "    needs: build\n"
+            "    if: >-\n"
+            "      always() &&\n"
+            "      needs.build.result == 'success'",
+            self.workflow,
+        )
         self.assertIn("group: content-radar-pages", self.workflow)
         self.assertIn("cancel-in-progress: false", self.workflow)
         self.assertNotIn("pull_request_target", self.workflow)
