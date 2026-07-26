@@ -11,6 +11,17 @@ VERSIONED_SKILL_REPOSITORY_PATH = PurePosixPath("skills/content-radar")
 FORBIDDEN_RUNTIME_PATH_PARTS = {"state", "__pycache__"}
 
 
+def versioned_skill_is_available(skill_root: Path) -> bool:
+    return all(
+        path.is_file()
+        for path in (
+            skill_root / "SKILL.md",
+            skill_root / "scripts" / "fetch_aihot.py",
+            skill_root / "tests" / "test_fetch_aihot.py",
+        )
+    )
+
+
 def list_versioned_repository_paths(repository_root: Path) -> list[str]:
     resolved_root = repository_root.resolve()
     if not resolved_root.is_dir():
@@ -68,6 +79,10 @@ def find_forbidden_versioned_skill_paths(
 
 
 class RepositoryContractTests(unittest.TestCase):
+    def setUp(self) -> None:
+        if not versioned_skill_is_available(VERSIONED_SKILL_ROOT):
+            self.skipTest("private_repository_only")
+
     def test_versioned_skill_contains_required_baseline_files(self) -> None:
         required_files = (
             VERSIONED_SKILL_ROOT / "SKILL.md",
@@ -97,6 +112,13 @@ class RepositoryContractTests(unittest.TestCase):
 
 
 class ForbiddenVersionedSkillPathTests(unittest.TestCase):
+    def test_private_contract_detects_missing_skill_checkout(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            missing_skill = (
+                Path(temporary_directory) / "skills" / "content-radar"
+            )
+            self.assertFalse(versioned_skill_is_available(missing_skill))
+
     def test_detects_state_paths(self) -> None:
         paths = ["skills/content-radar/state/manifest.json"]
 

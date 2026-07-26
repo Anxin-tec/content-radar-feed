@@ -69,6 +69,7 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn("needs.metadata.outputs.build == 'true'", self.workflow)
         self.assertIn("download_latest_snapshots", self.workflow)
         self.assertIn("python -m unittest discover", self.workflow)
+        self.assertIn("PYTHONDONTWRITEBYTECODE: \"1\"", self.workflow)
         self.assertIn("python -m content_radar_feed.cli build-report", self.workflow)
         self.assertIn("python -m content_radar_feed.cli build-fixture", self.workflow)
         validate = self.workflow.index(

@@ -36,7 +36,21 @@ class PublicTreeTests(unittest.TestCase):
         self.assertIn((relative, code), verify_public_tree(self.root))
 
     def test_accepts_exact_repository_cloud_feed_tree(self) -> None:
-        self.assertEqual(verify_public_tree(ROOT), [])
+        self.assertEqual(
+            verify_public_tree(ROOT, allow_root_git_metadata=True),
+            [],
+        )
+
+    def test_root_git_metadata_exception_does_not_allow_nested_git(self) -> None:
+        self.write(".git/config")
+        self.write("scripts/.git/config")
+        self.assertEqual(
+            verify_public_tree(
+                self.root,
+                allow_root_git_metadata=True,
+            ),
+            [("scripts/.git", "forbidden_path")],
+        )
 
     def test_accepts_synthetic_secrets_inside_tests(self) -> None:
         self.write(

@@ -72,7 +72,11 @@ def _scan_file(path: Path, relative: str) -> Iterable[Violation]:
     return violations
 
 
-def verify_public_tree(root: Path) -> List[Violation]:
+def verify_public_tree(
+    root: Path,
+    *,
+    allow_root_git_metadata: bool = False,
+) -> List[Violation]:
     root = Path(root)
     if root.is_symlink():
         return [(".", "symlink")]
@@ -88,6 +92,12 @@ def verify_public_tree(root: Path) -> List[Violation]:
         for name in sorted(directory_names):
             path = current_path / name
             relative = _relative(path, root)
+            if (
+                allow_root_git_metadata
+                and current_path == root
+                and name == ".git"
+            ):
+                continue
             if path.is_symlink():
                 violations.append((relative, "symlink"))
                 continue
