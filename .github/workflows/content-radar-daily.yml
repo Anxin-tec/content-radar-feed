@@ -161,7 +161,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       actions: read
-      contents: read
+      contents: write
     steps:
       - name: Check out public feed
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
@@ -241,6 +241,30 @@ jobs:
           python -m content_radar_feed.cli validate-report
           --input "site/reports/${REPORT_DATE}.json"
           --max-bytes 2000000
+      - name: Publish verified raw report
+        if: >-
+          needs.metadata.outputs.mode == 'scheduled' ||
+          needs.metadata.outputs.mode == 'build'
+        env:
+          REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+        run: |
+          feed_dir="$(mktemp -d)"
+          git fetch --depth=1 origin feed
+          git worktree add --detach "$feed_dir" FETCH_HEAD
+          mkdir -p "$feed_dir/reports"
+          cp "site/reports/${REPORT_DATE}.json" \
+            "$feed_dir/reports/${REPORT_DATE}.json"
+          cp "site/latest.json" "$feed_dir/latest.json"
+          git -C "$feed_dir" config user.name "github-actions[bot]"
+          git -C "$feed_dir" config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$feed_dir" add \
+            "reports/${REPORT_DATE}.json" latest.json
+          if ! git -C "$feed_dir" diff --cached --quiet; then
+            git -C "$feed_dir" commit \
+              -m "feed: publish ${REPORT_DATE}"
+            git -C "$feed_dir" push origin HEAD:feed
+          fi
       - name: Create report digest
         env:
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}

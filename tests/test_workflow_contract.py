@@ -94,6 +94,25 @@ class WorkflowContractTests(unittest.TestCase):
             re.compile(r"sha256sum .*reports/.*\.json", re.MULTILINE),
         )
 
+    def test_validated_real_report_is_committed_to_feed_branch(self) -> None:
+        self.assertIn("contents: write", self.workflow)
+        self.assertIn("Publish verified raw report", self.workflow)
+        self.assertIn("git fetch --depth=1 origin feed", self.workflow)
+        self.assertIn(
+            'git -C "$feed_dir" push origin HEAD:feed',
+            self.workflow,
+        )
+        self.assertIn(
+            "needs.metadata.outputs.mode == 'scheduled' || "
+            "needs.metadata.outputs.mode == 'build'",
+            self.workflow,
+        )
+        validate = self.workflow.index(
+            "Validate report before Pages packaging"
+        )
+        raw_publish = self.workflow.index("Publish verified raw report")
+        self.assertLess(validate, raw_publish)
+
 
 if __name__ == "__main__":
     unittest.main()
