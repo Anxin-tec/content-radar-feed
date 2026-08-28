@@ -2,10 +2,16 @@ name: Content Radar Daily Feed
 
 on:
   schedule:
-    - cron: "30 16 * * *"
-    - cron: "0 20 * * *"
-    - cron: "30 22 * * *"
-    - cron: "20 23 * * *"
+    # Avoid the start-of-hour GitHub Actions scheduling hot spots.
+    - cron: "37 16 * * *"
+    - cron: "7 20 * * *"
+    - cron: "37 22 * * *"
+    - cron: "7 23 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - .github/recovery-trigger
   workflow_dispatch:
     inputs:
       mode:
@@ -62,14 +68,17 @@ jobs:
           build = False
           if event == "schedule":
               mode = "scheduled"
-              if schedule == "30 16 * * *":
+              if schedule == "37 16 * * *":
                   slot, collect = "0030", True
-              elif schedule == "0 20 * * *":
+              elif schedule == "7 20 * * *":
                   slot, collect = "0400", True
-              elif schedule in {"30 22 * * *", "20 23 * * *"}:
+              elif schedule in {"37 22 * * *", "7 23 * * *"}:
                   slot, collect, build = "0630", True, True
               else:
                   raise SystemExit("unknown_schedule")
+          elif event == "push":
+              mode = "recovery"
+              slot, collect, build = "0630", True, True
           elif mode == "snapshot":
               collect = True
           elif mode in {"build", "fixture-small", "fixture-maximum"}:
@@ -196,9 +205,12 @@ jobs:
               report_date=os.environ["REPORT_DATE"],
               logical_slots=("0030", "0400", "0630"),
           )
+          if not result["snapshots"]:
+              raise SystemExit("missing_all_slots")
           if result["missing_slots"]:
-              raise SystemExit(
-                  "missing_slots:" + ",".join(result["missing_slots"])
+              print(
+                  "degraded_missing_slots:"
+                  + ",".join(result["missing_slots"])
               )
           output = Path("restored")
           output.mkdir()
@@ -227,11 +239,13 @@ jobs:
               --report-date "$REPORT_DATE" \
               --size maximum --site-dir site --max-bytes 2000000
           else
+            snapshot_args=()
+            for snapshot in restored/*.json; do
+              snapshot_args+=(--snapshot "$snapshot")
+            done
             python -m content_radar_feed.cli build-report \
               --report-date "$REPORT_DATE" \
-              --snapshot restored/0030.json \
-              --snapshot restored/0400.json \
-              --snapshot restored/0630.json \
+              "${snapshot_args[@]}" \
               --site-dir site --max-bytes 2000000
           fi
       - name: Validate report before Pages packaging
@@ -244,7 +258,8 @@ jobs:
       - name: Publish verified raw report
         if: >-
           needs.metadata.outputs.mode == 'scheduled' ||
-          needs.metadata.outputs.mode == 'build'
+          needs.metadata.outputs.mode == 'build' ||
+          needs.metadata.outputs.mode == 'recovery'
         env:
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
         run: |
