@@ -16,10 +16,10 @@ class WorkflowContractTests(unittest.TestCase):
 
     def test_has_all_schedules_dispatch_modes_and_schedule_mapping(self) -> None:
         for cron in (
-            "30 16 * * *",
-            "0 20 * * *",
-            "30 22 * * *",
-            "20 23 * * *",
+            "37 16 * * *",
+            "7 20 * * *",
+            "37 22 * * *",
+            "7 23 * * *",
         ):
             self.assertIn(cron, self.workflow)
             self.assertIn(f'"{cron}"', self.workflow)
@@ -31,10 +31,19 @@ class WorkflowContractTests(unittest.TestCase):
         ):
             self.assertIn(f"- {mode}", self.workflow)
         self.assertIn("github.event.schedule", self.workflow)
-        self.assertIn('schedule == "30 16 * * *"', self.workflow)
-        self.assertIn('schedule == "0 20 * * *"', self.workflow)
-        self.assertIn('schedule in {"30 22 * * *", "20 23 * * *"}', self.workflow)
+        self.assertIn('schedule == "37 16 * * *"', self.workflow)
+        self.assertIn('schedule == "7 20 * * *"', self.workflow)
+        self.assertIn('schedule in {"37 22 * * *", "7 23 * * *"}', self.workflow)
         self.assertIn('ZoneInfo("Asia/Shanghai")', self.workflow)
+
+    def test_recovery_push_builds_a_degraded_report_when_slots_are_missing(self) -> None:
+        self.assertIn(".github/recovery-trigger", self.workflow)
+        self.assertIn('elif event == "push":', self.workflow)
+        self.assertIn('mode = "recovery"', self.workflow)
+        self.assertIn('raise SystemExit("missing_all_slots")', self.workflow)
+        self.assertIn("degraded_missing_slots:", self.workflow)
+        self.assertIn('for snapshot in restored/*.json', self.workflow)
+        self.assertIn("needs.metadata.outputs.mode == 'recovery'", self.workflow)
 
     def test_all_dependencies_are_immutable(self) -> None:
         for sha in (
