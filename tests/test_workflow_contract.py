@@ -26,6 +26,7 @@ class WorkflowContractTests(unittest.TestCase):
         for mode in (
             "snapshot",
             "build",
+            "recovery",
             "fixture-small",
             "fixture-maximum",
         ):
@@ -36,10 +37,18 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn('schedule in {"37 22 * * *", "7 23 * * *"}', self.workflow)
         self.assertIn('ZoneInfo("Asia/Shanghai")', self.workflow)
 
-    def test_recovery_push_builds_a_degraded_report_when_slots_are_missing(self) -> None:
+    def test_recovery_collects_all_slots_and_builds_a_report(self) -> None:
         self.assertIn(".github/recovery-trigger", self.workflow)
         self.assertIn('elif event == "push":', self.workflow)
         self.assertIn('mode = "recovery"', self.workflow)
+        self.assertIn('elif mode == "recovery":', self.workflow)
+        self.assertIn('for slot in 0030 0400 0630', self.workflow)
+        for slot in ("0030", "0400", "0630"):
+            self.assertIn(
+                "trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-"
+                + slot,
+                self.workflow,
+            )
         self.assertIn('raise SystemExit("missing_all_slots")', self.workflow)
         self.assertIn("degraded_missing_slots:", self.workflow)
         self.assertIn('for snapshot in restored/*.json', self.workflow)
@@ -112,8 +121,9 @@ class WorkflowContractTests(unittest.TestCase):
             self.workflow,
         )
         self.assertIn(
-            "needs.metadata.outputs.mode == 'scheduled' || "
-            "needs.metadata.outputs.mode == 'build'",
+            "needs.metadata.outputs.mode == 'scheduled' ||\n"
+            "          needs.metadata.outputs.mode == 'build' ||\n"
+            "          needs.metadata.outputs.mode == 'recovery'",
             self.workflow,
         )
         validate = self.workflow.index(

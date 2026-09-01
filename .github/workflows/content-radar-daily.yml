@@ -21,6 +21,7 @@ on:
         options:
           - snapshot
           - build
+          - recovery
           - fixture-small
           - fixture-maximum
       logical_slot:
@@ -81,6 +82,8 @@ jobs:
               slot, collect, build = "0630", True, True
           elif mode == "snapshot":
               collect = True
+          elif mode == "recovery":
+              slot, collect, build = "0630", True, True
           elif mode in {"build", "fixture-small", "fixture-maximum"}:
               build = True
           else:
@@ -122,11 +125,23 @@ jobs:
           python -m pip install -r requirements.txt
           python -m pip install -r _vendor/TrendRadar/requirements.txt
       - name: Collect full TrendRadar snapshot
-        run: >-
-          python -m content_radar_feed.cli collect-trendradar
-          --trendradar-root _vendor/TrendRadar
-          --logical-slot "${{ needs.metadata.outputs.logical_slot }}"
-          --output out/snapshot.json
+        env:
+          MODE: ${{ needs.metadata.outputs.mode }}
+          LOGICAL_SLOT: ${{ needs.metadata.outputs.logical_slot }}
+        run: |
+          if [ "$MODE" = "recovery" ]; then
+            for slot in 0030 0400 0630; do
+              python -m content_radar_feed.cli collect-trendradar \
+                --trendradar-root _vendor/TrendRadar \
+                --logical-slot "$slot" \
+                --output "out/snapshot-${slot}.json"
+            done
+          else
+            python -m content_radar_feed.cli collect-trendradar \
+              --trendradar-root _vendor/TrendRadar \
+              --logical-slot "$LOGICAL_SLOT" \
+              --output out/snapshot.json
+          fi
       - name: Bind snapshot to report date
         env:
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
@@ -136,24 +151,49 @@ jobs:
           import os
           from pathlib import Path
 
-          path = Path("out/snapshot.json")
-          snapshot = json.loads(path.read_text(encoding="utf-8"))
-          snapshot["report_date"] = os.environ["REPORT_DATE"]
-          path.write_text(
-              json.dumps(
-                  snapshot,
-                  ensure_ascii=False,
-                  separators=(",", ":"),
-                  sort_keys=True,
-              ) + "\n",
-              encoding="utf-8",
-          )
+          for path in Path("out").glob("snapshot*.json"):
+              snapshot = json.loads(path.read_text(encoding="utf-8"))
+              snapshot["report_date"] = os.environ["REPORT_DATE"]
+              path.write_text(
+                  json.dumps(
+                      snapshot,
+                      ensure_ascii=False,
+                      separators=(",", ":"),
+                      sort_keys=True,
+                  ) + "\n",
+                  encoding="utf-8",
+              )
           PY
       - name: Upload complete snapshot
+        if: needs.metadata.outputs.mode != 'recovery'
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
           name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-${{ needs.metadata.outputs.logical_slot }}
           path: out/snapshot.json
+          if-no-files-found: error
+          retention-days: 4
+      - name: Upload recovery snapshot 0030
+        if: needs.metadata.outputs.mode == 'recovery'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-0030
+          path: out/snapshot-0030.json
+          if-no-files-found: error
+          retention-days: 4
+      - name: Upload recovery snapshot 0400
+        if: needs.metadata.outputs.mode == 'recovery'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-0400
+          path: out/snapshot-0400.json
+          if-no-files-found: error
+          retention-days: 4
+      - name: Upload recovery snapshot 0630
+        if: needs.metadata.outputs.mode == 'recovery'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-0630
+          path: out/snapshot-0630.json
           if-no-files-found: error
           retention-days: 4
 
@@ -186,7 +226,10 @@ jobs:
           PYTHONDONTWRITEBYTECODE: "1"
         run: python -m unittest discover -s tests -p 'test_*.py' -v
       - name: Restore complete daily snapshots
-        if: needs.metadata.outputs.mode == 'scheduled' || needs.metadata.outputs.mode == 'build'
+        if: >-
+          needs.metadata.outputs.mode == 'scheduled' ||
+          needs.metadata.outputs.mode == 'build' ||
+          needs.metadata.outputs.mode == 'recovery'
         env:
           GITHUB_TOKEN: ${{ github.token }}
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
