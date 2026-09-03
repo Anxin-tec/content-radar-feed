@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-03
 
-数据生成时间：2026-09-03T08:48:22+08:00（北京时间）
+数据生成时间：2026-09-03T09:06:51+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -159,27 +159,27 @@ Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交�
 
 ### N1｜2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3780853
 
-### N2｜AI牛市挑战传统定义：指数跌20%还能算“熊市”吗？
+### N2｜戴尔电话会：“缺的就是DRAM、DRAM、DRAM！” ，AI积压订单逼近千亿，全年指引大幅上调
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3780870
+
+### N3｜AI牛市挑战传统定义：指数跌20%还能算“熊市”吗？
 
 平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2472446
 
-### N3｜“一块板子”卖到12万元/平米，AI又撑起一个千亿级产业
+### N4｜“一块板子”卖到12万元/平米，AI又撑起一个千亿级产业
 
 平台：财联社热门；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2471980
-
-### N4｜戴尔电话会：“缺的就是DRAM、DRAM、DRAM！” ，AI积压订单逼近千亿，全年指引大幅上调
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3780870
 
 ### N5｜美联储褐皮书释放复杂信号：通胀难降、消费分化，AI投资仍火热
 
@@ -193,64 +193,70 @@ Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交�
 
 链接：https://wallstreetcn.com/articles/3780849
 
-### N7｜Gemini 3.8 Flash 发布，有什么值得关注的？
-
-平台：知乎；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2078626349426683976
-
-### N8｜AI预测LPL哪些队能晋级S16
+### N7｜AI预测LPL哪些队能晋级S16
 
 平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8BLPL%E5%93%AA%E4%BA%9B%E9%98%9F%E8%83%BD%E6%99%8B%E7%BA%A7S16
 
-### N9｜仿生机器人女性偏多
+### N8｜伯克希尔CEO：巴菲特参与对Alphabet投资，AI数据中心成能源业务重大机遇
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3780917
+
+### N9｜AI长剧上星对影视行业意味着什么
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E5%89%A7%E4%B8%8A%E6%98%9F%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88
+
+### N10｜仿生机器人女性偏多
 
 平台：百度热搜；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%81%8F%E5%A4%9A
 
-### N10｜伯克希尔CEO：巴菲特参与对Alphabet投资，AI数据中心成能源业务重大机遇
+### N11｜两种小金属卡了AI脖子，中国供应链占主导
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3780917
+链接：https://wallstreetcn.com/articles/3780921
 
-### N11｜DLSS5是游戏革命还是AI滤镜
+### N12｜DLSS5是游戏革命还是AI滤镜
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DLSS5%E6%98%AF%E6%B8%B8%E6%88%8F%E9%9D%A9%E5%91%BD%E8%BF%98%E6%98%AFAI%E6%BB%A4%E9%95%9C
 
-### N12｜黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI
+### N13｜黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2472506
 
-### N13｜deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？
+### N14｜deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？
 
 平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2077826134134282169
 
-### N14｜怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考 AI 战略」？
+### N15｜怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考 AI 战略」？
 
 平台：知乎；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2078117316865402416
 
-### N15｜戚薇回应做AI授权是因为缺钱
+### N16｜Gemini 3.8 Flash 发布，有什么值得关注的？
+
+平台：知乎；榜单排名：19；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2078626349426683976
+
+### N17｜戚薇回应做AI授权是因为缺钱
 
 平台：微博；榜单排名：20；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%9B%9E%E5%BA%94%E5%81%9AAI%E6%8E%88%E6%9D%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%BC%BA%E9%92%B1%23
 
-### N16｜AI长剧上星对影视行业意味着什么
-
-平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E5%89%A7%E4%B8%8A%E6%98%9F%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88
-
-核对：AI HOT 16 条；TrendRadar 16 条。
+核对：AI HOT 16 条；TrendRadar 17 条。
