@@ -12,6 +12,7 @@ from zoneinfo import ZoneInfo
 
 from .aihot import AihotIncomplete, fetch_aihot
 from .privacy import PublicBoundaryError, validate_public_report
+from .markdown_report import render_report
 from .report import ReportError, build_report as build_daily_report
 from .trendradar import (
     LOGICAL_SLOTS,
@@ -115,6 +116,9 @@ def _publish(report: dict, site_dir: Path, max_bytes: int) -> None:
     latest = site_dir / "latest.json"
     _atomic_write(dated, body)
     _atomic_write(latest, body)
+    markdown = render_report(report).encode("utf-8")
+    _atomic_write(dated.with_suffix(".md"), markdown)
+    _atomic_write(site_dir / "latest.md", markdown)
 
 
 def _fixture_aihot_item(index: int, marker: str) -> dict:

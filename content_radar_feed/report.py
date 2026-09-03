@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import hashlib
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from .relevance import is_ai_related
 
@@ -142,6 +144,13 @@ def _build_report(
     ]
 
     selected = _snapshot_values(snapshots)
+    generated = datetime.fromisoformat(generated_at)
+    for value in selected.values():
+        collected = datetime.fromisoformat(value["collected_at"])
+        if (collected.tzinfo is None or generated.tzinfo is None
+                or collected.astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat() != report_date
+                or collected > generated):
+            raise ReportError("snapshot_date_mismatch")
     groups: dict[str, list[tuple[str, dict]]] = {}
     platforms: set[str] = set()
     failed_platforms: set[str] = set()
@@ -206,8 +215,7 @@ def _build_report(
     if not selected:
         trend_status = "failed"
     elif (
-        set(selected) == set(LOGICAL_SLOTS)
-        and not failed_platforms
+        not failed_platforms
         and all(
             value["source_status"] == "live"
             for value in selected.values()
@@ -220,7 +228,7 @@ def _build_report(
     warnings = []
     if aihot_status not in SUCCESSFUL_AIHOT_STATUSES:
         warnings.append("aihot_source_incomplete")
-    if trend_status != "live":
+    if trend_status != "live" or set(selected) != set(LOGICAL_SLOTS):
         warnings.append("trendradar_incomplete_slots")
 
     return {

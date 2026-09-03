@@ -1,6 +1,12 @@
 from pathlib import Path
+from datetime import datetime
+import os
 import re
+import tempfile
+import textwrap
 import unittest
+from unittest.mock import patch
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,23 +38,34 @@ class WorkflowContractTests(unittest.TestCase):
         ):
             self.assertIn(f"- {mode}", self.workflow)
         self.assertIn("github.event.schedule", self.workflow)
-        self.assertIn('schedule == "37 16 * * *"', self.workflow)
-        self.assertIn('schedule == "7 20 * * *"', self.workflow)
-        self.assertIn('schedule in {"37 22 * * *", "7 23 * * *"}', self.workflow)
+        self.assertIn('collect, build = True, True', self.workflow)
+        self.assertEqual(len(re.findall(r'- cron:', self.workflow)), 8)
         self.assertIn('ZoneInfo("Asia/Shanghai")', self.workflow)
 
-    def test_recovery_collects_all_slots_and_builds_a_report(self) -> None:
+    def test_every_scheduled_run_builds_using_actual_time_even_when_delayed(self):
+        code = textwrap.dedent(self.workflow.split("python - <<'PY'", 1)[1].split("\n          PY", 1)[0])
+        for hour, slot in ((0, "0030"), (2, "0030"), (4, "0400"), (6, "0630"), (9, "0630")):
+            with self.subTest(hour=hour), tempfile.TemporaryDirectory() as temporary:
+                output = Path(temporary) / "output"
+                with patch.dict(os.environ, {"EVENT_NAME": "schedule", "EVENT_SCHEDULE": "37 16 * * *",
+                                             "INPUT_MODE": "", "INPUT_SLOT": "", "GITHUB_OUTPUT": str(output)}):
+                    with patch("datetime.datetime") as clock:
+                        clock.now.return_value = datetime(2026, 9, 3, hour, 42, tzinfo=ZoneInfo("Asia/Shanghai"))
+                        exec(compile(code, "workflow-metadata", "exec"), {})
+                values = dict(line.split("=", 1) for line in output.read_text().splitlines())
+                self.assertEqual(values["report_date"], "2026-09-03")
+                self.assertEqual(values["logical_slot"], slot)
+                self.assertEqual(values["collect"], "true")
+                self.assertEqual(values["build"], "true")
+
+    def test_recovery_collects_one_real_snapshot_and_builds_a_report(self) -> None:
         self.assertIn(".github/recovery-trigger", self.workflow)
         self.assertIn('elif event == "push":', self.workflow)
         self.assertIn('mode = "recovery"', self.workflow)
         self.assertIn('elif mode == "recovery":', self.workflow)
-        self.assertIn('for slot in 0030 0400 0630', self.workflow)
-        for slot in ("0030", "0400", "0630"):
-            self.assertIn(
-                "trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-"
-                + slot,
-                self.workflow,
-            )
+        self.assertNotIn('for slot in 0030 0400 0630', self.workflow)
+        self.assertIn('for attempt in 1 2 3', self.workflow)
+        self.assertIn('if now.hour < 4', self.workflow)
         self.assertIn('raise SystemExit("missing_all_slots")', self.workflow)
         self.assertIn("degraded_missing_slots:", self.workflow)
         self.assertIn('for snapshot in restored/*.json', self.workflow)
@@ -131,6 +148,8 @@ class WorkflowContractTests(unittest.TestCase):
         )
         raw_publish = self.workflow.index("Publish verified raw report")
         self.assertLess(validate, raw_publish)
+        self.assertLess(self.workflow.index('python -m content_radar_feed.publication'),
+                        self.workflow.index('cp "site/reports/'))
 
 
 if __name__ == "__main__":

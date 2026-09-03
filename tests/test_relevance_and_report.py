@@ -264,7 +264,7 @@ class DailyReportTests(unittest.TestCase):
             second["trendradar_items"],
         )
 
-    def test_missing_slot_degrades_trendradar(self) -> None:
+    def test_missing_history_does_not_hide_live_source(self) -> None:
         arguments = report_arguments()
         arguments["snapshots"] = [
             value
@@ -276,7 +276,7 @@ class DailyReportTests(unittest.TestCase):
 
         self.assertEqual(
             report["source_status"]["trendradar"]["status"],
-            "degraded",
+            "live",
         )
         self.assertEqual(
             report["warnings"],

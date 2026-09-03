@@ -4,7 +4,11 @@ on:
   schedule:
     # Avoid the start-of-hour GitHub Actions scheduling hot spots.
     - cron: "37 16 * * *"
+    - cron: "37 17 * * *"
+    - cron: "37 18 * * *"
+    - cron: "37 19 * * *"
     - cron: "7 20 * * *"
+    - cron: "7 21 * * *"
     - cron: "37 22 * * *"
     - cron: "7 23 * * *"
   push:
@@ -62,21 +66,14 @@ jobs:
           from zoneinfo import ZoneInfo
 
           event = os.environ["EVENT_NAME"]
-          schedule = os.environ.get("EVENT_SCHEDULE", "")
+          now = datetime.now(ZoneInfo("Asia/Shanghai"))
           mode = os.environ.get("INPUT_MODE", "") or "build"
           slot = os.environ.get("INPUT_SLOT", "") or "0630"
           collect = False
           build = False
           if event == "schedule":
               mode = "scheduled"
-              if schedule == "37 16 * * *":
-                  slot, collect = "0030", True
-              elif schedule == "7 20 * * *":
-                  slot, collect = "0400", True
-              elif schedule in {"37 22 * * *", "7 23 * * *"}:
-                  slot, collect, build = "0630", True, True
-              else:
-                  raise SystemExit("unknown_schedule")
+              collect, build = True, True
           elif event == "push":
               mode = "recovery"
               slot, collect, build = "0630", True, True
@@ -89,9 +86,10 @@ jobs:
           else:
               raise SystemExit("unknown_dispatch_mode")
 
-          report_date = datetime.now(
-              ZoneInfo("Asia/Shanghai")
-          ).date().isoformat()
+          # Slots are actual collection periods, never missed nominal times.
+          if collect:
+              slot = "0030" if now.hour < 4 else "0400" if now.hour < 6 else "0630"
+          report_date = now.date().isoformat()
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
               print(f"report_date={report_date}", file=output)
               print(f"logical_slot={slot}", file=output)
@@ -104,6 +102,7 @@ jobs:
     needs: metadata
     if: needs.metadata.outputs.collect == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     permissions:
       contents: read
     steps:
@@ -129,19 +128,14 @@ jobs:
           MODE: ${{ needs.metadata.outputs.mode }}
           LOGICAL_SLOT: ${{ needs.metadata.outputs.logical_slot }}
         run: |
-          if [ "$MODE" = "recovery" ]; then
-            for slot in 0030 0400 0630; do
-              python -m content_radar_feed.cli collect-trendradar \
-                --trendradar-root _vendor/TrendRadar \
-                --logical-slot "$slot" \
-                --output "out/snapshot-${slot}.json"
-            done
-          else
+          for attempt in 1 2 3; do
             python -m content_radar_feed.cli collect-trendradar \
               --trendradar-root _vendor/TrendRadar \
               --logical-slot "$LOGICAL_SLOT" \
-              --output out/snapshot.json
-          fi
+              --output out/snapshot.json && break
+            if [ "$attempt" = 3 ]; then exit 1; fi
+            sleep 20
+          done
       - name: Bind snapshot to report date
         env:
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
@@ -165,35 +159,10 @@ jobs:
               )
           PY
       - name: Upload complete snapshot
-        if: needs.metadata.outputs.mode != 'recovery'
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
           name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-${{ needs.metadata.outputs.logical_slot }}
           path: out/snapshot.json
-          if-no-files-found: error
-          retention-days: 4
-      - name: Upload recovery snapshot 0030
-        if: needs.metadata.outputs.mode == 'recovery'
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
-        with:
-          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-0030
-          path: out/snapshot-0030.json
-          if-no-files-found: error
-          retention-days: 4
-      - name: Upload recovery snapshot 0400
-        if: needs.metadata.outputs.mode == 'recovery'
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
-        with:
-          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-0400
-          path: out/snapshot-0400.json
-          if-no-files-found: error
-          retention-days: 4
-      - name: Upload recovery snapshot 0630
-        if: needs.metadata.outputs.mode == 'recovery'
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
-        with:
-          name: trendradar-snapshot-${{ needs.metadata.outputs.report_date }}-0630
-          path: out/snapshot-0630.json
           if-no-files-found: error
           retention-days: 4
 
@@ -208,6 +177,7 @@ jobs:
       (needs.collection.result == 'success' ||
       needs.collection.result == 'skipped')
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       actions: read
       contents: write
@@ -233,21 +203,36 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}
+          MODE: ${{ needs.metadata.outputs.mode }}
+          LOGICAL_SLOT: ${{ needs.metadata.outputs.logical_slot }}
         run: |
           python - <<'PY'
           import json
           import os
+          import time
           from pathlib import Path
 
           from content_radar_feed.github_artifacts import (
               download_latest_snapshots,
           )
 
-          result = download_latest_snapshots(
-              os.environ["GITHUB_TOKEN"],
-              report_date=os.environ["REPORT_DATE"],
-              logical_slots=("0030", "0400", "0630"),
-          )
+          # Recovery proves a single real snapshot can produce a usable report.
+          slots = ((os.environ["LOGICAL_SLOT"],) if os.environ["MODE"] == "recovery"
+                   else ("0030", "0400", "0630"))
+          for attempt in range(3):
+              try:
+                  result = download_latest_snapshots(
+                      os.environ["GITHUB_TOKEN"],
+                      report_date=os.environ["REPORT_DATE"],
+                      logical_slots=slots,
+                  )
+                  if not result["snapshots"]:
+                      raise ValueError("missing_all_slots")
+                  break
+              except ValueError:
+                  if attempt == 2:
+                      raise
+                  time.sleep(20)
           if not result["snapshots"]:
               raise SystemExit("missing_all_slots")
           if result["missing_slots"]:
@@ -309,15 +294,21 @@ jobs:
           feed_dir="$(mktemp -d)"
           git fetch --depth=1 origin feed
           git worktree add --detach "$feed_dir" FETCH_HEAD
+          python -m content_radar_feed.publication \
+            --candidate "site/reports/${REPORT_DATE}.json" \
+            --report-date "$REPORT_DATE"
           mkdir -p "$feed_dir/reports"
           cp "site/reports/${REPORT_DATE}.json" \
             "$feed_dir/reports/${REPORT_DATE}.json"
           cp "site/latest.json" "$feed_dir/latest.json"
+          cp "site/reports/${REPORT_DATE}.md" "$feed_dir/reports/${REPORT_DATE}.md"
+          cp "site/latest.md" "$feed_dir/latest.md"
           git -C "$feed_dir" config user.name "github-actions[bot]"
           git -C "$feed_dir" config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
           git -C "$feed_dir" add \
-            "reports/${REPORT_DATE}.json" latest.json
+            "reports/${REPORT_DATE}.json" latest.json \
+            "reports/${REPORT_DATE}.md" latest.md
           if ! git -C "$feed_dir" diff --cached --quiet; then
             git -C "$feed_dir" commit \
               -m "feed: publish ${REPORT_DATE}"
