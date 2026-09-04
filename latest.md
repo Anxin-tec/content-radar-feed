@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-05
 
-数据生成时间：2026-09-05T03:08:20+08:00（北京时间）
+数据生成时间：2026-09-05T03:50:49+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -175,24 +175,6 @@ Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 
 原文：https://x.com/sherwinwu/status/2095608725730119733
 收录页：https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf
 
-### A19｜François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现
-
-François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。
-
-来源：X：Francois Chollet (@fchollet)；发布时间：2026-09-03T19:42:59Z
-
-原文：https://x.com/fchollet/status/2095598451115614371
-收录页：https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7
-
-### A20｜Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍
-
-Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-09-03T19:31:13Z
-
-原文：https://x.com/ArtificialAnlys/status/2095595489031000350
-收录页：https://aihot.virxact.com/items/cmtly53c50r9srow5ux7p8arw
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜错过AI，基金经理公开承认“失职”，半年报中一波集中道歉
@@ -207,23 +189,23 @@ Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67
 
 链接：https://wallstreetcn.com/articles/3781029
 
-### N3｜【焦点复盘】科创50高开低走跌超2%，AI产业链现“硬切软”行情，粮食概念卷土重来
+### N3｜如何评价 GPT-6Astra，是目前智能程度最高的模型吗？
+
+平台：知乎；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2079099260516184281
+
+### N4｜【焦点复盘】科创50高开低走跌超2%，AI产业链现“硬切软”行情，粮食概念卷土重来
 
 平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2474429
 
-### N4｜GPT-6，“强拆”App的墙
+### N5｜GPT-6，“强拆”App的墙
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3781088
-
-### N5｜如何评价 GPT-6Astra，是目前智能程度最高的模型吗？
-
-平台：知乎；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2079099260516184281
 
 ### N6｜用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？
 
@@ -243,17 +225,17 @@ Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67
 
 链接：https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9GPT-6%E5%86%85%E6%B5%8B%E7%BB%93%E6%9E%9C%E7%A6%BB%E8%B0%B1
 
-### N9｜GPT-6的数学能力如何
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=GPT-6%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
-
-### N10｜OpenAI总裁宣布AGI到来
+### N9｜OpenAI总裁宣布AGI到来
 
 平台：百度热搜；榜单排名：21；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5
+
+### N10｜GPT-6的数学能力如何
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=GPT-6%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
 
 ### N11｜俄机器人飞踢找茬顾客
 
@@ -261,4 +243,4 @@ Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%BF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A3%9E%E8%B8%A2%E6%89%BE%E8%8C%AC%E9%A1%BE%E5%AE%A2&topic_id=28362202
 
-核对：AI HOT 20 条；TrendRadar 11 条。
+核对：AI HOT 18 条；TrendRadar 11 条。
