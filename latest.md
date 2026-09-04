@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-05
 
-数据生成时间：2026-09-05T05:45:55+08:00（北京时间）
+数据生成时间：2026-09-05T06:17:16+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：12 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：15 条；TrendRadar：12 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -148,26 +146,17 @@ Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进�
 原文：https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra
 收录页：https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
 
-### A16｜Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和
-
-Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。
-
-来源：X：Greg Brockman (@gdb)；发布时间：2026-09-03T21:46:00Z
-
-原文：https://x.com/gdb/status/2095629409017614390
-收录页：https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜如何评价 GPT-6Astra，是目前智能程度最高的模型吗？
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2079099260516184281
 
 ### N2｜错过AI，基金经理公开承认“失职”，半年报中一波集中道歉
 
-平台：财联社热门；榜单排名：6；实际出现快照数：2。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2474406
 
@@ -179,25 +168,25 @@ Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3
 
 ### N4｜GPT-6，“强拆”App的墙
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781088
 
 ### N5｜【焦点复盘】科创50高开低走跌超2%，AI产业链现“硬切软”行情，粮食概念卷土重来
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
+平台：财联社热门；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2474429
 
 ### N6｜用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？
 
-平台：澎湃新闻；榜单排名：11；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34003038
 
 ### N7｜首批GPT-6内测结果离谱
 
-平台：百度热搜；榜单排名：12；实际出现快照数：2。
+平台：百度热搜；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9GPT-6%E5%86%85%E6%B5%8B%E7%BB%93%E6%9E%9C%E7%A6%BB%E8%B0%B1
 
@@ -209,7 +198,7 @@ Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3
 
 ### N9｜OpenAI总裁宣布AGI到来
 
-平台：百度热搜；榜单排名：21；实际出现快照数：2。
+平台：百度热搜；榜单排名：21；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5
 
@@ -221,14 +210,14 @@ Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3
 
 ### N11｜自制AI动画科学修仙时代
 
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%8A%A8%E7%94%BB%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99%E6%97%B6%E4%BB%A3
 
 ### N12｜俄机器人飞踢找茬顾客
 
-平台：贴吧；榜单排名：28；实际出现快照数：2。
+平台：贴吧；榜单排名：28；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%BF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A3%9E%E8%B8%A2%E6%89%BE%E8%8C%AC%E9%A1%BE%E5%AE%A2&topic_id=28362202
 
-核对：AI HOT 16 条；TrendRadar 12 条。
+核对：AI HOT 15 条；TrendRadar 12 条。
