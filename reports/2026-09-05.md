@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-05
 
-数据生成时间：2026-09-05T05:01:31+08:00（北京时间）
+数据生成时间：2026-09-05T05:45:55+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：12 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -157,20 +157,11 @@ Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3
 原文：https://x.com/gdb/status/2095629409017614390
 收录页：https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj
 
-### A17｜Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首
-
-Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。
-
-来源：X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)；发布时间：2026-09-03T21:13:22Z
-
-原文：https://x.com/AravSrinivas/status/2095621195131695352
-收录页：https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜如何评价 GPT-6Astra，是目前智能程度最高的模型吗？
 
-平台：知乎；榜单排名：5；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2079099260516184281
 
@@ -194,7 +185,7 @@ Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽�
 
 ### N5｜【焦点复盘】科创50高开低走跌超2%，AI产业链现“硬切软”行情，粮食概念卷土重来
 
-平台：财联社热门；榜单排名：9；实际出现快照数：2。
+平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2474429
 
@@ -204,17 +195,17 @@ Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34003038
 
-### N7｜如何评价 GPT-6 打破孪生素数猜想最新纪录？
-
-平台：知乎；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2079153750703456931
-
-### N8｜首批GPT-6内测结果离谱
+### N7｜首批GPT-6内测结果离谱
 
 平台：百度热搜；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9GPT-6%E5%86%85%E6%B5%8B%E7%BB%93%E6%9E%9C%E7%A6%BB%E8%B0%B1
+
+### N8｜如何评价 GPT-6 打破孪生素数猜想最新纪录？
+
+平台：知乎；榜单排名：15；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2079153750703456931
 
 ### N9｜OpenAI总裁宣布AGI到来
 
@@ -222,16 +213,22 @@ Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽�
 
 链接：https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5
 
-### N10｜俄机器人飞踢找茬顾客
+### N10｜GPT-6的数学能力如何
+
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=GPT-6%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
+
+### N11｜自制AI动画科学修仙时代
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%8A%A8%E7%94%BB%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99%E6%97%B6%E4%BB%A3
+
+### N12｜俄机器人飞踢找茬顾客
 
 平台：贴吧；榜单排名：28；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%BF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A3%9E%E8%B8%A2%E6%89%BE%E8%8C%AC%E9%A1%BE%E5%AE%A2&topic_id=28362202
 
-### N11｜GPT-6的数学能力如何
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=GPT-6%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
-
-核对：AI HOT 17 条；TrendRadar 11 条。
+核对：AI HOT 16 条；TrendRadar 12 条。
