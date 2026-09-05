@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-06
 
-数据生成时间：2026-09-06T04:41:41+08:00（北京时间）
+数据生成时间：2026-09-06T05:38:31+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：12 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -152,37 +152,37 @@ Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 1
 
 ### N1｜高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781148
 
 ### N2｜非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781124
 
-### N3｜美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发
+### N3｜人形机器人作战能力如何
+
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
+
+### N4｜美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2474841
 
-### N4｜马斯克预警AI电力缺口！全球掀电网建设潮 算电协同迎投资机遇
+### N5｜马斯克预警AI电力缺口！全球掀电网建设潮 算电协同迎投资机遇
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2474152
 
-### N5｜怎么看AI或解决七大数学难题之一
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E6%88%96%E8%A7%A3%E5%86%B3%E4%B8%83%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
-
 ### N6｜刚刚，GPT-6 Astra全量开放！
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781141
 
@@ -192,15 +192,15 @@ Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 1
 
 链接：https://www.cls.cn/detail/2474873
 
-### N8｜人形机器人作战能力如何
+### N8｜怎么看AI或解决七大数学难题之一
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
+链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E6%88%96%E8%A7%A3%E5%86%B3%E4%B8%83%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
 
 ### N9｜DeepSeek被曝将采购16万颗华为芯片
 
-平台：今日头条；榜单排名：14；实际出现快照数：2。
+平台：今日头条；榜单排名：22；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7681981085961424425/
 
@@ -216,10 +216,4 @@ Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 1
 
 链接：https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8E%82%E5%95%86%E7%BA%B7%E7%BA%B7%E2%80%9C%E5%8D%96Token%E2%80%9D
 
-### N12｜实测GPT-6
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7681996061195374086/
-
-核对：AI HOT 15 条；TrendRadar 12 条。
+核对：AI HOT 15 条；TrendRadar 11 条。
