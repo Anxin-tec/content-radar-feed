@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-06
 
-数据生成时间：2026-09-06T06:50:49+08:00（北京时间）
+数据生成时间：2026-09-06T08:12:00+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -119,33 +119,6 @@ OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软�
 原文：https://www.ithome.com/0/998/661.htm
 收录页：https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn
 
-### A13｜Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明
-
-Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。
-
-来源：IT之家（RSS）；发布时间：2026-09-04T23:20:46Z
-
-原文：https://www.ithome.com/0/998/638.htm
-收录页：https://aihot.virxact.com/items/cmtnl720f03ofroqsqcvoyl3o
-
-### A14｜Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元
-
-据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。
-
-来源：IT之家（RSS）；发布时间：2026-09-04T22:52:38Z
-
-原文：https://www.ithome.com/0/998/630.htm
-收录页：https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292
-
-### A15｜GPT-6 Astra 开始向 Plus 和 Business 用户推出
-
-Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。
-
-来源：X：Sam Altman (@sama)；发布时间：2026-09-04T22:52:29Z
-
-原文：https://x.com/sama/status/2096008528834244741
-收录页：https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”
@@ -154,11 +127,11 @@ Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。�
 
 链接：https://wallstreetcn.com/articles/3781148
 
-### N2｜人形机器人作战能力如何
+### N2｜刚刚，GPT-6 Astra全量开放！
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
+链接：https://wallstreetcn.com/articles/3781141
 
 ### N3｜非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%
 
@@ -166,53 +139,53 @@ Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。�
 
 链接：https://wallstreetcn.com/articles/3781124
 
-### N4｜刚刚，GPT-6 Astra全量开放！
+### N4｜怎么看AI或解决七大数学难题之一
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3781141
+链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E6%88%96%E8%A7%A3%E5%86%B3%E4%B8%83%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
 
-### N5｜美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发
+### N5｜马斯克预警AI电力缺口！全球掀电网建设潮 算电协同迎投资机遇
 
 平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2474841
+链接：https://www.cls.cn/detail/2474152
 
-### N6｜马斯克预警AI电力缺口！全球掀电网建设潮 算电协同迎投资机遇
+### N6｜美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发
 
 平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2474152
+链接：https://www.cls.cn/detail/2474841
 
-### N7｜DeepSeek被曝将采购16万颗华为芯片
+### N7｜OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”
 
-平台：今日头条；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7681981085961424425/
-
-### N8｜OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3781151
 
-### N9｜“史上最大IPO”时间表有变 Anthropic据悉最早10月中旬启动路演
+### N8｜人形机器人作战能力如何
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2474873
+链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
 
-### N10｜AI展现不了安徽的美
+### N9｜AI展现不了安徽的美
 
-平台：抖音；榜单排名：12；实际出现快照数：1。
+平台：抖音；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2636929
 
-### N11｜如果人人都可以通过 AI 写代码，程序员还需要存在吗？未来的程序员的工作会是什么？
+### N10｜“史上最大IPO”时间表有变 Anthropic据悉最早10月中旬启动路演
 
-平台：知乎；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2077824745589028563
+链接：https://www.cls.cn/detail/2474873
+
+### N11｜DeepSeek被曝将采购16万颗华为芯片
+
+平台：今日头条；榜单排名：22；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7681981085961424425/
 
 ### N12｜自动驾驶出租车前景如何
 
@@ -220,16 +193,10 @@ Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。�
 
 链接：https://search.bilibili.com/all?keyword=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95
 
-### N13｜怎么看AI或解决七大数学难题之一
+### N13｜大模型厂商纷纷“卖Token”
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E6%88%96%E8%A7%A3%E5%86%B3%E4%B8%83%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
-
-### N14｜大模型厂商纷纷“卖Token”
-
-平台：百度热搜；榜单排名：27；实际出现快照数：3。
+平台：百度热搜；榜单排名：27；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8E%82%E5%95%86%E7%BA%B7%E7%BA%B7%E2%80%9C%E5%8D%96Token%E2%80%9D
 
-核对：AI HOT 15 条；TrendRadar 14 条。
+核对：AI HOT 12 条；TrendRadar 13 条。
