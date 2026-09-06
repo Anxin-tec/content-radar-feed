@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-06
 
-数据生成时间：2026-09-06T08:12:00+08:00（北京时间）
+数据生成时间：2026-09-06T08:51:38+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -110,15 +110,6 @@ OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事�
 原文：https://x.com/OpenAI/status/2096133504417616165
 收录页：https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka
 
-### A12｜奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出
-
-OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。
-
-来源：IT之家（RSS）；发布时间：2026-09-05T00:42:24Z
-
-原文：https://www.ithome.com/0/998/661.htm
-收录页：https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”
@@ -163,29 +154,29 @@ OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软�
 
 链接：https://wallstreetcn.com/articles/3781151
 
-### N8｜人形机器人作战能力如何
+### N8｜AI展现不了安徽的美
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
-
-### N9｜AI展现不了安徽的美
-
-平台：抖音；榜单排名：11；实际出现快照数：1。
+平台：抖音；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2636929
 
-### N10｜“史上最大IPO”时间表有变 Anthropic据悉最早10月中旬启动路演
+### N9｜“史上最大IPO”时间表有变 Anthropic据悉最早10月中旬启动路演
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2474873
 
-### N11｜DeepSeek被曝将采购16万颗华为芯片
+### N10｜DeepSeek被曝将采购16万颗华为芯片
 
 平台：今日头条；榜单排名：22；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7681981085961424425/
+
+### N11｜人形机器人作战能力如何
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%E5%A6%82%E4%BD%95
 
 ### N12｜自动驾驶出租车前景如何
 
@@ -199,4 +190,4 @@ OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软�
 
 链接：https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8E%82%E5%95%86%E7%BA%B7%E7%BA%B7%E2%80%9C%E5%8D%96Token%E2%80%9D
 
-核对：AI HOT 12 条；TrendRadar 13 条。
+核对：AI HOT 11 条；TrendRadar 13 条。
