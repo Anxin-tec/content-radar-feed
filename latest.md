@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-07
 
-数据生成时间：2026-09-07T03:28:50+08:00（北京时间）
+数据生成时间：2026-09-07T04:46:50+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：9 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：5 条；TrendRadar：10 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -62,45 +62,45 @@ GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 
 
 ### N1｜OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2475045
 
 ### N2｜美银Hartnett：“民主党中选横扫”将打崩美股，戳破AI泡沫
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781163
 
 ### N3｜AI偷看成人内容被抓包
 
-平台：贴吧；榜单排名：7；实际出现快照数：1。
+平台：贴吧；榜单排名：7；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%81%B7%E7%9C%8B%E6%88%90%E4%BA%BA%E5%86%85%E5%AE%B9%E8%A2%AB%E6%8A%93%E5%8C%85&topic_id=28362692
 
 ### N4｜全球AI交易过于拥挤，海外资金悄然转向中国股市
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781181
 
 ### N5｜AI交易太拥挤！全球资金开启多元化配置：中国股票重回聚光灯下？
 
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2475084
 
 ### N6｜用AI拼豆的方式打开旅行
 
-平台：抖音；榜单排名：8；实际出现快照数：1。
+平台：抖音；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2637258
 
-### N7｜网络安全崛起：AI隐患叙事下，网安何以成为软件板块最强反转？
+### N7｜谁拿走了国产算力的利润？
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/premium/articles/3780982?layout=wscn-layout
+链接：https://wallstreetcn.com/articles/3781171
 
 ### N8｜如何评价 N-S 方程疑似被 AI 解决？
 
@@ -108,10 +108,16 @@ GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 
 
 链接：https://www.zhihu.com/question/2079574865397532387
 
-### N9｜中国需要多久达到或超过 GPT-6 Astra 级别的模型水平？
+### N9｜网络安全崛起：AI隐患叙事下，网安何以成为软件板块最强反转？
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/premium/articles/3780982?layout=wscn-layout
+
+### N10｜中国需要多久达到或超过 GPT-6 Astra 级别的模型水平？
+
+平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2079675087209419385
 
-核对：AI HOT 5 条；TrendRadar 9 条。
+核对：AI HOT 5 条；TrendRadar 10 条。
