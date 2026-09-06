@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-07
 
-数据生成时间：2026-09-07T04:46:50+08:00（北京时间）
+数据生成时间：2026-09-07T05:39:47+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：4 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -49,15 +49,6 @@ OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的�
 原文：https://www.ithome.com/0/998/927.htm
 收录页：https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2
 
-### A5｜OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分
-
-GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。
-
-来源：X：Testing Catalog (@testingcatalog)；发布时间：2026-09-05T21:31:52Z
-
-原文：https://x.com/testingcatalog/status/2096350628054176240
-收录页：https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的
@@ -90,23 +81,23 @@ GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 
 
 链接：https://www.cls.cn/detail/2475084
 
-### N6｜用AI拼豆的方式打开旅行
-
-平台：抖音；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.douyin.com/hot/2637258
-
-### N7｜谁拿走了国产算力的利润？
+### N6｜谁拿走了国产算力的利润？
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3781171
 
-### N8｜如何评价 N-S 方程疑似被 AI 解决？
+### N7｜如何评价 N-S 方程疑似被 AI 解决？
 
 平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2079574865397532387
+
+### N8｜用AI拼豆的方式打开旅行
+
+平台：抖音；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.douyin.com/hot/2637258
 
 ### N9｜网络安全崛起：AI隐患叙事下，网安何以成为软件板块最强反转？
 
@@ -120,4 +111,4 @@ GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 
 
 链接：https://www.zhihu.com/question/2079675087209419385
 
-核对：AI HOT 5 条；TrendRadar 10 条。
+核对：AI HOT 4 条；TrendRadar 10 条。
