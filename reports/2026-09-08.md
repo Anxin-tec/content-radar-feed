@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-08
 
-数据生成时间：2026-09-08T06:15:06+08:00（北京时间）
+数据生成时间：2026-09-08T06:42:19+08:00（北京时间）
 
 AI HOT：2 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -53,27 +53,27 @@ GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity�
 
 ### N4｜【焦点复盘】AI软硬件联袂做多，创业板指百点长阳收复10日线，光模块龙头总市值重上1万亿
 
-平台：财联社热门；榜单排名：5；实际出现快照数：2。
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2475972
 
-### N5｜讲武谈兵｜军用人形机器人走向战场，“终结者”来临？
-
-平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34019553
-
-### N6｜湖南卫视一只“AI猴子”闹出133亿
+### N5｜湖南卫视一只“AI猴子”闹出133亿
 
 平台：百度热搜；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF
 
-### N7｜苹果和OpenAI为啥反目成仇
+### N6｜AI冲击下的印度外包如何就业
 
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%92%8COpenAI%E4%B8%BA%E5%95%A5%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87
+链接：https://search.bilibili.com/all?keyword=AI%E5%86%B2%E5%87%BB%E4%B8%8B%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%A4%96%E5%8C%85%E5%A6%82%E4%BD%95%E5%B0%B1%E4%B8%9A
+
+### N7｜讲武谈兵｜军用人形机器人走向战场，“终结者”来临？
+
+平台：澎湃新闻；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34019553
 
 ### N8｜OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”
 
@@ -87,23 +87,23 @@ GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity�
 
 链接：https://www.cls.cn/detail/2476224
 
-### N10｜AI冲击下的印度外包如何就业
+### N10｜马斯克：10年内人形机器人至少10亿台
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
+平台：今日头条；榜单排名：17；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=AI%E5%86%B2%E5%87%BB%E4%B8%8B%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%A4%96%E5%8C%85%E5%A6%82%E4%BD%95%E5%B0%B1%E4%B8%9A
+链接：https://www.toutiao.com/trending/7682353365007220786/
 
-### N11｜AI偷看成人内容被抓包
+### N11｜AI 时代的数学家应该怎样摆正自己的位置？
+
+平台：知乎；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2065197842847753909
+
+### N12｜AI偷看成人内容被抓包
 
 平台：贴吧；榜单排名：25；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%81%B7%E7%9C%8B%E6%88%90%E4%BA%BA%E5%86%85%E5%AE%B9%E8%A2%AB%E6%8A%93%E5%8C%85&topic_id=28362692
-
-### N12｜马斯克：10年内人形机器人至少10亿台
-
-平台：今日头条；榜单排名：25；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7682353365007220786/
 
 ### N13｜用AI训练AI
 
