@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-08
 
-数据生成时间：2026-09-08T04:08:55+08:00（北京时间）
+数据生成时间：2026-09-08T04:47:17+08:00（北京时间）
 
 AI HOT：2 条；TrendRadar：12 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
@@ -69,40 +69,40 @@ GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity�
 
 链接：https://wallstreetcn.com/articles/3781192
 
-### N7｜三星切入人形机器人赛道？据称将于2027年1月首秀自研原型机
+### N7｜AI冲击下的印度外包如何就业
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%86%B2%E5%87%BB%E4%B8%8B%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%A4%96%E5%8C%85%E5%A6%82%E4%BD%95%E5%B0%B1%E4%B8%9A
+
+### N8｜三星切入人形机器人赛道？据称将于2027年1月首秀自研原型机
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2476224
 
-### N8｜AI冲击下的印度外包如何就业
-
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%86%B2%E5%87%BB%E4%B8%8B%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%A4%96%E5%8C%85%E5%A6%82%E4%BD%95%E5%B0%B1%E4%B8%9A
-
 ### N9｜湖南卫视一只“AI猴子”闹出133亿
 
-平台：百度热搜；榜单排名：19；实际出现快照数：1。
+平台：百度热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF
 
-### N10｜马斯克：10年内人形机器人至少10亿台
-
-平台：今日头条；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7682353365007220786/
-
-### N11｜苹果和OpenAI为啥反目成仇
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%92%8COpenAI%E4%B8%BA%E5%95%A5%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87
-
-### N12｜AI偷看成人内容被抓包
+### N10｜AI偷看成人内容被抓包
 
 平台：贴吧；榜单排名：25；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%81%B7%E7%9C%8B%E6%88%90%E4%BA%BA%E5%86%85%E5%AE%B9%E8%A2%AB%E6%8A%93%E5%8C%85&topic_id=28362692
+
+### N11｜马斯克：10年内人形机器人至少10亿台
+
+平台：今日头条；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7682353365007220786/
+
+### N12｜苹果和OpenAI为啥反目成仇
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%92%8COpenAI%E4%B8%BA%E5%95%A5%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87
 
 核对：AI HOT 2 条；TrendRadar 12 条。
