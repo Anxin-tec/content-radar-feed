@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-07
 
-数据生成时间：2026-09-07T06:52:58+08:00（北京时间）
+数据生成时间：2026-09-07T08:19:24+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,7 +11,16 @@ AI HOT：4 条；TrendRadar：10 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍
+### A1｜GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层
+
+GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-09-07T00:08:00Z
+
+原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621
+收录页：https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp
+
+### A2｜OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍
 
 OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。
 
@@ -20,7 +29,7 @@ OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可�
 原文：https://x.com/rohanpaul_ai/status/2096665545190043737
 收录页：https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4
 
-### A2｜OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱
+### A3｜OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱
 
 OpenAI 发布长文《An Alien Mind》，回溯 2023 年 RLSlow 项目中确认推理模型可扩展训练的起点，并系统阐述目标对齐与价值对齐的区分。文章指出链式思维监控的效果正随着模型能力提升而逐步减弱，GPT-6 Astra 在对齐上显著优于 GPT-5.6 Sol；作者预期进展可能持续走向机器递归自我改进（RSI），呼吁自愿放缓扩展、建立第三方安全门槛并加强国际协调。
 
@@ -29,7 +38,7 @@ OpenAI 发布长文《An Alien Mind》，回溯 2023 年 RLSlow 项目中确认�
 原文：https://openai.com/index/an-alien-mind
 收录页：https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1
 
-### A3｜OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员
+### A4｜OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员
 
 OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。
 
@@ -38,7 +47,7 @@ OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的�
 原文：https://openai.com/index/research-acceleration-view-inside-openai
 收录页：https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v
 
-### A4｜Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化
+### A5｜Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化
 
 据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。
 
@@ -79,34 +88,34 @@ OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的�
 
 链接：https://www.cls.cn/detail/2475084
 
-### N6｜用AI拼豆的方式打开旅行
-
-平台：抖音；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.douyin.com/hot/2637258
-
-### N7｜谁拿走了国产算力的利润？
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3781171
-
-### N8｜如何评价 N-S 方程疑似被 AI 解决？
+### N6｜如何评价 N-S 方程疑似被 AI 解决？
 
 平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2079574865397532387
 
-### N9｜网络安全崛起：AI隐患叙事下，网安何以成为软件板块最强反转？
+### N7｜用AI拼豆的方式打开旅行
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
+平台：抖音；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.douyin.com/hot/2637258
+
+### N8｜网络安全崛起：AI隐患叙事下，网安何以成为软件板块最强反转？
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/premium/articles/3780982?layout=wscn-layout
 
+### N9｜谁拿走了国产算力的利润？
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3781171
+
 ### N10｜中国需要多久达到或超过 GPT-6 Astra 级别的模型水平？
 
-平台：知乎；榜单排名：16；实际出现快照数：3。
+平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2079675087209419385
 
-核对：AI HOT 4 条；TrendRadar 10 条。
+核对：AI HOT 5 条；TrendRadar 10 条。
