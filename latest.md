@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-09
 
-数据生成时间：2026-09-09T03:35:04+08:00（北京时间）
+数据生成时间：2026-09-09T04:13:21+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：13 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：13 条；TrendRadar：13 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -121,84 +121,93 @@ Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940
 收录页：https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt
 
+### A13｜Tom Tunguz 分析 OpenAI 的 3x AI 生产力增益是否只是机器不睡觉
+
+Tom Tunguz 引用 OpenAI 内部数据，分析其 3x 研究生产力增益的来源：每名研究员 8 小时班次对应 3.14 个 agent 工作日，通常并行运行 4 个 agent。
+
+来源：Tomer Tunguz 博客（VC 分析）；发布时间：2026-09-08T00:00:00Z
+
+原文：https://tomtunguz.com/openai-research-acceleration-agentic-productivity
+收录页：https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc
+
 ## TrendRadar 完整 AI 热点
 
 ### N1｜如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？
 
-平台：知乎；榜单排名：1；实际出现快照数：1。
+平台：知乎；榜单排名：1；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2080654680389051865
 
 ### N2｜OpenAI或证明数学七大难题之一
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
 
 ### N3｜AI推理芯片+1.6T光连接 高通官宣打入全球云计算“一哥”生态链
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2477472
 
-### N4｜英伟达将推出GB203版本5070
+### N4｜怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%86%E6%8E%A8%E5%87%BAGB203%E7%89%88%E6%9C%AC5070
-
-### N5｜AI吃播
-
-平台：微博；榜单排名：4；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=AI%E5%90%83%E6%92%AD
-
-### N6｜怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？
-
-平台：知乎；榜单排名：4；实际出现快照数：1。
+平台：知乎；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2080681933982393659
 
-### N7｜【焦点复盘】三大指数收盘涨跌互现，超强厄尔尼诺引爆糖业股，算力硬件端集体熄火
+### N5｜英伟达将推出GB203版本5070
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%86%E6%8E%A8%E5%87%BAGB203%E7%89%88%E6%9C%AC5070
+
+### N6｜【焦点复盘】三大指数收盘涨跌互现，超强厄尔尼诺引爆糖业股，算力硬件端集体熄火
+
+平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2477163
 
-### N8｜刚刚，DeepSeek新模型内测！网友实测：快得飞起！
+### N7｜刚刚，DeepSeek新模型内测！网友实测：快得飞起！
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781316
 
+### N8｜AI吃播
+
+平台：微博；榜单排名：8；实际出现快照数：2。
+
+链接：https://s.weibo.com/weibo?q=AI%E5%90%83%E6%92%AD
+
 ### N9｜别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781311
 
-### N10｜DeepSeek V4.1 Flash开启内测
+### N10｜辣椒炒肉不要辣？炒菜机器人“懵了”
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
-
-### N11｜辣椒炒肉不要辣？炒菜机器人“懵了”
-
-平台：百度热搜；榜单排名：15；实际出现快照数：1。
+平台：百度热搜；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E4%B8%8D%E8%A6%81%E8%BE%A3%EF%BC%9F%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%87%B5%E4%BA%86%E2%80%9D
 
-### N12｜一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？
+### N11｜一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34028430
 
-### N13｜DeepSeek新模型限时内测 烧钱更快了
+### N12｜DeepSeek新模型限时内测 烧钱更快了
 
-平台：百度热搜；榜单排名：20；实际出现快照数：1。
+平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86
 
-核对：AI HOT 12 条；TrendRadar 13 条。
+### N13｜DeepSeek V4.1 Flash开启内测
+
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
+
+核对：AI HOT 13 条；TrendRadar 13 条。
