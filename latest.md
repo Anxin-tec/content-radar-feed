@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-09
 
-数据生成时间：2026-09-09T08:32:14+08:00（北京时间）
+数据生成时间：2026-09-09T09:13:05+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：20 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -175,83 +175,83 @@ Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元
 
 链接：https://www.cls.cn/detail/2477472
 
-### N4｜美股收盘：三大指数集体收跌 算力租赁&光通信逆市走强
+### N4｜AI冲击短剧,寒冬变坟墓
+
+平台：贴吧；榜单排名：2；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%2C%E5%AF%92%E5%86%AC%E5%8F%98%E5%9D%9F%E5%A2%93&topic_id=28363229
+
+### N5｜都说 GPT-6-Astra 强，有没有实际点的应用案例？
+
+平台：知乎；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2080482298223399865
+
+### N6｜美股收盘：三大指数集体收跌 算力租赁&光通信逆市走强
 
 平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2477628
 
-### N5｜刚刚，DeepSeek新模型内测！网友实测：快得飞起！
+### N7｜刚刚，DeepSeek新模型内测！网友实测：快得飞起！
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781316
 
-### N6｜都说 GPT-6-Astra 强，有没有实际点的应用案例？
+### N8｜【焦点复盘】三大指数收盘涨跌互现，超强厄尔尼诺引爆糖业股，算力硬件端集体熄火
 
-平台：知乎；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2080482298223399865
+链接：https://www.cls.cn/detail/2477163
 
-### N7｜怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？
+### N9｜怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？
 
 平台：知乎；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2080799652820029727
 
-### N8｜英伟达将推出GB203版本5070
+### N10｜别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%86%E6%8E%A8%E5%87%BAGB203%E7%89%88%E6%9C%AC5070
-
-### N9｜别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781311
 
-### N10｜【焦点复盘】三大指数收盘涨跌互现，超强厄尔尼诺引爆糖业股，算力硬件端集体熄火
+### N11｜英伟达将推出GB203版本5070
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2477163
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%86%E6%8E%A8%E5%87%BAGB203%E7%89%88%E6%9C%AC5070
 
-### N11｜OpenAI或证明数学七大难题之一
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
-
-### N12｜创业板、科创50均跌超1%，农业股爆发，宁德时代AH股齐跌，港股AI大模型双雄齐跌、智谱跌10%
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3781282
-
-### N13｜DeepSeek V4.1 Flash开启内测
+### N12｜DeepSeek V4.1 Flash开启内测
 
 平台：bilibili 热搜；榜单排名：11；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
 
-### N14｜一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？
+### N13｜一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34028430
 
-### N15｜怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？
+### N14｜怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？
 
-平台：知乎；榜单排名：14；实际出现快照数：3。
+平台：知乎；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2080681933982393659
 
-### N16｜辣椒炒肉不要辣？炒菜机器人“懵了”
+### N15｜辣椒炒肉不要辣？炒菜机器人“懵了”
 
 平台：百度热搜；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E4%B8%8D%E8%A6%81%E8%BE%A3%EF%BC%9F%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%87%B5%E4%BA%86%E2%80%9D
+
+### N16｜OpenAI或证明数学七大难题之一
+
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80
 
 ### N17｜如何评价 AA 推出 V4.2 评分标准，GPT-6 分数超过 Muse Spark 1.3？
 
@@ -265,16 +265,22 @@ Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元
 
 链接：https://s.weibo.com/weibo?q=AI%E5%90%83%E6%92%AD
 
-### N19｜DeepSeek新模型限时内测 烧钱更快了
+### N19｜DeepSeek官宣：调整flash系列定价
+
+平台：百度热搜；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%EF%BC%9A%E8%B0%83%E6%95%B4flash%E7%B3%BB%E5%88%97%E5%AE%9A%E4%BB%B7
+
+### N20｜DeepSeek新模型限时内测 烧钱更快了
 
 平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86
 
-### N20｜AI动画 聊斋志异之李伯言
+### N21｜AI动画 聊斋志异之李伯言
 
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB+%E8%81%8A%E6%96%8B%E5%BF%97%E5%BC%82%E4%B9%8B%E6%9D%8E%E4%BC%AF%E8%A8%80
 
-核对：AI HOT 16 条；TrendRadar 20 条。
+核对：AI HOT 16 条；TrendRadar 21 条。
