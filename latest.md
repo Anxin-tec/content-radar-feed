@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-10
 
-数据生成时间：2026-09-10T05:56:30+08:00（北京时间）
+数据生成时间：2026-09-10T06:25:15+08:00（北京时间）
 
-AI HOT：22 条；TrendRadar：19 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：23 条；TrendRadar：20 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -103,7 +101,16 @@ Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative
 原文：https://www.anthropic.com/institute/econ-scenarios
 收录页：https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo
 
-### A11｜OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问
+### A11｜OpenAI 发布 GPT-6 Astra，面向专业工作场景
+
+OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-09-09T11:00:00Z
+
+原文：https://openai.com/index/gpt-6-astra-next-generation-work
+收录页：https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h
+
+### A12｜OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问
 
 数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。
 
@@ -112,7 +119,7 @@ Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative
 原文：https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs
 收录页：https://aihot.news/items/cmttzipvw0sqlrofp63a8px22
 
-### A12｜纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明
+### A13｜纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明
 
 纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。
 
@@ -121,7 +128,7 @@ Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative
 原文：https://www.ithome.com/1/000/353.htm
 收录页：https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g
 
-### A13｜NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识
+### A14｜NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识
 
 NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。
 
@@ -130,7 +137,7 @@ NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴�
 原文：https://x.com/thexpin/status/2097615997616406833
 收录页：https://aihot.news/items/cmttwa2j30pktrofpw67b9pby
 
-### A14｜Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明
+### A15｜Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明
 
 Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。
 
@@ -139,7 +146,7 @@ Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 
 原文：https://x.com/Thom_Wolf/status/2097615465698713666
 收录页：https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb
 
-### A15｜美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型
+### A16｜美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型
 
 NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。
 
@@ -148,7 +155,7 @@ NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面
 原文：https://x.com/rohanpaul_ai/status/2097605329123147987
 收录页：https://aihot.news/items/cmttulwa90npwrofpsde4lc0k
 
-### A16｜《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI
+### A17｜《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI
 
 《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。
 
@@ -157,7 +164,7 @@ NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面
 原文：https://www.ithome.com/1/000/277.htm
 收录页：https://aihot.news/items/cmttva2tg0oezrofpagfj7986
 
-### A17｜Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议
+### A18｜Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议
 
 Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。
 
@@ -166,7 +173,7 @@ Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-�
 原文：https://simonwillison.net/2026/Sep/8/on-navier-stokes
 收录页：https://aihot.news/items/cmtts0bi50l1frofpe39el7a1
 
-### A18｜曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请
+### A19｜曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请
 
 路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。
 
@@ -175,7 +182,7 @@ Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-�
 原文：https://www.ithome.com/1/000/188.htm
 收录页：https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg
 
-### A19｜OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异
+### A20｜OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异
 
 OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。
 
@@ -184,7 +191,7 @@ OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一�
 原文：https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98
 收录页：https://aihot.news/items/cmttklkuj0chfrofpzacvz20x
 
-### A20｜GPT-6 Astra推理等级怎么选才最省Token
+### A21｜GPT-6 Astra推理等级怎么选才最省Token
 
 卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。
 
@@ -193,7 +200,7 @@ OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一�
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b
 收录页：https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
 
-### A21｜OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留
+### A22｜OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留
 
 OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，eu.openrouter.ai 同理服务欧盟。
 
@@ -202,7 +209,7 @@ OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境
 原文：https://openrouter.ai/blog/announcements/us-in-region-routing
 收录页：https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh
 
-### A22｜Meta 智能体产品 Muse 开放体验，官方回应用户好评
+### A23｜Meta 智能体产品 Muse 开放体验，官方回应用户好评
 
 Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。
 
@@ -215,116 +222,122 @@ Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.a
 
 ### N1｜DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO
 
-平台：财联社热门；榜单排名：1；实际出现快照数：2。
+平台：财联社热门；榜单排名：1；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2478606
 
-### N2｜胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨
+### N2｜曝DeepSeek正筹备科创板IPO
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
+平台：今日头条；榜单排名：2；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7682375308184387610/
+
+### N3｜胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨
+
+平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781291
 
-### N3｜如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？
+### N4｜如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？
 
 平台：知乎；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2081037199122895830
 
-### N4｜美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应
+### N5｜美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应
 
-平台：财联社热门；榜单排名：3；实际出现快照数：2。
+平台：财联社热门；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2478630
 
-### N5｜OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？
+### N6｜OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？
 
-平台：知乎；榜单排名：3；实际出现快照数：2。
+平台：知乎；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2080253796941415480
 
-### N6｜美国指责中国AI公司蒸馏美企，外交部回应
+### N7｜美国指责中国AI公司蒸馏美企，外交部回应
 
-平台：凤凰网；榜单排名：4；实际出现快照数：2。
+平台：凤凰网；榜单排名：4；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8wHQAosMatP
 
-### N7｜曝DeepSeek正筹备科创板IPO
+### N8｜中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%
 
-平台：今日头条；榜单排名：5；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7682375308184387610/
-
-### N8｜宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？
-
-平台：知乎；榜单排名：5；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2080385733144076759
-
-### N9｜中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781380
 
-### N10｜应聘银行竟遭遇AI面试官！多家银行今年启用AI筛选校招人才，业内对此争议不一
+### N9｜应聘银行竟遭遇AI面试官！多家银行今年启用AI筛选校招人才，业内对此争议不一
 
-平台：财联社热门；榜单排名：8；实际出现快照数：2。
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2478492
 
-### N11｜美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果
+### N10｜GPT-6 Astra真正的意义：将“AI叙事”从“需求争论”拉回“物理瓶颈”
 
-平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34037416
-
-### N12｜GPT-6 Astra真正的意义：将“AI叙事”从“需求争论”拉回“物理瓶颈”
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781381
 
-### N13｜OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停
+### N11｜美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果
+
+平台：澎湃新闻；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34037416
+
+### N12｜OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3781396
 
-### N14｜AI攻克数学难题,韦神尴尬了
+### N13｜宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？
 
-平台：贴吧；榜单排名：13；实际出现快照数：2。
+平台：知乎；榜单排名：10；实际出现快照数：3。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%94%BB%E5%85%8B%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%2C%E9%9F%A6%E7%A5%9E%E5%B0%B4%E5%B0%AC%E4%BA%86&topic_id=28363251
+链接：https://www.zhihu.com/question/2080385733144076759
 
-### N15｜AI已经摸不透曹骏了
+### N14｜AI已经摸不透曹骏了
 
-平台：抖音；榜单排名：17；实际出现快照数：2。
+平台：抖音；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2642153
 
+### N15｜AI攻克数学难题,韦神尴尬了
+
+平台：贴吧；榜单排名：13；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%94%BB%E5%85%8B%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%2C%E9%9F%A6%E7%A5%9E%E5%B0%B4%E5%B0%AC%E4%BA%86&topic_id=28363251
+
 ### N16｜AI冲击短剧,寒冬变坟墓
 
-平台：贴吧；榜单排名：18；实际出现快照数：2。
+平台：贴吧；榜单排名：18；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%2C%E5%AF%92%E5%86%AC%E5%8F%98%E5%9D%9F%E5%A2%93&topic_id=28363229
 
-### N17｜OpenAI官宣攻克千禧年难题
+### N17｜戚薇AI脸演丧尸片了
 
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：2。
+平台：百度热搜；榜单排名：20；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86
+
+### N18｜OpenAI官宣攻克千禧年难题
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98
 
-### N18｜逐帧解析AI攻克千禧难题争议
+### N19｜逐帧解析AI攻克千禧难题争议
 
 平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90AI%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E4%BA%89%E8%AE%AE
 
-### N19｜戚薇AI脸演丧尸片了
+### N20｜实测GPT-6 Astra
 
-平台：百度热搜；榜单排名：30；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86
+链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGPT-6+Astra
 
-核对：AI HOT 22 条；TrendRadar 19 条。
+核对：AI HOT 23 条；TrendRadar 20 条。
