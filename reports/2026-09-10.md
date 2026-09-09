@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-10
 
-数据生成时间：2026-09-10T04:00:42+08:00（北京时间）
+数据生成时间：2026-09-10T05:09:12+08:00（北京时间）
 
-AI HOT：23 条；TrendRadar：19 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：22 条；TrendRadar：19 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -211,80 +211,71 @@ Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.a
 原文：https://x.com/alexandr_wang/status/2097472059077202339
 收录页：https://aihot.news/items/cmttchnc104jvrofp05adlcv6
 
-### A23｜OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra
-
-OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。
-
-来源：X：OpenAI (@OpenAI)；发布时间：2026-09-08T21:06:10Z
-
-原文：https://x.com/OpenAI/status/2097431322117476423
-收录页：https://aihot.news/items/cmtt65r1002f0rocpzpypdjgt
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：1；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2478606
 
 ### N2｜胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781291
 
-### N3｜如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？
+### N3｜美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应
 
-平台：知乎；榜单排名：2；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2081037199122895830
-
-### N4｜美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应
-
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2478630
 
-### N5｜美国指责中国AI公司蒸馏美企，外交部回应
+### N4｜OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？
 
-平台：凤凰网；榜单排名：4；实际出现快照数：1。
-
-链接：https://news.ifeng.com/c/8wHQAosMatP
-
-### N6｜OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？
-
-平台：知乎；榜单排名：4；实际出现快照数：1。
+平台：知乎；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2080253796941415480
 
+### N5｜美国指责中国AI公司蒸馏美企，外交部回应
+
+平台：凤凰网；榜单排名：4；实际出现快照数：2。
+
+链接：https://news.ifeng.com/c/8wHQAosMatP
+
+### N6｜如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？
+
+平台：知乎；榜单排名：4；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2081037199122895830
+
 ### N7｜曝DeepSeek正筹备科创板IPO
 
-平台：今日头条；榜单排名：5；实际出现快照数：1。
+平台：今日头条；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7682375308184387610/
 
 ### N8｜中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781380
 
 ### N9｜应聘银行竟遭遇AI面试官！多家银行今年启用AI筛选校招人才，业内对此争议不一
 
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2478492
 
 ### N10｜美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果
 
-平台：澎湃新闻；榜单排名：9；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34037416
 
 ### N11｜GPT-6 Astra真正的意义：将“AI叙事”从“需求争论”拉回“物理瓶颈”
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781381
 
@@ -296,44 +287,44 @@ OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro�
 
 ### N13｜AI攻克数学难题,韦神尴尬了
 
-平台：贴吧；榜单排名：13；实际出现快照数：1。
+平台：贴吧；榜单排名：13；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%94%BB%E5%85%8B%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%2C%E9%9F%A6%E7%A5%9E%E5%B0%B4%E5%B0%AC%E4%BA%86&topic_id=28363251
 
-### N14｜宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？
+### N14｜AI已经摸不透曹骏了
 
-平台：知乎；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2080385733144076759
-
-### N15｜AI冲击短剧,寒冬变坟墓
-
-平台：贴吧；榜单排名：18；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%2C%E5%AF%92%E5%86%AC%E5%8F%98%E5%9D%9F%E5%A2%93&topic_id=28363229
-
-### N16｜AI已经摸不透曹骏了
-
-平台：抖音；榜单排名：21；实际出现快照数：1。
+平台：抖音；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2642153
 
-### N17｜戚薇AI脸演丧尸片了
+### N15｜戚薇AI脸演丧尸片了
 
-平台：百度热搜；榜单排名：23；实际出现快照数：1。
+平台：百度热搜；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86
 
+### N16｜AI冲击短剧,寒冬变坟墓
+
+平台：贴吧；榜单排名：18；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%2C%E5%AF%92%E5%86%AC%E5%8F%98%E5%9D%9F%E5%A2%93&topic_id=28363229
+
+### N17｜宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？
+
+平台：知乎；榜单排名：18；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2080385733144076759
+
 ### N18｜OpenAI官宣攻克千禧年难题
 
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98
 
 ### N19｜逐帧解析AI攻克千禧难题争议
 
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90AI%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E4%BA%89%E8%AE%AE
 
-核对：AI HOT 23 条；TrendRadar 19 条。
+核对：AI HOT 22 条；TrendRadar 19 条。
