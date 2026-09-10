@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-11
 
-数据生成时间：2026-09-11T05:49:47+08:00（北京时间）
+数据生成时间：2026-09-11T06:24:09+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：10 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：19 条；TrendRadar：12 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -188,25 +186,25 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 ### N1｜学妹干不过AI,翻译专业太严峻
 
-平台：贴吧；榜单排名：2；实际出现快照数：2。
+平台：贴吧；榜单排名：2；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AD%A6%E5%A6%B9%E5%B9%B2%E4%B8%8D%E8%BF%87AI%2C%E7%BF%BB%E8%AF%91%E4%B8%93%E4%B8%9A%E5%A4%AA%E4%B8%A5%E5%B3%BB&topic_id=28363454
 
 ### N2｜数学已经被 AI 彻底革命了么？
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2081004982103270003
 
-### N3｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
+### N3｜人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济
 
-平台：知乎；榜单排名：4；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2076970531870466744
+链接：https://www.thepaper.cn/newsDetail_forward_34045224
 
 ### N4｜国家级算力盛会来了！2026中国算力大会明日启幕
 
-平台：财联社热门；榜单排名：7；实际出现快照数：2。
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2479849
 
@@ -216,34 +214,46 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 链接：https://search.bilibili.com/all?keyword=AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9B%AE%E6%A0%87%E4%BC%9A%E6%98%AFHodge%E7%8C%9C%E6%83%B3%E4%B9%88
 
-### N6｜经纬度：从外滩大会，看“AI新经济”走进生活
+### N6｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
 
-平台：澎湃新闻；榜单排名：10；实际出现快照数：2。
+平台：知乎；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2076970531870466744
+
+### N7｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
+
+平台：知乎；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2080336745191817631
+
+### N8｜经纬度：从外滩大会，看“AI新经济”走进生活
+
+平台：澎湃新闻；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34043592
 
-### N7｜如何评价正式发布的 DeepSeek V4.1 Flash？
+### N9｜如何评价正式发布的 DeepSeek V4.1 Flash？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2081380378493961583
 
-### N8｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
+### N10｜iPhone Duo能否卖得动？机构预测：今年出货500万支 看好AI推升折叠手机需求
 
-平台：知乎；榜单排名：12；实际出现快照数：2。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2080336745191817631
+链接：https://www.cls.cn/detail/2479724
 
-### N9｜DeepSeek正式发布新模型 定价下调
+### N11｜DeepSeek正式发布新模型 定价下调
 
-平台：百度热搜；榜单排名：25；实际出现快照数：2。
+平台：百度热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B+%E5%AE%9A%E4%BB%B7%E4%B8%8B%E8%B0%83
 
-### N10｜DeepSeek V4.1 Flash发布
+### N12｜DeepSeek V4.1 Flash发布
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
 
-核对：AI HOT 19 条；TrendRadar 10 条。
+核对：AI HOT 19 条；TrendRadar 12 条。
