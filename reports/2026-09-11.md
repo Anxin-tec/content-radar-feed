@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-11
 
-数据生成时间：2026-09-11T06:24:09+08:00（北京时间）
+数据生成时间：2026-09-11T07:06:52+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：12 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：14 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -92,7 +92,16 @@ DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face
 原文：https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents
 收录页：https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb
 
-### A10｜Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录
+### A10｜Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务
+
+Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。
+
+来源：Cursor Blog；发布时间：2026-09-10T12:00:00Z
+
+原文：https://cursor.com/blog/projects
+收录页：https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil
+
+### A11｜Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录
 
 Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。
 
@@ -101,7 +110,7 @@ Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 
 原文：https://cognition.com/blog/factoring-rsa-260
 收录页：https://aihot.news/items/cmtveyrm2000mronbnrnl0gez
 
-### A11｜DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价
+### A12｜DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价
 
 DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。
 
@@ -110,7 +119,7 @@ DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原
 原文：https://x.com/kimmonismus/status/2097970735591366804
 收录页：https://aihot.news/items/cmtvb4b5s085erok9gose1mcf
 
-### A12｜DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解
+### A13｜DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解
 
 DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。
 
@@ -119,7 +128,7 @@ DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原
 原文：https://x.com/kimmonismus/status/2097962333767102665
 收录页：https://aihot.news/items/cmtva1qh206burok9zip2wdid
 
-### A13｜DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用
+### A14｜DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用
 
 DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。
 
@@ -128,7 +137,7 @@ DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B
 原文：https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse
 收录页：https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv
 
-### A14｜DeepSeek 发布 V4.1-Flash，API 价格同步下调
+### A15｜DeepSeek 发布 V4.1-Flash，API 价格同步下调
 
 DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。
 
@@ -137,7 +146,7 @@ DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸
 原文：https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10
 收录页：https://aihot.news/items/cmtv48yni0oq5rorpf4o74549
 
-### A15｜Suno v6 发布，支持图片、视频和语音备忘录生成音乐
+### A16｜Suno v6 发布，支持图片、视频和语音备忘录生成音乐
 
 Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。
 
@@ -146,7 +155,7 @@ Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐�
 原文：https://x.com/suno/status/2097846245540888664
 收录页：https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
 
-### A16｜27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局
+### A17｜27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局
 
 27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。
 
@@ -155,7 +164,7 @@ Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐�
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb
 收录页：https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
 
-### A17｜OpenAI 发布 Agents API 公测版
+### A18｜OpenAI 发布 Agents API 公测版
 
 OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。
 
@@ -164,7 +173,7 @@ OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础
 原文：https://openai.com/index/introducing-the-agents-api
 收录页：https://aihot.news/items/cmtvywm6902omrojit3fo7bjv
 
-### A18｜OpenAI 在 API 中推出全双工语音模型 GPT-Live-1
+### A19｜OpenAI 在 API 中推出全双工语音模型 GPT-Live-1
 
 OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。
 
@@ -173,7 +182,7 @@ OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将
 原文：https://openai.com/index/introducing-gpt-live-1-in-the-api
 收录页：https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa
 
-### A19｜Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能
+### A20｜Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能
 
 Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。
 
@@ -208,17 +217,17 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 链接：https://www.cls.cn/detail/2479849
 
-### N5｜AI下一个目标会是Hodge猜想么
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9B%AE%E6%A0%87%E4%BC%9A%E6%98%AFHodge%E7%8C%9C%E6%83%B3%E4%B9%88
-
-### N6｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
+### N5｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
 
 平台：知乎；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2076970531870466744
+
+### N6｜AI下一个目标会是Hodge猜想么
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9B%AE%E6%A0%87%E4%BC%9A%E6%98%AFHodge%E7%8C%9C%E6%83%B3%E4%B9%88
 
 ### N7｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
 
@@ -244,16 +253,28 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 链接：https://www.cls.cn/detail/2479724
 
-### N11｜DeepSeek正式发布新模型 定价下调
+### N11｜订阅了 Kimi 的 199 套餐，编程是用 Kimi code 好还是 claude code 好呢？
+
+平台：知乎；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2042306734392431967
+
+### N12｜DeepSeek正式发布新模型 定价下调
 
 平台：百度热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B+%E5%AE%9A%E4%BB%B7%E4%B8%8B%E8%B0%83
 
-### N12｜DeepSeek V4.1 Flash发布
+### N13｜DeepSeek V4.1 Flash发布
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
 
-核对：AI HOT 19 条；TrendRadar 12 条。
+### N14｜机器人即将挑战登泰山
+
+平台：百度热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B3%E5%B0%86%E6%8C%91%E6%88%98%E7%99%BB%E6%B3%B0%E5%B1%B1
+
+核对：AI HOT 20 条；TrendRadar 14 条。
