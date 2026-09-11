@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-12
 
-数据生成时间：2026-09-12T05:14:53+08:00（北京时间）
+数据生成时间：2026-09-12T05:53:47+08:00（北京时间）
 
 AI HOT：6 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -111,17 +111,17 @@ Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communac
 
 链接：https://www.cls.cn/detail/2480740
 
-### N8｜民警提示用“三秒沉默法”防AI诈骗
+### N8｜ChatGPT Pro 200美元档停售
+
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=ChatGPT+Pro+200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE
+
+### N9｜民警提示用“三秒沉默法”防AI诈骗
 
 平台：今日头条；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7684197776951902246/
-
-### N9｜ChatGPT Pro 200美元档停售
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=ChatGPT+Pro+200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE
 
 ### N10｜学妹干不过AI,翻译专业太严峻
 
@@ -131,20 +131,20 @@ Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communac
 
 ### N11｜强烈建议大家日常一定要把AI用起来
 
-平台：微博；榜单排名：21；实际出现快照数：2。
+平台：微博；榜单排名：22；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%97%A5%E5%B8%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8AAI%E7%94%A8%E8%B5%B7%E6%9D%A5
 
-### N12｜OpenAI或再推进数学七大难题
+### N12｜AI大佬集体松口：AGI可能已经实现了
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98
-
-### N13｜AI大佬集体松口：AGI可能已经实现了
-
-平台：今日头条；榜单排名：28；实际出现快照数：2。
+平台：今日头条；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7684231135148117510/
+
+### N13｜OpenAI或再推进数学七大难题
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98
 
 核对：AI HOT 6 条；TrendRadar 13 条。
