@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-12
 
-数据生成时间：2026-09-12T06:24:17+08:00（北京时间）
+数据生成时间：2026-09-12T07:12:51+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：15 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -73,76 +73,88 @@ Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communac
 
 链接：https://www.cls.cn/detail/2481115
 
-### N2｜特朗普驳斥AI末日论：我只担心发展的不够快
+### N2｜研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3781534
+
+### N3｜特朗普驳斥AI末日论：我只担心发展的不够快
 
 平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2481122
 
-### N3｜研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成
+### N4｜需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3781534
-
-### N4｜【每日收评】三大指数午后探底回升缩窄跌幅，全市场超4800股收绿，算力硬件方向震荡回暖
-
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2480866
-
-### N5｜需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781543
 
-### N6｜Anthropic推演AI到2030年三种经济情景：最激进情形年增速达15%
+### N5｜【每日收评】三大指数午后探底回升缩窄跌幅，全市场超4800股收绿，算力硬件方向震荡回暖
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2480866
+
+### N6｜撤退信号？“大空头”平仓英伟达和Palantir看跌期权
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3781568
+
+### N7｜Anthropic推演AI到2030年三种经济情景：最激进情形年增速达15%
+
+平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2480740
 
-### N7｜ChatGPT Pro 200美元档停售
+### N8｜ChatGPT Pro 200美元档停售
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=ChatGPT+Pro+200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE
 
-### N8｜央媒聚焦AI客服转人工难：降本增效不能算偏“服务账”，国标落地立规明界
+### N9｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2481278
+
+### N10｜央媒聚焦AI客服转人工难：降本增效不能算偏“服务账”，国标落地立规明界
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34048749
 
-### N9｜民警提示用“三秒沉默法”防AI诈骗
+### N11｜民警提示用“三秒沉默法”防AI诈骗
 
-平台：今日头条；榜单排名：13；实际出现快照数：3。
+平台：今日头条；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7684197776951902246/
 
-### N10｜学妹干不过AI,翻译专业太严峻
+### N12｜学妹干不过AI,翻译专业太严峻
 
 平台：贴吧；榜单排名：20；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AD%A6%E5%A6%B9%E5%B9%B2%E4%B8%8D%E8%BF%87AI%2C%E7%BF%BB%E8%AF%91%E4%B8%93%E4%B8%9A%E5%A4%AA%E4%B8%A5%E5%B3%BB&topic_id=28363454
 
-### N11｜OpenAI或再推进数学七大难题
-
-平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98
-
-### N12｜强烈建议大家日常一定要把AI用起来
+### N13｜强烈建议大家日常一定要把AI用起来
 
 平台：微博；榜单排名：21；实际出现快照数：3。
 
 链接：https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%97%A5%E5%B8%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8AAI%E7%94%A8%E8%B5%B7%E6%9D%A5
 
-### N13｜AI大佬集体松口：AGI可能已经实现了
+### N14｜OpenAI或再推进数学七大难题
+
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98
+
+### N15｜AI大佬集体松口：AGI可能已经实现了
 
 平台：今日头条；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7684231135148117510/
 
-核对：AI HOT 6 条；TrendRadar 13 条。
+核对：AI HOT 6 条；TrendRadar 15 条。
