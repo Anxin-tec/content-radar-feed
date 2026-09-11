@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-11
 
-数据生成时间：2026-09-11T07:06:52+08:00（北京时间）
+数据生成时间：2026-09-11T08:31:22+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -155,42 +155,6 @@ Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐�
 原文：https://x.com/suno/status/2097846245540888664
 收录页：https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
 
-### A17｜27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局
-
-27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-09-10T00:08:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb
-收录页：https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
-
-### A18｜OpenAI 发布 Agents API 公测版
-
-OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-09-10T00:00:00Z
-
-原文：https://openai.com/index/introducing-the-agents-api
-收录页：https://aihot.news/items/cmtvywm6902omrojit3fo7bjv
-
-### A19｜OpenAI 在 API 中推出全双工语音模型 GPT-Live-1
-
-OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-09-10T00:00:00Z
-
-原文：https://openai.com/index/introducing-gpt-live-1-in-the-api
-收录页：https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa
-
-### A20｜Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能
-
-Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。
-
-来源：Hugging Face：Blog（RSS）；发布时间：2026-09-10T00:00:00Z
-
-原文：https://huggingface.co/blog/gradio-workflow-1111
-收录页：https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜学妹干不过AI,翻译专业太严峻
@@ -201,43 +165,43 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 ### N2｜数学已经被 AI 彻底革命了么？
 
-平台：知乎；榜单排名：2；实际出现快照数：3。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2081004982103270003
 
 ### N3｜人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济
 
-平台：澎湃新闻；榜单排名：4；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34045224
 
-### N4｜国家级算力盛会来了！2026中国算力大会明日启幕
+### N4｜黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求
 
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2479849
+链接：https://www.cls.cn/detail/2480105
 
-### N5｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
+### N5｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
 
-平台：知乎；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2076970531870466744
-
-### N6｜AI下一个目标会是Hodge猜想么
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9B%AE%E6%A0%87%E4%BC%9A%E6%98%AFHodge%E7%8C%9C%E6%83%B3%E4%B9%88
-
-### N7｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
-
-平台：知乎；榜单排名：10；实际出现快照数：3。
+平台：知乎；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2080336745191817631
 
+### N6｜AI下一个目标会是Hodge猜想么
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9B%AE%E6%A0%87%E4%BC%9A%E6%98%AFHodge%E7%8C%9C%E6%83%B3%E4%B9%88
+
+### N7｜国家级算力盛会来了！2026中国算力大会明日启幕
+
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2479849
+
 ### N8｜经纬度：从外滩大会，看“AI新经济”走进生活
 
-平台：澎湃新闻；榜单排名：11；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34043592
 
@@ -247,21 +211,21 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 链接：https://www.zhihu.com/question/2081380378493961583
 
-### N10｜iPhone Duo能否卖得动？机构预测：今年出货500万支 看好AI推升折叠手机需求
+### N10｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：11；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2479724
+链接：https://www.zhihu.com/question/2076970531870466744
 
-### N11｜订阅了 Kimi 的 199 套餐，编程是用 Kimi code 好还是 claude code 好呢？
+### N11｜从“越界”到“失控”：Anthropic研究员辞职信发出超级AI末日警告
 
-平台：知乎；榜单排名：18；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2042306734392431967
+链接：https://www.thepaper.cn/newsDetail_forward_34045169
 
 ### N12｜DeepSeek正式发布新模型 定价下调
 
-平台：百度热搜；榜单排名：25；实际出现快照数：3。
+平台：百度热搜；榜单排名：25；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B+%E5%AE%9A%E4%BB%B7%E4%B8%8B%E8%B0%83
 
@@ -271,10 +235,4 @@ Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒�
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
 
-### N14｜机器人即将挑战登泰山
-
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B3%E5%B0%86%E6%8C%91%E6%88%98%E7%99%BB%E6%B3%B0%E5%B1%B1
-
-核对：AI HOT 20 条；TrendRadar 14 条。
+核对：AI HOT 16 条；TrendRadar 13 条。
