@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-11
 
-数据生成时间：2026-09-11T08:31:22+08:00（北京时间）
+数据生成时间：2026-09-11T09:00:16+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -146,15 +146,6 @@ DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸
 原文：https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10
 收录页：https://aihot.news/items/cmtv48yni0oq5rorpf4o74549
 
-### A16｜Suno v6 发布，支持图片、视频和语音备忘录生成音乐
-
-Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。
-
-来源：X：Suno (@suno)；发布时间：2026-09-10T00:34:55Z
-
-原文：https://x.com/suno/status/2097846245540888664
-收录页：https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜学妹干不过AI,翻译专业太严峻
@@ -169,23 +160,23 @@ Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐�
 
 链接：https://www.zhihu.com/question/2081004982103270003
 
-### N3｜人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济
+### N3｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
+
+平台：知乎；榜单排名：4；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2076970531870466744
+
+### N4｜人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济
 
 平台：澎湃新闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34045224
 
-### N4｜黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求
+### N5｜黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2480105
-
-### N5｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
-
-平台：知乎；榜单排名：7；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2080336745191817631
 
 ### N6｜AI下一个目标会是Hodge猜想么
 
@@ -211,17 +202,17 @@ Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐�
 
 链接：https://www.zhihu.com/question/2081380378493961583
 
-### N10｜既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？
-
-平台：知乎；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2076970531870466744
-
-### N11｜从“越界”到“失控”：Anthropic研究员辞职信发出超级AI末日警告
+### N10｜从“越界”到“失控”：Anthropic研究员辞职信发出超级AI末日警告
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34045169
+
+### N11｜怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？
+
+平台：知乎；榜单排名：19；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2080336745191817631
 
 ### N12｜DeepSeek正式发布新模型 定价下调
 
@@ -235,4 +226,4 @@ Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐�
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+V4.1+Flash
 
-核对：AI HOT 16 条；TrendRadar 13 条。
+核对：AI HOT 15 条；TrendRadar 13 条。
