@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-13
 
-数据生成时间：2026-09-13T02:44:15+08:00（北京时间）
+数据生成时间：2026-09-13T03:38:17+08:00（北京时间）
 
 AI HOT：7 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
@@ -102,11 +102,11 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 链接：https://wallstreetcn.com/articles/3781600
 
-### N5｜AI短剧 成瘾
+### N5｜GPT-6系列新模型或将发布
 
-平台：微博；榜单排名：4；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
+链接：https://search.bilibili.com/all?keyword=GPT-6%E7%B3%BB%E5%88%97%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83
 
 ### N6｜AI抢饭碗,数学家急眼
 
@@ -114,33 +114,33 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC&topic_id=28363786
 
-### N7｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+### N7｜AI短剧 成瘾
 
-平台：知乎；榜单排名：8；实际出现快照数：1。
+平台：微博；榜单排名：5；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
+
+### N8｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+
+平台：知乎；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2082041103209820593
 
-### N8｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
+### N9｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2481462
 
-### N9｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
+### N10｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2481278
 
-### N10｜GPT-6系列新模型或将发布
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=GPT-6%E7%B3%BB%E5%88%97%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83
-
 ### N11｜AI短剧报价大跌 创意反而更贵了
 
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
+平台：百度热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E6%8A%A5%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%88%9B%E6%84%8F%E5%8F%8D%E8%80%8C%E6%9B%B4%E8%B4%B5%E4%BA%86
 
