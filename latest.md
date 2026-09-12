@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-13
 
-数据生成时间：2026-09-13T05:36:49+08:00（北京时间）
+数据生成时间：2026-09-13T06:09:47+08:00（北京时间）
 
-AI HOT：9 条；TrendRadar：11 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：8 条；TrendRadar：11 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -85,68 +83,59 @@ Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量�
 原文：https://www.ithome.com/1/001/488.htm
 收录页：https://aihot.news/items/cmtxmd06905q5roi3ds616hwo
 
-### A9｜DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销
-
-DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。
-
-来源：Baseten 工程博客（网页）；发布时间：2026-09-11T22:01:37Z
-
-原文：https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents
-收录页：https://aihot.news/items/cmtym24xb0002rob419mlyhlb
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施
 
-平台：财联社热门；榜单排名：1；实际出现快照数：2。
+平台：财联社热门；榜单排名：1；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2481328
 
 ### N2｜AI短剧 成瘾
 
-平台：微博；榜单排名：2；实际出现快照数：2。
+平台：微博；榜单排名：2；实际出现快照数：3。
 
 链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
 
 ### N3｜实测四种AI Flash
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
 
 ### N4｜“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781600
 
-### N5｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
+### N5｜AI抢饭碗,数学家急眼
 
-平台：知乎；榜单排名：4；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2082035913132193247
-
-### N6｜AI抢饭碗,数学家急眼
-
-平台：贴吧；榜单排名：5；实际出现快照数：2。
+平台：贴吧；榜单排名：5；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC&topic_id=28363786
 
-### N7｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+### N6｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
 
-平台：知乎；榜单排名：8；实际出现快照数：2。
+平台：知乎；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2082041103209820593
 
+### N7｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
+
+平台：知乎；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2082035913132193247
+
 ### N8｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
 
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2481462
 
 ### N9｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
+平台：财联社热门；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2481278
 
@@ -158,8 +147,8 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 ### N11｜AI短剧报价大跌 创意反而更贵了
 
-平台：百度热搜；榜单排名：27；实际出现快照数：2。
+平台：百度热搜；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E6%8A%A5%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%88%9B%E6%84%8F%E5%8F%8D%E8%80%8C%E6%9B%B4%E8%B4%B5%E4%BA%86
 
-核对：AI HOT 9 条；TrendRadar 11 条。
+核对：AI HOT 8 条；TrendRadar 11 条。
