@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-13
 
-数据生成时间：2026-09-13T04:54:50+08:00（北京时间）
+数据生成时间：2026-09-13T05:36:49+08:00（北京时间）
 
 AI HOT：9 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -102,29 +102,29 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 链接：https://www.cls.cn/detail/2481328
 
-### N2｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
-
-平台：知乎；榜单排名：1；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2082035913132193247
-
-### N3｜AI短剧 成瘾
+### N2｜AI短剧 成瘾
 
 平台：微博；榜单排名：2；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
 
+### N3｜实测四种AI Flash
+
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
+
 ### N4｜“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781600
 
-### N5｜实测四种AI Flash
+### N5｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
 
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
+平台：知乎；榜单排名：4；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
+链接：https://www.zhihu.com/question/2082035913132193247
 
 ### N6｜AI抢饭碗,数学家急眼
 
@@ -158,7 +158,7 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 ### N11｜AI短剧报价大跌 创意反而更贵了
 
-平台：百度热搜；榜单排名：29；实际出现快照数：1。
+平台：百度热搜；榜单排名：27；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E6%8A%A5%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%88%9B%E6%84%8F%E5%8F%8D%E8%80%8C%E6%9B%B4%E8%B4%B5%E4%BA%86
 
