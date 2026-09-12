@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-13
 
-数据生成时间：2026-09-13T03:38:17+08:00（北京时间）
+数据生成时间：2026-09-13T04:54:50+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：11 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：9 条；TrendRadar：11 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -13,7 +13,25 @@ AI HOT：7 条；TrendRadar：11 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 发布 GPT-6 Astra 并展示社区构建案例
+### A1｜Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划
+
+Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。
+
+来源：X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）；发布时间：2026-09-12T20:18:42Z
+
+原文：https://x.com/PeterMcCrory/status/2098868931071226252
+收录页：https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w
+
+### A2｜Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间
+
+Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。
+
+来源：X：Thariq (@trq212)；发布时间：2026-09-12T19:46:58Z
+
+原文：https://x.com/trq212/status/2098860941391872132
+收录页：https://aihot.news/items/cmtyth87f098broupl3k186iw
+
+### A3｜OpenAI 发布 GPT-6 Astra 并展示社区构建案例
 
 OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。
 
@@ -22,7 +40,7 @@ OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于�
 原文：https://x.com/OpenAIDevs/status/2098827327832822014
 收录页：https://aihot.news/items/cmtyof5al04e2rog01a0893gu
 
-### A2｜Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本
+### A4｜Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本
 
 Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。
 
@@ -31,7 +49,7 @@ Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等
 原文：https://suno.com/blog/introducing-v6
 收录页：https://aihot.news/items/cmtym1wo1039krodl7j8164q8
 
-### A3｜Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问
+### A5｜Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问
 
 Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。
 
@@ -40,7 +58,7 @@ Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意
 原文：https://x.com/sama/status/2098811563415150910
 收录页：https://aihot.news/items/cmtymlrth035dronv9zqv9ccb
 
-### A4｜Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码
+### A6｜Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码
 
 Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。
 
@@ -49,7 +67,7 @@ Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量�
 原文：https://www.minitap.ai/blog/i-expected-better-from-google
 收录页：https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7
 
-### A5｜OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析
+### A7｜OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析
 
 作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。
 
@@ -58,7 +76,7 @@ Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量�
 原文：https://www.rubyhack.ai/
 收录页：https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6
 
-### A6｜英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元
+### A8｜英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元
 
 据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。
 
@@ -67,7 +85,7 @@ Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量�
 原文：https://www.ithome.com/1/001/488.htm
 收录页：https://aihot.news/items/cmtxmd06905q5roi3ds616hwo
 
-### A7｜DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销
+### A9｜DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销
 
 DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。
 
@@ -80,63 +98,63 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 ### N1｜【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施
 
-平台：财联社热门；榜单排名：1；实际出现快照数：1。
+平台：财联社热门；榜单排名：1；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481328
 
 ### N2｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
 
-平台：知乎；榜单排名：2；实际出现快照数：1。
+平台：知乎；榜单排名：1；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2082035913132193247
 
-### N3｜实测四种AI Flash
+### N3｜AI短剧 成瘾
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
-
-### N4｜“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3781600
-
-### N5｜GPT-6系列新模型或将发布
-
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=GPT-6%E7%B3%BB%E5%88%97%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83
-
-### N6｜AI抢饭碗,数学家急眼
-
-平台：贴吧；榜单排名：5；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC&topic_id=28363786
-
-### N7｜AI短剧 成瘾
-
-平台：微博；榜单排名：5；实际出现快照数：1。
+平台：微博；榜单排名：2；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
 
-### N8｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+### N4｜“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆
 
-平台：知乎；榜单排名：5；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3781600
+
+### N5｜实测四种AI Flash
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
+
+### N6｜AI抢饭碗,数学家急眼
+
+平台：贴吧；榜单排名：5；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC&topic_id=28363786
+
+### N7｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+
+平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2082041103209820593
 
-### N9｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
+### N8｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
 
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481462
 
-### N10｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
+### N9｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481278
+
+### N10｜GPT-6系列新模型或将发布
+
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=GPT-6%E7%B3%BB%E5%88%97%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83
 
 ### N11｜AI短剧报价大跌 创意反而更贵了
 
@@ -144,4 +162,4 @@ DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 
 
 链接：https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E6%8A%A5%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%88%9B%E6%84%8F%E5%8F%8D%E8%80%8C%E6%9B%B4%E8%B4%B5%E4%BA%86
 
-核对：AI HOT 7 条；TrendRadar 11 条。
+核对：AI HOT 9 条；TrendRadar 11 条。
