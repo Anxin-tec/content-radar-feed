@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-14
 
-数据生成时间：2026-09-14T03:44:33+08:00（北京时间）
+数据生成时间：2026-09-14T05:07:00+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：17 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：3 条；TrendRadar：19 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -40,126 +40,120 @@ Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也�
 原文：https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks
 收录页：https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v
 
-### A4｜Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划
-
-Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。
-
-来源：X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）；发布时间：2026-09-12T20:18:42Z
-
-原文：https://x.com/PeterMcCrory/status/2098868931071226252
-收录页：https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w
-
-### A5｜Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间
-
-Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。
-
-来源：X：Thariq (@trq212)；发布时间：2026-09-12T19:46:58Z
-
-原文：https://x.com/trq212/status/2098860941391872132
-收录页：https://aihot.news/items/cmtyth87f098broupl3k186iw
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781639
 
 ### N2｜AI正成为危险是危言耸听吗
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E6%88%90%E4%B8%BA%E5%8D%B1%E9%99%A9%E6%98%AF%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%E5%90%97
 
 ### N3｜“AI交易”周一要遭暴击？三巨头支持“放缓”、OpenAI推迟IPO引热议
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781643
 
 ### N4｜AI会有数学创新能力吗
 
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E6%9C%89%E6%95%B0%E5%AD%A6%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E5%90%97
 
 ### N5｜Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781638
 
 ### N6｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481462
 
 ### N7｜“AI会在2030年前毁灭人类”，美AI巨头呼吁减速
 
-平台：凤凰网；榜单排名：6；实际出现快照数：1。
+平台：凤凰网；榜单排名：6；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8wNpWp6CJdN
 
 ### N8｜【早报】我国词元消耗量今年将达到10亿亿；英伟达拟斥资100亿美元参投Anthropic IPO
 
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481566
 
-### N9｜全国仅7省上架率超过75% “有效算力”成智算集群竞争重点|直击2026中国算力大会
+### N9｜如何看待 Anthropic 、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？
 
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2481579
-
-### N10｜AI巨头按下“IPO暂停键”
-
-平台：抖音；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.douyin.com/hot/2648508
-
-### N11｜我们距离RSI还有多远？来自AI一线的观点
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3781652
-
-### N12｜如何看待 Anthropic 、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？
-
-平台：知乎；榜单排名：11；实际出现快照数：1。
+平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2082571703062721521
 
+### N10｜全国仅7省上架率超过75% “有效算力”成智算集群竞争重点|直击2026中国算力大会
+
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2481579
+
+### N11｜AI巨头按下“IPO暂停键”
+
+平台：抖音；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.douyin.com/hot/2648508
+
+### N12｜我们距离RSI还有多远？来自AI一线的观点
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3781652
+
 ### N13｜Anthropic掌门人呼吁放缓模型迭代 马斯克、奥尔特曼齐响应
 
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481555
 
 ### N14｜算力产业链下半场新变化：上游把“工地”搬进工厂，下游把算力当水电卖
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2481510
 
 ### N15｜奥巴马：人工智能可能带来“危险”
 
-平台：今日头条；榜单排名：17；实际出现快照数：1。
+平台：今日头条；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7684709617997709321/
 
 ### N16｜AI抢饭碗,数学家急眼
 
-平台：贴吧；榜单排名：20；实际出现快照数：1。
+平台：贴吧；榜单排名：20；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC&topic_id=28363786
 
-### N17｜AI真正的问题是什么
+### N17｜为何顶尖AI实验室研究人员接连请辞
+
+平台：今日头条；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7684987927859826219/
+
+### N18｜AI真正的问题是什么
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7685012598906965558/
 
-核对：AI HOT 5 条；TrendRadar 17 条。
+### N19｜三大AI巨头联手呼吁放缓开发步伐
+
+平台：微博；榜单排名：30；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7AI%E5%B7%A8%E5%A4%B4%E8%81%94%E6%89%8B%E5%91%BC%E5%90%81%E6%94%BE%E7%BC%93%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90%23
+
+核对：AI HOT 3 条；TrendRadar 19 条。
