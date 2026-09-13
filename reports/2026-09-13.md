@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-13
 
-数据生成时间：2026-09-13T08:15:17+08:00（北京时间）
+数据生成时间：2026-09-13T08:54:56+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -74,15 +74,6 @@ Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量�
 原文：https://www.minitap.ai/blog/i-expected-better-from-google
 收录页：https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7
 
-### A8｜OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析
-
-作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。
-
-来源：Hacker News 热门（buzzing.cc 中文翻译）；发布时间：2026-09-12T00:24:20.561000Z
-
-原文：https://www.rubyhack.ai/
-收录页：https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施
@@ -91,82 +82,100 @@ Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量�
 
 链接：https://www.cls.cn/detail/2481328
 
-### N2｜AI短剧 成瘾
-
-平台：微博；榜单排名：1；实际出现快照数：3。
-
-链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
-
-### N3｜“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆
+### N2｜“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781600
 
+### N3｜AI短剧 成瘾
+
+平台：微博；榜单排名：2；实际出现快照数：3。
+
+链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE
+
 ### N4｜如何看待 25 位菲奖得主发布联合声明《AI 在数学领域的严重错位》？是否意味着传统数学研究模式的崩溃？
 
-平台：知乎；榜单排名：3；实际出现快照数：1。
+平台：知乎；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2082049593588634390
 
-### N5｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
+### N5｜实测四种AI Flash
+
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
+
+### N6｜英伟达显卡出货量暴涨
+
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%98%BE%E5%8D%A1%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E6%B6%A8
+
+### N7｜陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？
 
 平台：知乎；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2082035913132193247
 
-### N6｜AI抢饭碗,数学家急眼
+### N8｜AI抢饭碗,数学家急眼
 
 平台：贴吧；榜单排名：5；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC&topic_id=28363786
 
-### N7｜本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini
+### N9｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+
+平台：知乎；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2082041103209820593
+
+### N10｜本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3781619
 
-### N8｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
+### N11｜国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高
 
 平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2481462
 
-### N9｜报道：英伟达洽谈在Anthropic IPO中投资高达100亿美元
+### N12｜报道：英伟达洽谈在Anthropic IPO中投资高达100亿美元
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3781613
 
-### N10｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
+### N13｜【早报】我国词元消耗量今年将达到10亿亿；英伟达拟斥资100亿美元参投Anthropic IPO
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2481278
+链接：https://www.cls.cn/detail/2481566
 
-### N11｜GPT-6系列新模型或将发布
+### N14｜GPT-6系列新模型或将发布
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=GPT-6%E7%B3%BB%E5%88%97%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83
 
-### N12｜如何评价 DeepSeek 灰度测试语音对话，意味着什么？
+### N15｜高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战
 
-平台：知乎；榜单排名：18；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2082041103209820593
+链接：https://www.cls.cn/detail/2481278
 
-### N13｜实测四种AI Flash
+### N16｜为什么同为顶流网文网站，起点全力打击 AI 文，扶持人类写手，番茄新规却似乎在打击人类写手，扶持 AI 文？
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
+平台：知乎；榜单排名：20；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%9B%9B%E7%A7%8DAI+Flash
+链接：https://www.zhihu.com/question/2080579062414697240
 
-### N14｜AI短剧报价大跌 创意反而更贵了
+### N17｜AI短剧报价大跌 创意反而更贵了
 
-平台：百度热搜；榜单排名：27；实际出现快照数：3。
+平台：百度热搜；榜单排名：27；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E6%8A%A5%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%88%9B%E6%84%8F%E5%8F%8D%E8%80%8C%E6%9B%B4%E8%B4%B5%E4%BA%86
 
-核对：AI HOT 8 条；TrendRadar 14 条。
+核对：AI HOT 7 条；TrendRadar 17 条。
