@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-16
 
-数据生成时间：2026-09-16T05:43:55+08:00（北京时间）
+数据生成时间：2026-09-16T06:26:41+08:00（北京时间）
 
 AI HOT：13 条；TrendRadar：26 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -134,123 +132,123 @@ Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放�
 
 ### N1｜美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781728
 
-### N2｜曝Claude Opus 5.2开启灰测
+### N2｜丘成桐创刊AI辅助下的数学
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E6%9B%9DClaude+Opus+5.2%E5%BC%80%E5%90%AF%E7%81%B0%E6%B5%8B
+链接：https://search.bilibili.com/all?keyword=%E4%B8%98%E6%88%90%E6%A1%90%E5%88%9B%E5%88%8AAI%E8%BE%85%E5%8A%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%A6
 
 ### N3｜如何看待英伟达、 Palantir 等金主集体限制 Anthropic Claude 使用？
 
-平台：知乎；榜单排名：3；实际出现快照数：2。
+平台：知乎；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2083117744707352472
 
-### N4｜三星押注GPU替代方案赛道：荷兰初创公司获2亿欧元融资
+### N4｜AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%
 
-平台：财联社热门；榜单排名：4；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2484090
-
-### N5｜AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781670
 
+### N5｜三星押注GPU替代方案赛道：荷兰初创公司获2亿欧元融资
+
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2484090
+
 ### N6｜黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781756
 
 ### N7｜黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据
 
-平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34072434
 
 ### N8｜苹果推出Siri人工智能
 
-平台：抖音；榜单排名：7；实际出现快照数：2。
+平台：抖音；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2650318
 
 ### N9｜AI正在惩罚用它写作业的中学生
 
-平台：百度热搜；榜单排名：8；实际出现快照数：2。
+平台：百度热搜；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F
 
-### N10｜丘成桐创刊AI辅助下的数学
+### N10｜曝Claude Opus 5.2开启灰测
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E4%B8%98%E6%88%90%E6%A1%90%E5%88%9B%E5%88%8AAI%E8%BE%85%E5%8A%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%A6
+链接：https://search.bilibili.com/all?keyword=%E6%9B%9DClaude+Opus+5.2%E5%BC%80%E5%90%AF%E7%81%B0%E6%B5%8B
 
-### N11｜如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？
-
-平台：知乎；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2083123101873844765
-
-### N12｜模拟DeepSeek Harness漏洞
+### N11｜模拟DeepSeek Harness漏洞
 
 平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%A8%A1%E6%8B%9FDeepSeek+Harness%E6%BC%8F%E6%B4%9E
 
-### N13｜特朗普当众致电黄仁勋：AI危险论是"骗局"，数据中心重要性超过互联网
+### N12｜特朗普当众致电黄仁勋：AI危险论是"骗局"，数据中心重要性超过互联网
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781745
 
-### N14｜如何理解李博杰开源的《深入理解 AI Agent》？
+### N13｜如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？
 
-平台：知乎；榜单排名：9；实际出现快照数：2。
+平台：知乎；榜单排名：9；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2082847664274497759
+链接：https://www.zhihu.com/question/2083123101873844765
 
-### N15｜UP主实测Claude Opus5.2
+### N14｜UP主实测Claude Opus5.2
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BClaude+Opus5.2
 
-### N16｜想要AI更安全，先让对手来"挑刺"：马斯克提议AI巨头在模型发布前相互测试
+### N15｜马斯克提出AI安全新思路：与其等政府出手，不如让竞争对手互相"找茬"
 
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2484069
-
-### N17｜马斯克提出AI安全新思路：与其等政府出手，不如让竞争对手互相"找茬"
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781794
 
-### N18｜AI巨头为何呼吁踩刹车
+### N16｜想要AI更安全，先让对手来"挑刺"：马斯克提议AI巨头在模型发布前相互测试
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
+平台：财联社热门；榜单排名：11；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=AI%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E5%91%BC%E5%90%81%E8%B8%A9%E5%88%B9%E8%BD%A6
+链接：https://www.cls.cn/detail/2484069
 
-### N19｜AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？
+### N17｜如何理解李博杰开源的《深入理解 AI Agent》？
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
+平台：知乎；榜单排名：11；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2082847664274497759
+
+### N18｜AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？
+
+平台：澎湃新闻；榜单排名：15；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34074387
 
-### N20｜ai 大概还要多久就可以取代程序员了?
+### N19｜ai 大概还要多久就可以取代程序员了?
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2038411932424725710
+
+### N20｜AI巨头为何呼吁踩刹车
+
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E5%91%BC%E5%90%81%E8%B8%A9%E5%88%B9%E8%BD%A6
 
 ### N21｜黄仁勋：中国对AI的叙事方式更务实
 
@@ -260,32 +258,32 @@ Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放�
 
 ### N22｜比尔·盖茨警告AI就业冲击：全球或经历20年动荡转型，现在就要开始准备
 
-平台：澎湃新闻；榜单排名：18；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：18；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34050252
 
 ### N23｜显卡成奢品,千张5090跑AI
 
-平台：贴吧；榜单排名：20；实际出现快照数：2。
+平台：贴吧；榜单排名：20；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI&topic_id=28364278
 
 ### N24｜AI开始预测人类
 
-平台：百度热搜；榜单排名：24；实际出现快照数：2。
+平台：百度热搜；榜单排名：22；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E9%A2%84%E6%B5%8B%E4%BA%BA%E7%B1%BB
 
-### N25｜AI短片老秦
+### N25｜DeepSeek工程师发文引热议
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
-
-### N26｜DeepSeek工程师发文引热议
-
-平台：今日头条；榜单排名：27；实际出现快照数：1。
+平台：今日头条；榜单排名：27；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7685692115682361882/
+
+### N26｜AI短片老秦
+
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
 
 核对：AI HOT 13 条；TrendRadar 26 条。
