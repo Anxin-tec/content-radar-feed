@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-17
 
-数据生成时间：2026-09-17T04:25:07+08:00（北京时间）
+数据生成时间：2026-09-17T05:40:29+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：15 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：15 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -58,15 +58,6 @@ xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台�
 原文：https://x.ai/news/grok-build-memory
 收录页：https://aihot.news/items/cmu4hic050r8kro4wzayakuhu
 
-### A6｜Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶
-
-Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。
-
-来源：X：Arena (@arena)；发布时间：2026-09-15T21:20:53Z
-
-原文：https://x.com/arena/status/2099971741993050236
-收录页：https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜算力ETF上市首日就大涨，为何被散户热捧？还有一批在路上
@@ -87,11 +78,11 @@ Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Ast
 
 链接：https://news.ifeng.com/c/8wTKr5D1mPA
 
-### N4｜DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》
+### N4｜如何看模型训练师发出AI风险警告
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3781850
+链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
 
 ### N5｜deepseek工程师自嘲被AI取代
 
@@ -99,23 +90,23 @@ Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Ast
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3&topic_id=28364468
 
-### N6｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
+### N6｜DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3781850
+
+### N7｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485290
 
-### N7｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
+### N8｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
 
-平台：财联社热门；榜单排名：9；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485043
-
-### N8｜如何看模型训练师发出AI风险警告
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
 
 ### N9｜字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿
 
@@ -125,13 +116,13 @@ Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Ast
 
 ### N10｜AI短片老秦
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
 
 ### N11｜老牌药企加速跨界算力赛道 康惠股份再揽17亿元五年期算力大单|速读公告
 
-平台：财联社热门；榜单排名：13；实际出现快照数：2。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2485442
 
@@ -143,7 +134,7 @@ Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Ast
 
 ### N13｜如何评价全球首款 AI 智能体手机努比亚 NaviX Ultra 豆包手机发布开售？有什么亮点与不足？
 
-平台：知乎；榜单排名：18；实际出现快照数：2。
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2083496255733364173
 
@@ -159,4 +150,4 @@ Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Ast
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI&topic_id=28364278
 
-核对：AI HOT 6 条；TrendRadar 15 条。
+核对：AI HOT 5 条；TrendRadar 15 条。
