@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-16
 
-数据生成时间：2026-09-16T08:46:16+08:00（北京时间）
+数据生成时间：2026-09-16T09:21:46+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：30 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：33 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -139,65 +139,65 @@ Artificial Analysis 发布 Speech to Speech Index，OpenAI 的 GPT-Live-1 以 81
 
 链接：https://search.bilibili.com/all?keyword=%E6%9B%9DClaude+Opus+5.2%E5%BC%80%E5%90%AF%E7%81%B0%E6%B5%8B
 
-### N4｜如何看待英伟达、 Palantir 等金主集体限制 Anthropic Claude 使用？
-
-平台：知乎；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2083117744707352472
-
-### N5｜AI正在惩罚用它写作业的中学生
-
-平台：百度热搜；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F
-
-### N6｜三星押注GPU替代方案赛道：荷兰初创公司获2亿欧元融资
+### N4｜三星押注GPU替代方案赛道：荷兰初创公司获2亿欧元融资
 
 平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2484090
 
-### N7｜AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%
+### N5｜AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781670
 
-### N8｜特朗普当众致电黄仁勋：AI危险论是"骗局"，数据中心重要性超过互联网
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3781745
-
-### N9｜苹果推出Siri人工智能
+### N6｜苹果推出Siri人工智能
 
 平台：抖音；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2650318
 
-### N10｜马斯克提出AI安全新思路：与其等政府出手，不如让竞争对手互相"找茬"
+### N7｜马斯克提出AI安全新思路：与其等政府出手，不如让竞争对手互相"找茬"
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3781794
 
-### N11｜丘成桐创刊AI辅助下的数学
+### N8｜如何看待英伟达、 Palantir 等金主集体限制 Anthropic Claude 使用？
+
+平台：知乎；榜单排名：7；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2083117744707352472
+
+### N9｜AI正在惩罚用它写作业的中学生
+
+平台：百度热搜；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F
+
+### N10｜丘成桐创刊AI辅助下的数学
 
 平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%98%E6%88%90%E6%A1%90%E5%88%9B%E5%88%8AAI%E8%BE%85%E5%8A%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%A6
 
-### N12｜黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据
+### N11｜黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据
 
 平台：澎湃新闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34072434
 
-### N13｜模拟DeepSeek Harness漏洞
+### N12｜模拟DeepSeek Harness漏洞
 
 平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%A8%A1%E6%8B%9FDeepSeek+Harness%E6%BC%8F%E6%B4%9E
+
+### N13｜特朗普当众致电黄仁勋：AI危险论是"骗局"，数据中心重要性超过互联网
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3781745
 
 ### N14｜如何理解李博杰开源的《深入理解 AI Agent》？
 
@@ -211,94 +211,112 @@ Artificial Analysis 发布 Speech to Speech Index，OpenAI 的 GPT-Live-1 以 81
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BClaude+Opus5.2
 
-### N16｜美国左右翼罕见同台：桑德斯、班农联手呼吁给超级AI踩刹车
+### N16｜韩国首次开展机器人舰员作战试验
 
-平台：凤凰网；榜单排名：10；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%BC%80%E5%B1%95%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%B0%E5%91%98%E4%BD%9C%E6%88%98%E8%AF%95%E9%AA%8C
+
+### N17｜AI安全之争愈演愈烈！黄仁勋：无需任何新法律 安全与速度可兼得
+
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2484303
+
+### N18｜华为高层内部万字长文：对于ICT业务及计算领域，华为的目标是成为英伟达
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3781805
+
+### N19｜美国左右翼罕见同台：桑德斯、班农联手呼吁给超级AI踩刹车
+
+平台：凤凰网；榜单排名：11；实际出现快照数：1。
 
 链接：https://news.ifeng.com/c/8wSSBA0PHLc
 
-### N17｜想要AI更安全，先让对手来"挑刺"：马斯克提议AI巨头在模型发布前相互测试
+### N20｜用AI裁了70多人利润就上去了
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2484069
-
-### N18｜用AI裁了70多人利润就上去了
-
-平台：微博；榜单排名：11；实际出现快照数：1。
+平台：微博；榜单排名：12；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E7%94%A8AI%E8%A3%81%E4%BA%8670%E5%A4%9A%E4%BA%BA%E5%88%A9%E6%B6%A6%E5%B0%B1%E4%B8%8A%E5%8E%BB%E4%BA%86
 
-### N19｜AI巨头为何呼吁踩刹车
+### N21｜想要AI更安全，先让对手来"挑刺"：马斯克提议AI巨头在模型发布前相互测试
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=AI%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E5%91%BC%E5%90%81%E8%B8%A9%E5%88%B9%E8%BD%A6
+链接：https://www.cls.cn/detail/2484069
 
-### N20｜AI短片老秦
+### N22｜AI短片老秦
 
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
 
-### N21｜AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？
+### N23｜AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34074387
 
-### N22｜ai 大概还要多久就可以取代程序员了?
+### N24｜ai 大概还要多久就可以取代程序员了?
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2038411932424725710
 
-### N23｜黄仁勋：中国对AI的叙事方式更务实
+### N25｜黄仁勋：中国对AI的叙事方式更务实
 
 平台：今日头条；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7685349886699733042/
 
-### N24｜如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？
+### N26｜如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？
 
 平台：知乎；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2083123101873844765
 
-### N25｜据统计，番茄 AI 文占比 74.5%，起点仅 10%，数据可靠吗？起点会因手搓文技术落后而完蛋吗？
+### N27｜据统计，番茄 AI 文占比 74.5%，起点仅 10%，数据可靠吗？起点会因手搓文技术落后而完蛋吗？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2028836023786816017
 
-### N26｜澎湃AI晚新闻丨2026年9月15日
+### N28｜AI巨头为何呼吁踩刹车
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E5%91%BC%E5%90%81%E8%B8%A9%E5%88%B9%E8%BD%A6
+
+### N29｜澎湃AI晚新闻丨2026年9月15日
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34076226
 
-### N27｜比尔·盖茨警告AI就业冲击：全球或经历20年动荡转型，现在就要开始准备
+### N30｜比尔·盖茨警告AI就业冲击：全球或经历20年动荡转型，现在就要开始准备
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34050252
 
-### N28｜显卡成奢品,千张5090跑AI
+### N31｜显卡成奢品,千张5090跑AI
 
 平台：贴吧；榜单排名：20；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI&topic_id=28364278
 
-### N29｜AI开始预测人类
+### N32｜AI开始预测人类
 
 平台：百度热搜；榜单排名：24；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E9%A2%84%E6%B5%8B%E4%BA%BA%E7%B1%BB
 
-### N30｜DeepSeek工程师发文引热议
+### N33｜DeepSeek工程师发文引热议
 
 平台：今日头条；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7685692115682361882/
 
-核对：AI HOT 12 条；TrendRadar 30 条。
+核对：AI HOT 12 条；TrendRadar 33 条。
