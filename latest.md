@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-17
 
-数据生成时间：2026-09-17T03:41:54+08:00（北京时间）
+数据生成时间：2026-09-17T04:25:07+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：15 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：6 条；TrendRadar：15 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -67,92 +67,83 @@ Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Ast
 原文：https://x.com/arena/status/2099971741993050236
 收录页：https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9
 
-### A7｜Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元
-
-Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。
-
-来源：X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)；发布时间：2026-09-15T20:23:34Z
-
-原文：https://x.com/AravSrinivas/status/2099957318935028173
-收录页：https://aihot.news/items/cmu352k2908t9rosaotpsx42c
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜算力ETF上市首日就大涨，为何被散户热捧？还有一批在路上
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485081
 
 ### N2｜押注物理AI：韩国10亿美元国家级研发项目正式启动
 
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485354
 
 ### N3｜美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽
 
-平台：凤凰网；榜单排名：4；实际出现快照数：1。
+平台：凤凰网；榜单排名：4；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8wTKr5D1mPA
 
 ### N4｜DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781850
 
 ### N5｜deepseek工程师自嘲被AI取代
 
-平台：贴吧；榜单排名：7；实际出现快照数：1。
+平台：贴吧；榜单排名：7；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3&topic_id=28364468
 
-### N6｜如何看模型训练师发出AI风险警告
+### N6｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
-
-### N7｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
-
-平台：财联社热门；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2485043
-
-### N8｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
-
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485290
 
+### N7｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
+
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2485043
+
+### N8｜如何看模型训练师发出AI风险警告
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
+
 ### N9｜字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781844
 
-### N10｜老牌药企加速跨界算力赛道 康惠股份再揽17亿元五年期算力大单|速读公告
+### N10｜AI短片老秦
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2485442
-
-### N11｜AI短片老秦
-
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
 
+### N11｜老牌药企加速跨界算力赛道 康惠股份再揽17亿元五年期算力大单|速读公告
+
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2485442
+
 ### N12｜黄仁勋再次发声反对AI减速：创新和安全不是二选一
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34079491
 
 ### N13｜如何评价全球首款 AI 智能体手机努比亚 NaviX Ultra 豆包手机发布开售？有什么亮点与不足？
 
-平台：知乎；榜单排名：18；实际出现快照数：1。
+平台：知乎；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2083496255733364173
 
@@ -164,8 +155,8 @@ Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AW
 
 ### N15｜显卡成奢品,千张5090跑AI
 
-平台：贴吧；榜单排名：29；实际出现快照数：1。
+平台：贴吧；榜单排名：29；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI&topic_id=28364278
 
-核对：AI HOT 7 条；TrendRadar 15 条。
+核对：AI HOT 6 条；TrendRadar 15 条。
