@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-17
 
-数据生成时间：2026-09-17T07:39:00+08:00（北京时间）
+数据生成时间：2026-09-17T08:52:23+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,7 +11,16 @@ AI HOT：7 条；TrendRadar：17 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例
+### A1｜用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度
+
+自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-09-17T00:09:06Z
+
+原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4
+收录页：https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux
+
+### A2｜OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例
 
 OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。
 
@@ -20,7 +29,7 @@ OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时�
 原文：https://x.com/AISafetyMemes/status/2100358777895780704
 收录页：https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu
 
-### A2｜OpenAI 发布模型失准披露框架并公开六份失准报告
+### A3｜OpenAI 发布模型失准披露框架并公开六份失准报告
 
 OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。
 
@@ -29,7 +38,7 @@ OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新�
 原文：https://openai.com/index/model-misalignment-reporting-framework
 收录页：https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52
 
-### A3｜Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能
+### A4｜Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能
 
 Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。
 
@@ -38,7 +47,7 @@ Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再
 原文：https://claude.com/blog/cowork-is-now-claude
 收录页：https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf
 
-### A4｜Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF
+### A5｜Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF
 
 Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。
 
@@ -47,7 +56,7 @@ Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 
 原文：https://x.com/bcherny/status/2100260544087535639
 收录页：https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe
 
-### A5｜微软 AI CEO 警告"模型福利"论调
+### A6｜微软 AI CEO 警告"模型福利"论调
 
 微软 AI CEO Mustafa Suleyman 发文反对"模型福利"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。
 
@@ -56,7 +65,7 @@ Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 
 原文：https://x.com/mustafasuleyman/status/2100223594534150428
 收录页：https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q
 
-### A6｜OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify
+### A7｜OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify
 
 OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。
 
@@ -64,15 +73,6 @@ OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允
 
 原文：https://openai.com/index/reimagining-advertising-with-ai
 收录页：https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l
-
-### A7｜Grok Build 推出记忆功能，可跨会话保留项目约定与决策
-
-xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。
-
-来源：xAI：News（网页）；发布时间：2026-09-16T00:00:00Z
-
-原文：https://x.ai/news/grok-build-memory
-收录页：https://aihot.news/items/cmu4hic050r8kro4wzayakuhu
 
 ## TrendRadar 完整 AI 热点
 
@@ -88,23 +88,23 @@ xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台�
 
 链接：https://wallstreetcn.com/articles/3781871
 
-### N3｜押注物理AI：韩国10亿美元国家级研发项目正式启动
-
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2485354
-
-### N4｜美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽
+### N3｜美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽
 
 平台：凤凰网；榜单排名：4；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8wTKr5D1mPA
 
-### N5｜DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》
+### N4｜马斯克警告AI若控制核弹后果严重
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：今日头条；榜单排名：4；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3781850
+链接：https://www.toutiao.com/trending/7685430738012356650/
+
+### N5｜押注物理AI：韩国10亿美元国家级研发项目正式启动
+
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2485354
 
 ### N6｜deepseek工程师自嘲被AI取代
 
@@ -112,45 +112,45 @@ xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3&topic_id=28364468
 
-### N7｜如何看模型训练师发出AI风险警告
+### N7｜DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
+链接：https://wallstreetcn.com/articles/3781850
 
-### N8｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
-
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2485290
-
-### N9｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
+### N8｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485043
 
-### N10｜字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿
+### N9｜字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781844
 
+### N10｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
+
+平台：财联社热门；榜单排名：11；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2485290
+
 ### N11｜老牌药企加速跨界算力赛道 康惠股份再揽17亿元五年期算力大单|速读公告
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2485442
 
-### N12｜AI短片老秦
+### N12｜字节跳动被曝上半年营收大涨 30% 但因 AI 投资致净利同比下滑，净利润率降至 16.7%，如何解读？
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：3。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
+链接：https://www.zhihu.com/question/2083335175057028860
 
 ### N13｜黄仁勋再次发声反对AI减速：创新和安全不是二选一
 
-平台：澎湃新闻；榜单排名：18；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34079491
 
@@ -160,22 +160,34 @@ xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台�
 
 链接：https://www.zhihu.com/question/2083496255733364173
 
-### N15｜AI开始预测人类
+### N15｜AI短片老秦
 
-平台：今日头条；榜单排名：26；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
 
-链接：https://www.toutiao.com/trending/7685727484679032366/
+链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E8%80%81%E7%A7%A6
 
-### N16｜DeepSeek研究员文章走红
+### N16｜如何看模型训练师发出AI风险警告
+
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
+
+### N17｜DeepSeek研究员文章走红
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%96%87%E7%AB%A0%E8%B5%B0%E7%BA%A2
 
-### N17｜显卡成奢品,千张5090跑AI
+### N18｜显卡成奢品,千张5090跑AI
 
 平台：贴吧；榜单排名：29；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI&topic_id=28364278
 
-核对：AI HOT 7 条；TrendRadar 17 条。
+### N19｜两栖球形机器人来了
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%A4%E6%A0%96%E7%90%83%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86
+
+核对：AI HOT 7 条；TrendRadar 19 条。
