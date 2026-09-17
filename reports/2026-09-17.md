@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-17
 
-数据生成时间：2026-09-17T08:52:23+08:00（北京时间）
+数据生成时间：2026-09-17T09:20:16+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：19 条 AI 相关热点。
+AI HOT：8 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,7 +11,16 @@ AI HOT：7 条；TrendRadar：19 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度
+### A1｜GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust
+
+GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。
+
+来源：GitHub Blog；发布时间：2026-09-17T00:26:43Z
+
+原文：https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot
+收录页：https://aihot.news/items/cmu4tu41w07ufrokck6s0p0cp
+
+### A2｜用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度
 
 自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。
 
@@ -20,7 +29,7 @@ AI HOT：7 条；TrendRadar：19 条 AI 相关热点。
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4
 收录页：https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux
 
-### A2｜OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例
+### A3｜OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例
 
 OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。
 
@@ -29,7 +38,7 @@ OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时�
 原文：https://x.com/AISafetyMemes/status/2100358777895780704
 收录页：https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu
 
-### A3｜OpenAI 发布模型失准披露框架并公开六份失准报告
+### A4｜OpenAI 发布模型失准披露框架并公开六份失准报告
 
 OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。
 
@@ -38,7 +47,7 @@ OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新�
 原文：https://openai.com/index/model-misalignment-reporting-framework
 收录页：https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52
 
-### A4｜Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能
+### A5｜Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能
 
 Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。
 
@@ -47,7 +56,7 @@ Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再
 原文：https://claude.com/blog/cowork-is-now-claude
 收录页：https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf
 
-### A5｜Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF
+### A6｜Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF
 
 Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。
 
@@ -56,7 +65,7 @@ Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 
 原文：https://x.com/bcherny/status/2100260544087535639
 收录页：https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe
 
-### A6｜微软 AI CEO 警告"模型福利"论调
+### A7｜微软 AI CEO 警告"模型福利"论调
 
 微软 AI CEO Mustafa Suleyman 发文反对"模型福利"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。
 
@@ -65,7 +74,7 @@ Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 
 原文：https://x.com/mustafasuleyman/status/2100223594534150428
 收录页：https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q
 
-### A7｜OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify
+### A8｜OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify
 
 OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。
 
@@ -96,13 +105,13 @@ OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允
 
 ### N4｜马斯克警告AI若控制核弹后果严重
 
-平台：今日头条；榜单排名：4；实际出现快照数：1。
+平台：今日头条；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7685430738012356650/
 
 ### N5｜押注物理AI：韩国10亿美元国家级研发项目正式启动
 
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2485354
 
@@ -118,35 +127,35 @@ OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允
 
 链接：https://wallstreetcn.com/articles/3781850
 
-### N8｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
+### N8｜字节跳动被曝上半年营收大涨 30% 但因 AI 投资致净利同比下滑，净利润率降至 16.7%，如何解读？
+
+平台：知乎；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2083335175057028860
+
+### N9｜【每日收评】科创50指数涨超4%，全市场超4100股飘红，算力硬件、半导体双双领涨
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2485043
 
-### N9｜字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿
+### N10｜字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3781844
 
-### N10｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
+### N11｜界面财联社成立12周年 首发智能化底座酷编系统 打造AI+金融信息服务新引擎
 
 平台：财联社热门；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2485290
 
-### N11｜老牌药企加速跨界算力赛道 康惠股份再揽17亿元五年期算力大单|速读公告
+### N12｜老牌药企加速跨界算力赛道 康惠股份再揽17亿元五年期算力大单|速读公告
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2485442
-
-### N12｜字节跳动被曝上半年营收大涨 30% 但因 AI 投资致净利同比下滑，净利润率降至 16.7%，如何解读？
-
-平台：知乎；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2083335175057028860
 
 ### N13｜黄仁勋再次发声反对AI减速：创新和安全不是二选一
 
@@ -190,4 +199,4 @@ OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%A4%E6%A0%96%E7%90%83%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86
 
-核对：AI HOT 7 条；TrendRadar 19 条。
+核对：AI HOT 8 条；TrendRadar 19 条。
