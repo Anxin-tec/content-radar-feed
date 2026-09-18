@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-19
 
-数据生成时间：2026-09-19T05:49:26+08:00（北京时间）
+数据生成时间：2026-09-19T06:26:31+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：12 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：14 条；TrendRadar：13 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -139,26 +137,17 @@ Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授�
 原文：https://x.com/AIatMeta/status/2100714755568644409
 收录页：https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg
 
-### A15｜纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop
-
-纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。
-
-来源：404 Media（RSS）；发布时间：2026-09-17T22:01:43Z
-
-原文：https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft
-收录页：https://aihot.news/items/cmu62wp5j08tkrofj60s4kfwv
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜今年前 8 个月全国上线微短剧 43 万部，其中 AI 剧占比超九成，广电总局表示要大力扶持真人剧，透露哪些信号？
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2083887492047036761
 
 ### N2｜刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782055
 
@@ -170,56 +159,62 @@ Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授�
 
 ### N4｜88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782066
 
 ### N5｜大挫败!AI被我的世界整自闭
 
-平台：贴吧；榜单排名：7；实际出现快照数：2。
+平台：贴吧；榜单排名：7；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E6%8C%AB%E8%B4%A5%21AI%E8%A2%AB%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%B4%E8%87%AA%E9%97%AD&topic_id=28364684
 
 ### N6｜日本央行行长：不排除连续加息选项，要先发制人地遏制通胀，中东、AI、汇率是关键变量
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782067
 
-### N7｜AI制药走到哪一步了？
+### N7｜美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周
 
-平台：财联社热门；榜单排名：8；实际出现快照数：2。
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2487680
+
+### N8｜AI制药走到哪一步了？
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2487425
 
-### N8｜AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会
+### N9｜AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会
 
-平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34095187
 
-### N9｜桥水基金：AI基建交易大多已被定价，仅持有“很小仓位”
+### N10｜桥水基金：AI基建交易大多已被定价，仅持有“很小仓位”
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782057
 
-### N10｜1块就能买,某国产AI疑涉黄
+### N11｜1块就能买,某国产AI疑涉黄
 
-平台：贴吧；榜单排名：11；实际出现快照数：2。
+平台：贴吧；榜单排名：11；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=1%E5%9D%97%E5%B0%B1%E8%83%BD%E4%B9%B0%2C%E6%9F%90%E5%9B%BD%E4%BA%A7AI%E7%96%91%E6%B6%89%E9%BB%84&topic_id=28364703
 
-### N11｜一图世界｜放缓AI发展，美国政商两界谁赞成、谁反对？
+### N12｜一图世界｜放缓AI发展，美国政商两界谁赞成、谁反对？
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34091924
 
-### N12｜不演了!碧蓝金鹿皮肤被曝用AI
+### N13｜不演了!碧蓝金鹿皮肤被曝用AI
 
-平台：贴吧；榜单排名：21；实际出现快照数：2。
+平台：贴吧；榜单排名：21；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%B8%8D%E6%BC%94%E4%BA%86%21%E7%A2%A7%E8%93%9D%E9%87%91%E9%B9%BF%E7%9A%AE%E8%82%A4%E8%A2%AB%E6%9B%9D%E7%94%A8AI&topic_id=28364628
 
-核对：AI HOT 15 条；TrendRadar 12 条。
+核对：AI HOT 14 条；TrendRadar 13 条。
