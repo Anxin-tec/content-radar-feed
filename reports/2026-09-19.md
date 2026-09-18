@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-19
 
-数据生成时间：2026-09-19T03:11:29+08:00（北京时间）
+数据生成时间：2026-09-19T03:56:46+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：12 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：12 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -148,24 +148,6 @@ OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加
 原文：https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior
 收录页：https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd
 
-### A16｜纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取
-
-纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是"人类历史上最大规模的劳动窃取"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成"生存威胁"。
-
-来源：TechCrunch：AI（RSS）；发布时间：2026-09-17T19:46:08Z
-
-原文：https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal
-收录页：https://aihot.news/items/cmu5y1e61069vroiq1klswjin
-
-### A17｜The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对
-
-The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。
-
-来源：The Verge：AI（RSS）；发布时间：2026-09-17T19:28:24Z
-
-原文：https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
-收录页：https://aihot.news/items/cmu5y1e4p069troiqnxafqf0v
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜今年前 8 个月全国上线微短剧 43 万部，其中 AI 剧占比超九成，广电总局表示要大力扶持真人剧，透露哪些信号？
@@ -180,23 +162,23 @@ The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发
 
 链接：https://wallstreetcn.com/articles/3782055
 
-### N3｜88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”
+### N3｜物理学家：AI可能以巨大失望告终
+
+平台：今日头条；榜单排名：6；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7686814241445121572/
+
+### N4｜88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782066
 
-### N4｜大挫败!AI被我的世界整自闭
+### N5｜大挫败!AI被我的世界整自闭
 
 平台：贴吧；榜单排名：7；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E6%8C%AB%E8%B4%A5%21AI%E8%A2%AB%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%B4%E8%87%AA%E9%97%AD&topic_id=28364684
-
-### N5｜物理学家：AI可能以巨大失望告终
-
-平台：今日头条；榜单排名：7；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7686814241445121572/
 
 ### N6｜日本央行行长：不排除连续加息选项，要先发制人地遏制通胀，中东、AI、汇率是关键变量
 
@@ -240,4 +222,4 @@ The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%B8%8D%E6%BC%94%E4%BA%86%21%E7%A2%A7%E8%93%9D%E9%87%91%E9%B9%BF%E7%9A%AE%E8%82%A4%E8%A2%AB%E6%9B%9D%E7%94%A8AI&topic_id=28364628
 
-核对：AI HOT 17 条；TrendRadar 12 条。
+核对：AI HOT 15 条；TrendRadar 12 条。
