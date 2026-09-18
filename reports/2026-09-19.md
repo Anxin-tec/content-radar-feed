@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-19
 
-数据生成时间：2026-09-19T06:26:31+08:00（北京时间）
+数据生成时间：2026-09-19T07:14:56+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -128,15 +128,6 @@ ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初
 原文：https://x.com/sherwinwu/status/2100730628673065040
 收录页：https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz
 
-### A14｜Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务
-
-Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。
-
-来源：X：AI at Meta (@AIatMeta)；发布时间：2026-09-17T22:33:21Z
-
-原文：https://x.com/AIatMeta/status/2100714755568644409
-收录页：https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜今年前 8 个月全国上线微短剧 43 万部，其中 AI 剧占比超九成，广电总局表示要大力扶持真人剧，透露哪些信号？
@@ -145,17 +136,17 @@ Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授�
 
 链接：https://www.zhihu.com/question/2083887492047036761
 
-### N2｜刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable
+### N2｜美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2487680
+
+### N3｜刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782055
-
-### N3｜物理学家：AI可能以巨大失望告终
-
-平台：今日头条；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7686814241445121572/
 
 ### N4｜88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”
 
@@ -175,39 +166,39 @@ Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授�
 
 链接：https://wallstreetcn.com/articles/3782067
 
-### N7｜美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周
-
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2487680
-
-### N8｜AI制药走到哪一步了？
+### N7｜AI制药走到哪一步了？
 
 平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2487425
 
-### N9｜AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会
-
-平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34095187
-
-### N10｜桥水基金：AI基建交易大多已被定价，仅持有“很小仓位”
+### N8｜桥水基金：AI基建交易大多已被定价，仅持有“很小仓位”
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782057
 
-### N11｜1块就能买,某国产AI疑涉黄
+### N9｜1块就能买,某国产AI疑涉黄
 
 平台：贴吧；榜单排名：11；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=1%E5%9D%97%E5%B0%B1%E8%83%BD%E4%B9%B0%2C%E6%9F%90%E5%9B%BD%E4%BA%A7AI%E7%96%91%E6%B6%89%E9%BB%84&topic_id=28364703
 
+### N10｜AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会
+
+平台：澎湃新闻；榜单排名：12；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34095187
+
+### N11｜物理学家：AI可能以巨大失望告终
+
+平台：今日头条；榜单排名：13；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7686814241445121572/
+
 ### N12｜一图世界｜放缓AI发展，美国政商两界谁赞成、谁反对？
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34091924
 
@@ -217,4 +208,4 @@ Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%B8%8D%E6%BC%94%E4%BA%86%21%E7%A2%A7%E8%93%9D%E9%87%91%E9%B9%BF%E7%9A%AE%E8%82%A4%E8%A2%AB%E6%9B%9D%E7%94%A8AI&topic_id=28364628
 
-核对：AI HOT 14 条；TrendRadar 13 条。
+核对：AI HOT 13 条；TrendRadar 13 条。
