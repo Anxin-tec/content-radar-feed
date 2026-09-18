@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-18
 
-数据生成时间：2026-09-18T08:45:58+08:00（北京时间）
+数据生成时间：2026-09-18T09:15:02+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -163,23 +163,23 @@ Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%B8%8D%E6%BC%94%E4%BA%86%21%E7%A2%A7%E8%93%9D%E9%87%91%E9%B9%BF%E7%9A%AE%E8%82%A4%E8%A2%AB%E6%9B%9D%E7%94%A8AI&topic_id=28364628
 
-### N5｜每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程
+### N5｜黄仁勋：英伟达明年芯片销量将是今年两倍，不能像管社媒那样监管AI
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782004
+
+### N6｜每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34088356
 
-### N6｜国安部披露AI抱团“劫持”网站
+### N7｜华为全联接大会：昇腾960超节点正式发布！新款AI芯片将提前9个月推出
 
-平台：今日头条；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7686310933831893554/
-
-### N7｜黄仁勋：英伟达明年芯片销量将是今年两倍，不能像管社媒那样监管AI
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3782004
+链接：https://wallstreetcn.com/articles/3781977
 
 ### N8｜AI 已经有解决千禧年数学难题的能力，在读基础数学博士应该怎么办？
 
@@ -205,22 +205,34 @@ Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提�
 
 链接：https://www.zhihu.com/question/2083549123160925836
 
-### N12｜AI越来越聪明我们更懂自己了吗
+### N12｜英伟达CEO黄仁勋：明年公司芯片销量将翻倍
 
-平台：抖音；榜单排名：15；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2486620
+
+### N13｜AI越来越聪明我们更懂自己了吗
+
+平台：抖音；榜单排名：14；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2653650
 
-### N13｜deepseek工程师自嘲被AI取代
+### N14｜国安部披露AI抱团“劫持”网站
+
+平台：今日头条；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7686310933831893554/
+
+### N15｜deepseek工程师自嘲被AI取代
 
 平台：贴吧；榜单排名：21；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3&topic_id=28364468
 
-### N14｜如何看模型训练师发出AI风险警告
+### N16｜如何看模型训练师发出AI风险警告
 
 平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%B8%88%E5%8F%91%E5%87%BAAI%E9%A3%8E%E9%99%A9%E8%AD%A6%E5%91%8A
 
-核对：AI HOT 14 条；TrendRadar 14 条。
+核对：AI HOT 14 条；TrendRadar 16 条。
