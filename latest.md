@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-20
 
-数据生成时间：2026-09-20T06:16:49+08:00（北京时间）
+数据生成时间：2026-09-20T06:56:19+08:00（北京时间）
 
 AI HOT：5 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -60,7 +60,7 @@ FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B �
 
 ### N1｜“史上最大IPO”时间表又生变 Anthropic年化收入预计将突破1000亿美元
 
-平台：财联社热门；榜单排名：2；实际出现快照数：3。
+平台：财联社热门；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2487710
 
@@ -100,23 +100,23 @@ FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B �
 
 链接：https://www.cls.cn/detail/2487794
 
-### N8｜美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周
-
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2487680
-
-### N9｜美军轻信AI假情报,险冲中国船
+### N8｜美军轻信AI假情报,险冲中国船
 
 平台：贴吧；榜单排名：8；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%86%9B%E8%BD%BB%E4%BF%A1AI%E5%81%87%E6%83%85%E6%8A%A5%2C%E9%99%A9%E5%86%B2%E4%B8%AD%E5%9B%BD%E8%88%B9&topic_id=28364870
 
-### N10｜甲骨文180亿AI贷款折价滞销，AI融资链压力浮现
+### N9｜甲骨文180亿AI贷款折价滞销，AI融资链压力浮现
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782134
+
+### N10｜超100个AI药物进入临床阶段 AI制药为何仍被数据卡住？
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2487802
 
 ### N11｜智谱AI偷传用户数据,滑跪开源
 
@@ -124,11 +124,11 @@ FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B �
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848
 
-### N12｜超100个AI药物进入临床阶段 AI制药为何仍被数据卡住？
+### N12｜美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周
 
 平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2487802
+链接：https://www.cls.cn/detail/2487680
 
 ### N13｜人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？
 
@@ -144,7 +144,7 @@ FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B �
 
 ### N15｜AI重做黑神话经典大战
 
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%87%8D%E5%81%9A%E9%BB%91%E7%A5%9E%E8%AF%9D%E7%BB%8F%E5%85%B8%E5%A4%A7%E6%88%98
 
@@ -154,17 +154,17 @@ FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B �
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E6%8C%AB%E8%B4%A5%21AI%E8%A2%AB%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%B4%E8%87%AA%E9%97%AD&topic_id=28364684
 
-### N17｜AI女演员访谈卡壳后突然飙粤语
-
-平台：今日头条；榜单排名：23；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7686681621265055790/
-
-### N18｜AI手机之后 AI主机也出现了
+### N17｜AI手机之后 AI主机也出现了
 
 平台：百度热搜；榜单排名：24；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86
+
+### N18｜AI女演员访谈卡壳后突然飙粤语
+
+平台：今日头条；榜单排名：25；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7686681621265055790/
 
 ### N19｜1块就能买,某国产AI疑涉黄
 
