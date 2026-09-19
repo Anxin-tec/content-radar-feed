@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-20
 
-数据生成时间：2026-09-20T02:51:58+08:00（北京时间）
+数据生成时间：2026-09-20T03:34:52+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -87,23 +87,23 @@ Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵�
 
 链接：https://wallstreetcn.com/articles/3782129
 
-### N4｜Anthropic加注AI制药 “干湿闭环”逻辑浮现 哪些“卖水人”有望受益？
+### N4｜闪迪暴涨11%，存储和芯片股“短期期权”爆巨量，“AI股神”又出手了？
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782123
+
+### N5｜Anthropic加注AI制药 “干湿闭环”逻辑浮现 哪些“卖水人”有望受益？
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2487778
 
-### N5｜AI剧迎严审,官方力挺真人剧
+### N6｜AI剧迎严审,官方力挺真人剧
 
 平台：贴吧；榜单排名：6；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7&topic_id=28364800
-
-### N6｜闪迪暴涨11%，存储和芯片股“短期期权”爆巨量，“AI股神”又出手了？
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3782123
 
 ### N7｜AI将在2030年引发“世界末日”？黄仁勋：概率为零
 
@@ -129,40 +129,46 @@ Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848
 
-### N11｜超100个AI药物进入临床阶段 AI制药为何仍被数据卡住？
+### N11｜甲骨文180亿AI贷款折价滞销，AI融资链压力浮现
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782134
+
+### N12｜超100个AI药物进入临床阶段 AI制药为何仍被数据卡住？
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2487802
 
-### N12｜OpenAI 被曝雪藏数百个 AI 数学证明，这一爆料有哪些依据？人类数学研究的意义何在？
-
-平台：知乎；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2084194257187902845
-
 ### N13｜AI重做黑神话经典大战
 
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%87%8D%E5%81%9A%E9%BB%91%E7%A5%9E%E8%AF%9D%E7%BB%8F%E5%85%B8%E5%A4%A7%E6%88%98
 
-### N14｜AI手机之后 AI主机也出现了
+### N14｜OpenAI 被曝雪藏数百个 AI 数学证明，这一爆料有哪些依据？人类数学研究的意义何在？
 
-平台：百度热搜；榜单排名：17；实际出现快照数：1。
+平台：知乎；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2084194257187902845
+
+### N15｜AI手机之后 AI主机也出现了
+
+平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86
 
-### N15｜大挫败!AI被我的世界整自闭
+### N16｜大挫败!AI被我的世界整自闭
 
 平台：贴吧；榜单排名：23；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E6%8C%AB%E8%B4%A5%21AI%E8%A2%AB%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%B4%E8%87%AA%E9%97%AD&topic_id=28364684
 
-### N16｜1块就能买,某国产AI疑涉黄
+### N17｜1块就能买,某国产AI疑涉黄
 
 平台：贴吧；榜单排名：27；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=1%E5%9D%97%E5%B0%B1%E8%83%BD%E4%B9%B0%2C%E6%9F%90%E5%9B%BD%E4%BA%A7AI%E7%96%91%E6%B6%89%E9%BB%84&topic_id=28364703
 
-核对：AI HOT 6 条；TrendRadar 16 条。
+核对：AI HOT 6 条；TrendRadar 17 条。
