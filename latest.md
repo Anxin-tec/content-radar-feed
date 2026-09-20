@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-21
 
-数据生成时间：2026-09-21T06:20:06+08:00（北京时间）
+数据生成时间：2026-09-21T07:11:43+08:00（北京时间）
 
 AI HOT：6 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -85,17 +85,17 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 
 链接：https://news.ifeng.com/c/8wZt1GO0xVb
 
-### N4｜Jev周末爆了：一个参与造出GPT的人，开始反思RLHF—AI不该永远需要人盯着
+### N4｜瑞银：全球AI领域资本支出明年升至1.4万亿美元 九成增量来自内存涨价
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2488123
+
+### N5｜Jev周末爆了：一个参与造出GPT的人，开始反思RLHF—AI不该永远需要人盯着
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782158
-
-### N5｜瑞银：全球AI领域资本支出明年升至1.4万亿美元 九成增量来自内存涨价
-
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2488123
 
 ### N6｜OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？
 
@@ -111,27 +111,27 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 
 ### N8｜疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？
 
-平台：知乎；榜单排名：18；实际出现快照数：3。
+平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2084432664535241222
 
 ### N9｜花2000块算力复刻瑞克和莫蒂
 
-平台：bilibili 热搜；榜单排名：20；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8A%B12000%E5%9D%97%E7%AE%97%E5%8A%9B%E5%A4%8D%E5%88%BB%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82
 
-### N10｜AI重做黑神话经典大战
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E9%87%8D%E5%81%9A%E9%BB%91%E7%A5%9E%E8%AF%9D%E7%BB%8F%E5%85%B8%E5%A4%A7%E6%88%98
-
-### N11｜AI剧迎严审,官方力挺真人剧
+### N10｜AI剧迎严审,官方力挺真人剧
 
 平台：贴吧；榜单排名：23；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7&topic_id=28364800
+
+### N11｜AI重做黑神话经典大战
+
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E9%87%8D%E5%81%9A%E9%BB%91%E7%A5%9E%E8%AF%9D%E7%BB%8F%E5%85%B8%E5%A4%A7%E6%88%98
 
 ### N12｜美军轻信AI假情报,险冲中国船
 
