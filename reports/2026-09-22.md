@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-22
 
-数据生成时间：2026-09-22T05:14:12+08:00（北京时间）
+数据生成时间：2026-09-22T06:11:07+08:00（北京时间）
 
 AI HOT：15 条；TrendRadar：13 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -13,7 +13,16 @@ AI HOT：15 条；TrendRadar：13 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数
+### A1｜小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3
+
+小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。
+
+来源：X：Arena (@arena)；发布时间：2026-09-21T21:08:21Z
+
+原文：https://x.com/arena/status/2102142912943489220
+收录页：https://aihot.news/items/cmubr2enk04a1rociadivcsjt
+
+### A2｜小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数
 
 小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。
 
@@ -22,7 +31,7 @@ AI HOT：15 条；TrendRadar：13 条 AI 相关热点。
 原文：https://x.com/ClementDelangue/status/2102141768674222323
 收录页：https://aihot.news/items/cmubqsb9b03v9rocigei56crg
 
-### A2｜小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型
+### A3｜小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型
 
 小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。
 
@@ -31,7 +40,7 @@ AI HOT：15 条；TrendRadar：13 条 AI 相关热点。
 原文：https://x.com/XiaomiMiMo/status/2102138559952290106
 收录页：https://aihot.news/items/cmubqsb9l03vbrociqf22sr07
 
-### A3｜小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升
+### A4｜小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升
 
 Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。
 
@@ -40,7 +49,7 @@ Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro �
 原文：https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8
 收录页：https://aihot.news/items/cmubpn8sw05u5ro4vlvacy22d
 
-### A4｜不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方
+### A5｜不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方
 
 不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。
 
@@ -48,15 +57,6 @@ Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro �
 
 原文：https://x.com/rohanpaul_ai/status/2102128625126605059
 收录页：https://aihot.news/items/cmubom7qi04k8ro4v1zoas2o7
-
-### A5｜小米 MiMo-V2.6-Pro 发布，登顶 Artificial Analysis 开源权重模型智能指数
-
-Xiaomi 发布开源权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，为开源权重模型中最高，前代 MiMo-V2.5-Pro 为 26。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-09-21T20:11:19Z
-
-原文：https://x.com/ArtificialAnlys/status/2102128560962187701
-收录页：https://aihot.news/items/cmubox8pl0510ro4vw01ibnin
 
 ### A6｜Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56
 
@@ -152,73 +152,73 @@ xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/
 
 ### N1｜美财长：中美将在深圳继续讨论AI问题
 
-平台：凤凰网；榜单排名：2；实际出现快照数：1。
+平台：凤凰网；榜单排名：2；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8wbmzYhjlJY
 
 ### N2｜刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破！
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782191
 
-### N3｜独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单
+### N3｜AI在哥德巴赫猜想上有何新进展
 
-平台：澎湃新闻；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34113571
-
-### N4｜AI在哥德巴赫猜想上有何新进展
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3%E4%B8%8A%E6%9C%89%E4%BD%95%E6%96%B0%E8%BF%9B%E5%B1%95
 
+### N4｜独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单
+
+平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34113571
+
 ### N5｜6G关键技术迈入系统化验证！智能体通信时代渐近
 
-平台：财联社热门；榜单排名：9；实际出现快照数：1。
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2489084
 
 ### N6｜GPT-6真敢杀人啊！推下天台，挥刀扎人不眨眼
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782223
 
 ### N7｜如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？
 
-平台：知乎；榜单排名：9；实际出现快照数：1。
+平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2085308622058120019
 
 ### N8｜如何看待多个模型公司声明放缓AI发展
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95
 
 ### N9｜去年全球人形机器人销量达7000台 今年出货量预计突破9万台
 
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2489019
 
 ### N10｜众擎T800机器人一脚踢翻人类拳手
 
-平台：百度热搜；榜单排名：14；实际出现快照数：1。
+平台：百度热搜；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%A2%E7%BF%BB%E4%BA%BA%E7%B1%BB%E6%8B%B3%E6%89%8B
 
 ### N11｜AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34114249
 
 ### N12｜花2000块算力复刻瑞克和莫蒂
 
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8A%B12000%E5%9D%97%E7%AE%97%E5%8A%9B%E5%A4%8D%E5%88%BB%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82
 
