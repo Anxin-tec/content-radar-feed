@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-21
 
-数据生成时间：2026-09-21T07:11:43+08:00（北京时间）
+数据生成时间：2026-09-21T08:28:35+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -56,26 +56,17 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 原文：https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da
 收录页：https://aihot.news/items/cmu96vqg8035srodqu63q13w4
 
-### A6｜纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用
-
-纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是"人类历史上最大规模的劳动力盗用"，OpenAI ChatGPT 负责人称其对出版商是"生存威胁"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。
-
-来源：Hacker News 热门（buzzing.cc 中文翻译）；发布时间：2026-09-19T23:58:19.151000Z
-
-原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit
-收录页：https://aihot.news/items/cmu92ktj505lkrojrl223hicj
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI四巨头遭到起诉：放缓AI发展的联合表态是非法协议
 
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2488018
 
 ### N2｜单机价值量翻3倍！折叠屏手机推新潮带热FPC AI眼镜或成放量“下一站”
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2488053
 
@@ -87,7 +78,7 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 
 ### N4｜瑞银：全球AI领域资本支出明年升至1.4万亿美元 九成增量来自内存涨价
 
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2488123
 
@@ -99,7 +90,7 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 
 ### N6｜OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782152
 
@@ -117,21 +108,21 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 
 ### N9｜花2000块算力复刻瑞克和莫蒂
 
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8A%B12000%E5%9D%97%E7%AE%97%E5%8A%9B%E5%A4%8D%E5%88%BB%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82
 
-### N10｜AI剧迎严审,官方力挺真人剧
+### N10｜AI重做黑神话经典大战
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E9%87%8D%E5%81%9A%E9%BB%91%E7%A5%9E%E8%AF%9D%E7%BB%8F%E5%85%B8%E5%A4%A7%E6%88%98
+
+### N11｜AI剧迎严审,官方力挺真人剧
 
 平台：贴吧；榜单排名：23；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7&topic_id=28364800
-
-### N11｜AI重做黑神话经典大战
-
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E9%87%8D%E5%81%9A%E9%BB%91%E7%A5%9E%E8%AF%9D%E7%BB%8F%E5%85%B8%E5%A4%A7%E6%88%98
 
 ### N12｜美军轻信AI假情报,险冲中国船
 
@@ -145,4 +136,4 @@ Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848
 
-核对：AI HOT 6 条；TrendRadar 13 条。
+核对：AI HOT 5 条；TrendRadar 13 条。
