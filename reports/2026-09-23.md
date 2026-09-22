@@ -1,13 +1,11 @@
 # AI 日报｜2026-09-23
 
-数据生成时间：2026-09-23T05:38:48+08:00（北京时间）
+数据生成时间：2026-09-23T06:24:47+08:00（北京时间）
 
-AI HOT：34 条；TrendRadar：13 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：35 条；TrendRadar：14 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -283,7 +281,16 @@ Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analys
 原文：https://x.com/ArtificialAnlys/status/2102213621963243704
 收录页：https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 
-### A31｜OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本
+### A31｜Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%
+
+Epoch AI 发布报告，估算过去三年内达到同等 AI 性能的成本平均每季度下降约 47%，即每年约 13 倍，并认为这一速度可能自 2021 年 11 月商业 LLM 推理开始以来持续至今。分析覆盖数学、硬科学和技能游戏类五个基准；刚达到 SOTA 的性能成本每季度下降 66%，两年后放缓至每季度 32%；报告同时指出基准针对性训练、数据不完整等局限。数据与代码在 GitHub 上公开。
+
+来源：Epoch AI：研究、数据与评测；发布时间：2026-09-22T00:00:00Z
+
+原文：https://epoch.ai/publications/the-plunging-price-of-thought
+收录页：https://aihot.news/items/cmud77i8r04yerorajpj343j2
+
+### A32｜OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本
 
 OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。
 
@@ -292,7 +299,7 @@ OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与
 原文：https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification
 收录页：https://aihot.news/items/cmucxyky704ftronibjzp4dos
 
-### A32｜OpenRouter 推出 Batch API，批量推理可享半价
+### A33｜OpenRouter 推出 Batch API，批量推理可享半价
 
 OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。
 
@@ -301,7 +308,7 @@ OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口�
 原文：https://openrouter.ai/blog/announcements/batch-api
 收录页：https://aihot.news/items/cmucobbcz0hj4roedra9qgdbh
 
-### A33｜transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp
+### A34｜transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp
 
 Hugging Face 宣布 transformers 支持直接运行 GGUF 量化模型，通过 from_pretrained 传入 gguf_file 即可加载 Hub 上的 GGUF checkpoint，并复用 ggml 的 Metal 内核。
 
@@ -310,7 +317,7 @@ Hugging Face 宣布 transformers 支持直接运行 GGUF 量化模型，通过 f
 原文：https://huggingface.co/blog/transformers-llama-cpp-quants
 收录页：https://aihot.news/items/cmuckj3gv09kiroed6m91iyre
 
-### A34｜OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用
+### A35｜OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用
 
 OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。
 
@@ -323,80 +330,86 @@ OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总
 
 ### N1｜最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782272
 
-### N2｜【焦点复盘】市场全天现放量滞涨，AI软硬件再度分化，两只新股上市首日双双大涨超6.8倍
+### N2｜AI新的"杀手级应用"出现了？Meta Muse有多火？
 
-平台：财联社热门；榜单排名：5；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2490193
-
-### N3｜【每日收评】创业板指冲高回落微涨收盘，AI应用概念全线爆发，算力硬件股午后调整
-
-平台：财联社热门；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2490143
-
-### N4｜AI新的"杀手级应用"出现了？Meta Muse有多火？
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782258
 
+### N3｜【焦点复盘】市场全天现放量滞涨，AI软硬件再度分化，两只新股上市首日双双大涨超6.8倍
+
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2490193
+
+### N4｜【每日收评】创业板指冲高回落微涨收盘，AI应用概念全线爆发，算力硬件股午后调整
+
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2490143
+
 ### N5｜特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782313
 
-### N6｜AI先淘汰员工，还是先淘汰职业经理人？
+### N6｜黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”
 
-平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34115860
-
-### N7｜黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782263
 
-### N8｜AI热情叠加中东局势缓和预期，美股高开，纳指涨0.3%创新高，美油跌幅收窄至2%，黄金走低
+### N7｜AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782289
 
+### N8｜A股三大股指尾盘一度转跌，算力芯片掀涨停潮，AI应用拉升，恒指、恒科指小幅收涨，腾讯阿里集体反弹
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782269
+
 ### N9｜如何看待多个模型公司声明放缓AI发展
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95
 
-### N10｜AI演示辟谣为何越来越难
+### N10｜AI先淘汰员工，还是先淘汰职业经理人？
+
+平台：澎湃新闻；榜单排名：12；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34115860
+
+### N11｜AI演示辟谣为何越来越难
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%BC%94%E7%A4%BA%E8%BE%9F%E8%B0%A3%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE
 
-### N11｜“四川甘孜州街头出现棕熊”系AI伪造
+### N12｜“四川甘孜州街头出现棕熊”系AI伪造
 
-平台：今日头条；榜单排名：13；实际出现快照数：2。
+平台：今日头条；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7687916094401249330/
 
-### N12｜在 AI 盛行的时代，大学生到底要学什么才不会被淘汰？
+### N13｜在 AI 盛行的时代，大学生到底要学什么才不会被淘汰？
 
 平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2076658003068052960
 
-### N13｜OPPO发了一款别在领口的AI新硬件
+### N14｜OPPO发了一款别在领口的AI新硬件
 
-平台：今日头条；榜单排名：24；实际出现快照数：1。
+平台：今日头条；榜单排名：26；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7688343302923468854/
 
-核对：AI HOT 34 条；TrendRadar 13 条。
+核对：AI HOT 35 条；TrendRadar 14 条。
