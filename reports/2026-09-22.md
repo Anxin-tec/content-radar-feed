@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-22
 
-数据生成时间：2026-09-22T07:06:54+08:00（北京时间）
+数据生成时间：2026-09-22T08:02:46+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,24 +130,6 @@ Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌�
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc
 收录页：https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
 
-### A14｜Tomer Tunguz 谈 AI 优化 if-then 判断：专用决策器把分类成本降近百倍
-
-Tomer Tunguz 撰文提出最新一波 AI 正在接管软件中的 if-then 判断原语，Jev 与 SemIf 这类专用决策器以数百毫秒返回结果，成本比传统生成式调用低约 76x 到 209x。作者在自己的 Agent 中替换了约四分之一的调用，在 98 条人工核验的生产邮件线程上，Jev 达到 80%、本地 SemIf 达到 82% 的分类准确率，高于生产模型的 47%。
-
-来源：Tomer Tunguz 博客（VC 分析）；发布时间：2026-09-21T00:00:00Z
-
-原文：https://tomtunguz.com/ai-comes-for-the-if-statement
-收录页：https://aihot.news/items/cmubhvftd10qjrolnr7q9k3lt
-
-### A15｜xAI 发布 Grok 4.7，主打编码与知识工作
-
-xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。
-
-来源：xAI：News（网页）；发布时间：2026-09-21T00:00:00Z
-
-原文：https://x.ai/news/grok-4-7
-收录页：https://aihot.news/items/cmubfarpy0xtirolnplntl9p1
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜美财长：中美将在深圳继续讨论AI问题
@@ -156,82 +138,106 @@ xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/
 
 链接：https://news.ifeng.com/c/8wbmzYhjlJY
 
-### N2｜刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破！
+### N2｜AI或可替代教师只需一个班主任
+
+平台：微博；榜单排名：2；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=AI%E6%88%96%E5%8F%AF%E6%9B%BF%E4%BB%A3%E6%95%99%E5%B8%88%E5%8F%AA%E9%9C%80%E4%B8%80%E4%B8%AA%E7%8F%AD%E4%B8%BB%E4%BB%BB
+
+### N3｜刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破！
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782191
 
-### N3｜AI在哥德巴赫猜想上有何新进展
+### N4｜AMD市值首破万亿美元！Meta智能体热潮点燃CPU行情
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2489460
+
+### N5｜如何评价 2026 年全国中学生物理竞赛机构营及复赛大规模出现 AI「辅助答题」行为？
+
+平台：知乎；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2085386253248350169
+
+### N6｜AI在哥德巴赫猜想上有何新进展
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3%E4%B8%8A%E6%9C%89%E4%BD%95%E6%96%B0%E8%BF%9B%E5%B1%95
 
-### N4｜独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单
+### N7｜GPT-6真敢杀人啊！推下天台，挥刀扎人不眨眼
 
-平台：澎湃新闻；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34113571
-
-### N5｜GPT-6真敢杀人啊！推下天台，挥刀扎人不眨眼
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782223
 
-### N6｜如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？
+### N8｜如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？
 
-平台：知乎；榜单排名：9；实际出现快照数：2。
+平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2085308622058120019
 
-### N7｜如何看待多个模型公司声明放缓AI发展
+### N9｜独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单
+
+平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34113571
+
+### N10｜如何看待多个模型公司声明放缓AI发展
 
 平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95
 
-### N8｜6G关键技术迈入系统化验证！智能体通信时代渐近
+### N11｜AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2489084
+链接：https://www.cls.cn/detail/2489489
 
-### N9｜去年全球人形机器人销量达7000台 今年出货量预计突破9万台
+### N12｜去年全球人形机器人销量达7000台 今年出货量预计突破9万台
 
 平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2489019
 
-### N10｜众擎T800机器人一脚踢翻人类拳手
+### N13｜6G关键技术迈入系统化验证！智能体通信时代渐近
 
-平台：百度热搜；榜单排名：14；实际出现快照数：2。
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2489084
+
+### N14｜众擎T800机器人一脚踢翻人类拳手
+
+平台：百度热搜；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%A2%E7%BF%BB%E4%BA%BA%E7%B1%BB%E6%8B%B3%E6%89%8B
 
-### N11｜AI或可替代教师只需一个班主任
+### N15｜AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”
 
-平台：微博；榜单排名：16；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=AI%E6%88%96%E5%8F%AF%E6%9B%BF%E4%BB%A3%E6%95%99%E5%B8%88%E5%8F%AA%E9%9C%80%E4%B8%80%E4%B8%AA%E7%8F%AD%E4%B8%BB%E4%BB%BB
-
-### N12｜AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”
-
-平台：澎湃新闻；榜单排名：19；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34114249
 
-### N13｜花2000块算力复刻瑞克和莫蒂
+### N16｜花2000块算力复刻瑞克和莫蒂
 
 平台：bilibili 热搜；榜单排名：25；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8A%B12000%E5%9D%97%E7%AE%97%E5%8A%9B%E5%A4%8D%E5%88%BB%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82
 
-### N14｜OpenAI被曝开发新功能
+### N17｜OpenAI被曝开发新功能
 
 平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=OpenAI%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E6%96%B0%E5%8A%9F%E8%83%BD
 
-核对：AI HOT 15 条；TrendRadar 14 条。
+### N18｜美科技巨头为何集体高喊“AI失控”
+
+平台：今日头条；榜单排名：28；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7687916010686418473/
+
+核对：AI HOT 13 条；TrendRadar 18 条。
