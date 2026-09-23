@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-23
 
-数据生成时间：2026-09-23T07:35:56+08:00（北京时间）
+数据生成时间：2026-09-23T08:54:48+08:00（北京时间）
 
-AI HOT：35 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：31 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,7 +11,25 @@ AI HOT：35 条；TrendRadar：16 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%
+### A1｜OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目
+
+OpenRouter 于 2026 年 9 月 11 日核实嵌入模型目录共 37 个条目，并通过自家 embeddings API 向 19 个模型发送批量请求、共 28 项检查，确认请求与响应行为。
+
+来源：OpenRouter：Announcements（RSS）；发布时间：2026-09-23T00:00:00Z
+
+原文：https://openrouter.ai/blog/insights/best-embedding-models-2026
+收录页：https://aihot.news/items/cmude350u077jroggw7odbigk
+
+### A2｜Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战
+
+Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。
+
+来源：Simon Willison 博客；发布时间：2026-09-22T23:46:41Z
+
+原文：https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna
+收录页：https://aihot.news/items/cmudch57g05bqroggl65fi9vo
+
+### A3｜OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%
 
 OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。
 
@@ -20,7 +38,7 @@ OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-
 原文：https://x.com/thsottiaux/status/2102509507415048245
 收录页：https://aihot.news/items/cmud73hd204tvrora52lp47l0
 
-### A2｜OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具
+### A4｜OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具
 
 OpenAI 为 GPT-6 系列推出改进的提示词缓存系统，默认提高缓存命中率，对 30 分钟窗口内复用的合格共享前缀提供最高 90% 的缓存输入 token 折扣。
 
@@ -29,7 +47,7 @@ OpenAI 为 GPT-6 系列推出改进的提示词缓存系统，默认提高缓存
 原文：https://openai.com/index/better-prompt-caching-for-gpt-6
 收录页：https://aihot.news/items/cmud4mu5303n5roa915w7f1ja
 
-### A3｜Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为
+### A5｜Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为
 
 Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。
 
@@ -38,7 +56,7 @@ Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5
 原文：https://x.com/rohanpaul_ai/status/2102491250515681384
 收录页：https://aihot.news/items/cmud52j4i003droralpe8a53b
 
-### A4｜Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降
+### A6｜Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降
 
 Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。
 
@@ -47,7 +65,7 @@ Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型�
 原文：https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier
 收录页：https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv
 
-### A5｜Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse
+### A7｜Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse
 
 Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。
 
@@ -56,7 +74,7 @@ Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端�
 原文：https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day
 收录页：https://aihot.news/items/cmud3b5q504b9rov6qig73auy
 
-### A6｜Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布
+### A8｜Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布
 
 Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。
 
@@ -65,7 +83,7 @@ Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用�
 原文：https://x.com/arena/status/2102480304409878769
 收录页：https://aihot.news/items/cmud3aisf04anrov691zrlhcg
 
-### A7｜五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一
+### A9｜五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一
 
 五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。
 
@@ -74,7 +92,7 @@ Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用�
 原文：https://www.bloomberg.com/graphics/2026-iran-school-attack
 收录页：https://aihot.news/items/cmud57mjw02snrora28mvi2h0
 
-### A8｜五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡
+### A10｜五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡
 
 据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。
 
@@ -83,16 +101,7 @@ Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用�
 原文：https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477
 收录页：https://aihot.news/items/cmud32gov0427rov6rcxw9xlf
 
-### A9｜Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%
-
-Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。
-
-来源：MarkTechPost（RSS）；发布时间：2026-09-22T18:59:35Z
-
-原文：https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release
-收录页：https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp
-
-### A10｜Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手
+### A11｜Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手
 
 Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。
 
@@ -101,7 +110,7 @@ Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上�
 原文：https://x.com/sama/status/2102465143997440308
 收录页：https://aihot.news/items/cmud0p2rl03ipro1flr9w7tnn
 
-### A11｜OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%
+### A12｜OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%
 
 OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。
 
@@ -110,7 +119,7 @@ OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更�
 原文：https://x.com/sama/status/2102464201335984392
 收录页：https://aihot.news/items/cmud0p2rm03irro1f0azwgip8
 
-### A12｜OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter
+### A13｜OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter
 
 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。
 
@@ -119,7 +128,7 @@ OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前
 原文：https://x.com/OpenRouter/status/2102463839283617992
 收录页：https://aihot.news/items/cmud0p2q603inro1fm32430f8
 
-### A13｜Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平
+### A14｜Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平
 
 Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。
 
@@ -128,7 +137,7 @@ Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 �
 原文：https://x.com/ArtificialAnlys/status/2102462962758033624
 收录页：https://aihot.news/items/cmud02r5503swro7nhqpu7dgu
 
-### A14｜GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%
+### A15｜GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%
 
 OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。
 
@@ -137,7 +146,7 @@ OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GP
 原文：https://x.com/sherwinwu/status/2102462783707344907
 收录页：https://aihot.news/items/cmud102ad03urro1fdmzfqj9w
 
-### A15｜GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送
+### A16｜GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送
 
 OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。
 
@@ -146,7 +155,7 @@ OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即�
 原文：https://x.com/ChatGPT/status/2102462020339613966
 收录页：https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji
 
-### A16｜OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%
+### A17｜OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%
 
 OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于更快更便宜的模型，API 价格较 GPT-5.6 促销价下调 50%（Sol 输入 $4→$2、输出 $20→$10；Luna 输入 $0.20→$0.10、输出 $1.20→$0.50，每百万 token）。
 
@@ -155,7 +164,7 @@ OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于�
 原文：https://openai.com/index/introducing-gpt-6-sol-and-luna
 收录页：https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3
 
-### A17｜Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode
+### A18｜Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode
 
 Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。
 
@@ -164,7 +173,7 @@ Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通�
 原文：https://x.com/arena/status/2102454952576868638
 收录页：https://aihot.news/items/cmucz06v905eironivy08mtvk
 
-### A18｜Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58
+### A19｜Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58
 
 Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。
 
@@ -173,7 +182,7 @@ Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Ana
 原文：https://artificialanalysis.ai/articles/claude-opus-5-5
 收录页：https://aihot.news/items/cmucyny580521roni2aiyh9xj
 
-### A19｜Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%
+### A20｜Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%
 
 Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。
 
@@ -182,7 +191,7 @@ Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数
 原文：https://www.anthropic.com/claude-opus-5-5
 收录页：https://aihot.news/items/cmucwy58v0rskroedmv35n8ji
 
-### A20｜Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%
+### A21｜Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%
 
 Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。
 
@@ -191,7 +200,7 @@ Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模
 原文：https://x.com/bcherny/status/2102439069053747549
 收录页：https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw
 
-### A21｜Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5
+### A22｜Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5
 
 Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。
 
@@ -200,7 +209,7 @@ Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模
 原文：https://x.com/OpenRouter/status/2102438921213014078
 收录页：https://aihot.news/items/cmucxgaki0sfkroed0n804wg5
 
-### A22｜Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%
+### A23｜Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%
 
 Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。
 
@@ -209,7 +218,7 @@ Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Ana
 原文：https://x.com/ArtificialAnlys/status/2102438210798514391
 收录页：https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5
 
-### A23｜Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型
+### A24｜Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型
 
 Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。
 
@@ -218,7 +227,7 @@ Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默�
 原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 收录页：https://aihot.news/items/cmucxceh40salroedruwhn0ee
 
-### A24｜Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型
+### A25｜Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型
 
 Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。
 
@@ -227,7 +236,7 @@ Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方
 原文：https://x.com/claudeai/status/2102435511222890900
 收录页：https://aihot.news/items/cmucwpqty0rj8roedzxz1496u
 
-### A25｜Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一
+### A26｜Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一
 
 通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。
 
@@ -236,7 +245,7 @@ Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方
 原文：https://x.com/arena/status/2102416020678008986
 收录页：https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r
 
-### A26｜LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API
+### A27｜LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API
 
 LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。
 
@@ -245,7 +254,7 @@ LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做�
 原文：https://www.llamaindex.ai/blog/liteparse-updates-september-2026
 收录页：https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6
 
-### A27｜Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售
+### A28｜Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售
 
 Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭载 M6 和 M5 Pro，AI 性能最高提升 4 倍。
 
@@ -254,7 +263,7 @@ Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭
 原文：https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today
 收录页：https://aihot.news/items/cmucoqh360i0jroedps8dr2es
 
-### A28｜Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来
+### A29｜Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来
 
 Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。
 
@@ -263,7 +272,7 @@ Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可�
 原文：https://x.com/Kimi_Moonshot/status/2102352211988865456
 收录页：https://aihot.news/items/cmuckjawr09ljroedz4yf3xqf
 
-### A29｜卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案
+### A30｜卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案
 
 作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。
 
@@ -272,7 +281,7 @@ Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可�
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd
 收录页：https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq
 
-### A30｜Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8
+### A31｜Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8
 
 Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。
 
@@ -281,82 +290,37 @@ Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analys
 原文：https://x.com/ArtificialAnlys/status/2102213621963243704
 收录页：https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 
-### A31｜Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%
-
-Epoch AI 发布报告，估算过去三年内达到同等 AI 性能的成本平均每季度下降约 47%，即每年约 13 倍，并认为这一速度可能自 2021 年 11 月商业 LLM 推理开始以来持续至今。分析覆盖数学、硬科学和技能游戏类五个基准；刚达到 SOTA 的性能成本每季度下降 66%，两年后放缓至每季度 32%；报告同时指出基准针对性训练、数据不完整等局限。数据与代码在 GitHub 上公开。
-
-来源：Epoch AI：研究、数据与评测；发布时间：2026-09-22T00:00:00Z
-
-原文：https://epoch.ai/publications/the-plunging-price-of-thought
-收录页：https://aihot.news/items/cmud77i8r04yerorajpj343j2
-
-### A32｜OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本
-
-OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-09-22T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification
-收录页：https://aihot.news/items/cmucxyky704ftronibjzp4dos
-
-### A33｜OpenRouter 推出 Batch API，批量推理可享半价
-
-OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-09-22T00:00:00Z
-
-原文：https://openrouter.ai/blog/announcements/batch-api
-收录页：https://aihot.news/items/cmucobbcz0hj4roedra9qgdbh
-
-### A34｜transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp
-
-Hugging Face 宣布 transformers 支持直接运行 GGUF 量化模型，通过 from_pretrained 传入 gguf_file 即可加载 Hub 上的 GGUF checkpoint，并复用 ggml 的 Metal 内核。
-
-来源：Hugging Face：Blog（RSS）；发布时间：2026-09-22T00:00:00Z
-
-原文：https://huggingface.co/blog/transformers-llama-cpp-quants
-收录页：https://aihot.news/items/cmuckj3gv09kiroed6m91iyre
-
-### A35｜OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用
-
-OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-09-22T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/nemotron-3-5-lightning
-收录页：https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”
+### N1｜鲁比奥：将与中国探讨建设AI预警热线
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：凤凰网；榜单排名：1；实际出现快照数：1。
+
+链接：https://original.ifeng.com/c/8we6gVwGc52
+
+### N2｜最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782272
 
-### N2｜如何评价 Anthropic 发布的 Opus 5.5？
+### N3｜AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V
 
-平台：知乎；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2085895787062600760
+链接：https://wallstreetcn.com/articles/3782289
 
-### N3｜AI新的"杀手级应用"出现了？Meta Muse有多火？
+### N4｜特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3782258
+链接：https://wallstreetcn.com/articles/3782313
 
-### N4｜【焦点复盘】市场全天现放量滞涨，AI软硬件再度分化，两只新股上市首日双双大涨超6.8倍
+### N5｜【焦点复盘】市场全天现放量滞涨，AI软硬件再度分化，两只新股上市首日双双大涨超6.8倍
 
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2490193
-
-### N5｜特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782313
 
 ### N6｜【每日收评】创业板指冲高回落微涨收盘，AI应用概念全线爆发，算力硬件股午后调整
 
@@ -364,64 +328,76 @@ OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总
 
 链接：https://www.cls.cn/detail/2490143
 
-### N7｜AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V
+### N7｜“DeepSeek将向联合国安理会作通报”
+
+平台：凤凰网；榜单排名：6；实际出现快照数：1。
+
+链接：https://news.ifeng.com/c/8wdIpvxWoQW
+
+### N8｜AI新的"杀手级应用"出现了？Meta Muse有多火？
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3782289
+链接：https://wallstreetcn.com/articles/3782258
 
-### N8｜黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”
+### N9｜估值跌至十年低点！黄仁勋称英伟达是"全球首只成长价值股"，但投资者似乎并不买账
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3782263
+链接：https://wallstreetcn.com/articles/3782301
 
-### N9｜AI先淘汰员工，还是先淘汰职业经理人？
+### N10｜AI先淘汰员工，还是先淘汰职业经理人？
 
 平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34115860
 
-### N10｜Claude Opus5.5或将上线
+### N11｜黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=Claude+Opus5.5%E6%88%96%E5%B0%86%E4%B8%8A%E7%BA%BF
+链接：https://wallstreetcn.com/articles/3782263
 
-### N11｜A股三大股指尾盘一度转跌，算力芯片掀涨停潮，AI应用拉升，恒指、恒科指小幅收涨，腾讯阿里集体反弹
+### N12｜A股三大股指尾盘一度转跌，算力芯片掀涨停潮，AI应用拉升，恒指、恒科指小幅收涨，腾讯阿里集体反弹
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782269
 
-### N12｜如何看待多个模型公司声明放缓AI发展
+### N13｜如何看待多个模型公司声明放缓AI发展
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95
 
-### N13｜“四川甘孜州街头出现棕熊”系AI伪造
+### N14｜“四川甘孜州街头出现棕熊”系AI伪造
 
 平台：今日头条；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7687916094401249330/
 
-### N14｜在 AI 盛行的时代，大学生到底要学什么才不会被淘汰？
+### N15｜GPT-6 Sol和Luna发布 API价格降一半
+
+平台：百度热搜；榜单排名：16；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=GPT-6+Sol%E5%92%8CLuna%E5%8F%91%E5%B8%83+API%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%B8%80%E5%8D%8A
+
+### N16｜AI演示辟谣为何越来越难
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%BC%94%E7%A4%BA%E8%BE%9F%E8%B0%A3%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE
+
+### N17｜在 AI 盛行的时代，大学生到底要学什么才不会被淘汰？
 
 平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2076658003068052960
 
-### N15｜AI演示辟谣为何越来越难
+### N18｜OPPO发了一款别在领口的AI新硬件
 
-平台：bilibili 热搜；榜单排名：20；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%BC%94%E7%A4%BA%E8%BE%9F%E8%B0%A3%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE
-
-### N16｜OPPO发了一款别在领口的AI新硬件
-
-平台：今日头条；榜单排名：29；实际出现快照数：2。
+平台：今日头条；榜单排名：24；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7688343302923468854/
 
-核对：AI HOT 35 条；TrendRadar 16 条。
+核对：AI HOT 31 条；TrendRadar 18 条。
