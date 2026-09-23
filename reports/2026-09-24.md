@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-24
 
-数据生成时间：2026-09-24T06:27:26+08:00（北京时间）
+数据生成时间：2026-09-24T06:52:17+08:00（北京时间）
 
-AI HOT：27 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：26 条；TrendRadar：14 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -245,15 +245,6 @@ Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna�
 原文：https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna
 收录页：https://aihot.news/items/cmudch57g05bqroggl65fi9vo
 
-### A27｜Artificial Analysis 评测：GPT-6 Sol 和 Luna 以约一半成本保持与 GPT-5.6 系列相近的 Intelligence Index 得分
-
-Artificial Analysis 发文指出，GPT-6 Sol 和 Luna 在 Intelligence Index 中得分与各自前代相近，但 token 定价下降约 50%，将单任务成本减半。其图表展示了各代 OpenAI 模型在智能与单任务成本之间的权衡曲线。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-09-22T22:38:23Z
-
-原文：https://x.com/ArtificialAnlys/status/2102527962201624915
-收录页：https://aihot.news/items/cmud9s4pn001groggnqsackao
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？
@@ -270,7 +261,7 @@ Artificial Analysis 发文指出，GPT-6 Sol 和 Luna 在 Intelligence Index 中
 
 ### N3｜腾讯放弃 AI 元宝全力押注 WorkBuddy，这次战略转型算成功吗？
 
-平台：知乎；榜单排名：3；实际出现快照数：3。
+平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2081698141351555724
 
@@ -292,29 +283,29 @@ Artificial Analysis 发文指出，GPT-6 Sol 和 Luna 在 Intelligence Index 中
 
 链接：https://wallstreetcn.com/articles/3782289
 
-### N7｜AI交易回归，纳指创出新高，存储全线领涨
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782333
-
-### N8｜特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce
+### N7｜特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782324
 
-### N9｜什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度
+### N8｜AI交易回归，纳指创出新高，存储全线领涨
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3782371
+链接：https://wallstreetcn.com/articles/3782333
 
-### N10｜AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本
+### N9｜AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本
 
 平台：澎湃新闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34130539
+
+### N10｜什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3782371
 
 ### N11｜流水创新高叠加AI提效 游戏行业全年有望延续高景气|一线
 
@@ -322,16 +313,22 @@ Artificial Analysis 发文指出，GPT-6 Sol 和 Luna 在 Intelligence Index 中
 
 链接：https://www.cls.cn/detail/2491314
 
-### N12｜DeepSeek新论文作者名单超过130人
+### N12｜软银正寻求发行超 110 亿美元、史上最大规模之一的垃圾债继续押注 AI，有哪些信息值得关注？
 
-平台：百度热搜；榜单排名：26；实际出现快照数：3。
+平台：知乎；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E8%AE%BA%E6%96%87%E4%BD%9C%E8%80%85%E5%90%8D%E5%8D%95%E8%B6%85%E8%BF%87130%E4%BA%BA
+链接：https://www.zhihu.com/question/2085674664559210886
 
 ### N13｜李永乐评AI狙击哥德巴赫猜想
 
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%AF%84AI%E7%8B%99%E5%87%BB%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3
 
-核对：AI HOT 27 条；TrendRadar 13 条。
+### N14｜DeepSeek新论文作者名单超过130人
+
+平台：百度热搜；榜单排名：28；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E8%AE%BA%E6%96%87%E4%BD%9C%E8%80%85%E5%90%8D%E5%8D%95%E8%B6%85%E8%BF%87130%E4%BA%BA
+
+核对：AI HOT 26 条；TrendRadar 14 条。
