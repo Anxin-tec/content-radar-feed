@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-23
 
-数据生成时间：2026-09-23T08:54:48+08:00（北京时间）
+数据生成时间：2026-09-23T09:27:19+08:00（北京时间）
 
 AI HOT：31 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -342,7 +342,7 @@ Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analys
 
 ### N9｜估值跌至十年低点！黄仁勋称英伟达是"全球首只成长价值股"，但投资者似乎并不买账
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782301
 
@@ -358,17 +358,17 @@ Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analys
 
 链接：https://wallstreetcn.com/articles/3782263
 
-### N12｜A股三大股指尾盘一度转跌，算力芯片掀涨停潮，AI应用拉升，恒指、恒科指小幅收涨，腾讯阿里集体反弹
+### N12｜特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3782269
+链接：https://wallstreetcn.com/articles/3782324
 
-### N13｜如何看待多个模型公司声明放缓AI发展
+### N13｜AI演示辟谣为何越来越难
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95
+链接：https://search.bilibili.com/all?keyword=AI%E6%BC%94%E7%A4%BA%E8%BE%9F%E8%B0%A3%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE
 
 ### N14｜“四川甘孜州街头出现棕熊”系AI伪造
 
@@ -376,17 +376,17 @@ Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analys
 
 链接：https://www.toutiao.com/trending/7687916094401249330/
 
-### N15｜GPT-6 Sol和Luna发布 API价格降一半
+### N15｜如何看待多个模型公司声明放缓AI发展
+
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95
+
+### N16｜GPT-6 Sol和Luna发布 API价格降一半
 
 平台：百度热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=GPT-6+Sol%E5%92%8CLuna%E5%8F%91%E5%B8%83+API%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%B8%80%E5%8D%8A
-
-### N16｜AI演示辟谣为何越来越难
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%BC%94%E7%A4%BA%E8%BE%9F%E8%B0%A3%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE
 
 ### N17｜在 AI 盛行的时代，大学生到底要学什么才不会被淘汰？
 
