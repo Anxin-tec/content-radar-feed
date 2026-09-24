@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T05:46:28+08:00（北京时间）
+数据生成时间：2026-09-25T06:43:10+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：9 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：16 条；TrendRadar：10 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -157,69 +157,66 @@ OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 
 原文：https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html
 收录页：https://aihot.news/items/cmuepgrq30eh3royntmaj59h4
 
-### A17｜AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类
-
-联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。
-
-来源：Gary Marcus：The Road to AI We Can Trust（RSS）；发布时间：2026-09-23T21:46:40Z
-
-原文：https://garymarcus.substack.com/p/historic-un-security-council-briefing
-收录页：https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
 
-平台：澎湃新闻；榜单排名：6；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34132966
 
 ### N2｜吧友手搓AI娘网站,梗图全收录
 
-平台：贴吧；榜单排名：6；实际出现快照数：1。
+平台：贴吧；榜单排名：6；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N3｜DeepSeek将参加联合国会议
+### N3｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
 
-平台：贴吧；榜单排名：9；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
-
-### N4｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782422
 
-### N5｜食贫道硅谷看AI
+### N4｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
-
-### N6｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782454
 
+### N5｜DeepSeek将参加联合国会议
+
+平台：贴吧；榜单排名：9；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
+
+### N6｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782474
+
 ### N7｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
 
-平台：知乎；榜单排名：18；实际出现快照数：1。
+平台：知乎；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2084281918074385700
 
-### N8｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+### N8｜UP主AI自制封神2
 
-平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34139046
-
-### N9｜UP主AI自制封神2
-
-平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-核对：AI HOT 17 条；TrendRadar 9 条。
+### N9｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34139046
+
+### N10｜食贫道硅谷看AI
+
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+
+核对：AI HOT 16 条；TrendRadar 10 条。
