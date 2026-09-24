@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-24
 
-数据生成时间：2026-09-24T07:38:37+08:00（北京时间）
+数据生成时间：2026-09-24T08:51:47+08:00（北京时间）
 
-AI HOT：29 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：25 条；TrendRadar：14 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -236,45 +236,9 @@ OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 
 原文：https://x.com/Alibaba_Qwen/status/2102569821997346912
 收录页：https://aihot.news/items/cmudfo3yi090orogg6bl51tiq
 
-### A26｜Tomer Tunguz：AI 最重要的市场在中段而非前沿模型
-
-Tomer Tunguz 分析认为企业 AI 用量集中在需要足够智能且价格可负担的多步骤工作流中段市场，降价竞争正是证据。Anthropic 前沿模型 Fable 5.1 上线前十二天仅占网关支出的 3.7%，大型企业账户的前沿模型 token 消耗占比从 8 月初的 53% 降至 9 月的 45%；Cursor 用微调 Kimi K2.5 将成本降低 86%。
-
-来源：Tomer Tunguz 博客（VC 分析）；发布时间：2026-09-23T00:00:00Z
-
-原文：https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle
-收录页：https://aihot.news/items/cmuej9tln04hproynr12xpgt5
-
-### A27｜Modal 详解如何以万亿 token 规模服务 Kimi K2.6 编码 Agent 推理
-
-Modal 分享为编码 Agent 提供万亿参数模型 Kimi K2.6 推理服务的优化实践，优化后单副本每用户性能提升 2.8x、副本整体吞吐提升 5.6x，单个服务日处理数千亿 token。
-
-来源：Modal 官方工程博客（RSS）；发布时间：2026-09-23T00:00:00Z
-
-原文：https://modal.com/blog/trillion-tokens-trillion-parameters
-收录页：https://aihot.news/items/cmueg56ob04iqrovxup3jp0ly
-
-### A28｜OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目
-
-OpenRouter 于 2026 年 9 月 11 日核实嵌入模型目录共 37 个条目，并通过自家 embeddings API 向 19 个模型发送批量请求、共 28 项检查，确认请求与响应行为。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-09-23T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/best-embedding-models-2026
-收录页：https://aihot.news/items/cmude350u077jroggw7odbigk
-
-### A29｜Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战
-
-Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。
-
-来源：Simon Willison 博客；发布时间：2026-09-22T23:46:41Z
-
-原文：https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna
-收录页：https://aihot.news/items/cmudch57g05bqroggl65fi9vo
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜腾讯放弃 AI 元宝全力押注 WorkBuddy，这次战略转型算成功吗？
+### N1｜腾讯 AI 放弃元宝，全力押注 WorkBuddy 了吗？这次战略转型算成功吗？
 
 平台：知乎；榜单排名：1；实际出现快照数：3。
 
@@ -304,35 +268,35 @@ Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna�
 
 链接：https://wallstreetcn.com/articles/3782289
 
-### N6｜特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce
+### N6｜怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？
+
+平台：知乎；榜单排名：5；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2086074213694293548
+
+### N7｜特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782324
 
-### N7｜AI交易回归，纳指创出新高，存储全线领涨
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782333
-
 ### N8｜AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本
 
-平台：澎湃新闻；榜单排名：10；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34130539
 
-### N9｜什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度
+### N9｜AI交易回归，纳指创出新高，存储全线领涨
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3782333
+
+### N10｜什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782371
-
-### N10｜怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？
-
-平台：知乎；榜单排名：12；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2086074213694293548
 
 ### N11｜流水创新高叠加AI提效 游戏行业全年有望延续高景气|一线
 
@@ -340,16 +304,22 @@ Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna�
 
 链接：https://www.cls.cn/detail/2491314
 
-### N12｜李永乐评AI狙击哥德巴赫猜想
+### N12｜澎湃AI晚新闻丨2026年9月23日
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34135181
+
+### N13｜李永乐评AI狙击哥德巴赫猜想
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%AF%84AI%E7%8B%99%E5%87%BB%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3
 
-### N13｜DeepSeek新论文作者名单超过130人
+### N14｜DeepSeek新论文作者名单超过130人
 
-平台：百度热搜；榜单排名：29；实际出现快照数：2。
+平台：百度热搜；榜单排名：27；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E8%AE%BA%E6%96%87%E4%BD%9C%E8%80%85%E5%90%8D%E5%8D%95%E8%B6%85%E8%BF%87130%E4%BA%BA
 
-核对：AI HOT 29 条；TrendRadar 13 条。
+核对：AI HOT 25 条；TrendRadar 14 条。
