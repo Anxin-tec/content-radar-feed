@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T07:08:43+08:00（北京时间）
+数据生成时间：2026-09-25T07:51:59+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -164,27 +164,27 @@ OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 
 
 ### N3｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782422
 
 ### N4｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782454
 
-### N5｜DeepSeek将参加联合国会议
+### N5｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782474
+
+### N6｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：9；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
-
-### N6｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3782474
 
 ### N7｜食贫道硅谷看AI
 
@@ -192,28 +192,22 @@ OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 
 
 链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
 
-### N8｜未来三十年内，哪些行业的工作人员可能会被人工智能取代？
-
-平台：知乎；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/31381946
-
-### N9｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+### N8｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2084281918074385700
 
-### N10｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+### N9｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34139046
 
-### N11｜UP主AI自制封神2
+### N10｜UP主AI自制封神2
 
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-核对：AI HOT 15 条；TrendRadar 11 条。
+核对：AI HOT 15 条；TrendRadar 10 条。
