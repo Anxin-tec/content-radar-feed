@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T06:43:10+08:00（北京时间）
+数据生成时间：2026-09-25T07:08:43+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -148,15 +148,6 @@ OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 
 原文：https://openrouter.ai/blog/insights/kimi-k3-open-source
 收录页：https://aihot.news/items/cmuetpj5l04curohbgsl4cj6m
 
-### A16｜阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统
-
-澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。
-
-来源：Hacker News 热门（buzzing.cc 中文翻译）；发布时间：2026-09-23T22:54:29.320000Z
-
-原文：https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html
-收录页：https://aihot.news/items/cmuepgrq30eh3royntmaj59h4
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
@@ -195,28 +186,34 @@ OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 
 
 链接：https://wallstreetcn.com/articles/3782474
 
-### N7｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+### N7｜食贫道硅谷看AI
 
-平台：知乎；榜单排名：18；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+
+### N8｜未来三十年内，哪些行业的工作人员可能会被人工智能取代？
+
+平台：知乎；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/31381946
+
+### N9｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2084281918074385700
 
-### N8｜UP主AI自制封神2
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
-
-### N9｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+### N10｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34139046
 
-### N10｜食贫道硅谷看AI
+### N11｜UP主AI自制封神2
 
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-核对：AI HOT 16 条；TrendRadar 10 条。
+核对：AI HOT 15 条；TrendRadar 11 条。
