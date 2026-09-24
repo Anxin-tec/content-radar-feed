@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T04:07:13+08:00（北京时间）
+数据生成时间：2026-09-25T04:45:04+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：7 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -184,15 +184,6 @@ Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本�
 原文：https://x.com/ClaudeDevs/status/2102871550974427462
 收录页：https://aihot.news/items/cmueurvwl03tvroyqdzcth166
 
-### A20｜团队分享提升 Agent Harness Token 效率的提示词
-
-一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。
-
-来源：X：Eric Zakariasson (@ericzakariasson)；发布时间：2026-09-23T20:12:00Z
-
-原文：https://x.com/ericzakariasson/status/2102853511637774551
-收录页：https://aihot.news/items/cmuek0q2c05foroynclaijp3z
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
@@ -207,29 +198,29 @@ Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N3｜DeepSeek将参加联合国会议
+### N3｜食贫道硅谷看AI
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+
+### N4｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：9；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N4｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
+### N5｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782422
 
-### N5｜食贫道硅谷看AI
+### N6｜UP主AI自制封神2
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
-
-### N6｜如何看待数学在 AI 的威胁下岌岌可危？
-
-平台：知乎；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2082905736150003738
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
 ### N7｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
 
@@ -237,4 +228,22 @@ Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34139046
 
-核对：AI HOT 20 条；TrendRadar 7 条。
+### N8｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+
+平台：知乎；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2084281918074385700
+
+### N9｜博主：中美在AI领域走向合作是大趋势
+
+平台：今日头条；榜单排名：27；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7689008853895089690/
+
+### N10｜演员王朱悦回应AI换脸风波
+
+平台：抖音；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.douyin.com/hot/2664888
+
+核对：AI HOT 19 条；TrendRadar 10 条。
