@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T04:45:04+08:00（北京时间）
+数据生成时间：2026-09-25T05:46:28+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：9 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -166,24 +166,6 @@ OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 
 原文：https://garymarcus.substack.com/p/historic-un-security-council-briefing
 收录页：https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1
 
-### A18｜Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件
-
-澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。
-
-来源：X：Nathan Lambert (@natolambert)；发布时间：2026-09-23T21:26:00Z
-
-原文：https://x.com/natolambert/status/2102872133244183038
-收录页：https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd
-
-### A19｜Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度
-
-Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。
-
-来源：X：Claude Devs (@ClaudeDevs)；发布时间：2026-09-23T21:23:41Z
-
-原文：https://x.com/ClaudeDevs/status/2102871550974427462
-收录页：https://aihot.news/items/cmueurvwl03tvroyqdzcth166
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
@@ -198,52 +180,46 @@ Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N3｜食贫道硅谷看AI
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
-
-### N4｜DeepSeek将参加联合国会议
+### N3｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：9；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N5｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
+### N4｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782422
 
-### N6｜UP主AI自制封神2
+### N5｜食贫道硅谷看AI
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
+链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
 
-### N7｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+### N6｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782454
+
+### N7｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+
+平台：知乎；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2084281918074385700
+
+### N8｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34139046
 
-### N8｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+### N9｜UP主AI自制封神2
 
-平台：知乎；榜单排名：20；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2084281918074385700
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-### N9｜博主：中美在AI领域走向合作是大趋势
-
-平台：今日头条；榜单排名：27；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7689008853895089690/
-
-### N10｜演员王朱悦回应AI换脸风波
-
-平台：抖音；榜单排名：29；实际出现快照数：1。
-
-链接：https://www.douyin.com/hot/2664888
-
-核对：AI HOT 19 条；TrendRadar 10 条。
+核对：AI HOT 17 条；TrendRadar 9 条。
