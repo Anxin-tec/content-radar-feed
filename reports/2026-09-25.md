@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T07:51:59+08:00（北京时间）
+数据生成时间：2026-09-25T08:46:37+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,84 +130,72 @@ OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 C
 原文：https://www.ithome.com/1/006/548.htm
 收录页：https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d
 
-### A14｜vLLM 新增基于 Gumbel-max 的无失真文本水印功能
-
-vLLM 宣布支持基于 Gumbel-max 算法的无失真水印，将其集成进 Model Runner v2 的采样管线，并通过 PR #54053、#56122、#56233 实现融合 GPU kernel、双键方案和上下文去重，以兼容投机解码并保持输出多样性。
-
-来源：vLLM 官方博客（RSS）；发布时间：2026-09-24T00:00:00Z
-
-原文：https://vllm.ai/blog/2026-09-24-watermarking-in-vllm
-收录页：https://aihot.news/items/cmuftlsmy08bfroxz8mnqow1d
-
-### A15｜OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用
-
-OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-09-24T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/kimi-k3-open-source
-收录页：https://aihot.news/items/cmuetpj5l04curohbgsl4cj6m
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
+### N1｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3782422
+
+### N2｜食贫道硅谷看AI
+
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+
+### N3｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
 
 平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34132966
 
-### N2｜吧友手搓AI娘网站,梗图全收录
+### N4｜吧友手搓AI娘网站,梗图全收录
 
 平台：贴吧；榜单排名：6；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N3｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
+### N5｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3782422
-
-### N4｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
-
 链接：https://wallstreetcn.com/articles/3782454
 
-### N5｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
+### N6｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782474
 
-### N6｜DeepSeek将参加联合国会议
+### N7｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：9；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N7｜食贫道硅谷看AI
+### N8｜如何评价 AI 短剧《我的妹妹不可爱》？
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+链接：https://www.zhihu.com/question/2082633591561924694
 
-### N8｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+### N9｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2084281918074385700
 
-### N9｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+### N10｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
 
-平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34139046
 
-### N10｜UP主AI自制封神2
+### N11｜UP主AI自制封神2
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-核对：AI HOT 15 条；TrendRadar 10 条。
+核对：AI HOT 13 条；TrendRadar 11 条。
