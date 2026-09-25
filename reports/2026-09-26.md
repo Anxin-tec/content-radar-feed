@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-26
 
-数据生成时间：2026-09-26T06:45:07+08:00（北京时间）
+数据生成时间：2026-09-26T07:12:52+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：7 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -210,10 +210,4 @@ Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-### N8｜AI演化出了自己的方言
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%BC%94%E5%8C%96%E5%87%BA%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%B9%E8%A8%80
-
-核对：AI HOT 17 条；TrendRadar 8 条。
+核对：AI HOT 17 条；TrendRadar 7 条。
