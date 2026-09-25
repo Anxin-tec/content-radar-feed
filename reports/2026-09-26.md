@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-26
 
-数据生成时间：2026-09-26T07:12:52+08:00（北京时间）
+数据生成时间：2026-09-26T07:56:36+08:00（北京时间）
 
 AI HOT：17 条；TrendRadar：7 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -168,23 +168,23 @@ Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜怎么评价 DeepSeek Harness 桌面版源码正式上线？
-
-平台：知乎；榜单排名：5；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2086771082363778021
-
-### N2｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
+### N1｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
 
 平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2493017
 
-### N3｜DeepSeek Harness出桌面版了！
+### N2｜DeepSeek Harness出桌面版了！
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782523
+
+### N3｜Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3782523
+链接：https://wallstreetcn.com/articles/3782531
 
 ### N4｜吧友手搓AI娘网站,梗图全收录
 
@@ -192,11 +192,11 @@ Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N5｜Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧
+### N5｜怎么评价 DeepSeek Harness 桌面版源码正式上线？
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3782531
+链接：https://www.zhihu.com/question/2086771082363778021
 
 ### N6｜DeepSeek将参加联合国会议
 
