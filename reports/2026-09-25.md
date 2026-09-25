@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-25
 
-数据生成时间：2026-09-25T08:46:37+08:00（北京时间）
+数据生成时间：2026-09-25T09:25:39+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -112,43 +112,25 @@ Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行
 原文：https://x.com/ClaudeDevs/status/2102940480736821610
 收录页：https://aihot.news/items/cmuew6nid02ggro3ko74hery9
 
-### A12｜Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04
-
-Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-09-24T01:24:22Z
-
-原文：https://x.com/ArtificialAnlys/status/2102932119995756613
-收录页：https://aihot.news/items/cmuevlgvm04y3royqizmoqx3s
-
-### A13｜OpenAI 称与苹果的 ChatGPT 合作表现远低于预期
-
-OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。
-
-来源：IT之家（RSS）；发布时间：2026-09-24T01:12:13Z
-
-原文：https://www.ithome.com/1/006/548.htm
-收录页：https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜Claude发现神秘DNA系统！狂烧2.1 亿Token挖出「上帝手术刀」
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782422
 
-### N2｜食贫道硅谷看AI
+### N2｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
-
-### N3｜“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能
-
-平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34132966
+
+### N3｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3782454
 
 ### N4｜吧友手搓AI娘网站,梗图全收录
 
@@ -156,46 +138,46 @@ OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 C
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N5｜商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识
+### N5｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3782454
-
-### N6｜半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782474
 
-### N7｜DeepSeek将参加联合国会议
+### N6｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：9；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N8｜如何评价 AI 短剧《我的妹妹不可爱》？
+### N7｜如何评价 AI 短剧《我的妹妹不可爱》？
 
-平台：知乎；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2082633591561924694
 
-### N9｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
+### N8｜食贫道硅谷看AI
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI
+
+### N9｜UP主AI自制封神2
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
+
+### N10｜怎么看网友用两小时就实现了 TypeSafe AI 用了两年 RLCD 才做到的 Jev 模型效果？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2084281918074385700
 
-### N10｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
+### N11｜OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险
 
-平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34139046
 
-### N11｜UP主AI自制封神2
-
-平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
-
-核对：AI HOT 13 条；TrendRadar 11 条。
+核对：AI HOT 11 条；TrendRadar 11 条。
