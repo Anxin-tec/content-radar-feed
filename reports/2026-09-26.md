@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-26
 
-数据生成时间：2026-09-26T08:51:01+08:00（北京时间）
+数据生成时间：2026-09-26T09:29:56+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：9 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -185,50 +185,56 @@ Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare
 
 ### N2｜DeepSeek Harness出桌面版了！
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782523
 
 ### N3｜怎么评价 DeepSeek Harness 桌面版源码正式上线？
 
-平台：知乎；榜单排名：7；实际出现快照数：2。
+平台：知乎；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2086771082363778021
 
 ### N4｜【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈
 
-平台：财联社热门；榜单排名：9；实际出现快照数：1。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2493196
 
-### N5｜Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧
+### N5｜通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782544
+
+### N6｜Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782531
 
-### N6｜吧友手搓AI娘网站,梗图全收录
+### N7｜吧友手搓AI娘网站,梗图全收录
 
 平台：贴吧；榜单排名：10；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N7｜通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%
+### N8｜还没破百万日活，Meta Muse就频频掉链子：服务降级、Agent失败，算力瓶颈浮出水面
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3782544
+链接：https://wallstreetcn.com/articles/3782546
 
-### N8｜DeepSeek将参加联合国会议
+### N9｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：13；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N9｜UP主AI自制封神2
+### N10｜UP主AI自制封神2
 
 平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2
 
-核对：AI HOT 18 条；TrendRadar 9 条。
+核对：AI HOT 18 条；TrendRadar 10 条。
