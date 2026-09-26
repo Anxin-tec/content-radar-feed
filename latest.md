@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-27
 
-数据生成时间：2026-09-27T04:07:29+08:00（北京时间）
+数据生成时间：2026-09-27T05:30:05+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -67,24 +67,6 @@ Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模�
 原文：https://swarmtraces.org/
 收录页：https://aihot.news/items/cmuhnmnp20fuhrojn1henams8
 
-### A7｜Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链
-
-OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。
-
-来源：X：Yuchen Jin (@Yuchenj_UW)；发布时间：2026-09-25T20:55:22Z
-
-原文：https://x.com/Yuchenj_UW/status/2103589198427193593
-收录页：https://aihot.news/items/cmuhg4wsw04gprojna9lutexs
-
-### A8｜OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据
-
-OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。
-
-来源：X：OpenAI (@OpenAI)；发布时间：2026-09-25T20:46:50Z
-
-原文：https://x.com/OpenAI/status/2103587050347995581
-收录页：https://aihot.news/items/cmuhftp03045orojn23z3etdc
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈
@@ -99,52 +81,52 @@ OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向
 
 链接：https://wallstreetcn.com/articles/3782579
 
-### N3｜AI怎么让NS方程爆炸的
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
-
-### N4｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
+### N3｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2493017
 
-### N5｜高盛测算：“AI第二阶段”的“资本缺口”要怎么补？
+### N4｜高盛测算：“AI第二阶段”的“资本缺口”要怎么补？
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782577
 
-### N6｜Meta AI主管Alexandr Wang：为何我要做Muse
+### N5｜Meta AI主管Alexandr Wang：为何我要做Muse
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782587
 
-### N7｜比尔·盖茨警告AI或致十亿人死亡
+### N6｜比尔·盖茨警告AI或致十亿人死亡
 
 平台：今日头条；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7689043490262269990/
 
-### N8｜比尔•盖茨警告 AI 或可致十亿人死亡，呼吁立法监管，怎样看待他的观点？现阶段需要怎样的法律约束 AI？
+### N7｜比尔•盖茨警告 AI 或可致十亿人死亡，呼吁立法监管，怎样看待他的观点？现阶段需要怎样的法律约束 AI？
 
 平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2087176327761584946
 
-### N9｜吧友手搓AI娘网站,梗图全收录
+### N8｜吧友手搓AI娘网站,梗图全收录
 
 平台：贴吧；榜单排名：15；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N10｜DeepSeek将参加联合国会议
+### N9｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：20；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-核对：AI HOT 8 条；TrendRadar 10 条。
+### N10｜AI怎么让NS方程爆炸的
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
+
+核对：AI HOT 6 条；TrendRadar 10 条。
