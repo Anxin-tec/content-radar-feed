@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-27
 
-数据生成时间：2026-09-27T08:51:16+08:00（北京时间）
+数据生成时间：2026-09-27T09:21:41+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -88,17 +88,17 @@ Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模�
 
 链接：https://www.cls.cn/detail/2493196
 
-### N3｜高盛测算：“AI第二阶段”的“资本缺口”要怎么补？
+### N3｜Meta AI主管Alexandr Wang：为何我要做Muse
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3782577
+链接：https://wallstreetcn.com/articles/3782587
 
-### N4｜Meta AI主管Alexandr Wang：为何我要做Muse
+### N4｜高盛测算：“AI第二阶段”的“资本缺口”要怎么补？
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3782587
+链接：https://wallstreetcn.com/articles/3782577
 
 ### N5｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
 
@@ -112,35 +112,35 @@ Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模�
 
 链接：https://www.zhihu.com/question/2086886759296775993
 
-### N7｜AI怎么让NS方程爆炸的
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
-
-### N8｜比尔·盖茨警告AI或致十亿人死亡
-
-平台：今日头条；榜单排名：12；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7689043490262269990/
-
-### N9｜比尔•盖茨警告 AI 或可致十亿人死亡，呼吁立法监管，怎样看待他的观点？现阶段需要怎样的法律约束 AI？
-
-平台：知乎；榜单排名：12；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2087176327761584946
-
-### N10｜OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”
+### N7｜OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2493223
 
-### N11｜吧友手搓AI娘网站,梗图全收录
+### N8｜吧友手搓AI娘网站,梗图全收录
 
 平台：贴吧；榜单排名：15；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
+
+### N9｜比尔·盖茨警告AI或致十亿人死亡
+
+平台：今日头条；榜单排名：15；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7689043490262269990/
+
+### N10｜AI怎么让NS方程爆炸的
+
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
+
+### N11｜比尔•盖茨警告 AI 或可致十亿人死亡，呼吁立法监管，怎样看待他的观点？现阶段需要怎样的法律约束 AI？
+
+平台：知乎；榜单排名：18；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2087176327761584946
 
 ### N12｜DeepSeek将参加联合国会议
 
@@ -154,10 +154,4 @@ Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模�
 
 链接：https://s.weibo.com/weibo?q=%23Claude%E5%88%B7%E6%96%B0%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23
 
-### N14｜Claude刷新物理学世界纪录
-
-平台：百度热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=Claude%E5%88%B7%E6%96%B0%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95
-
-核对：AI HOT 7 条；TrendRadar 14 条。
+核对：AI HOT 7 条；TrendRadar 13 条。
