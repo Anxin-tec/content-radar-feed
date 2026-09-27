@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-28
 
-数据生成时间：2026-09-28T04:22:34+08:00（北京时间）
+数据生成时间：2026-09-28T05:34:34+08:00（北京时间）
 
 AI HOT：4 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -57,17 +57,17 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://www.cls.cn/detail/2493420
 
-### N2｜OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停
+### N2｜微微一笑很倾城AI换脸后
+
+平台：微博；榜单排名：1；实际出现快照数：2。
+
+链接：https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23
+
+### N3｜OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782592
-
-### N3｜微微一笑很倾城AI换脸后
-
-平台：微博；榜单排名：2；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23
 
 ### N4｜美俄被曝在联合国管控AI武器谈判中弱化安全条款
 
@@ -99,35 +99,35 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://wallstreetcn.com/articles/3782590
 
-### N9｜AI在理论物理领域的最新突破
-
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%9C%80%E6%96%B0%E7%AA%81%E7%A0%B4
-
-### N10｜“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”
+### N9｜“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782602
 
-### N11｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
+### N10｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2493017
 
-### N12｜入侵美澳政府网站！OpenAI暂停最先进模型训练
+### N11｜入侵美澳政府网站！OpenAI暂停最先进模型训练
 
 平台：凤凰网；榜单排名：8；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8wlALQRALzW
 
-### N13｜英伟达加码玻璃基板 联合设备商攻关 催促产业链两年内完成开发
+### N12｜英伟达加码玻璃基板 联合设备商攻关 催促产业链两年内完成开发
 
 平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2493349
+
+### N13｜AI在理论物理领域的最新突破
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%9C%80%E6%96%B0%E7%AA%81%E7%A0%B4
 
 ### N14｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
 
@@ -147,17 +147,17 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://www.cls.cn/detail/2493334
 
-### N17｜AI怎么让NS方程爆炸的
+### N17｜如何评价 9 月 23 日发布的 Claude Opus 5.5？
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
-
-### N18｜如何评价 9 月 23 日发布的 Claude Opus 5.5？
-
-平台：知乎；榜单排名：19；实际出现快照数：2。
+平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2085935290347275671
+
+### N18｜AI怎么让NS方程爆炸的
+
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
 
 ### N19｜吧友手搓AI娘网站,梗图全收录
 
@@ -171,10 +171,10 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N21｜专家：机器人也失业了
+### N21｜AI医生带货卖药 责任谁来担
 
-平台：今日头条；榜单排名：27；实际出现快照数：1。
+平台：百度热搜；榜单排名：29；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7690043841058967083/
+链接：https://www.baidu.com/s?wd=AI%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7%E5%8D%96%E8%8D%AF+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%9D%A5%E6%8B%85
 
 核对：AI HOT 4 条；TrendRadar 21 条。
