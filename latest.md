@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-28
 
-数据生成时间：2026-09-28T06:32:55+08:00（北京时间）
+数据生成时间：2026-09-28T06:55:53+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：21 条 AI 相关热点。
+AI HOT：4 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -115,64 +115,70 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://www.cls.cn/detail/2493349
 
-### N12｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
+### N12｜AI在理论物理领域的最新突破
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%9C%80%E6%96%B0%E7%AA%81%E7%A0%B4
+
+### N13｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782605
 
-### N13｜沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发
+### N14｜沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发
 
 平台：财联社热门；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2493381
 
-### N14｜环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相
+### N15｜环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相
 
 平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2493334
 
-### N15｜AI怎么让NS方程爆炸的
+### N16｜如何评价 9 月 23 日发布的 Claude Opus 5.5？
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
-
-### N16｜微微一笑很倾城AI换脸后
-
-平台：微博；榜单排名：18；实际出现快照数：3。
-
-链接：https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23
-
-### N17｜如何评价 9 月 23 日发布的 Claude Opus 5.5？
-
-平台：知乎；榜单排名：18；实际出现快照数：3。
+平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2085935290347275671
 
-### N18｜AI医生带货卖药 责任谁来担
+### N17｜微微一笑很倾城AI换脸后
 
-平台：百度热搜；榜单排名：20；实际出现快照数：2。
+平台：微博；榜单排名：15；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=AI%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7%E5%8D%96%E8%8D%AF+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%9D%A5%E6%8B%85
+链接：https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23
 
-### N19｜AI在理论物理领域的最新突破
+### N18｜AI怎么让NS方程爆炸的
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%9C%80%E6%96%B0%E7%AA%81%E7%A0%B4
+链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
 
-### N20｜吧友手搓AI娘网站,梗图全收录
+### N19｜吧友手搓AI娘网站,梗图全收录
 
 平台：贴吧；榜单排名：24；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N21｜DeepSeek将参加联合国会议
+### N20｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：26；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-核对：AI HOT 4 条；TrendRadar 21 条。
+### N21｜专家：机器人也失业了
+
+平台：今日头条；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7690043841058967083/
+
+### N22｜AI医生带货卖药 责任谁来担
+
+平台：百度热搜；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=AI%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7%E5%8D%96%E8%8D%AF+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%9D%A5%E6%8B%85
+
+核对：AI HOT 4 条；TrendRadar 22 条。
