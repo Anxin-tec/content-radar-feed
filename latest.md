@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-28
 
-数据生成时间：2026-09-28T06:55:53+08:00（北京时间）
+数据生成时间：2026-09-28T07:47:19+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：3 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -37,15 +37,6 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 原文：https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has
 收录页：https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp
-
-### A4｜消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件
-
-据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。
-
-来源：IT之家（RSS）；发布时间：2026-09-26T23:12:53Z
-
-原文：https://www.ithome.com/1/007/447.htm
-收录页：https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy
 
 ## TrendRadar 完整 AI 热点
 
@@ -99,7 +90,7 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 ### N9｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2493017
 
@@ -121,21 +112,21 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%9C%80%E6%96%B0%E7%AA%81%E7%A0%B4
 
-### N13｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
+### N13｜沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发
+
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2493381
+
+### N14｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782605
 
-### N14｜沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发
-
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2493381
-
 ### N15｜环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相
 
-平台：财联社热门；榜单排名：13；实际出现快照数：3。
+平台：财联社热门；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2493334
 
@@ -147,13 +138,13 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 ### N17｜微微一笑很倾城AI换脸后
 
-平台：微博；榜单排名：15；实际出现快照数：3。
+平台：微博；榜单排名：14；实际出现快照数：3。
 
 链接：https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23
 
 ### N18｜AI怎么让NS方程爆炸的
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
 
@@ -163,22 +154,28 @@ Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
 
-### N20｜DeepSeek将参加联合国会议
+### N20｜专家：机器人也失业了
+
+平台：今日头条；榜单排名：25；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7690043841058967083/
+
+### N21｜DeepSeek将参加联合国会议
 
 平台：贴吧；榜单排名：26；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N21｜专家：机器人也失业了
+### N22｜中国四足机器人再现全球统治力
 
-平台：今日头条；榜单排名：26；实际出现快照数：1。
+平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7690043841058967083/
+链接：https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%86%8D%E7%8E%B0%E5%85%A8%E7%90%83%E7%BB%9F%E6%B2%BB%E5%8A%9B
 
-### N22｜AI医生带货卖药 责任谁来担
+### N23｜AI医生带货卖药 责任谁来担
 
 平台：百度热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7%E5%8D%96%E8%8D%AF+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%9D%A5%E6%8B%85
 
-核对：AI HOT 4 条；TrendRadar 22 条。
+核对：AI HOT 3 条；TrendRadar 23 条。
