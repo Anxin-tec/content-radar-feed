@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-28
 
-数据生成时间：2026-09-28T09:08:49+08:00（北京时间）
+数据生成时间：2026-09-28T09:35:23+08:00（北京时间）
 
 AI HOT：2 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -43,17 +43,17 @@ Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称�
 
 链接：https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23
 
-### N3｜本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选
-
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782598
-
-### N4｜美俄被曝在联合国管控AI武器谈判中弱化安全条款
+### N3｜美俄被曝在联合国管控AI武器谈判中弱化安全条款
 
 平台：凤凰网；榜单排名：3；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8wldueAeGXX
+
+### N4｜本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3782598
 
 ### N5｜OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停
 
@@ -67,41 +67,41 @@ Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称�
 
 链接：https://www.cls.cn/detail/2493196
 
-### N7｜扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇
+### N7｜三季报在即，三星电子和海力士面临“极高预期”，考验“全球AI交易”
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3782590
+
+### N8｜扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782596
 
-### N8｜三季报在即，三星电子和海力士面临“极高预期”，考验“全球AI交易”
+### N9｜英伟达加码玻璃基板 联合设备商攻关 催促产业链两年内完成开发
+
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2493349
+
+### N10｜“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3782590
+链接：https://wallstreetcn.com/articles/3782602
 
-### N9｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
+### N11｜Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2493017
 
-### N10｜英伟达加码玻璃基板 联合设备商攻关 催促产业链两年内完成开发
-
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2493349
-
-### N11｜入侵美澳政府网站！OpenAI暂停最先进模型训练
+### N12｜入侵美澳政府网站！OpenAI暂停最先进模型训练
 
 平台：凤凰网；榜单排名：7；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8wlALQRALzW
-
-### N12｜“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782602
 
 ### N13｜沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发
 
@@ -109,21 +109,21 @@ Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称�
 
 链接：https://www.cls.cn/detail/2493381
 
-### N14｜AI在理论物理领域的最新突破
+### N14｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3782605
+
+### N15｜AI在理论物理领域的最新突破
 
 平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%9C%80%E6%96%B0%E7%AA%81%E7%A0%B4
 
-### N15｜中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782605
-
 ### N16｜环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2493334
 
@@ -133,17 +133,17 @@ Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称�
 
 链接：https://www.zhihu.com/question/2085935290347275671
 
-### N18｜吧友手搓AI娘网站,梗图全收录
+### N18｜「薛甄珠找小三」最近被 AI 二创出了好多个版本，这段剧情有啥魔力，能让大家有源源不断的创作灵感？
+
+平台：知乎；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2083583506072826134
+
+### N19｜吧友手搓AI娘网站,梗图全收录
 
 平台：贴吧；榜单排名：24；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95&topic_id=28365534
-
-### N19｜AI怎么让NS方程爆炸的
-
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
 
 ### N20｜DeepSeek将参加联合国会议
 
@@ -151,11 +151,11 @@ Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE&topic_id=28365570
 
-### N21｜专家：机器人也失业了
+### N21｜AI怎么让NS方程爆炸的
 
-平台：今日头条；榜单排名：26；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：28；实际出现快照数：3。
 
-链接：https://www.toutiao.com/trending/7690043841058967083/
+链接：https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84
 
 ### N22｜AI医生带货卖药 责任谁来担
 
