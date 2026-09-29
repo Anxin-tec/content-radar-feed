@@ -1,8 +1,8 @@
 # AI 日报｜2026-09-30
 
-数据生成时间：2026-09-30T07:10:11+08:00（北京时间）
+数据生成时间：2026-09-30T07:35:34+08:00（北京时间）
 
-AI HOT：30 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：29 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -274,28 +274,19 @@ VC Tomer Tunguz 分析认为 2026 年 AI 竞争重心从技术创新转向商业
 原文：https://tomtunguz.com/anthropic-repriced-the-enterprise/
 收录页：https://aihot.news/items/oswch3jncrszq25mikmeoq8di
 
-### A30｜OpenAI 上线对齐失效报告网站，披露九起智能体失控事件
-
-OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九起事件，大多数发生在强化学习训练阶段。
-
-来源：IT之家（RSS）；发布时间：2026-09-28T23:21:48Z
-
-原文：https://www.ithome.com/1/008/079.htm
-收录页：https://aihot.news/items/i8bo8ggmyapmsxkhafgamgk4v
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜DeepSeek Harness桌面端上线
+### N1｜Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”
 
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF
-
-### N2｜Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782697
+
+### N2｜【早报】特朗普签署AI文件，美股AI硬件股集体爆发；原油大跌、黄金上涨；重磅政策来了！贷款买房，国家贴息
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2495782
 
 ### N3｜如何评价 OpenAI 发布的 GPT-6.1 Sol？
 
@@ -309,46 +300,58 @@ OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九�
 
 链接：https://www.cls.cn/detail/2495303
 
-### N5｜Bin哥点评世一上AI剧:很牛
+### N5｜DeepSeek Harness桌面端上线
+
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF
+
+### N6｜特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场
+
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2495770
+
+### N7｜Bin哥点评世一上AI剧:很牛
 
 平台：贴吧；榜单排名：9；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-### N6｜英伟达创纪录回购背后：黄仁勋认为公司股票已便宜到难以抗拒
+### N8｜"我几乎不再开车了"，大摩分析师：特斯拉FSD或已接近"解决"自动驾驶难题
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2495628
+链接：https://wallstreetcn.com/articles/3782750
 
-### N7｜马克·库班大胆预测：人形机器人将在未来五到十年被验证失败
+### N9｜马克·库班大胆预测：人形机器人将在未来五到十年被验证失败
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2495255
 
-### N8｜特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场
+### N10｜英伟达创纪录回购背后：黄仁勋认为公司股票已便宜到难以抗拒
 
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2495770
+链接：https://www.cls.cn/detail/2495628
 
-### N9｜假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？
+### N11｜假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？
 
 平台：知乎；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2086464412991371217
 
-### N10｜AI短片无敌超人
+### N12｜AI短片无敌超人
 
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E6%97%A0%E6%95%8C%E8%B6%85%E4%BA%BA
 
-### N11｜怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？
+### N13｜怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？
 
 平台：知乎；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2088194648518947828
 
-核对：AI HOT 30 条；TrendRadar 11 条。
+核对：AI HOT 29 条；TrendRadar 13 条。
