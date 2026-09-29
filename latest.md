@@ -1,9 +1,9 @@
 # AI 日报｜2026-09-30
 
-数据生成时间：2026-09-30T05:32:20+08:00（北京时间）
+数据生成时间：2026-09-30T06:34:33+08:00（北京时间）
 
-AI HOT：24 条；TrendRadar：9 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：24 条；TrendRadar：10 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -231,58 +231,64 @@ OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九�
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”
+### N1｜DeepSeek Harness桌面端上线
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3782697
-
-### N2｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
-
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2495303
-
-### N3｜怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？
-
-平台：知乎；榜单排名：7；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2088194648518947828
-
-### N4｜Bin哥点评世一上AI剧:很牛
-
-平台：贴吧；榜单排名：9；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
-
-### N5｜DeepSeek Harness桌面端上线
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF
 
-### N6｜马克·库班大胆预测：人形机器人将在未来五到十年被验证失败
+### N2｜Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2495255
+链接：https://wallstreetcn.com/articles/3782697
 
-### N7｜英伟达创纪录回购背后：黄仁勋认为公司股票已便宜到难以抗拒
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2495303
+
+### N4｜Bin哥点评世一上AI剧:很牛
+
+平台：贴吧；榜单排名：9；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
+
+### N5｜英伟达创纪录回购背后：黄仁勋认为公司股票已便宜到难以抗拒
+
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495628
 
+### N6｜怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？
+
+平台：知乎；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2088194648518947828
+
+### N7｜马克·库班大胆预测：人形机器人将在未来五到十年被验证失败
+
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2495255
+
 ### N8｜假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？
 
-平台：知乎；榜单排名：14；实际出现快照数：1。
+平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2086464412991371217
 
 ### N9｜AI短片无敌超人
 
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E6%97%A0%E6%95%8C%E8%B6%85%E4%BA%BA
 
-核对：AI HOT 24 条；TrendRadar 9 条。
+### N10｜三角洲星河追梦军乐AI版
+
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%98%9F%E6%B2%B3%E8%BF%BD%E6%A2%A6%E5%86%9B%E4%B9%90AI%E7%89%88
+
+核对：AI HOT 24 条；TrendRadar 10 条。
