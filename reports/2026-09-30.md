@@ -1,6 +1,6 @@
 # AI 日报｜2026-09-30
 
-数据生成时间：2026-09-30T05:01:54+08:00（北京时间）
+数据生成时间：2026-09-30T05:32:20+08:00（北京时间）
 
 AI HOT：24 条；TrendRadar：9 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
@@ -255,17 +255,17 @@ OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-### N5｜马克·库班大胆预测：人形机器人将在未来五到十年被验证失败
+### N5｜DeepSeek Harness桌面端上线
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF
+
+### N6｜马克·库班大胆预测：人形机器人将在未来五到十年被验证失败
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2495255
-
-### N6｜假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？
-
-平台：知乎；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2086464412991371217
 
 ### N7｜英伟达创纪录回购背后：黄仁勋认为公司股票已便宜到难以抗拒
 
@@ -273,16 +273,16 @@ OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九�
 
 链接：https://www.cls.cn/detail/2495628
 
-### N8｜AI短片无敌超人
+### N8｜假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
+平台：知乎；榜单排名：14；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2086464412991371217
+
+### N9｜AI短片无敌超人
+
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E6%97%A0%E6%95%8C%E8%B6%85%E4%BA%BA
-
-### N9｜DeepSeek Harness桌面端上线
-
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF
 
 核对：AI HOT 24 条；TrendRadar 9 条。
