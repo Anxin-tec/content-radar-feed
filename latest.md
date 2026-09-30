@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-01
 
-数据生成时间：2026-10-01T07:11:30+08:00（北京时间）
+数据生成时间：2026-10-01T07:37:05+08:00（北京时间）
 
-AI HOT：25 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：24 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -229,15 +229,6 @@ OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，�
 原文：https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/
 收录页：https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn
 
-### A25｜OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务
-
-OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。
-
-来源：X：OpenAI Developers (@OpenAIDevs)；发布时间：2026-09-29T23:13:59Z
-
-原文：https://x.com/OpenAIDevs/status/2105073633731461197
-收录页：https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？
@@ -254,7 +245,7 @@ OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Co
 
 ### N3｜特朗普拒绝为AI监管立法，签署AI"道德约束"协议，力推行业自律监管，将成立监督“委员会”
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782769
 
@@ -264,39 +255,39 @@ OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Co
 
 链接：https://www.cls.cn/detail/2495303
 
-### N5｜AI增长逻辑存在关键悖论！分析师接连质疑：巨额支出究竟谁买单？
+### N5｜股价反弹40%后， 美光今夜迎财报大考：净利预期暴增超1000%，市场紧盯明年AI资本开支
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3782836
+
+### N6｜AI增长逻辑存在关键悖论！分析师接连质疑：巨额支出究竟谁买单？
 
 平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2496177
 
-### N6｜股价反弹40%后， 美光今夜迎财报大考：净利预期暴增超1000%，市场紧盯明年AI资本开支
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3782836
-
 ### N7｜对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782814
 
-### N8｜DeepSeek开源昇腾适配组件
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6
-
-### N9｜如何评价 OpenAI 发布的 GPT-6.1 SOL？
+### N8｜如何评价 OpenAI 发布的 GPT-6.1 SOL？
 
 平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2088438691786246011
 
+### N9｜DeepSeek开源昇腾适配组件
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6
+
 ### N10｜AI短片无敌超人
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E6%97%A0%E6%95%8C%E8%B6%85%E4%BA%BA
 
@@ -336,4 +327,4 @@ OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Co
 
 链接：https://www.thepaper.cn/newsDetail_forward_34177257
 
-核对：AI HOT 25 条；TrendRadar 16 条。
+核对：AI HOT 24 条；TrendRadar 16 条。
