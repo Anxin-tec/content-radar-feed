@@ -1,9 +1,9 @@
 # AI 日报｜2026-10-01
 
-数据生成时间：2026-10-01T05:32:47+08:00（北京时间）
+数据生成时间：2026-10-01T06:34:08+08:00（北京时间）
 
-AI HOT：26 条；TrendRadar：16 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：25 条；TrendRadar：17 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -13,7 +13,16 @@ AI HOT：26 条；TrendRadar：16 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平
+### A1｜Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%
+
+Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。
+
+来源：X：Arena (@arena)；发布时间：2026-09-30T21:35:38Z
+
+原文：https://x.com/arena/status/2105411271525052418
+收录页：https://aihot.news/items/m49i2ro59f3lqy8ocoghr9f2j
+
+### A2｜OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平
 
 OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。
 
@@ -21,15 +30,6 @@ OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元�
 
 原文：https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/
 收录页：https://aihot.news/items/sv8dhqgv5kccksxx30x4oa7n3
-
-### A2｜Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%
-
-Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-09-30T20:21:32Z
-
-原文：https://x.com/ArtificialAnlys/status/2105392625788637299
-收录页：https://aihot.news/items/v4apga9k7wdoz05ktc8xgk6va
 
 ### A3｜Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放
 
@@ -238,62 +238,53 @@ OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Co
 原文：https://x.com/OpenAIDevs/status/2105073633731461197
 收录页：https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q
 
-### A26｜OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新
-
-作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-09-29T21:47:43Z
-
-原文：未提供
-收录页：https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？
 
-平台：知乎；榜单排名：2；实际出现快照数：1。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2083989447276762504
 
 ### N2｜剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件
 
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2496566
 
 ### N3｜特朗普拒绝为AI监管立法，签署AI"道德约束"协议，力推行业自律监管，将成立监督“委员会”
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782769
 
 ### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
 ### N5｜AI增长逻辑存在关键悖论！分析师接连质疑：巨额支出究竟谁买单？
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2496177
 
 ### N6｜股价反弹40%后， 美光今夜迎财报大考：净利预期暴增超1000%，市场紧盯明年AI资本开支
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782836
 
 ### N7｜DeepSeek开源昇腾适配组件
 
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6
 
 ### N8｜对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782814
 
@@ -305,7 +296,7 @@ OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Co
 
 ### N10｜【每日收评】三大指数全天震荡涨跌不一，创新药概念全天强势，算力硬件等科技股方向再陷调整
 
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2496288
 
@@ -317,32 +308,38 @@ OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Co
 
 ### N12｜怎么看媒体曝小米大模型负责人罗福莉晋升至 22 级？
 
-平台：知乎；榜单排名：14；实际出现快照数：1。
+平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2088219922597991258
 
-### N13｜Bin哥点评世一上AI剧:很牛
+### N13｜AI短片无敌超人
 
-平台：贴吧；榜单排名：15；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E6%97%A0%E6%95%8C%E8%B6%85%E4%BA%BA
+
+### N14｜Bin哥点评世一上AI剧:很牛
+
+平台：贴吧；榜单排名：15；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-### N14｜特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”
+### N15｜特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34177257
 
-### N15｜AI短片无敌超人
-
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E6%97%A0%E6%95%8C%E8%B6%85%E4%BA%BA
-
 ### N16｜美国为何给人工智能改名
 
-平台：百度热搜；榜单排名：19；实际出现快照数：1。
+平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%BB%99%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%B9%E5%90%8D
 
-核对：AI HOT 26 条；TrendRadar 16 条。
+### N17｜三角洲星河追梦军乐AI版
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%98%9F%E6%B2%B3%E8%BF%BD%E6%A2%A6%E5%86%9B%E4%B9%90AI%E7%89%88
+
+核对：AI HOT 25 条；TrendRadar 17 条。
