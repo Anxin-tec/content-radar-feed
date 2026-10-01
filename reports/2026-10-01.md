@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-01
 
-数据生成时间：2026-10-01T09:31:53+08:00（北京时间）
+数据生成时间：2026-10-01T10:03:45+08:00（北京时间）
 
-AI HOT：23 条；TrendRadar：19 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -184,42 +184,6 @@ OpenAI 披露其识别并处置了一起有组织的攻击行动，该行动旨�
 原文：https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
 收录页：https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
 
-### A20｜DeepSeek 开源面向华为昇腾平台的基础设施组件
-
-DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。
-
-来源：公众号：DeepSeek（深度求索）；发布时间：2026-09-30T02:01:00Z
-
-原文：未提供
-收录页：https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3
-
-### A21｜纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视
-
-《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。
-
-来源：IT之家（RSS）；发布时间：2026-09-30T01:48:21Z
-
-原文：https://www.ithome.com/1/008/592.htm
-收录页：https://aihot.news/items/ndk15d5pv9et8zspxncqzh55y
-
-### A22｜Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除
-
-Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。
-
-来源：IT之家（RSS）；发布时间：2026-09-30T01:41:26Z
-
-原文：https://www.ithome.com/1/008/589.htm
-收录页：https://aihot.news/items/tezd4474gysof1re07lje1xc3
-
-### A23｜GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨
-
-GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。
-
-来源：Hacker News 热门（buzzing.cc 中文翻译）；发布时间：2026-09-30T01:40:59.989000Z
-
-原文：https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market
-收录页：https://aihot.news/items/rag4wqxxj3qhsk4m61swzqpw9
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？
@@ -240,23 +204,23 @@ GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5
 
 链接：https://www.cls.cn/detail/2496566
 
-### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N4｜用Opus 5.5制作AI短片效果如何
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8Opus+5.5%E5%88%B6%E4%BD%9CAI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E5%A6%82%E4%BD%95
+
+### N5｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N5｜股价反弹40%后， 美光今夜迎财报大考：净利预期暴增超1000%，市场紧盯明年AI资本开支
+### N6｜股价反弹40%后， 美光今夜迎财报大考：净利预期暴增超1000%，市场紧盯明年AI资本开支
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782836
-
-### N6｜AI增长逻辑存在关键悖论！分析师接连质疑：巨额支出究竟谁买单？
-
-平台：财联社热门；榜单排名：7；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2496177
 
 ### N7｜对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限
 
@@ -264,11 +228,11 @@ GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5
 
 链接：https://wallstreetcn.com/articles/3782814
 
-### N8｜AI时代还会有顶级IP吗
+### N8｜AI增长逻辑存在关键悖论！分析师接连质疑：巨额支出究竟谁买单？
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E4%BC%9A%E6%9C%89%E9%A1%B6%E7%BA%A7IP%E5%90%97
+链接：https://www.cls.cn/detail/2496177
 
 ### N9｜DeepSeek开源昇腾适配组件
 
@@ -288,17 +252,17 @@ GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5
 
 链接：https://www.cls.cn/detail/2496288
 
-### N12｜DeepSeek桌面端来了
+### N12｜如何评价 10 月 1 号发布的 Gemini 4 Argon？
+
+平台：知乎；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2088845041045337914
+
+### N13｜DeepSeek桌面端来了
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E6%A1%8C%E9%9D%A2%E7%AB%AF%E6%9D%A5%E4%BA%86
-
-### N13｜如何评价 10 月 1 号发布的 Gemini 4 Argon？
-
-平台：知乎；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2088845041045337914
 
 ### N14｜怎么看媒体曝小米大模型负责人罗福莉晋升至 22 级？
 
@@ -312,17 +276,17 @@ GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-### N16｜特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”
+### N16｜我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？
+
+平台：知乎；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2083222866280171324
+
+### N17｜特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34177257
-
-### N17｜我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？
-
-平台：知乎；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2083222866280171324
 
 ### N18｜AI短片无敌超人
 
@@ -336,4 +300,10 @@ GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%BB%99%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%B9%E5%90%8D
 
-核对：AI HOT 23 条；TrendRadar 19 条。
+### N20｜AI时代还会有顶级IP吗
+
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E4%BC%9A%E6%9C%89%E9%A1%B6%E7%BA%A7IP%E5%90%97
+
+核对：AI HOT 19 条；TrendRadar 20 条。
