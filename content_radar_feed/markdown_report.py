@@ -14,6 +14,8 @@ def render_report(report: dict) -> str:
              f'AI HOT：{counts["aihot_published"]} 条；TrendRadar：{counts["trendradar_published"]} 条 AI 相关热点。',
              f'实际采集快照：{trend["snapshot_count"]} 个；平台：{trend["platform_count"]} 个。', '',
              '以下为两处信息源的完整收录，不代表已经逐条独立核实。']
+    if "aihot_missing_published_at" in report["warnings"]:
+        lines += ['', '时间说明：部分资讯未提供原文发布时间，按来源的真实收录时间校验最近 24 小时范围；发布时间仍标为“未提供”。']
     if "trendradar_incomplete_slots" in report["warnings"]:
         lines += ['', '采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。']
     lines += ['', f'来源状态：AI HOT={report["source_status"]["aihot"]["status"]}；TrendRadar={trend["status"]}。',

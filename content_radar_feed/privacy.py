@@ -93,6 +93,10 @@ def scan_public_value(value: object) -> None:
 def validate_references_and_counts(report: dict) -> None:
     aihot_items = report["aihot_items"]
     trendradar_items = report["trendradar_items"]
+    if any(item["published_at"] is None for item in aihot_items) != (
+        "aihot_missing_published_at" in report["warnings"]
+    ):
+        raise PublicBoundaryError("publication_time_warning_mismatch")
     if [item["ref"] for item in aihot_items] != [
         f"A{index}"
         for index in range(1, len(aihot_items) + 1)

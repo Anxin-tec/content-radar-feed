@@ -69,6 +69,7 @@
       "items": {
         "enum": [
           "aihot_source_incomplete",
+          "aihot_missing_published_at",
           "trendradar_incomplete_slots"
         ]
       }
@@ -271,7 +272,7 @@
           "minLength": 1
         },
         "published_at": {
-          "type": "string",
+          "type": ["string", "null"],
           "format": "date-time"
         },
         "summary": {

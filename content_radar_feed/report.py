@@ -228,6 +228,8 @@ def _build_report(
     warnings = []
     if aihot_status not in SUCCESSFUL_AIHOT_STATUSES:
         warnings.append("aihot_source_incomplete")
+    if any(item["published_at"] is None for item in aihot_items):
+        warnings.append("aihot_missing_published_at")
     if trend_status != "live" or set(selected) != set(LOGICAL_SLOTS):
         warnings.append("trendradar_incomplete_slots")
 

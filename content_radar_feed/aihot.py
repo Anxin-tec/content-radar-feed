@@ -175,9 +175,17 @@ def _validate_item(value: object) -> dict:
     if any(
         not isinstance(value[field], str)
         or not value[field].strip()
-        for field in REQUIRED_FIELDS
+        for field in REQUIRED_FIELDS - {"publishedAt"}
     ):
         raise AihotIncomplete("item_contract")
+    # Some sources have no original publication timestamp. Keep that absence
+    # explicit; discoveredAt can prove the collection window, not publication.
+    if value["publishedAt"] is not None and (
+        not isinstance(value["publishedAt"], str) or not value["publishedAt"].strip()
+    ):
+        raise AihotIncomplete("item_contract")
+    if value["publishedAt"] is None:
+        parse_time(value.get("discoveredAt"))
     return value
 
 
@@ -233,7 +241,7 @@ def fetch_all_items(
             item_id = value["id"]
             if item_id in seen_ids:
                 raise AihotIncomplete("duplicate_item")
-            published_at = parse_time(value["publishedAt"])
+            published_at = parse_time(value["publishedAt"] if value["publishedAt"] is not None else value["discoveredAt"])
             if (
                 published_at < since_utc
                 or (
@@ -723,7 +731,7 @@ def project_public_item(value: dict) -> dict:
         "permalink": permalink,
         "url": _project_original_url(upstream.get("url")),
         "source": upstream["source"],
-        "published_at": _format_utc(
+        "published_at": None if upstream["publishedAt"] is None else _format_utc(
             parse_time(upstream["publishedAt"])
         ),
         "summary": summary,
