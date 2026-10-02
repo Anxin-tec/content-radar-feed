@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-03
 
-数据生成时间：2026-10-03T04:32:28+08:00（北京时间）
+数据生成时间：2026-10-03T04:58:02+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：9 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：8 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -15,7 +15,16 @@ AI HOT：19 条；TrendRadar：9 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型
+### A1｜Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点
+
+Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。
+
+来源：Prime Intellect（网页）；发布时间：未提供
+
+原文：https://www.primeintellect.ai/blog/prime-inference
+收录页：https://aihot.news/items/e54qt77e1upo9oqowk38fply1
+
+### A2｜GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型
 
 Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。
 
@@ -24,7 +33,7 @@ Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%�
 原文：https://x.com/arena/status/2106109027923140928
 收录页：https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn
 
-### A2｜Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿
+### A3｜Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿
 
 Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。
 
@@ -33,7 +42,7 @@ Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.
 原文：https://x.com/arena/status/2106105400487821764
 收录页：https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc
 
-### A3｜Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文
+### A4｜Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文
 
 Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。
 
@@ -42,7 +51,7 @@ Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 
 原文：https://x.com/AIatMeta/status/2106099776035152231
 收录页：https://aihot.news/items/mnp85zt9o921l7c28rzor00qy
 
-### A4｜ChatGPT 推出 Finances 财务管理功能
+### A5｜ChatGPT 推出 Finances 财务管理功能
 
 ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。
 
@@ -51,7 +60,7 @@ ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgp
 原文：https://x.com/ChatGPT/status/2106083595433791573
 收录页：https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn
 
-### A5｜Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署
+### A6｜Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署
 
 Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。
 
@@ -60,7 +69,7 @@ Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提�
 原文：https://research.google/blog/toward-provably-private-learning-from-federated-data/
 收录页：https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
 
-### A6｜OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理
+### A7｜OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理
 
 OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。
 
@@ -69,7 +78,7 @@ OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 As
 原文：https://openai.com/index/practical-guide-building-gpt-6
 收录页：https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk
 
-### A7｜Google Project Suncatcher 首颗原型卫星发射入轨
+### A8｜Google Project Suncatcher 首颗原型卫星发射入轨
 
 Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。
 
@@ -78,7 +87,7 @@ Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatc
 原文：https://x.com/GoogleAI/status/2106049984164463069
 收录页：https://aihot.news/items/ljyywltag6vvryw193ryz7lgd
 
-### A8｜NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售
+### A9｜NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售
 
 NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。
 
@@ -87,7 +96,7 @@ NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 
 原文：https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/
 收录页：https://aihot.news/items/epb245so8hb7m1r74gumw2dze
 
-### A9｜Ai2 开源 8B 科学报告生成模型 AstaBrief
+### A10｜Ai2 开源 8B 科学报告生成模型 AstaBrief
 
 Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。
 
@@ -96,7 +105,7 @@ Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献
 原文：https://allenai.org/blog/astabrief
 收录页：https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i
 
-### A10｜Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管
+### A11｜Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管
 
 Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。
 
@@ -105,7 +114,7 @@ Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万
 原文：https://x.com/rohanpaul_ai/status/2105921530211508488
 收录页：https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq
 
-### A11｜Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大
+### A12｜Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大
 
 Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。
 
@@ -114,7 +123,7 @@ Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) �
 原文：https://x.com/ArtificialAnlys/status/2105814318294114720
 收录页：https://aihot.news/items/jhshh53c18f71tkzk44izbs25
 
-### A12｜加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险
+### A13｜加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险
 
 据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。
 
@@ -123,7 +132,7 @@ Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) �
 原文：https://www.ithome.com/1/009/204.htm
 收录页：https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl
 
-### A13｜OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异
+### A14｜OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异
 
 OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。
 
@@ -132,7 +141,7 @@ OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供
 原文：https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/
 收录页：https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30
 
-### A14｜Epoch AI 估算 2025–27 年 HBM 可支撑 3000 万至 1.7 亿并发前沿模型智能体
+### A15｜Epoch AI 估算 2025–27 年 HBM 可支撑 3000 万至 1.7 亿并发前沿模型智能体
 
 Epoch AI 发布研究，估算 2025–27 年出货的 HBM 硬件全面部署后可运行约 30–170 百万并发前沿模型智能体，相当于每周约 1.4–7.2 亿全职员工的工作时长。
 
@@ -141,7 +150,16 @@ Epoch AI 发布研究，估算 2025–27 年出货的 HBM 硬件全面部署后�
 原文：https://epoch.ai/publications/estimating-the-agent-population
 收录页：https://aihot.news/items/u7s37k3i99ayei0ja1kj6ay4j
 
-### A15｜NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast
+### A16｜Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文
+
+Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。
+
+来源：Meta AI：Research Blog（网页）；发布时间：2026-10-02T00:00:00Z
+
+原文：https://research.meta.ai/blog/solving-open-research-problems-together
+收录页：https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj
+
+### A17｜NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast
 
 GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。
 
@@ -150,7 +168,7 @@ GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 C
 原文：https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/
 收录页：https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i
 
-### A16｜Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型
+### A18｜Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型
 
 Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。
 
@@ -159,7 +177,7 @@ Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权�
 原文：https://x.com/ArtificialAnlys/status/2105790682376065463
 收录页：https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm
 
-### A17｜FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成
+### A19｜FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成
 
 Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。
 
@@ -167,24 +185,6 @@ Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不�
 
 原文：https://x.com/krea_ai/status/2105769469880799716
 收录页：https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph
-
-### A18｜FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑
-
-Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。
-
-来源：X：OpenRouter (@OpenRouter)；发布时间：2026-10-01T20:37:38Z
-
-原文：https://x.com/OpenRouter/status/2105759062835220852
-收录页：https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj
-
-### A19｜Suno 推出 Speech beta：语音与背景音乐一体生成
-
-Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。
-
-来源：Suno：Blog（网页）；发布时间：2026-10-01T20:35:00Z
-
-原文：https://suno.com/blog/introducing-speech-beta
-收录页：https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2
 
 ## TrendRadar 完整 AI 热点
 
@@ -236,10 +236,4 @@ Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-### N9｜家电维修师傅开始修人形机器人
-
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%85%E5%BC%80%E5%A7%8B%E4%BF%AE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA
-
-核对：AI HOT 19 条；TrendRadar 9 条。
+核对：AI HOT 19 条；TrendRadar 8 条。
