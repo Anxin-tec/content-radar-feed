@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-02
 
-数据生成时间：2026-10-02T14:34:07+08:00（北京时间）
+数据生成时间：2026-10-02T15:16:31+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -176,64 +176,76 @@ Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustere
 
 链接：https://wallstreetcn.com/articles/3782858
 
-### N2｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N2｜网传一大学生因公选课老师连续缺课，自己上台用 AI 生成 PPT 讲了一小时课，是真的吗？暴露了哪些问题？
+
+平台：知乎；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2088388963652166144
+
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N3｜剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件
+### N4｜绑架马杜罗前，特朗普特地问了AI数小时
+
+平台：凤凰网；榜单排名：5；实际出现快照数：1。
+
+链接：https://news.ifeng.com/c/8wtBVDhtxOv
+
+### N5｜剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2496566
 
-### N4｜谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5
+### N6｜谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782853
 
-### N5｜特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei
+### N7｜大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3782862
+链接：https://www.cls.cn/detail/2496950
 
-### N6｜Gemini4对比Opus5.5
+### N8｜尘封217年的拿破仑密信，被GPT-6 Astra用6小时解开
 
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：凤凰网；榜单排名：12；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=Gemini4%E5%AF%B9%E6%AF%94Opus5.5
+链接：https://news.ifeng.com/c/8wtSD3ICBHa
 
-### N7｜网传一大学生因公选课老师连续缺课，自己上台用 AI 生成 PPT 讲了一小时课，是真的吗？暴露了哪些问题？
+### N9｜马克龙担忧：社交媒体已撕裂民主，AI别重蹈覆辙
 
-平台：知乎；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2088388963652166144
-
-### N8｜马克龙担忧：社交媒体已撕裂民主，AI别重蹈覆辙
-
-平台：凤凰网；榜单排名：12；实际出现快照数：2。
+平台：凤凰网；榜单排名：12；实际出现快照数：1。
 
 链接：https://news.ifeng.com/c/8wrsY6wZAdl
 
-### N9｜Figure让退役机器人自己跳熔炉，致敬《终结者》还请来施瓦辛格
+### N10｜Figure让退役机器人自己跳熔炉，致敬《终结者》还请来施瓦辛格
 
-平台：澎湃新闻；榜单排名：18；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34188028
 
-### N10｜Bin哥点评世一上AI剧:很牛
+### N11｜十个 Claude5.5 协作攻克百年汤姆逊难题，这意味着什么？
+
+平台：知乎；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2088686161820639304
+
+### N12｜Bin哥点评世一上AI剧:很牛
 
 平台：贴吧；榜单排名：23；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-### N11｜用Opus 5.5制作AI短片效果如何
+### N13｜用Opus 5.5制作AI短片效果如何
 
 平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E7%94%A8Opus+5.5%E5%88%B6%E4%BD%9CAI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E5%A6%82%E4%BD%95
 
-核对：AI HOT 17 条；TrendRadar 11 条。
+核对：AI HOT 17 条；TrendRadar 13 条。
