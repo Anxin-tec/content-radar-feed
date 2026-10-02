@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-03
 
-数据生成时间：2026-10-03T04:58:02+08:00（北京时间）
+数据生成时间：2026-10-03T05:27:05+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：8 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -177,15 +177,6 @@ Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权�
 原文：https://x.com/ArtificialAnlys/status/2105790682376065463
 收录页：https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm
 
-### A19｜FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成
-
-Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。
-
-来源：X：Krea AI (@krea_ai)；发布时间：2026-10-01T21:18:59Z
-
-原文：https://x.com/krea_ai/status/2105769469880799716
-收录页：https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%
@@ -208,7 +199,7 @@ Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不�
 
 ### N4｜Anthropic上市再进一步：被曝冲刺感恩节前2万亿估值IPO，10月14日办投资者日
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782894
 
@@ -236,4 +227,4 @@ Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-核对：AI HOT 19 条；TrendRadar 8 条。
+核对：AI HOT 18 条；TrendRadar 8 条。
