@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+from contextlib import redirect_stderr
+from io import StringIO
 from pathlib import Path
 import tempfile
 import unittest
@@ -297,7 +299,8 @@ class CliTests(unittest.TestCase):
                     "OpenAI item",
                 ),
             )
-            with mock.patch(
+            stderr = StringIO()
+            with redirect_stderr(stderr), mock.patch(
                 "content_radar_feed.cli.fetch_aihot",
                 side_effect=AihotIncomplete("cursor_loop"),
             ):
@@ -324,11 +327,51 @@ class CliTests(unittest.TestCase):
                 ).read_text(encoding="utf-8")
             )
             self.assertEqual(result, 0)
+            self.assertEqual(stderr.getvalue(), "aihot_error_code=cursor_loop\n")
             self.assertEqual(
                 report["source_status"]["aihot"]["status"],
                 "incomplete",
             )
             self.assertEqual(report["aihot_items"], [])
+
+    def test_unknown_aihot_error_code_is_redacted(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            path = root / "snapshot.json"
+            _write_json(
+                path,
+                _snapshot(
+                    "0030",
+                    "2026-07-24T00:31:00+08:00",
+                    "OpenAI item",
+                ),
+            )
+            stderr = StringIO()
+            secret = "upstream-secret-body"
+            with redirect_stderr(stderr), mock.patch(
+                "content_radar_feed.cli.fetch_aihot",
+                side_effect=AihotIncomplete(secret),
+            ):
+                result = cli.main(
+                    [
+                        "build-report",
+                        "--report-date",
+                        REPORT_DATE,
+                        "--snapshot",
+                        str(path),
+                        "--site-dir",
+                        str(root / "site"),
+                        "--max-bytes",
+                        str(MAX_BYTES),
+                    ]
+                )
+
+            self.assertEqual(result, 0)
+            self.assertEqual(
+                stderr.getvalue(),
+                "aihot_error_code=aihot_incomplete\n",
+            )
+            self.assertNotIn(secret, stderr.getvalue())
 
 
 if __name__ == "__main__":

@@ -805,6 +805,23 @@ class RequestJsonUrlTests(unittest.TestCase):
         )
         self.assertTrue(response.closed)
 
+    def test_accepts_valid_json_between_two_and_four_megabytes(self) -> None:
+        prefix = b'{"ok":true}'
+        body = prefix + b" " * (3_000_000 - len(prefix))
+        response = FakeResponse(body)
+
+        with patch(
+            "content_radar_feed.aihot.build_opener",
+            return_value=FakeOpener(response=response),
+        ):
+            result = aihot.request_json_url("https://example.test/data")
+
+        self.assertEqual(result, {"ok": True})
+        self.assertEqual(
+            response.read_sizes,
+            [aihot.MAX_RESPONSE_BYTES + 1],
+        )
+
     def test_accepts_json_response_exactly_at_byte_limit(self) -> None:
         prefix = b'{"ok":true}'
         body = prefix + b" " * (

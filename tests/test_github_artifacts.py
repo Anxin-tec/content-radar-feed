@@ -4,7 +4,7 @@ import io
 import json
 import traceback
 import unittest
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.request import Request
 from zipfile import ZIP_DEFLATED, ZipFile
 
@@ -229,7 +229,7 @@ class RetrievalTests(unittest.TestCase):
                 request=fail,
             )
 
-        self.assertEqual(str(raised.exception), "github_request_failed")
+        self.assertEqual(str(raised.exception), "github_http_403")
         rendered = "".join(
             traceback.format_exception(
                 type(raised.exception),
@@ -238,6 +238,129 @@ class RetrievalTests(unittest.TestCase):
             )
         )
         self.assertNotIn(token, rendered)
+
+    def test_request_failures_have_stable_categories(self) -> None:
+        cases = (
+            (401, "github_http_401"),
+            (403, "github_http_403"),
+            (429, "github_http_429"),
+            (500, "github_http_5xx"),
+        )
+        for status, expected in cases:
+            with self.subTest(status=status):
+                def fail(value, status=status):
+                    raise HTTPError(
+                        value.full_url,
+                        status,
+                        "response body must not be exposed",
+                        hdrs=None,
+                        fp=None,
+                    )
+
+                with self.assertRaisesRegex(ArtifactError, f"^{expected}$"):
+                    download_latest_snapshots(
+                        "test-token",
+                        report_date=REPORT_DATE,
+                        logical_slots=SLOTS,
+                        request=fail,
+                    )
+
+        for error, expected in (
+            (TimeoutError(), "github_timeout"),
+            (URLError("network detail"), "github_network_error"),
+        ):
+            with self.subTest(error=type(error).__name__):
+                with self.assertRaisesRegex(ArtifactError, f"^{expected}$"):
+                    download_latest_snapshots(
+                        "test-token",
+                        report_date=REPORT_DATE,
+                        logical_slots=SLOTS,
+                        request=lambda value, error=error: (_ for _ in ()).throw(error),
+                    )
+
+    def test_fetches_second_page_when_total_count_requires_it(self) -> None:
+        first_page = [
+            _artifact(
+                index,
+                "0030",
+                f"2026-07-23T16:{index % 60:02d}:00Z",
+                name=f"other-artifact-{index}",
+            )
+            for index in range(1, 101)
+        ]
+        target = _artifact(501, "0030", "2026-07-24T00:01:00Z")
+        responses = {
+            (
+                "https://api.github.com/repos/Anxin-tec/"
+                "content-radar-feed/actions/artifacts?per_page=100"
+            ): json.dumps(
+                {"total_count": 101, "artifacts": first_page}
+            ).encode("utf-8"),
+            (
+                "https://api.github.com/repos/Anxin-tec/"
+                "content-radar-feed/actions/artifacts?per_page=100&page=2"
+            ): json.dumps(
+                {"total_count": 101, "artifacts": [target]}
+            ).encode("utf-8"),
+            (
+                "https://api.github.com/repos/Anxin-tec/"
+                "content-radar-feed/actions/artifacts/501/zip"
+            ): _archive(_snapshot("0030")),
+        }
+        requests = []
+
+        def request(value):
+            requests.append(value.full_url)
+            return responses[value.full_url]
+
+        restored = download_latest_snapshots(
+            "test-token",
+            report_date=REPORT_DATE,
+            logical_slots=("0030",),
+            request=request,
+        )
+
+        self.assertEqual(set(restored["snapshots"]), {"0030"})
+        self.assertEqual(
+            requests[:2],
+            [
+                "https://api.github.com/repos/Anxin-tec/"
+                "content-radar-feed/actions/artifacts?per_page=100",
+                "https://api.github.com/repos/Anxin-tec/"
+                "content-radar-feed/actions/artifacts?per_page=100&page=2",
+            ],
+        )
+
+    def test_pagination_limit_is_safe(self) -> None:
+        requests = []
+
+        def request(value):
+            requests.append(value.full_url)
+            artifacts = [
+                _artifact(
+                    index + len(requests) * 1000,
+                    "0030",
+                    "2026-07-23T16:31:00Z",
+                    name=f"other-artifact-{index}",
+                )
+                for index in range(100)
+            ]
+            return json.dumps(
+                {"total_count": 1001, "artifacts": artifacts}
+            ).encode("utf-8")
+
+        with self.assertRaisesRegex(
+            ArtifactError,
+            "^github_pagination_limit$",
+        ):
+            download_latest_snapshots(
+                "test-token",
+                report_date=REPORT_DATE,
+                logical_slots=("0030",),
+                request=request,
+            )
+
+        self.assertEqual(len(requests), 10)
 
 
 if __name__ == "__main__":

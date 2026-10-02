@@ -38,6 +38,53 @@ MAXIMUM_FIXTURE_MARKERS = (
 )
 
 
+_AIHOT_ERROR_CODES = frozenset(
+    {
+        "cursor_contract",
+        "cursor_loop",
+        "duplicate_item",
+        "invalid_json",
+        "item_contract",
+        "item_limit",
+        "limit_contract",
+        "outside_window",
+        "page_contract",
+        "page_limit",
+        "permalink_url",
+        "request_contract",
+        "request_failed",
+        "response_contract",
+        "response_encoding",
+        "response_too_large",
+        "terminal_contract",
+        "time_format",
+        "since_timezone",
+        "timeout",
+        "until_timezone",
+        "url_error",
+        "os_error",
+        "network_error",
+        "now_timezone",
+        "version_contract",
+        "window_contract",
+    }
+)
+
+
+def _safe_aihot_error_code(error: BaseException) -> str:
+    """Return an allowlisted source code without exposing exception details."""
+    value = str(error)
+    if value in _AIHOT_ERROR_CODES:
+        return value
+    if value.startswith("http_"):
+        status = value.removeprefix("http_")
+        if len(status) == 3 and status.isdigit():
+            parsed = int(status)
+            if 100 <= parsed <= 599:
+                return value
+    return "aihot_incomplete"
+
+
 def _report_date(value: str) -> str:
     try:
         if date.fromisoformat(value).isoformat() != value:
@@ -242,7 +289,11 @@ def _build_report(arguments: argparse.Namespace) -> None:
     now = datetime.now(TIMEZONE)
     try:
         aihot_result = fetch_aihot(now=now)
-    except AihotIncomplete:
+    except AihotIncomplete as error:
+        print(
+            f"aihot_error_code={_safe_aihot_error_code(error)}",
+            file=sys.stderr,
+        )
         aihot_result = {
             "status": "incomplete",
             "api_version": None,
@@ -345,8 +396,13 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     arguments = _parser().parse_args(argv)
     try:
         arguments.handler(arguments)
+    except AihotIncomplete as error:
+        print(
+            f"aihot_error_code={_safe_aihot_error_code(error)}",
+            file=sys.stderr,
+        )
+        return 1
     except (
-        AihotIncomplete,
         json.JSONDecodeError,
         OSError,
         PublicBoundaryError,

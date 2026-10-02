@@ -1,3 +1,5 @@
+from contextlib import redirect_stdout
+from io import StringIO
 from pathlib import Path
 from datetime import datetime
 import os
@@ -13,12 +15,16 @@ ROOT = Path(__file__).resolve().parents[1]
 WORKFLOW = (
     ROOT / ".github" / "workflows" / "content-radar-daily.yml"
 )
+RUNTIME_WORKFLOW = (
+    ROOT / ".github" / "workflows" / "runtime-tests.yml"
+)
 
 
 class WorkflowContractTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.workflow = WORKFLOW.read_text(encoding="utf-8")
+        cls.runtime_workflow = RUNTIME_WORKFLOW.read_text(encoding="utf-8")
 
     def test_has_all_schedules_dispatch_modes_and_schedule_mapping(self) -> None:
         for cron in (
@@ -41,6 +47,13 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn('collect, build = True, True', self.workflow)
         self.assertEqual(len(re.findall(r'- cron:', self.workflow)), 8)
         self.assertIn('ZoneInfo("Asia/Shanghai")', self.workflow)
+        for marker in (
+            '"metadata:"',
+            'event={event}',
+            'schedule={event_schedule}',
+            'actual_shanghai={now.isoformat',
+        ):
+            self.assertIn(marker, self.workflow)
 
     def test_every_scheduled_run_builds_using_actual_time_even_when_delayed(self):
         code = textwrap.dedent(self.workflow.split("python - <<'PY'", 1)[1].split("\n          PY", 1)[0])
@@ -58,10 +71,10 @@ class WorkflowContractTests(unittest.TestCase):
                 self.assertEqual(values["collect"], "true")
                 self.assertEqual(values["build"], "true")
 
-    def test_recovery_collects_one_real_snapshot_and_builds_a_report(self) -> None:
+    def test_push_trigger_rehydrates_all_daily_slots(self) -> None:
         self.assertIn(".github/recovery-trigger", self.workflow)
         self.assertIn('elif event == "push":', self.workflow)
-        self.assertIn('mode = "recovery"', self.workflow)
+        self.assertIn('mode = "scheduled"', self.workflow)
         self.assertIn('elif mode == "recovery":', self.workflow)
         self.assertNotIn('for slot in 0030 0400 0630', self.workflow)
         self.assertIn('for attempt in 1 2 3', self.workflow)
@@ -70,6 +83,50 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn("degraded_missing_slots:", self.workflow)
         self.assertIn('for snapshot in restored/*.json', self.workflow)
         self.assertIn("needs.metadata.outputs.mode == 'recovery'", self.workflow)
+
+    def test_push_metadata_uses_actual_time_and_scheduled_restore_mode(self) -> None:
+        code = textwrap.dedent(
+            self.workflow.split("python - <<'PY'", 1)[1]
+            .split("\n          PY", 1)[0]
+        )
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary) / "output"
+            with patch.dict(
+                os.environ,
+                {
+                    "EVENT_NAME": "push",
+                    "EVENT_SCHEDULE": "",
+                    "INPUT_MODE": "",
+                    "INPUT_SLOT": "",
+                    "GITHUB_OUTPUT": str(output),
+                },
+            ):
+                with patch("datetime.datetime") as clock:
+                    clock.now.return_value = datetime(
+                        2026,
+                        9,
+                        3,
+                        4,
+                        30,
+                        tzinfo=ZoneInfo("Asia/Shanghai"),
+                    )
+                    log = StringIO()
+                    with redirect_stdout(log):
+                        exec(compile(code, "workflow-metadata", "exec"), {})
+
+            values = dict(
+                line.split("=", 1)
+                for line in output.read_text().splitlines()
+            )
+            self.assertEqual(values["mode"], "scheduled")
+            self.assertEqual(values["logical_slot"], "0400")
+            self.assertEqual(values["collect"], "true")
+            self.assertEqual(values["build"], "true")
+            self.assertIn(
+                "metadata:event=push;schedule=none;"
+                "actual_shanghai=2026-09-03T04:30:00+08:00",
+                log.getvalue(),
+            )
 
     def test_all_dependencies_are_immutable(self) -> None:
         for sha in (
@@ -150,6 +207,33 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertLess(validate, raw_publish)
         self.assertLess(self.workflow.index('python -m content_radar_feed.publication'),
                         self.workflow.index('cp "site/reports/'))
+
+    def test_runtime_ci_is_read_only_and_excludes_recovery_trigger(self) -> None:
+        workflow = self.runtime_workflow
+        self.assertIn("push:", workflow)
+        self.assertIn("pull_request:", workflow)
+        for path in (
+            '"content_radar_feed/**"',
+            '"schema/**"',
+            '"scripts/**"',
+            '"tests/**"',
+            '"requirements.txt"',
+            '".github/workflows/**"',
+        ):
+            self.assertIn(path, workflow)
+        self.assertNotIn(".github/recovery-trigger", workflow)
+        self.assertIn("permissions:\n  contents: read", workflow)
+        self.assertIn(
+            "python -m unittest discover -s tests -p 'test_*.py'",
+            workflow,
+        )
+        self.assertNotIn("secrets.", workflow)
+        for publish_marker in (
+            "upload-pages-artifact@",
+            "deploy-pages@",
+            "git push",
+        ):
+            self.assertNotIn(publish_marker, workflow)
 
 
 if __name__ == "__main__":

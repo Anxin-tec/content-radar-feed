@@ -75,8 +75,10 @@ jobs:
               mode = "scheduled"
               collect, build = True, True
           elif event == "push":
-              mode = "recovery"
-              slot, collect, build = "0630", True, True
+              # VPS recovery-trigger pushes run the full daily restore path.
+              # Only an explicit workflow_dispatch recovery is single-slot.
+              mode = "scheduled"
+              collect, build = True, True
           elif mode == "snapshot":
               collect = True
           elif mode == "recovery":
@@ -90,6 +92,20 @@ jobs:
           if collect:
               slot = "0030" if now.hour < 4 else "0400" if now.hour < 6 else "0630"
           report_date = now.date().isoformat()
+          event_schedule = " ".join(
+              (os.environ.get("EVENT_SCHEDULE", "") or "none").split()
+          )
+          print(
+              "metadata:"
+              f"event={event};"
+              f"schedule={event_schedule};"
+              f"actual_shanghai={now.isoformat(timespec='seconds')};"
+              f"report_date={report_date};"
+              f"logical_slot={slot};"
+              f"mode={mode};"
+              f"collect={str(collect).lower()};"
+              f"build={str(build).lower()}"
+          )
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
               print(f"report_date={report_date}", file=output)
               print(f"logical_slot={slot}", file=output)

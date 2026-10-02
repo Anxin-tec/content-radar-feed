@@ -23,6 +23,8 @@ API_ROOT = (
 API_VERSION = "2026-03-10"
 USER_AGENT = "content-radar-cloud/1.0"
 MAX_ARCHIVE_MEMBER_BYTES = 8 * 1024 * 1024
+ARTIFACT_PAGE_SIZE = 100
+MAX_ARTIFACT_PAGES = 10
 
 
 class ArtifactError(ValueError):
@@ -161,8 +163,83 @@ def _get(
         if isinstance(response, bytes):
             return response
         return response.read()
-    except (HTTPError, URLError, OSError, TimeoutError):
-        raise ArtifactError("github_request_failed") from None
+    except HTTPError as error:
+        status = error.code
+        if getattr(error, "fp", None) is not None:
+            error.close()
+        if status in {401, 403, 429}:
+            raise ArtifactError(f"github_http_{status}") from None
+        if type(status) is int and 500 <= status <= 599:
+            raise ArtifactError("github_http_5xx") from None
+        raise ArtifactError("github_http_error") from None
+    except TimeoutError:
+        raise ArtifactError("github_timeout") from None
+    except (URLError, OSError):
+        raise ArtifactError("github_network_error") from None
+
+
+def _artifact_listing(
+    token: str,
+    request: Callable[[Request], bytes],
+) -> List[dict]:
+    artifacts: List[dict] = []
+    declared_total: Optional[int] = None
+    for page in range(1, MAX_ARTIFACT_PAGES + 1):
+        query = (
+            f"?per_page={ARTIFACT_PAGE_SIZE}"
+            if page == 1
+            else f"?per_page={ARTIFACT_PAGE_SIZE}&page={page}"
+        )
+        try:
+            listing = json.loads(
+                _get(
+                    f"{API_ROOT}{query}",
+                    token,
+                    request,
+                ).decode("utf-8")
+            )
+        except ArtifactError:
+            raise
+        except (
+            AttributeError,
+            TypeError,
+            UnicodeDecodeError,
+            json.JSONDecodeError,
+        ):
+            raise ArtifactError("github_response_contract") from None
+
+        if not isinstance(listing, dict) or not isinstance(
+            listing.get("artifacts"),
+            list,
+        ):
+            raise ArtifactError("github_response_contract")
+        page_artifacts = listing["artifacts"]
+        if len(page_artifacts) > ARTIFACT_PAGE_SIZE:
+            raise ArtifactError("github_response_contract")
+
+        value = listing.get("total_count")
+        if value is not None:
+            if type(value) is not int or value < 0:
+                raise ArtifactError("github_response_contract")
+            if declared_total is not None and value != declared_total:
+                raise ArtifactError("github_response_contract")
+            declared_total = value
+
+        if (
+            declared_total is not None
+            and len(artifacts) + len(page_artifacts) > declared_total
+        ):
+            raise ArtifactError("github_response_contract")
+        artifacts.extend(page_artifacts)
+
+        if declared_total is not None and len(artifacts) == declared_total:
+            return artifacts
+        if declared_total is None and len(page_artifacts) < ARTIFACT_PAGE_SIZE:
+            return artifacts
+        if not page_artifacts:
+            raise ArtifactError("github_pagination_incomplete")
+
+    raise ArtifactError("github_pagination_limit")
 
 
 def download_latest_snapshots(
@@ -173,26 +250,8 @@ def download_latest_snapshots(
     request: Callable[[Request], bytes] = _default_request,
 ) -> dict:
     slots = tuple(logical_slots)
-    try:
-        listing = json.loads(
-            _get(
-                f"{API_ROOT}?per_page=100",
-                token,
-                request,
-            ).decode("utf-8")
-        )
-    except ArtifactError:
-        raise
-    except (UnicodeDecodeError, json.JSONDecodeError) as error:
-        raise ArtifactError("github_response_contract") from error
-    if not isinstance(listing, dict) or not isinstance(
-        listing.get("artifacts"),
-        list,
-    ):
-        raise ArtifactError("github_response_contract")
-
     selected = select_latest_artifacts(
-        listing["artifacts"],
+        _artifact_listing(token, request),
         report_date=report_date,
         logical_slots=slots,
     )
