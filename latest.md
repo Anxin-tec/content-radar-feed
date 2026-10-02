@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-03
 
-数据生成时间：2026-10-03T06:33:20+08:00（北京时间）
+数据生成时间：2026-10-03T07:13:05+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：9 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -175,15 +175,6 @@ GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 C
 原文：https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/
 收录页：https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i
 
-### A19｜Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型
-
-Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-10-01T22:43:17Z
-
-原文：https://x.com/ArtificialAnlys/status/2105790682376065463
-收录页：https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%
@@ -234,4 +225,10 @@ Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-核对：AI HOT 19 条；TrendRadar 8 条。
+### N9｜家电维修师傅开始修人形机器人
+
+平台：百度热搜；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%85%E5%BC%80%E5%A7%8B%E4%BF%AE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA
+
+核对：AI HOT 18 条；TrendRadar 9 条。
