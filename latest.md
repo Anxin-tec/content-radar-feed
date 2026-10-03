@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-03
 
-数据生成时间：2026-10-03T08:25:26+08:00（北京时间）
+数据生成时间：2026-10-03T09:24:17+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -141,52 +141,46 @@ Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万
 
 链接：https://www.cls.cn/detail/2495303
 
-### N4｜家电维修师傅开始修人形机器人
-
-平台：百度热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%85%E5%BC%80%E5%A7%8B%E4%BF%AE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA
-
-### N5｜Anthropic上市再进一步：被曝冲刺感恩节前2万亿估值IPO，10月14日办投资者日
+### N4｜Anthropic上市再进一步：被曝冲刺感恩节前2万亿估值IPO，10月14日办投资者日
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782894
 
-### N6｜大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！
+### N5｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2496950
-
-### N7｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
-
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2497450
 
-### N8｜用 AI 抽卡拿到大结果了，论文署名应该归谁？
+### N6｜大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2088617692831774235
+链接：https://www.cls.cn/detail/2496950
 
-### N9｜魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元
+### N7｜魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34186242
 
-### N10｜ClaudeFable5.5提前测试
+### N8｜用 AI 抽卡拿到大结果了，论文署名应该归谁？
+
+平台：知乎；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2088617692831774235
+
+### N9｜ClaudeFable5.5提前测试
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=ClaudeFable5.5%E6%8F%90%E5%89%8D%E6%B5%8B%E8%AF%95
 
-### N11｜Bin哥点评世一上AI剧:很牛
+### N10｜Bin哥点评世一上AI剧:很牛
 
 平台：贴吧；榜单排名：28；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-核对：AI HOT 12 条；TrendRadar 11 条。
+核对：AI HOT 12 条；TrendRadar 10 条。
