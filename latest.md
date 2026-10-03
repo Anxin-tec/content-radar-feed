@@ -1,9 +1,9 @@
 # AI 日报｜2026-10-04
 
-数据生成时间：2026-10-04T03:24:04+08:00（北京时间）
+数据生成时间：2026-10-04T04:10:34+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：7 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：4 条；TrendRadar：8 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -51,66 +51,54 @@ Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与
 原文：https://www.primeintellect.ai/blog/prime-inference
 收录页：https://aihot.news/items/e54qt77e1upo9oqowk38fply1
 
-### A5｜GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型
-
-Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。
-
-来源：X：Arena (@arena)；发布时间：2026-10-02T19:48:16Z
-
-原文：https://x.com/arena/status/2106109027923140928
-收录页：https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn
-
-### A6｜Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿
-
-Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。
-
-来源：X：Arena (@arena)；发布时间：2026-10-02T19:33:51Z
-
-原文：https://x.com/arena/status/2106105400487821764
-收录页：https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782953
 
-### N2｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
+### N2｜国庆出游用AI 第一批人已被坑惨
 
-平台：知乎；榜单排名：4；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2089740005770008568
-
-### N3｜国庆出游用AI 第一批人已被坑惨
-
-平台：百度热搜；榜单排名：5；实际出现快照数：1。
+平台：百度热搜；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8
 
-### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
+### N4｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
+
+平台：知乎；榜单排名：5；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2089740005770008568
+
 ### N5｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782964
 
 ### N6｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2497450
 
 ### N7｜如何评价 Gemini 新的付费方案？
 
-平台：知乎；榜单排名：14；实际出现快照数：1。
+平台：知乎；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2089644266393952732
 
-核对：AI HOT 6 条；TrendRadar 7 条。
+### N8｜女子靠AI婚庆培训年入200万
+
+平台：百度热搜；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87
+
+核对：AI HOT 4 条；TrendRadar 8 条。
