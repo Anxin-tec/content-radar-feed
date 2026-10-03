@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-04
 
-数据生成时间：2026-10-04T00:32:04+08:00（北京时间）
+数据生成时间：2026-10-04T03:24:04+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：9 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：7 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -69,24 +69,6 @@ Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.
 原文：https://x.com/arena/status/2106105400487821764
 收录页：https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc
 
-### A7｜Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文
-
-Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。
-
-来源：X：AI at Meta (@AIatMeta)；发布时间：2026-10-02T19:11:30Z
-
-原文：https://x.com/AIatMeta/status/2106099776035152231
-收录页：https://aihot.news/items/mnp85zt9o921l7c28rzor00qy
-
-### A8｜ChatGPT 推出 Finances 财务管理功能
-
-ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。
-
-来源：X：ChatGPT (@ChatGPT)；发布时间：2026-10-02T18:07:12Z
-
-原文：https://x.com/ChatGPT/status/2106083595433791573
-收录页：https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌
@@ -95,52 +77,40 @@ ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgp
 
 链接：https://wallstreetcn.com/articles/3782953
 
-### N2｜国庆出游用AI 第一批人已被坑惨
+### N2｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
+
+平台：知乎；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2089740005770008568
+
+### N3｜国庆出游用AI 第一批人已被坑惨
 
 平台：百度热搜；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8
 
-### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N4｜如何评价 Gemini 新的付费方案？
+### N5｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
 
-平台：知乎；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2089644266393952732
-
-### N5｜如何评价 Gemini Flash 和 Pro 模型将于 2026 年 10 月 9 日转入付费模式？
-
-平台：知乎；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2089670263927464668
-
-### N6｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3782964
 
-### N7｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
+### N6｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2497450
 
-### N8｜女子靠AI婚庆培训年入200万
+### N7｜如何评价 Gemini 新的付费方案？
 
-平台：百度热搜；榜单排名：25；实际出现快照数：1。
+平台：知乎；榜单排名：14；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87
+链接：https://www.zhihu.com/question/2089644266393952732
 
-### N9｜30岁女子靠AI婚庆培训年入200万
-
-平台：微博；榜单排名：29；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87%23
-
-核对：AI HOT 8 条；TrendRadar 9 条。
+核对：AI HOT 6 条；TrendRadar 7 条。
