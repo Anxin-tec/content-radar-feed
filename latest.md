@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-04
 
-数据生成时间：2026-10-04T04:10:34+08:00（北京时间）
+数据生成时间：2026-10-04T04:32:05+08:00（北京时间）
 
 AI HOT：4 条；TrendRadar：8 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -73,7 +73,7 @@ Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与
 
 ### N4｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
 
-平台：知乎；榜单排名：5；实际出现快照数：2。
+平台：知乎；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2089740005770008568
 
@@ -91,13 +91,13 @@ Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与
 
 ### N7｜如何评价 Gemini 新的付费方案？
 
-平台：知乎；榜单排名：17；实际出现快照数：2。
+平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2089644266393952732
 
 ### N8｜女子靠AI婚庆培训年入200万
 
-平台：百度热搜；榜单排名：29；实际出现快照数：1。
+平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87
 
