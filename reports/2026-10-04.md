@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-04
 
-数据生成时间：2026-10-04T04:32:05+08:00（北京时间）
+数据生成时间：2026-10-04T05:43:52+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：2 条；TrendRadar：8 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -33,24 +33,6 @@ LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 
 原文：https://www.ithome.com/1/009/444.htm
 收录页：https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok
 
-### A3｜Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%
-
-Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。
-
-来源：Baseten 工程博客（网页）；发布时间：2026-10-02T21:09:34Z
-
-原文：https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/
-收录页：https://aihot.news/items/uwm1ml1igd8k2u81g14uf8pc3
-
-### A4｜Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点
-
-Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。
-
-来源：Prime Intellect（网页）；发布时间：未提供
-
-原文：https://www.primeintellect.ai/blog/prime-inference
-收录页：https://aihot.news/items/e54qt77e1upo9oqowk38fply1
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌
@@ -71,17 +53,17 @@ Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与
 
 链接：https://www.cls.cn/detail/2495303
 
-### N4｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
-
-平台：知乎；榜单排名：7；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2089740005770008568
-
-### N5｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
+### N4｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3782964
+
+### N5｜如何评价 Gemini 新的付费方案？
+
+平台：知乎；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2089644266393952732
 
 ### N6｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
 
@@ -89,16 +71,16 @@ Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与
 
 链接：https://www.cls.cn/detail/2497450
 
-### N7｜如何评价 Gemini 新的付费方案？
+### N7｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
 
-平台：知乎；榜单排名：16；实际出现快照数：2。
+平台：知乎；榜单排名：19；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2089644266393952732
+链接：https://www.zhihu.com/question/2089740005770008568
 
-### N8｜女子靠AI婚庆培训年入200万
+### N8｜30岁女子靠AI婚庆培训年入200万
 
-平台：百度热搜；榜单排名：28；实际出现快照数：1。
+平台：微博；榜单排名：28；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87
+链接：https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87%23
 
-核对：AI HOT 4 条；TrendRadar 8 条。
+核对：AI HOT 2 条；TrendRadar 8 条。
