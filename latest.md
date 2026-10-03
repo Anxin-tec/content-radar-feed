@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-03
 
-数据生成时间：2026-10-03T07:39:55+08:00（北京时间）
+数据生成时间：2026-10-03T08:25:26+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -121,60 +121,6 @@ Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万
 原文：https://x.com/rohanpaul_ai/status/2105921530211508488
 收录页：https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq
 
-### A13｜Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大
-
-Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-10-02T00:17:12Z
-
-原文：https://x.com/ArtificialAnlys/status/2105814318294114720
-收录页：https://aihot.news/items/jhshh53c18f71tkzk44izbs25
-
-### A14｜加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险
-
-据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。
-
-来源：IT之家（RSS）；发布时间：2026-10-02T00:06:15Z
-
-原文：https://www.ithome.com/1/009/204.htm
-收录页：https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl
-
-### A15｜OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异
-
-OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-10-02T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/
-收录页：https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30
-
-### A16｜Epoch AI 估算 2025–27 年 HBM 可支撑 3000 万至 1.7 亿并发前沿模型智能体
-
-Epoch AI 发布研究，估算 2025–27 年出货的 HBM 硬件全面部署后可运行约 30–170 百万并发前沿模型智能体，相当于每周约 1.4–7.2 亿全职员工的工作时长。
-
-来源：Epoch AI：研究、数据与评测；发布时间：2026-10-02T00:00:00Z
-
-原文：https://epoch.ai/publications/estimating-the-agent-population
-收录页：https://aihot.news/items/u7s37k3i99ayei0ja1kj6ay4j
-
-### A17｜Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文
-
-Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。
-
-来源：Meta AI：Research Blog（网页）；发布时间：2026-10-02T00:00:00Z
-
-原文：https://research.meta.ai/blog/solving-open-research-problems-together
-收录页：https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj
-
-### A18｜NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast
-
-GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。
-
-来源：NVIDIA Blog（RSS）；发布时间：2026-10-01T23:44:13Z
-
-原文：https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/
-收录页：https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%
@@ -197,7 +143,7 @@ GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 C
 
 ### N4｜家电维修师傅开始修人形机器人
 
-平台：百度热搜；榜单排名：9；实际出现快照数：1。
+平台：百度热搜；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%85%E5%BC%80%E5%A7%8B%E4%BF%AE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA
 
@@ -213,28 +159,34 @@ GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 C
 
 链接：https://www.cls.cn/detail/2496950
 
-### N7｜魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元
+### N7｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2497450
+
+### N8｜用 AI 抽卡拿到大结果了，论文署名应该归谁？
+
+平台：知乎；榜单排名：16；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2088617692831774235
+
+### N9｜魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34186242
 
-### N8｜我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？
-
-平台：知乎；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2083222866280171324
-
-### N9｜ClaudeFable5.5提前测试
+### N10｜ClaudeFable5.5提前测试
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=ClaudeFable5.5%E6%8F%90%E5%89%8D%E6%B5%8B%E8%AF%95
 
-### N10｜Bin哥点评世一上AI剧:很牛
+### N11｜Bin哥点评世一上AI剧:很牛
 
 平台：贴吧；榜单排名：28；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B&topic_id=28366031
 
-核对：AI HOT 18 条；TrendRadar 10 条。
+核对：AI HOT 12 条；TrendRadar 11 条。
