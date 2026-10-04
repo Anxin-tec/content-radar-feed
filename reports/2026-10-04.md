@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-04
 
-数据生成时间：2026-10-04T07:45:36+08:00（北京时间）
+数据生成时间：2026-10-04T09:59:47+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：10 条 AI 相关热点。
+AI HOT：4 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -63,41 +63,41 @@ LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 
 
 链接：https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8
 
-### N3｜女子靠AI婚庆培训年入200万
-
-平台：百度热搜；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87
-
-### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N5｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
+### N4｜9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782964
 
-### N6｜如何评价 Gemini 新的付费方案？
+### N5｜DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782963
+
+### N6｜AI大神Karpathy最新洞察：未来我们更该“理解”大模型输出，而不是被它淹没
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3782967
+
+### N7｜如何评价 Gemini 新的付费方案？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2089644266393952732
 
-### N7｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
+### N8｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2497450
-
-### N8｜23组AI歌手献唱如愿
-
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=23%E7%BB%84AI%E6%AD%8C%E6%89%8B%E7%8C%AE%E5%94%B1%E5%A6%82%E6%84%BF
 
 ### N9｜如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？
 
@@ -105,10 +105,16 @@ LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 
 
 链接：https://www.zhihu.com/question/2089740005770008568
 
-### N10｜30岁女子靠AI婚庆培训年入200万
+### N10｜23组AI歌手献唱如愿
 
-平台：微博；榜单排名：25；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=23%E7%BB%84AI%E6%AD%8C%E6%89%8B%E7%8C%AE%E5%94%B1%E5%A6%82%E6%84%BF
+
+### N11｜30岁女子靠AI婚庆培训年入200万
+
+平台：微博；榜单排名：28；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87%23
 
-核对：AI HOT 4 条；TrendRadar 10 条。
+核对：AI HOT 4 条；TrendRadar 11 条。
