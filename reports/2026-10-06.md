@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-06
 
-数据生成时间：2026-10-06T06:54:52+08:00（北京时间）
+数据生成时间：2026-10-06T07:22:25+08:00（北京时间）
 
 AI HOT：7 条；TrendRadar：15 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -148,17 +148,17 @@ Together AI 发布 Together Link，把团队已用的编码智能体工具连接
 
 链接：https://www.zhihu.com/question/2088882471890859810
 
-### N13｜AI逆向拆解MC植入任何游戏
+### N13｜AI能否把员工技能变成固定资产
+
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8A%8A%E5%91%98%E5%B7%A5%E6%8A%80%E8%83%BD%E5%8F%98%E6%88%90%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7
+
+### N14｜AI逆向拆解MC植入任何游戏
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%80%86%E5%90%91%E6%8B%86%E8%A7%A3MC%E6%A4%8D%E5%85%A5%E4%BB%BB%E4%BD%95%E6%B8%B8%E6%88%8F
-
-### N14｜AI能否把员工技能变成固定资产
-
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8A%8A%E5%91%98%E5%B7%A5%E6%8A%80%E8%83%BD%E5%8F%98%E6%88%90%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7
 
 ### N15｜家长给女儿买机器人当家教：情感陪伴
 
