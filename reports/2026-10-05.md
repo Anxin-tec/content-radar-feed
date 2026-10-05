@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-05
 
-数据生成时间：2026-10-05T07:56:36+08:00（北京时间）
+数据生成时间：2026-10-05T09:14:26+08:00（北京时间）
 
-AI HOT：0 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：1 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,11 +11,20 @@ AI HOT：0 条；TrendRadar：13 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
+### A1｜PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄
+
+PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。
+
+来源：PromptArmor：Threat Intelligence；发布时间：2026-10-05T00:24:02Z
+
+原文：https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills
+收录页：https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n
+
 ## TrendRadar 完整 AI 热点
 
 ### N1｜特朗普“AI沙皇”人选曝光
 
-平台：凤凰网；榜单排名：1；实际出现快照数：3。
+平台：凤凰网；榜单排名：1；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8wwrNBWlavW
 
@@ -31,23 +40,23 @@ AI HOT：0 条；TrendRadar：13 条 AI 相关热点。
 
 链接：https://wallstreetcn.com/articles/3782987
 
-### N4｜中美AI治理是否迎来拐点
-
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E6%B2%BB%E7%90%86%E6%98%AF%E5%90%A6%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9
-
-### N5｜美银：“AI交易”是当前美债市场“最后一道防线”
+### N4｜美银：“AI交易”是当前美债市场“最后一道防线”
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782975
 
-### N6｜OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！
+### N5｜OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3782981
+
+### N6｜中美AI治理是否迎来拐点
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E6%B2%BB%E7%90%86%E6%98%AF%E5%90%A6%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9
 
 ### N7｜贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧
 
@@ -55,40 +64,40 @@ AI HOT：0 条；TrendRadar：13 条 AI 相关热点。
 
 链接：https://wallstreetcn.com/articles/3782969
 
-### N8｜30 岁女子靠 AI 婚庆培训年入 200 万，10 万元内的方案仅需十几分钟生成，实际含金量如何？
+### N8｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
 
-平台：知乎；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2090007164509054060
-
-### N9｜换汤不换药的AI短剧还能“不烧心”吗
-
-平台：今日头条；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7692782520934432811/
-
-### N10｜白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3782984
-
-### N11｜美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高
-
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2497450
 
-### N12｜AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲
+### N9｜白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3782984
+
+### N10｜30 岁女子靠 AI 婚庆培训年入 200 万，10 万元内的方案仅需十几分钟生成，实际含金量如何？
+
+平台：知乎；榜单排名：11；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2090007164509054060
+
+### N11｜AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲
+
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2497590
 
+### N12｜换汤不换药的AI短剧还能“不烧心”吗
+
+平台：今日头条；榜单排名：19；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7692782520934432811/
+
 ### N13｜中国团队拿下最佳故事奖，从阿斯塔纳这个电影节看AI的惊艳与短板
 
-平台：澎湃新闻；榜单排名：19；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34198273
 
-核对：AI HOT 0 条；TrendRadar 13 条。
+核对：AI HOT 1 条；TrendRadar 13 条。
