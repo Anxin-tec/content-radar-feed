@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-06
 
-数据生成时间：2026-10-06T06:32:05+08:00（北京时间）
+数据生成时间：2026-10-06T06:54:52+08:00（北京时间）
 
 AI HOT：7 条；TrendRadar：15 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -124,46 +124,46 @@ Together AI 发布 Together Link，把团队已用的编码智能体工具连接
 
 链接：https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E7%BB%99%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%8E%8F%E8%80%B3%E6%9C%B5%E9%BC%BB%E5%AD%94%E7%B3%BBAI%E7%94%9F%E6%88%90
 
-### N9｜一位数学家如何证明自己没有使用 AI 做论文？
-
-平台：知乎；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2088882471890859810
-
-### N10｜华为5G、AI专利授权取得突破，高通付费获得逻辑折叠等专利
+### N9｜华为5G、AI专利授权取得突破，高通付费获得逻辑折叠等专利
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34201847
 
-### N11｜AI能否把员工技能变成固定资产
+### N10｜人在东北澡堂 没有AI的一天
 
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
+平台：百度热搜；榜单排名：15；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8A%8A%E5%91%98%E5%B7%A5%E6%8A%80%E8%83%BD%E5%8F%98%E6%88%90%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7
+链接：https://www.baidu.com/s?wd=%E4%BA%BA%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%BE%A1%E5%A0%82+%E6%B2%A1%E6%9C%89AI%E7%9A%84%E4%B8%80%E5%A4%A9
 
-### N12｜人形机器人会跳舞，却进不了工厂？制造业龙头开放300个场景“养”具身智能
+### N11｜人形机器人会跳舞，却进不了工厂？制造业龙头开放300个场景“养”具身智能
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34200939
 
-### N13｜人在东北澡堂 没有AI的一天
+### N12｜一位数学家如何证明自己没有使用 AI 做论文？
 
-平台：百度热搜；榜单排名：19；实际出现快照数：3。
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E4%BA%BA%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%BE%A1%E5%A0%82+%E6%B2%A1%E6%9C%89AI%E7%9A%84%E4%B8%80%E5%A4%A9
+链接：https://www.zhihu.com/question/2088882471890859810
 
-### N14｜家长给女儿买机器人当家教：情感陪伴
+### N13｜AI逆向拆解MC植入任何游戏
 
-平台：百度热搜；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E5%AE%B6%E6%95%99%EF%BC%9A%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4
-
-### N15｜AI逆向拆解MC植入任何游戏
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%80%86%E5%90%91%E6%8B%86%E8%A7%A3MC%E6%A4%8D%E5%85%A5%E4%BB%BB%E4%BD%95%E6%B8%B8%E6%88%8F
+
+### N14｜AI能否把员工技能变成固定资产
+
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8A%8A%E5%91%98%E5%B7%A5%E6%8A%80%E8%83%BD%E5%8F%98%E6%88%90%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7
+
+### N15｜家长给女儿买机器人当家教：情感陪伴
+
+平台：百度热搜；榜单排名：29；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E5%AE%B6%E6%95%99%EF%BC%9A%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4
 
 核对：AI HOT 7 条；TrendRadar 15 条。
