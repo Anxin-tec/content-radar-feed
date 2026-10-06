@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-07
 
-数据生成时间：2026-10-07T05:13:46+08:00（北京时间）
+数据生成时间：2026-10-07T05:53:42+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：5 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：6 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -192,28 +192,34 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 链接：https://wallstreetcn.com/articles/3783055
 
-### N2｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N2｜OpenAI或将发布400个重大数学成果
+
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
+
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N3｜苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产
+### N4｜苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产
 
 平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2498239
 
-### N4｜最新报告：美国对华AI领先优势降至3%，历史最低
+### N5｜最新报告：美国对华AI领先优势降至3%，历史最低
 
 平台：凤凰网；榜单排名：7；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8x0Lj7AsLzE
 
-### N5｜OpenAI或将发布400个重大数学成果
+### N6｜手搓一台机器人分几步
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
+链接：https://search.bilibili.com/all?keyword=%E6%89%8B%E6%90%93%E4%B8%80%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%86%E5%87%A0%E6%AD%A5
 
-核对：AI HOT 19 条；TrendRadar 5 条。
+核对：AI HOT 19 条；TrendRadar 6 条。
