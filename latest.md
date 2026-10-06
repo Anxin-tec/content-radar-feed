@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-07
 
-数据生成时间：2026-10-07T06:31:53+08:00（北京时间）
+数据生成时间：2026-10-07T06:47:11+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：6 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：7 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -195,7 +195,7 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 ### N1｜报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783055
 
@@ -217,16 +217,22 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 链接：https://news.ifeng.com/c/8x0Lj7AsLzE
 
-### N5｜手搓一台机器人分几步
+### N5｜OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783044
+
+### N6｜手搓一台机器人分几步
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%89%8B%E6%90%93%E4%B8%80%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%86%E5%87%A0%E6%AD%A5
 
-### N6｜OpenAI或将发布400个重大数学成果
+### N7｜OpenAI或将发布400个重大数学成果
 
 平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
 
-核对：AI HOT 20 条；TrendRadar 6 条。
+核对：AI HOT 20 条；TrendRadar 7 条。
