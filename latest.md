@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-07
 
-数据生成时间：2026-10-07T06:47:11+08:00（北京时间）
+数据生成时间：2026-10-07T07:13:36+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：7 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：6 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,14 +11,14 @@ AI HOT：20 条；TrendRadar：7 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 发布内部前沿模型产出的新数学成果
+### A1｜OpenAI 发布内部前沿模型产出的多项数学新结果及 Lean 形式化证明
 
-OpenAI 发布由内部前沿模型产出的一批新数学结果，链接为 https://github.com/openai/math。发布前咨询了普林斯顿高等研究院（IAS）数学与人工智能独立顾问组，并依据其建议和公开建议决定发布方式。
+OpenAI 发布由内部前沿模型产出的一系列数学新结果，结果存放于 GitHub 仓库，并提供部分证明的 Lean 形式化。仓库还包含 10 份模型推理摘要、算力估算等透明度细节，平均每项结果约相当于 ChatGPT Pro 三小时思考的算力，OpenAI 表示正努力负责任地发布产生这些结果的模型。
 
-来源：X：OpenAI (@OpenAI)；发布时间：2026-10-06T22:19:48Z
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-06T23:01:09.228000Z
 
-原文：https://x.com/OpenAI/status/2107596713791767021
-收录页：https://aihot.news/items/xfuh4chow7lb69pwqf0bn7j6e
+原文：https://openai.com/index/sharing-ai-progress-in-mathematics/
+收录页：https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl
 
 ### A2｜GitHub 重建 Git 基础设施，应对智能体规模开发
 
@@ -217,11 +217,11 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 链接：https://news.ifeng.com/c/8x0Lj7AsLzE
 
-### N5｜OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5
+### N5｜OpenAI或将发布400个重大数学成果
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3783044
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
 
 ### N6｜手搓一台机器人分几步
 
@@ -229,10 +229,4 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 链接：https://search.bilibili.com/all?keyword=%E6%89%8B%E6%90%93%E4%B8%80%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%86%E5%87%A0%E6%AD%A5
 
-### N7｜OpenAI或将发布400个重大数学成果
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
-
-核对：AI HOT 20 条；TrendRadar 7 条。
+核对：AI HOT 20 条；TrendRadar 6 条。
