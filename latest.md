@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-08
 
-数据生成时间：2026-10-08T07:17:49+08:00（北京时间）
+数据生成时间：2026-10-08T07:45:40+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：12 条 AI 相关热点。
+AI HOT：21 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -228,7 +228,7 @@ Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，�
 
 ### N5｜Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783107
 
@@ -238,40 +238,46 @@ Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，�
 
 链接：https://www.cls.cn/detail/2498239
 
-### N7｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
+### N7｜AI公开的722篇论文会影响数学吗
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97
+
+### N8｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783087
 
-### N8｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
+### N9｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
+
+平台：知乎；榜单排名：12；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2091064625987170716
+
+### N10｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2498406
 
-### N9｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
+### N11｜华为：昇腾中国市场份额已超英伟达
+
+平台：今日头条；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7693684498839618057/
+
+### N12｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34141698
 
-### N10｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
+### N13｜AI短片生化危机爆发夜前传
 
-平台：知乎；榜单排名：20；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2091064625987170716
-
-### N11｜AI短片生化危机爆发夜前传
-
-平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0
 
-### N12｜AI公开的722篇论文会影响数学吗
-
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97
-
-核对：AI HOT 21 条；TrendRadar 12 条。
+核对：AI HOT 21 条；TrendRadar 13 条。
