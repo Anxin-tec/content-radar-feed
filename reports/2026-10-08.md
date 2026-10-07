@@ -1,13 +1,11 @@
 # AI 日报｜2026-10-08
 
-数据生成时间：2026-10-08T05:33:36+08:00（北京时间）
+数据生成时间：2026-10-08T06:14:53+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：12 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：22 条；TrendRadar：12 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -166,7 +164,16 @@ Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 4
 原文：https://x.com/arena/status/2107717155374727602
 收录页：https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt
 
-### A18｜Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索
+### A18｜Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断
+
+Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。
+
+来源：Google Research：Blog（网页）；发布时间：2026-10-07T00:00:00Z
+
+原文：https://research.google/blog/does-better-work-always-mean-better-workers/
+收录页：https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61
+
+### A19｜Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索
 
 Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。
 
@@ -175,7 +182,7 @@ Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、
 原文：https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/
 收录页：https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd
 
-### A19｜Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M
+### A20｜Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M
 
 Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。
 
@@ -184,7 +191,7 @@ Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging
 原文：https://www.liquid.ai/blog/d1-open
 收录页：https://aihot.news/items/qawfhyw1v10hv75bld8ogbjgj
 
-### A20｜vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍
+### A21｜vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍
 
 Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。
 
@@ -193,7 +200,7 @@ Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，�
 原文：https://vllm.ai/blog/2026-10-07-deepseek-v41-flash
 收录页：https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn
 
-### A21｜OpenAI 发布内部前沿模型产出的数学研究成果
+### A22｜OpenAI 发布内部前沿模型产出的数学研究成果
 
 OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。
 
@@ -206,45 +213,45 @@ OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 Git
 
 ### N1｜数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783101
 
 ### N2｜标普500创出新高，但几乎只有AI交易在涨
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783091
 
 ### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
-平台：财联社热门；榜单排名：5；实际出现快照数：2。
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
 ### N4｜吧友教AI写文,焚诀大公开
 
-平台：贴吧；榜单排名：5；实际出现快照数：2。
+平台：贴吧；榜单排名：5；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
 ### N5｜苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产
 
-平台：财联社热门；榜单排名：7；实际出现快照数：2。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2498239
 
-### N6｜Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线
+### N6｜AI公开的722篇论文会影响数学吗
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3783107
-
-### N7｜AI公开的722篇论文会影响数学吗
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97
+
+### N7｜Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3783107
 
 ### N8｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
 
@@ -254,13 +261,13 @@ OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 Git
 
 ### N9｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
 
-平台：知乎；榜单排名：12；实际出现快照数：2。
+平台：知乎；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2091064625987170716
 
 ### N10｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2498406
 
@@ -272,8 +279,8 @@ OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 Git
 
 ### N12｜AI短片生化危机爆发夜前传
 
-平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0
 
-核对：AI HOT 21 条；TrendRadar 12 条。
+核对：AI HOT 22 条；TrendRadar 12 条。
