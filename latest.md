@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-07
 
-数据生成时间：2026-10-07T07:42:31+08:00（北京时间）
+数据生成时间：2026-10-07T08:37:50+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：8 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -146,51 +146,6 @@ Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，�
 原文：https://x.com/Khazix0918/status/2107297777583825359
 收录页：https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n
 
-### A16｜卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众
-
-作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-06T00:18:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7
-收录页：https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc
-
-### A17｜Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用
-
-Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。
-
-来源：Gemini API：更新日志（网页）；发布时间：2026-10-06T00:00:00Z
-
-原文：https://ai.google.dev/gemini-api/docs/changelog#10-06-2026
-收录页：https://aihot.news/items/d17jcexm93lo85zkz3iil08c9
-
-### A18｜Vercel COO 讲解如何用 Agent 自动化 Inbound 销售
-
-Vercel COO Jeanne DeWitt Grosser 在 Tom Tunguz 的 Office Hours 节目中讲解团队如何搭建运行销售漏斗顶端的 Agent。
-
-来源：Tomasz Tunguz 博客（VC 分析）；发布时间：2026-10-06T00:00:00Z
-
-原文：https://tomtunguz.com/how-to-automate-inbound/
-收录页：https://aihot.news/items/clggowmf6nncm154a78nnizft
-
-### A19｜Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2
-
-Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。
-
-来源：Google Developers Blog（RSS）；发布时间：2026-10-06T00:00:00Z
-
-原文：https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/
-收录页：https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy
-
-### A20｜Anthropic Cowork 改为云端运行模型推理与 VM
-
-Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。
-
-来源：Simon Willison 博客；发布时间：2026-10-05T23:56:47Z
-
-原文：https://simonwillison.net/2026/Oct/5/felix-rieseberg/
-收录页：https://aihot.news/items/oj7q14paghhkh66541sg0xdgy
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投
@@ -205,35 +160,35 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 链接：https://www.cls.cn/detail/2498239
 
-### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N3｜OpenAI或将发布400个重大数学成果
+
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
+
+### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N4｜最新报告：美国对华AI领先优势降至3%，历史最低
+### N5｜最新报告：美国对华AI领先优势降至3%，历史最低
 
 平台：凤凰网；榜单排名：7；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8x0Lj7AsLzE
 
-### N5｜OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5
+### N6｜OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783044
 
-### N6｜怎么看 Claude 订阅现在比 OpenAI 高 5 倍用量？
+### N7｜怎么看 Claude 订阅现在比 OpenAI 高 5 倍用量？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2090772030799061671
-
-### N7｜OpenAI或将发布400个重大数学成果
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
 
 ### N8｜手搓一台机器人分几步
 
@@ -241,4 +196,4 @@ Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版
 
 链接：https://search.bilibili.com/all?keyword=%E6%89%8B%E6%90%93%E4%B8%80%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%86%E5%87%A0%E6%AD%A5
 
-核对：AI HOT 20 条；TrendRadar 8 条。
+核对：AI HOT 15 条；TrendRadar 8 条。
