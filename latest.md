@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-08
 
-数据生成时间：2026-10-08T08:06:44+08:00（北京时间）
+数据生成时间：2026-10-08T08:56:51+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：12 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -38,9 +38,9 @@ LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数�
 原文：https://www.langchain.com/blog/revamping-skills-in-deep-agents
 收录页：https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h
 
-### A4｜NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC
+### A4｜NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC
 
-NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。
+NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。
 
 来源：NVIDIA Blog（RSS）；发布时间：2026-10-07T18:45:28Z
 
@@ -174,68 +174,74 @@ Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 4
 
 ### N2｜标普500创出新高，但几乎只有AI交易在涨
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783091
 
-### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N3｜OpenAI全面上线GPT-6
+
+平台：百度热搜；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=OpenAI%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BFGPT-6
+
+### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N4｜吧友教AI写文,焚诀大公开
+### N5｜吧友教AI写文,焚诀大公开
 
 平台：贴吧；榜单排名：5；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
-### N5｜Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783107
-
 ### N6｜苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产
 
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2498239
 
-### N7｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
+### N7｜Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3783107
+
+### N8｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783087
 
-### N8｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
+### N9｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
 
 平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091064625987170716
 
-### N9｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
+### N10｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2498406
 
-### N10｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
+### N11｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34141698
 
-### N11｜AI短片生化危机爆发夜前传
+### N12｜AI短片生化危机爆发夜前传
 
 平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0
 
-### N12｜AI公开的722篇论文会影响数学吗
+### N13｜AI公开的722篇论文会影响数学吗
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97
 
-核对：AI HOT 17 条；TrendRadar 12 条。
+核对：AI HOT 17 条；TrendRadar 13 条。
