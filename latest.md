@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-09
 
-数据生成时间：2026-10-09T06:24:58+08:00（北京时间）
+数据生成时间：2026-10-09T06:31:39+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：22 条；TrendRadar：12 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -164,7 +164,16 @@ OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内�
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487
 收录页：https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n
 
-### A18｜Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能
+### A18｜Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型
+
+Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。
+
+来源：Hugging Face 官方团队博客；发布时间：2026-10-08T00:00:00.751000Z
+
+原文：https://huggingface.co/blog/building-with-ml-intern
+收录页：https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw
+
+### A19｜Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能
 
 Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。
 
@@ -173,7 +182,7 @@ Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。
 原文：https://claude.com/blog/dashboards-and-motion
 收录页：https://aihot.news/items/winsvtlfubhjfi0wnone83j5c
 
-### A19｜Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate
+### A20｜Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate
 
 Google AI Edge 团队以 Apache 2.0 许可开源 ML Drift，一个跨平台端侧 GPU 推理计算引擎，作为 LiteRT 的核心 GPU 加速层。
 
@@ -182,7 +191,7 @@ Google AI Edge 团队以 Apache 2.0 许可开源 ML Drift，一个跨平台端�
 原文：https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/
 收录页：https://aihot.news/items/vemmtcq70ojxkk343dse8qfuc
 
-### A20｜Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障
+### A21｜Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障
 
 Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目中定时从 Cloud Trace、Cloud Logging 或 BigQuery 抽取生产会话，经抽样、评审、聚类、验证、跟踪五阶段流水线诊断 Agent 失败。
 
@@ -191,7 +200,7 @@ Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目
 原文：https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/
 收录页：https://aihot.news/items/col84h6b3pdq383v6iuju3a9v
 
-### A21｜OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群
+### A22｜OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群
 
 OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过假 persona Mia Clark 控制拉美智库 Social Research Center，评分达 Category 5，是报告以来首个 Category 5；伊朗来源的 Bogus Bylines 用 7 个假记者身份在全球十几家中小媒体投放近 100 篇长文，评分 Category 4。
 
@@ -228,7 +237,7 @@ OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过�
 
 ### N5｜如何看待 DeepSeek 估值已接近 5000 亿元？
 
-平台：知乎；榜单排名：10；实际出现快照数：2。
+平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091466415639196511
 
@@ -244,28 +253,34 @@ OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
-### N8｜为了实现 Token 自由，自己买 GPU 值得吗？
+### N8｜很多 AI 生成的 steam 游戏封面一看就没有点击欲，让人倒胃口，你也会这么觉得吗？
+
+平台：知乎；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2086502091393189022
+
+### N9｜为了实现 Token 自由，自己买 GPU 值得吗？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2080572349796168710
 
-### N9｜AI历史剧火了也遭举报
+### N10｜AI历史剧火了也遭举报
 
 平台：微博；榜单排名：19；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=AI%E5%8E%86%E5%8F%B2%E5%89%A7%E7%81%AB%E4%BA%86%E4%B9%9F%E9%81%AD%E4%B8%BE%E6%8A%A5
 
-### N10｜AI手搓开心麻花版火影忍者
+### N11｜AI手搓开心麻花版火影忍者
 
 平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
 
-### N11｜OpenAI的722篇论文含金量如何
+### N12｜OpenAI的722篇论文含金量如何
 
 平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95
 
-核对：AI HOT 21 条；TrendRadar 11 条。
+核对：AI HOT 22 条；TrendRadar 12 条。
