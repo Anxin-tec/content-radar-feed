@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-08
 
-数据生成时间：2026-10-08T07:45:40+08:00（北京时间）
+数据生成时间：2026-10-08T08:06:44+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：12 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -164,42 +164,6 @@ Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 4
 原文：https://x.com/arena/status/2107717155374727602
 收录页：https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt
 
-### A18｜Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断
-
-Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。
-
-来源：Google Research：Blog（网页）；发布时间：2026-10-07T00:00:00Z
-
-原文：https://research.google/blog/does-better-work-always-mean-better-workers/
-收录页：https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61
-
-### A19｜Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索
-
-Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。
-
-来源：Google Developers Blog（RSS）；发布时间：2026-10-07T00:00:00Z
-
-原文：https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/
-收录页：https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd
-
-### A20｜Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M
-
-Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。
-
-来源：Liquid AI 模型与工程博客（网页）；发布时间：2026-10-07T00:00:00Z
-
-原文：https://www.liquid.ai/blog/d1-open
-收录页：https://aihot.news/items/qawfhyw1v10hv75bld8ogbjgj
-
-### A21｜vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍
-
-Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。
-
-来源：vLLM 官方博客（RSS）；发布时间：2026-10-07T00:00:00Z
-
-原文：https://vllm.ai/blog/2026-10-07-deepseek-v41-flash
-收录页：https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明
@@ -238,46 +202,40 @@ Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，�
 
 链接：https://www.cls.cn/detail/2498239
 
-### N7｜AI公开的722篇论文会影响数学吗
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97
-
-### N8｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
+### N7｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783087
 
-### N9｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
+### N8｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
 
 平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091064625987170716
 
-### N10｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
+### N9｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2498406
 
-### N11｜华为：昇腾中国市场份额已超英伟达
-
-平台：今日头条；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7693684498839618057/
-
-### N12｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
+### N10｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34141698
 
-### N13｜AI短片生化危机爆发夜前传
+### N11｜AI短片生化危机爆发夜前传
 
 平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0
 
-核对：AI HOT 21 条；TrendRadar 13 条。
+### N12｜AI公开的722篇论文会影响数学吗
+
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97
+
+核对：AI HOT 17 条；TrendRadar 12 条。
