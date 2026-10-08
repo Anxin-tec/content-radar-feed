@@ -330,6 +330,125 @@ jobs:
               -m "feed: publish ${REPORT_DATE}"
             git -C "$feed_dir" push origin HEAD:feed
           fi
+      - name: Merge current daily site into Pages artifact
+        env:
+          PUBLIC_LATEST_URL: https://anxin-tec.github.io/content-radar-feed/daily/latest.json
+        run: |
+          set -eu
+          current_latest="$(mktemp)"
+          set +e
+          current_status="$(curl -sS -L --max-time 20 -o "$current_latest" -w '%{http_code}' "$PUBLIC_LATEST_URL")"
+          curl_rc=$?
+          set -e
+          if [ "$curl_rc" -ne 0 ]; then
+            echo "daily_latest_probe_failed:curl_$curl_rc" >&2
+            exit 1
+          fi
+          daily_ref_file="$(mktemp)"
+          set +e
+          git ls-remote --exit-code --quiet origin refs/heads/daily > "$daily_ref_file"
+          daily_rc=$?
+          set -e
+          if [ "$daily_rc" -eq 0 ]; then
+            daily_dir="$(mktemp -d)"
+            git fetch --depth=1 origin refs/heads/daily
+            daily_ref="$(git rev-parse FETCH_HEAD)"
+            git archive "$daily_ref" | tar -x -C "$daily_dir"
+            python3 - "$daily_dir" "$current_latest" "$current_status" <<'PY'
+          import hashlib
+          import json
+          import re
+          import sys
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          candidate = Path(sys.argv[1])
+          current_path = Path(sys.argv[2])
+          current_status = sys.argv[3]
+          date_re = re.compile(r"\d{4}-\d{2}-\d{2}")
+          sha_re = re.compile(r"[0-9a-f]{64}")
+          for required in ("index.html", "feed.xml", "latest.json"):
+              if not (candidate / required).is_file():
+                  raise SystemExit(f"daily_public_file_missing:{required}")
+
+          def read_json(path, code):
+              try:
+                  value = json.loads(path.read_text(encoding="utf-8"))
+              except (OSError, UnicodeError, ValueError):
+                  raise SystemExit(code) from None
+              if not isinstance(value, dict):
+                  raise SystemExit(code)
+              return value
+
+          def valid_date(value, code):
+              if not isinstance(value, str) or not date_re.fullmatch(value):
+                  raise SystemExit(code)
+              try:
+                  datetime.strptime(value, "%Y-%m-%d")
+              except ValueError:
+                  raise SystemExit(code) from None
+              return value
+
+          latest = read_json(candidate / "latest.json", "daily_latest_invalid")
+          incoming_date = valid_date(latest.get("report_date"), "daily_latest_date_invalid")
+          today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
+          if incoming_date > today:
+              raise SystemExit(f"daily_page_future:{incoming_date}>{today}")
+
+          markdown = candidate / "reports" / f"{incoming_date}.md"
+          html = candidate / "reports" / f"{incoming_date}.html"
+          if not markdown.is_file() or not html.is_file():
+              raise SystemExit("daily_current_report_missing")
+          content_sha = latest.get("content_sha256")
+          if not isinstance(content_sha, str) or not sha_re.fullmatch(content_sha):
+              raise SystemExit("daily_content_sha_invalid")
+          if hashlib.sha256(markdown.read_bytes()).hexdigest() != content_sha:
+              raise SystemExit("daily_content_sha_mismatch")
+          content = markdown.read_text(encoding="utf-8")
+          headings = re.findall(r"(?m)^### 推荐 \d+｜[^\r\n]+$", content)
+          count = latest.get("recommendation_count")
+          if not isinstance(count, int) or isinstance(count, bool) or count < 0:
+              raise SystemExit("daily_recommendation_count_invalid")
+          if len(headings) != count:
+              raise SystemExit(f"daily_recommendation_count_mismatch:{len(headings)}!={count}")
+
+          if current_status == "200":
+              current = read_json(current_path, "published_daily_latest_invalid")
+              current_date = valid_date(current.get("report_date"), "published_daily_latest_date_invalid")
+              if current_date > today:
+                  raise SystemExit(f"published_daily_future:{current_date}>{today}")
+              if incoming_date < current_date:
+                  raise SystemExit(f"daily_page_regression:{incoming_date}<{current_date}")
+          elif current_status != "404":
+              raise SystemExit(f"published_daily_latest_http_{current_status}")
+          print(f"daily_page_candidate:{incoming_date};content_sha256:{content_sha}")
+          PY
+            mkdir -p site/daily
+            cp -R "$daily_dir"/. site/daily/
+          elif [ "$daily_rc" -eq 2 ]; then
+            if [ "$current_status" = "200" ]; then
+              echo "daily_branch_missing_would_remove_published_daily_page" >&2
+              exit 1
+            fi
+            echo "daily_branch_unavailable:continuing_without_daily_subtree"
+          else
+            echo "daily_branch_lookup_failed:$daily_rc" >&2
+            exit "$daily_rc"
+          fi
+          cat > site/index.html <<'HTML'
+          <!doctype html>
+          <html lang="zh-CN">
+          <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Content Radar</title></head>
+          <body>
+          <main>
+          <h1>Content Radar</h1>
+          <p><a href="daily/">每日网页日报</a></p>
+          <p><a href="latest.md">原始采集 Markdown</a> · <a href="latest.json">原始采集 JSON</a></p>
+          </main>
+          </body>
+          </html>
+          HTML
       - name: Create report digest
         env:
           REPORT_DATE: ${{ needs.metadata.outputs.report_date }}

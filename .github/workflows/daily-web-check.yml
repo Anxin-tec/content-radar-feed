@@ -1,0 +1,178 @@
+name: Check Daily Web Publication
+
+on:
+  schedule:
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: daily-web-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      EVENT_NAME: ${{ github.event_name }}
+      DAILY_BASE_URL: https://anxin-tec.github.io/content-radar-feed/daily
+    steps:
+      - name: Check public daily site
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import os
+          import re
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
+          from html import unescape
+          from html.parser import HTMLParser
+          from urllib.error import HTTPError, URLError
+          from urllib.request import Request, urlopen
+          from zoneinfo import ZoneInfo
+
+          SHANGHAI = ZoneInfo("Asia/Shanghai")
+          base = os.environ["DAILY_BASE_URL"].rstrip("/")
+          now = datetime.now(SHANGHAI)
+          today = now.date().isoformat()
+
+          def write_summary(result):
+              print(json.dumps(result, ensure_ascii=False, sort_keys=True))
+              with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as summary:
+                  summary.write("## Daily web publication check\n\n")
+                  summary.write("```json\n" + json.dumps(result, ensure_ascii=False, indent=2) + "\n```\n")
+
+          if os.environ["EVENT_NAME"] == "schedule" and (now.hour, now.minute) < (7, 45):
+              write_summary({
+                  "status": "skipped",
+                  "skip_reason": "before_07:45_Asia/Shanghai",
+                  "checked_at": now.isoformat(timespec="seconds"),
+              })
+              raise SystemExit(0)
+
+          def fetch(path):
+              url = base + "/" + path.lstrip("/")
+              request = Request(url, headers={"User-Agent": "content-radar-daily-check/1.0", "Accept": "*/*"})
+              try:
+                  with urlopen(request, timeout=20) as response:
+                      return response.status, response.read()
+              except HTTPError as exc:
+                  raise SystemExit(f"public_http_{exc.code}:{path}") from None
+              except (OSError, URLError, TimeoutError):
+                  raise SystemExit(f"public_fetch_failed:{path}") from None
+
+          def json_file(path):
+              status, body = fetch(path)
+              if status != 200:
+                  raise SystemExit(f"public_http_{status}:{path}")
+              try:
+                  value = json.loads(body)
+              except (ValueError, UnicodeError):
+                  raise SystemExit(f"public_json_invalid:{path}") from None
+              if not isinstance(value, dict):
+                  raise SystemExit(f"public_json_object_required:{path}")
+              return value
+
+          def normalized(value):
+              return re.sub(r"\s+", " ", unescape(str(value))).strip()
+
+          class TextOnly(HTMLParser):
+              def __init__(self):
+                  super().__init__(convert_charrefs=True)
+                  self.parts = []
+                  self.hidden = 0
+
+              def handle_starttag(self, tag, attrs):
+                  if tag.lower() in {"script", "style", "noscript", "template"}:
+                      self.hidden += 1
+
+              def handle_endtag(self, tag):
+                  if tag.lower() in {"script", "style", "noscript", "template"} and self.hidden:
+                      self.hidden -= 1
+
+              def handle_data(self, data):
+                  if not self.hidden:
+                      self.parts.append(data)
+
+          latest = json_file("latest.json")
+          if latest.get("report_date") != today:
+              raise SystemExit(f"daily_date_mismatch:{latest.get('report_date')}!={today}")
+          content_sha = latest.get("content_sha256")
+          if not isinstance(content_sha, str) or not re.fullmatch(r"[0-9a-f]{64}", content_sha):
+              raise SystemExit("daily_content_sha_missing_or_invalid")
+
+          markdown_path = f"reports/{today}.md"
+          html_path = f"reports/{today}.html"
+          markdown_status, markdown_body = fetch(markdown_path)
+          if markdown_status != 200:
+              raise SystemExit(f"daily_markdown_http_{markdown_status}")
+          actual_sha = hashlib.sha256(markdown_body).hexdigest()
+          if actual_sha != content_sha:
+              raise SystemExit(f"daily_content_sha_mismatch:{actual_sha}")
+          try:
+              markdown_text = markdown_body.decode("utf-8")
+          except UnicodeDecodeError:
+              raise SystemExit("daily_markdown_not_utf8") from None
+          if not markdown_text.strip():
+              raise SystemExit("daily_markdown_empty")
+
+          recommendation_count = latest.get("recommendation_count")
+          if not isinstance(recommendation_count, int) or isinstance(recommendation_count, bool) or recommendation_count < 0:
+              raise SystemExit("daily_recommendation_count_missing_or_invalid")
+          headings = re.findall(r"(?m)^### 推荐 \d+｜[^\r\n]+$", markdown_text)
+          if len(headings) != recommendation_count:
+              raise SystemExit(f"daily_recommendation_count_mismatch:{len(headings)}!={recommendation_count}")
+          if recommendation_count == 0:
+              counts = latest.get("counts")
+              if not isinstance(counts, dict):
+                  raise SystemExit("daily_zero_recommendations_counts_missing")
+              published = [counts.get(key, 0) for key in ("aihot_published", "trendradar_published")]
+              if any(not isinstance(value, int) or isinstance(value, bool) or value < 0 for value in published):
+                  raise SystemExit("daily_zero_recommendations_counts_invalid")
+              if sum(published) > 0:
+                  raise SystemExit("daily_zero_recommendations_with_news")
+
+          html_status, html_body = fetch(html_path)
+          if html_status != 200:
+              raise SystemExit(f"daily_html_http_{html_status}")
+          try:
+              parser = TextOnly()
+              parser.feed(html_body.decode("utf-8"))
+          except UnicodeDecodeError:
+              raise SystemExit("daily_html_not_utf8") from None
+          html_text = normalized(" ".join(parser.parts))
+          if normalized(markdown_text) not in html_text:
+              raise SystemExit("daily_html_full_markdown_not_visible")
+
+          rss_status, rss_body = fetch("feed.xml")
+          if rss_status != 200:
+              raise SystemExit(f"daily_rss_http_{rss_status}")
+          try:
+              rss = ET.fromstring(rss_body)
+          except (ET.ParseError, UnicodeError):
+              raise SystemExit("daily_rss_xml_invalid") from None
+          items = rss.findall("./channel/item")
+          if not items:
+              raise SystemExit("daily_rss_items_missing")
+          newest = items[0]
+          guid = newest.findtext("guid") or ""
+          pub_date = newest.findtext("pubDate") or ""
+          description = newest.findtext("description")
+          if today not in guid and today not in pub_date:
+              raise SystemExit(f"daily_rss_latest_date_missing:{today}")
+          if description is None or normalized(description) != normalized(markdown_text):
+              raise SystemExit("daily_rss_latest_full_markdown_mismatch")
+
+          write_summary({
+              "status": "ok",
+              "report_date": today,
+              "markdown_path": markdown_path,
+              "content_sha256": actual_sha,
+              "html_path": html_path,
+              "recommendation_count": recommendation_count,
+              "rss": "latest_item_date_and_full_markdown_ok",
+          })
+          PY
