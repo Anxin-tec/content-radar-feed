@@ -4,7 +4,239 @@
     <title>AI 日报</title>
     <link>https://anxin-tec.github.io/content-radar-feed/daily/</link>
     <description>Hermes AI 日报</description>
-    <lastBuildDate>Tue, 06 Oct 2026 07:22:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:13:36 +0800</lastBuildDate>
+    <item>
+      <title>AI 日报｜2026-10-07</title>
+      <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-07.html</link>
+      <guid isPermaLink="false">2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <description># AI 日报｜2026-10-07
+
+数据生成时间：2026-10-07T07:13:36+08:00（北京时间）
+
+AI HOT：20 条；TrendRadar：6 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
+
+以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+来源状态：AI HOT=live；TrendRadar=live。
+
+## AI HOT 完整资讯
+
+### A1｜OpenAI 发布内部前沿模型产出的多项数学新结果及 Lean 形式化证明
+
+OpenAI 发布由内部前沿模型产出的一系列数学新结果，结果存放于 GitHub 仓库，并提供部分证明的 Lean 形式化。仓库还包含 10 份模型推理摘要、算力估算等透明度细节，平均每项结果约相当于 ChatGPT Pro 三小时思考的算力，OpenAI 表示正努力负责任地发布产生这些结果的模型。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-06T23:01:09.228000Z
+
+### A2｜GitHub 重建 Git 基础设施，应对智能体规模开发
+
+GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。
+
+来源：GitHub Blog；发布时间：2026-10-06T20:57:56Z
+
+### A3｜ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办
+
+ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。
+
+来源：X：Tibo (@thsottiaux)；发布时间：2026-10-06T20:47:11Z
+
+### A4｜Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2
+
+Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。
+
+来源：Google DeepMind：Blog（RSS）；发布时间：2026-10-06T19:57:04Z
+
+### A5｜亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑
+
+亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。
+
+来源：404 Media（RSS）；发布时间：2026-10-06T19:26:09Z
+
+### A6｜DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与
+
+据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。
+
+来源：X：X.PIN (@thexpin)；发布时间：2026-10-06T17:32:05Z
+
+### A7｜Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议
+
+Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。
+
+来源：Sierra：Blog（RSS）；发布时间：2026-10-06T17:32:00Z
+
+### A8｜Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑
+
+Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。
+
+来源：Claude：YouTube（RSS）；发布时间：2026-10-06T17:02:37Z
+
+### A9｜DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布
+
+ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。
+
+来源：X：ARC Prize (@arcprize)；发布时间：2026-10-06T15:20:30Z
+
+### A10｜Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测
+
+Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。
+
+来源：X：Arena (@arena)；发布时间：2026-10-06T14:21:52Z
+
+### A11｜Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文
+
+Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。
+
+来源：X：OpenRouter (@OpenRouter)；发布时间：2026-10-06T14:02:29Z
+
+### A12｜Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾
+
+Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。
+
+来源：Anthropic：Claude.dev 开发者博客（RSS）；发布时间：2026-10-06T12:00:00Z
+
+### A13｜Reflection 发布 501B-A23B 开源编码模型 Beam
+
+Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。
+
+来源：Latent Space（RSS）；发布时间：2026-10-06T06:28:43Z
+
+### A14｜Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付
+
+Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-06T05:47:05Z
+
+### A15｜卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元
+
+作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。
+
+来源：X：卡兹克 (@Khazix0918)；发布时间：2026-10-06T02:31:56Z
+
+### A16｜卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众
+
+作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-10-06T00:18:00Z
+
+### A17｜Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用
+
+Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。
+
+来源：Gemini API：更新日志（网页）；发布时间：2026-10-06T00:00:00Z
+
+### A18｜Vercel COO 讲解如何用 Agent 自动化 Inbound 销售
+
+Vercel COO Jeanne DeWitt Grosser 在 Tom Tunguz 的 Office Hours 节目中讲解团队如何搭建运行销售漏斗顶端的 Agent。
+
+来源：Tomasz Tunguz 博客（VC 分析）；发布时间：2026-10-06T00:00:00Z
+
+### A19｜Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2
+
+Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。
+
+来源：Google Developers Blog（RSS）；发布时间：2026-10-06T00:00:00Z
+
+### A20｜Anthropic Cowork 改为云端运行模型推理与 VM
+
+Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。
+
+来源：Simon Willison 博客；发布时间：2026-10-05T23:56:47Z
+
+## TrendRadar 完整 AI 热点
+
+### N1｜报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投
+
+来源：华尔街见闻；榜单排名：2；实际出现快照数：3。
+
+### N2｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+
+来源：财联社热门；榜单排名：5；实际出现快照数：3。
+
+### N3｜苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产
+
+来源：财联社热门；榜单排名：6；实际出现快照数：3。
+
+### N4｜最新报告：美国对华AI领先优势降至3%，历史最低
+
+来源：凤凰网；榜单排名：7；实际出现快照数：3。
+
+### N5｜OpenAI或将发布400个重大数学成果
+
+来源：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+
+### N6｜手搓一台机器人分几步
+
+来源：bilibili 热搜；榜单排名：28；实际出现快照数：1。
+
+核对：AI HOT 20 条；TrendRadar 6 条。
+
+## 编辑推荐
+
+### 推荐 1｜AI 数学成果与形式化证明：从模型产出到可验证
+
+对应条目：A1、N5
+
+推荐理由：OpenAI 称内部前沿模型产出多项数学新结果并给出部分 Lean 形式化，同时中文平台出现“400 个重大数学成果”的说法，两者存在数量与性质落差，适合做一次事实核验型解读，帮助读者区分模型产出、形式化验证与同行评审之间的差别。
+
+建议切口：模型做数学，到底算不算“成果”？
+
+待补证：需补证：GitHub 仓库实际条目数量与内容、Lean 形式化覆盖比例、是否经过独立数学家或同行评审、算力估算口径；“400 个”说法来源与原始表述。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；bilibili 热搜
+
+### 推荐 2｜Git 基础设施被智能体压垮：数据背后的开发范式迁移
+
+对应条目：A2
+
+推荐理由：GitHub 给出月度 Git 事件、commits 与 pushes 的同比倍数，是少见的平台级量化信号，可用于讨论智能体规模化写入对代码托管、评审、CI 与权限体系的连锁影响，选题兼具工程深度与产业观察价值。
+
+建议切口：commits 一年涨五倍，GitHub 为什么要重建 Git
+
+待补证：需补证：统计口径与去重方式、智能体提交与人类提交的划分依据、重建涉及的具体组件与时间表、对普通开发者可见的行为变化。
+
+来源：GitHub Blog
+
+### 推荐 3｜DeepSeek 巨额融资传闻：金额、投资方与 IPO 计划待确认
+
+对应条目：A6、N1
+
+推荐理由：Bloomberg 与中文财经平台同时出现 DeepSeek 融资报道，金额从原定目标上调至至少 800 亿元，并涉及腾讯、宁德时代与 2027 年初 IPO 计划，属于高关注度资本事件，适合梳理已知信息与未证实部分。
+
+建议切口：800 亿融资传闻里的 DeepSeek：哪些已确认，哪些还没有
+
+待补证：需补证：DeepSeek 官方或投资方公告、融资具体金额与估值、腾讯与宁德时代的参与方式、IPO 计划是否有正式文件支持，报道细节仍可能变化。
+
+来源：X：X.PIN (@thexpin)；华尔街见闻
+
+### 推荐 4｜AI 生成受害者视频被裁定影响量刑：司法如何面对合成情感材料
+
+对应条目：A5
+
+推荐理由：亚利桑那州上诉法院裁定 AI 生成受害者视频带有不当情感分量，罪名维持但刑期须重新考虑，这是合成媒体进入量刑程序的具体司法案例，适合讨论证据规则、受害者陈述边界与 AI 生成内容的程序性风险。
+
+建议切口：一段 AI 生成的受害者视频，为何让刑期被推翻
+
+待补证：需补证：判决书原文与法院说理、视频由谁制作及提交程序、辩方异议记录、重审量刑的时间与可能结果，以及是否形成可援引的判例。
+
+来源：404 Media（RSS）
+
+### 推荐 5｜消费级 AI 的广度与深度落差：付费率与头部支出数据
+
+对应条目：A15、A16
+
+推荐理由：同一份 A16Z 报告被中英文渠道分别解读，核心数据包括美国近一半人用过 AI、仅 25% 每天使用、个人付费订阅率 4.5%、头部 1% 用户月均消费 903 美元，适合讨论 AI 应用“用得很广但用得还浅”的商业含义。
+
+建议切口：一半美国人用过 AI，为什么只有 4.5% 愿意付费
+
+待补证：需补证：A16Z 报告原文的样本、统计周期与口径、付费率是否仅限 ChatGPT/Gemini/Claude、头部消费数据是否含 API 或企业支出，以及解读文章是否存在转述偏差。
+
+来源：X：卡兹克 (@Khazix0918)；公众号：数字生命卡兹克
+
+
+说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
+</description>
+    </item>
     <item>
       <title>AI 日报｜2026-10-06</title>
       <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-06.html</link>
