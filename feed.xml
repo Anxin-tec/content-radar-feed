@@ -4,7 +4,269 @@
     <title>AI 日报</title>
     <link>https://anxin-tec.github.io/content-radar-feed/daily/</link>
     <description>Hermes AI 日报</description>
-    <lastBuildDate>Wed, 07 Oct 2026 07:13:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:17:49 +0800</lastBuildDate>
+    <item>
+      <title>AI 日报｜2026-10-08</title>
+      <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-08.html</link>
+      <guid isPermaLink="false">2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+      <description># AI 日报｜2026-10-08
+
+数据生成时间：2026-10-08T07:17:49+08:00（北京时间）
+
+AI HOT：21 条；TrendRadar：12 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
+
+以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+来源状态：AI HOT=live；TrendRadar=live。
+
+## AI HOT 完整资讯
+
+### A1｜GPT-6 Luna Decisions 上架 OpenRouter
+
+OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。
+
+来源：X：OpenRouter (@OpenRouter)；发布时间：2026-10-07T20:21:00Z
+
+### A2｜Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43
+
+Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。
+
+来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-10-07T19:12:16Z
+
+### A3｜LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载
+
+LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。
+
+来源：LangChain：Blog（RSS）；发布时间：2026-10-07T18:49:50Z
+
+### A4｜NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC
+
+NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。
+
+来源：NVIDIA Blog（RSS）；发布时间：2026-10-07T18:45:28Z
+
+### A5｜Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格
+
+Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。
+
+来源：X：Cursor (@cursor_ai)；发布时间：2026-10-07T18:14:03Z
+
+### A6｜Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题
+
+Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。
+
+来源：Claude Code：GitHub Releases（RSS）；发布时间：2026-10-07T18:10:20Z
+
+### A7｜Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度
+
+Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。
+
+来源：X：Claude Devs (@ClaudeDevs)；发布时间：2026-10-07T18:08:53Z
+
+### A8｜Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10
+
+Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。
+
+来源：X：Claude (@claudeai)；发布时间：2026-10-07T18:01:21Z
+
+### A9｜OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI
+
+OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-07T18:00:58Z
+
+### A10｜Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）
+
+Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。
+
+来源：X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)；发布时间：2026-10-07T16:33:02Z
+
+### A11｜Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%
+
+Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。
+
+来源：X：Unsloth (@UnslothAI)；发布时间：2026-10-07T16:21:14Z
+
+### A12｜Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架
+
+Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。
+
+来源：Microsoft Research 博客（RSS）；发布时间：2026-10-07T16:00:00Z
+
+### A13｜亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑
+
+亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。
+
+来源：404 Media（RSS）；发布时间：2026-10-07T14:46:15Z
+
+### A14｜Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成
+
+Google 介绍检测媒体是否由 AI 生成的方法：访问  上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。
+
+来源：X：Google (@Google)；发布时间：2026-10-07T14:12:16Z
+
+### A15｜a16z 解析德州为何让数据中心排队等电
+
+a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。
+
+来源：a16z：News（RSS）；发布时间：2026-10-07T14:01:44Z
+
+### A16｜Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平
+
+NVIDIA Nemotron 团队基于 Nemotron 3，用 SFT、RL 和反馈驱动推理分别构建了在 IOI 2026 与 IMO 2026 达到金牌水平的系统。
+
+来源：Hugging Face 社区博客（混合发现）；发布时间：2026-10-07T12:45:31Z
+
+### A17｜Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534
+
+Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。
+
+来源：X：Arena (@arena)；发布时间：2026-10-07T06:18:23Z
+
+### A18｜Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断
+
+Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。
+
+来源：Google Research：Blog（网页）；发布时间：2026-10-07T00:00:00Z
+
+### A19｜Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索
+
+Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。
+
+来源：Google Developers Blog（RSS）；发布时间：2026-10-07T00:00:00Z
+
+### A20｜Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M
+
+Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。
+
+来源：Liquid AI 模型与工程博客（网页）；发布时间：2026-10-07T00:00:00Z
+
+### A21｜vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍
+
+Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。
+
+来源：vLLM 官方博客（RSS）；发布时间：2026-10-07T00:00:00Z
+
+## TrendRadar 完整 AI 热点
+
+### N1｜数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明
+
+来源：华尔街见闻；榜单排名：2；实际出现快照数：3。
+
+### N2｜标普500创出新高，但几乎只有AI交易在涨
+
+来源：华尔街见闻；榜单排名：3；实际出现快照数：3。
+
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+
+来源：财联社热门；榜单排名：5；实际出现快照数：3。
+
+### N4｜吧友教AI写文,焚诀大公开
+
+来源：贴吧；榜单排名：5；实际出现快照数：3。
+
+### N5｜Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线
+
+来源：华尔街见闻；榜单排名：7；实际出现快照数：3。
+
+### N6｜苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产
+
+来源：财联社热门；榜单排名：9；实际出现快照数：3。
+
+### N7｜谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营
+
+来源：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+### N8｜AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO
+
+来源：财联社热门；榜单排名：13；实际出现快照数：1。
+
+### N9｜当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向
+
+来源：澎湃新闻；榜单排名：17；实际出现快照数：1。
+
+### N10｜如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？
+
+来源：知乎；榜单排名：20；实际出现快照数：3。
+
+### N11｜AI短片生化危机爆发夜前传
+
+来源：bilibili 热搜；榜单排名：21；实际出现快照数：3。
+
+### N12｜AI公开的722篇论文会影响数学吗
+
+来源：bilibili 热搜；榜单排名：27；实际出现快照数：3。
+
+核对：AI HOT 21 条；TrendRadar 12 条。
+
+## 编辑推荐
+
+### 推荐 1｜AI 数学能力争议：OpenAI 722 篇手稿与 Claude 概率论突破
+
+对应条目：N1、N5、N10、N12
+
+推荐理由：该话题横跨华尔街见闻、知乎、bilibili 多平台，N1 排名第 2、N10 排名第 20 但讨论量高，说明公众对 AI 攻克数学难题既兴奋又存疑。OpenAI 公开 722 份手稿与 Claude 概率论突破若属实，将是 AI for Science 的标志性事件，但媒体标题使用“攻克”“圣杯”等强断言，与学术验证周期存在张力，适合做理性拆解。
+
+建议切口：《AI 一夜解决 722 个数学难题？先别急着欢呼，三个问题值得追问》
+
+待补证：需核实 OpenAI 手稿是否经同行评议、722 个问题的具体清单与难度分级、所谓“准黎曼猜想”的准确表述；Claude 概率论突破的原始论文与验证方；N1/N5 标题中的“攻克”“圣杯”属媒体修辞，不能直接采信。
+
+来源：华尔街见闻；知乎；bilibili 热搜
+
+### 推荐 2｜AI 交易独撑美股新高：算力资本狂飙与泡沫之问
+
+对应条目：N2、N6、N7、N8、N9
+
+推荐理由：N2 指出标普 500 新高几乎只有 AI 交易在涨，N6 苏姿丰称需求旺盛持续扩产，N7 谷歌签下科技史最大核能协议，N8 Lambda 算力订单暴增拟 IPO，N9 则回望 30 年前浪潮。五条线索共同勾勒出“AI 资本开支—能源—IPO”闭环，既有硬数据也有历史对照，适合做结构性分析而非单点新闻。
+
+建议切口：《标普新高背后：只有 AI 在涨，这轮资本狂飙走到哪一步了》
+
+待补证：需核实标普 500 新高的具体日期与 AI 板块涨幅数据、谷歌核能协议的 3590 兆瓦与 20 年期限细节、Lambda 500 亿美元订单与 40 亿融资的信源；N9 的历史类比属评论，不能当作事实依据。
+
+来源：华尔街见闻；财联社热门；澎湃新闻
+
+### 推荐 3｜AI 生成证据进入法庭：亚利桑那州量刑视频被裁定不当
+
+对应条目：A13
+
+推荐理由：这是本次快照中少见的 AI 与司法程序直接碰撞的案例：上诉法院维持过失杀人定罪，却因量刑听证中播放 AI 生成受害者视频带有不当情感分量而要求重新量刑。它把“AI 生成内容能否作为法庭证据”“情感操纵边界”等抽象讨论落到具体判决上，对法律、伦理和内容治理读者都有吸引力。
+
+建议切口：《一段 AI 生成的受害者视频，让这起枪杀案重新量刑》
+
+待补证：需核实亚利桑那州上诉法院裁定书原文、AI 视频的制作方与播放方、法官重新量刑的具体程序与时间表；404 Media 为单一信源，应交叉核对法院公开记录。
+
+来源：404 Media（RSS）
+
+### 推荐 4｜AI 专利写作实验：辅助工具未必培养初级律师判断力
+
+对应条目：A18
+
+推荐理由：Google Research 在 NBER 发表的三个月随机田野实验，覆盖 11 家知识产权律所 133 名律师，是少见的 AI 辅助专业工作的因果性研究。结论指向“AI 辅助未必能培养初级律师的专业判断”，与当下“AI 提效”的主流叙事形成对照，适合做方法论解读和职场启示，而非简单站队。
+
+建议切口：《133 名律师的三个月实验：AI 写专利，帮了谁又害了谁》
+
+待补证：需核实 NBER 论文编号、实验设计细节（随机分组方式、评估指标）、AI 助手当时未发布的具体版本；Google Research 博客为机构自述，应查阅论文原文确认结论边界。
+
+来源：Google Research：Blog（网页）
+
+### 推荐 5｜德州数据中心排队等电：474 GW 并网队列背后的算力能源瓶颈
+
+对应条目：A15、N7
+
+推荐理由：a16z 分析指出德州并网队列从 2024 年底 63 GW 激增至今年 6 月 474 GW，约 90% 是数据中心，开发商投机性申请与社区沟通不足导致暂停审批。这与 N7 谷歌签核能协议形成呼应：算力扩张正撞上电力基础设施天花板。该选题把 AI 叙事拉回能源与地方治理，具备公共讨论价值。
+
+建议切口：《474 GW 排队等电：AI 数据中心正在撞上电网墙》
+
+待补证：需核实德州电网暂停审批的官方公告与时间、63 GW 到 474 GW 的数据来源与统计口径、90% 为数据中心的计算方式；a16z 为投资机构，其分析可能带有立场，应补充电网运营方与监管方说法。
+
+来源：a16z：News（RSS）；华尔街见闻
+
+
+说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
+</description>
+    </item>
     <item>
       <title>AI 日报｜2026-10-07</title>
       <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-07.html</link>
