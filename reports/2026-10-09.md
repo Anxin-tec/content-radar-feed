@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-09
 
-数据生成时间：2026-10-09T04:31:39+08:00（北京时间）
+数据生成时间：2026-10-09T05:29:43+08:00（北京时间）
 
 AI HOT：20 条；TrendRadar：11 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -249,16 +249,16 @@ OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过�
 
 链接：https://s.weibo.com/weibo?q=AI%E5%8E%86%E5%8F%B2%E5%89%A7%E7%81%AB%E4%BA%86%E4%B9%9F%E9%81%AD%E4%B8%BE%E6%8A%A5
 
-### N10｜OpenAI的722篇论文含金量如何
+### N10｜AI手搓开心麻花版火影忍者
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95
-
-### N11｜AI手搓开心麻花版火影忍者
-
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
+
+### N11｜OpenAI的722篇论文含金量如何
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95
 
 核对：AI HOT 20 条；TrendRadar 11 条。
