@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-10
 
-数据生成时间：2026-10-10T05:14:53+08:00（北京时间）
+数据生成时间：2026-10-10T05:53:03+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -76,94 +76,85 @@ Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5
 原文：https://www.ithome.com/1/010/751.htm
 收录页：https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti
 
-### A8｜Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index
-
-Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。
-
-来源：X：Arena (@arena)；发布时间：2026-10-08T21:36:59Z
-
-原文：https://x.com/arena/status/2108310714423423254
-收录页：https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜鲸天魔盗团!黑客靠AI入侵韩国银行
+### N1｜S16有自己的AI短剧
+
+平台：bilibili 热搜；榜单排名：1；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=S16%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84AI%E7%9F%AD%E5%89%A7
+
+### N2｜鲸天魔盗团!黑客靠AI入侵韩国银行
 
 平台：贴吧；榜单排名：1；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
-### N2｜陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？
+### N3｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783220
+
+### N4｜陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？
 
 平台：知乎；榜单排名：1；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2091831158468244988
 
-### N3｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
+### N5｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3783220
-
-### N4｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
-
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
-
 链接：https://wallstreetcn.com/articles/3783173
 
-### N5｜OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？
+### N6｜OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？
 
-平台：知乎；榜单排名：3；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091810817008259841
 
-### N6｜OpenAI狂发论文,数学家炮轰
+### N7｜OpenAI狂发论文,数学家炮轰
 
 平台：贴吧；榜单排名：4；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
 
-### N7｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N8｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N8｜S16有自己的AI短剧
+### N9｜AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=S16%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84AI%E7%9F%AD%E5%89%A7
+链接：https://wallstreetcn.com/articles/3783254
 
-### N9｜AI热潮显现割裂局势？“超级大空头”：这一指标酷似亚洲金融危机前夕！
+### N10｜AI热潮显现割裂局势？“超级大空头”：这一指标酷似亚洲金融危机前夕！
 
 平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2500388
 
-### N10｜AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周
+### N11｜SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3783254
+链接：https://wallstreetcn.com/articles/3783234
 
-### N11｜OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点
+### N12｜OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2500829
 
-### N12｜日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作
+### N13｜日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作
 
 平台：澎湃新闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34218258
-
-### N13｜SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3783234
 
 ### N14｜公众号消息刺激天阳科技飙涨12% 数十亿算力订单尚“八字未见撇”？
 
@@ -177,11 +168,11 @@ Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 
 
 链接：https://www.zhihu.com/question/2090919793809479354
 
-### N16｜怎么看OpenAI数学论文撤稿
+### N16｜AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF
+链接：https://wallstreetcn.com/articles/3783240
 
 ### N17｜美国AI热潮，让老百姓租不起房子了
 
@@ -195,23 +186,23 @@ Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 
 
 链接：https://www.cls.cn/detail/2500813
 
-### N19｜吧友教AI写文,焚诀大公开
+### N19｜怎么看OpenAI数学论文撤稿
+
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF
+
+### N20｜吧友教AI写文,焚诀大公开
 
 平台：贴吧；榜单排名：14；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
-### N20｜人口仅 1.6 万的小岛安圭拉靠.ai 域名每年躺赚数千万美元，域名是怎么赚钱的？别的国家能买下这个域名吗？
+### N21｜人口仅 1.6 万的小岛安圭拉靠.ai 域名每年躺赚数千万美元，域名是怎么赚钱的？别的国家能买下这个域名吗？
 
 平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2056046101895934061
-
-### N21｜AI魔改周星驰电影宇宙
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E9%AD%94%E6%94%B9%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E5%AE%87%E5%AE%99
 
 ### N22｜特朗普为什么非要给AI改名字
 
@@ -225,10 +216,10 @@ Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 
 
 链接：https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E6%89%8B%E6%9C%BA%E4%BA%86
 
-### N24｜高市早苗反对将AI改名为SI
+### N24｜AI魔改周星驰电影宇宙
 
-平台：今日头条；榜单排名：27；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：2。
 
-链接：https://www.toutiao.com/trending/7694494302445600809/
+链接：https://search.bilibili.com/all?keyword=AI%E9%AD%94%E6%94%B9%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E5%AE%87%E5%AE%99
 
-核对：AI HOT 8 条；TrendRadar 24 条。
+核对：AI HOT 7 条；TrendRadar 24 条。
