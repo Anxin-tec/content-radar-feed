@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-10
 
-数据生成时间：2026-10-10T07:27:36+08:00（北京时间）
+数据生成时间：2026-10-10T07:56:00+08:00（北京时间）
 
 AI HOT：8 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -103,17 +103,17 @@ Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5
 
 链接：https://www.zhihu.com/question/2091831158468244988
 
-### N4｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
+### N4｜AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
+链接：https://wallstreetcn.com/articles/3783254
+
+### N5｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
+
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
+
 链接：https://wallstreetcn.com/articles/3783173
-
-### N5｜S16有自己的AI短剧
-
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=S16%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84AI%E7%9F%AD%E5%89%A7
 
 ### N6｜OpenAI狂发论文,数学家炮轰
 
@@ -121,11 +121,11 @@ Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
 
-### N7｜OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？
+### N7｜S16有自己的AI短剧
 
-平台：知乎；榜单排名：4；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2091810817008259841
+链接：https://search.bilibili.com/all?keyword=S16%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84AI%E7%9F%AD%E5%89%A7
 
 ### N8｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
@@ -133,87 +133,87 @@ Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5
 
 链接：https://www.cls.cn/detail/2495303
 
-### N9｜AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”
+### N9｜SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3783254
+链接：https://wallstreetcn.com/articles/3783234
 
-### N10｜AI热潮显现割裂局势？“超级大空头”：这一指标酷似亚洲金融危机前夕！
+### N10｜人口仅 1.6 万的小岛安圭拉靠.ai 域名每年躺赚数千万美元，域名是怎么赚钱的？别的国家能买下这个域名吗？
+
+平台：知乎；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2056046101895934061
+
+### N11｜AI热潮显现割裂局势？“超级大空头”：这一指标酷似亚洲金融危机前夕！
 
 平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2500388
 
-### N11｜SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”
+### N12｜OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
+平台：知乎；榜单排名：7；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3783234
+链接：https://www.zhihu.com/question/2091810817008259841
 
-### N12｜OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点
+### N13｜AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”
 
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2500829
+链接：https://wallstreetcn.com/articles/3783240
 
-### N13｜如何看待 Claude 辅助提出 3SUM 猜想的反例？
+### N14｜如何看待 Claude 辅助提出 3SUM 猜想的反例？
 
 平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2090919793809479354
 
-### N14｜怎么看OpenAI数学论文撤稿
+### N15｜OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点
 
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF
+链接：https://www.cls.cn/detail/2500829
 
-### N15｜AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3783240
-
-### N16｜人口仅 1.6 万的小岛安圭拉靠.ai 域名每年躺赚数千万美元，域名是怎么赚钱的？别的国家能买下这个域名吗？
-
-平台：知乎；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2056046101895934061
-
-### N17｜美国AI热潮，让老百姓租不起房子了
+### N16｜美国AI热潮，让老百姓租不起房子了
 
 平台：凤凰网；榜单排名：11；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8x5GxUoMWHY
 
-### N18｜公众号消息刺激天阳科技飙涨12% 数十亿算力订单尚“八字未见撇”？
-
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2500747
-
-### N19｜比亚迪人形机器人外观专利公布
+### N17｜比亚迪人形机器人外观专利公布
 
 平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2500813
 
-### N20｜日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作
+### N18｜日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作
 
 平台：澎湃新闻；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34218258
 
-### N21｜吧友教AI写文,焚诀大公开
+### N19｜公众号消息刺激天阳科技飙涨12% 数十亿算力订单尚“八字未见撇”？
+
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2500747
+
+### N20｜吧友教AI写文,焚诀大公开
 
 平台：贴吧；榜单排名：14；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
+### N21｜怎么看OpenAI数学论文撤稿
+
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF
+
 ### N22｜特朗普为什么非要给AI改名字
 
-平台：今日头条；榜单排名：19；实际出现快照数：2。
+平台：今日头条；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7694540783252147775/
 
