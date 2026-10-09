@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-09
 
-数据生成时间：2026-10-09T08:14:07+08:00（北京时间）
+数据生成时间：2026-10-09T09:10:57+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -164,126 +164,144 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 原文：https://aihot.news/agent?tab=api#legacy-api-migration
 收录页：https://aihot.news/agent?tab=api#legacy-api-migration
 
-### A18｜ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust
-
-ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。
-
-来源：Hacker News：AI 热帖；发布时间：2026-10-08T00:46:00Z
-
-原文：https://github.com/pingdotgg/ts-rust
-收录页：https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg
-
-### A19｜OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡
-
-OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内部模型产出的722份数学手稿，归为372个成果组，覆盖数论、代数几何、偏微分方程等方向，每个结果平均花费约3小时 ChatGPT Pro 级别思考算力。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-08T00:36:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487
-收录页：https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜如何评价字节 Seed 团队发现 DeepSeek 性能漂移？
-
-平台：知乎；榜单排名：1；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2091513666864682278
-
-### N2｜中东局势升级叠加OpenAI收入预警，标普、纳指两连跌，芯片指数跌超3%，光通信股重挫
+### N1｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783173
 
-### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N2｜如何评价字节 Seed 团队发现 DeepSeek 性能漂移？
+
+平台：知乎；榜单排名：2；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2091513666864682278
+
+### N3｜“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2499956
+
+### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N4｜美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%
+### N5｜新数码宝贝AI大电影
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%96%B0%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9DAI%E5%A4%A7%E7%94%B5%E5%BD%B1
+
+### N6｜【焦点复盘】科创50放量跌近5%，算力硬件端再遭重挫，固态电池概念一枝独秀
+
+平台：财联社热门；榜单排名：6；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2499589
+
+### N7｜美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%
+
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2499973
 
-### N5｜如何看待 DeepSeek 估值已接近 5000 亿元？
-
-平台：知乎；榜单排名：7；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2091466415639196511
-
-### N6｜“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水
-
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2499956
-
-### N7｜“算力租赁”赚的究竟是什么钱？
+### N8｜“算力租赁”赚的究竟是什么钱？
 
 平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2499316
 
-### N8｜【焦点复盘】科创50放量跌近5%，算力硬件端再遭重挫，固态电池概念一枝独秀
+### N9｜解读AI推翻Kuznetsov猜想
 
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2499589
+链接：https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E6%8E%A8%E7%BF%BBKuznetsov%E7%8C%9C%E6%83%B3
 
-### N9｜Strata 支持 12GB 显存运行 125B 大模型，其技术难度有多大？
+### N10｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
 
-平台：知乎；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2090845638498042646
+链接：https://wallstreetcn.com/articles/3783220
 
-### N10｜网传喀纳斯棕熊索食系AI编造
+### N11｜如何看待 DeepSeek 估值已接近 5000 亿元？
+
+平台：知乎；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2091466415639196511
+
+### N12｜网传喀纳斯棕熊索食系AI编造
 
 平台：今日头条；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7694098908959621163/
 
-### N11｜吧友教AI写文,焚诀大公开
+### N13｜特朗普8月证券交易流水出炉：大手笔押中Meta智能体行情
+
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2499863
+
+### N14｜吧友教AI写文,焚诀大公开
 
 平台：贴吧；榜单排名：12；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
-### N12｜黄仁勋女婿晋升英伟达副总裁并操盘核心业务，释放了哪些信号？
+### N15｜美股收盘：纳指跌逾1% AI概念股承压
+
+平台：今日头条；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7694435893230177835/
+
+### N16｜黄仁勋女婿晋升英伟达副总裁并操盘核心业务，释放了哪些信号？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2090951996341739961
 
-### N13｜为了实现 Token 自由，自己买 GPU 值得吗？
+### N17｜别让AI糟蹋了四大名著
+
+平台：百度热搜；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97
+
+### N18｜Strata 支持 12GB 显存运行 125B 大模型，其技术难度有多大？
+
+平台：知乎；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2090845638498042646
+
+### N19｜为了实现 Token 自由，自己买 GPU 值得吗？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2080572349796168710
 
-### N14｜AI历史剧火了也遭举报
+### N20｜DeepSeek“抽风”原因曝光
+
+平台：百度热搜；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E6%8A%BD%E9%A3%8E%E2%80%9D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89
+
+### N21｜AI历史剧火了也遭举报
 
 平台：微博；榜单排名：19；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=AI%E5%8E%86%E5%8F%B2%E5%89%A7%E7%81%AB%E4%BA%86%E4%B9%9F%E9%81%AD%E4%B8%BE%E6%8A%A5
 
-### N15｜AI手搓开心麻花版火影忍者
+### N22｜AI手搓开心麻花版火影忍者
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
 
-### N16｜OpenAI的722篇论文含金量如何
+### N23｜OpenAI的722篇论文含金量如何
 
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95
 
-### N17｜美股收盘：纳指跌逾1% AI概念股承压
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7694435893230177835/
-
-核对：AI HOT 19 条；TrendRadar 17 条。
+核对：AI HOT 17 条；TrendRadar 23 条。
