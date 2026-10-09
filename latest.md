@@ -1,9 +1,9 @@
 # AI 日报｜2026-10-10
 
-数据生成时间：2026-10-10T00:32:19+08:00（北京时间）
+数据生成时间：2026-10-10T04:31:35+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：21 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：7 条；TrendRadar：25 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -13,7 +13,25 @@ AI HOT：11 条；TrendRadar：21 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜
+### A1｜Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%
+
+Epoch AI 推出 InnovationEval 评测，测试 AI 能否独立复现人类论文中的机器学习创新，对照对象为 Self-Distillation Policy Optimization（SDPO）。
+
+来源：Epoch AI：Gradient Updates（RSS）；发布时间：2026-10-09T18:41:00Z
+
+原文：https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet
+收录页：https://aihot.news/items/mz4js4r6916dip5ojpett06io
+
+### A2｜OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资
+
+OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-10-09T17:20:34Z
+
+原文：https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/
+收录页：https://aihot.news/items/auy2exatk0u5kr1c1ydmaajws
+
+### A3｜ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜
 
 ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。
 
@@ -22,7 +40,7 @@ ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名�
 原文：https://x.com/arcprize/status/2108578092558250148
 收录页：https://aihot.news/items/o8tu2a2i9r2roqh7un9l5grq2
 
-### A2｜OpenAI 研究负责人发声明回应三名员工离职争议
+### A4｜OpenAI 研究负责人发声明回应三名员工离职争议
 
 OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。
 
@@ -31,7 +49,7 @@ OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 
 原文：https://x.com/OpenAINewsroom/status/2108441580806025712
 收录页：https://aihot.news/items/uceike4yt1on0k7sj37f9nfeh
 
-### A3｜Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43
+### A5｜Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43
 
 Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。
 
@@ -40,7 +58,7 @@ Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5
 原文：https://x.com/arena/status/2108405474391728357
 收录页：https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd
 
-### A4｜OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元
+### A6｜OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元
 
 据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。
 
@@ -49,7 +67,7 @@ Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5
 原文：https://www.ithome.com/1/010/751.htm
 收录页：https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti
 
-### A5｜Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index
+### A7｜Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index
 
 Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。
 
@@ -58,67 +76,13 @@ Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 
 原文：https://x.com/arena/status/2108310714423423254
 收录页：https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r
 
-### A6｜Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名
-
-Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。
-
-来源：X：Arena (@arena)；发布时间：2026-10-08T20:02:39Z
-
-原文：https://x.com/arena/status/2108286973119230096
-收录页：https://aihot.news/items/jxxgoidojk52fkcs2fz0fkjzy
-
-### A7｜如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频
-
-ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。
-
-来源：Comfy Blog；发布时间：2026-10-08T19:01:22Z
-
-原文：https://blog.comfy.org/p/how-i-generated-live-video-with-minimax
-收录页：https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf
-
-### A8｜Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index
-
-Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。
-
-来源：X：Arena (@arena)；发布时间：2026-10-08T18:51:25Z
-
-原文：https://x.com/arena/status/2108269048467513429
-收录页：https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold
-
-### A9｜部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域
-
-AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-10-08T18:17:07Z
-
-原文：https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/
-收录页：https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p
-
-### A10｜Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index
-
-Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。
-
-来源：X：Arena (@arena)；发布时间：2026-10-08T17:08:01Z
-
-原文：https://x.com/arena/status/2108243026741248348
-收录页：https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30
-
-### A11｜Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半
-
-Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-10-08T16:42:42Z
-
-原文：https://x.com/ArtificialAnlys/status/2108236656700768310
-收录页：https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
+### N1｜鲸天魔盗团!黑客靠AI入侵韩国银行
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+平台：贴吧；榜单排名：1；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3783220
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
 ### N2｜陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？
 
@@ -126,118 +90,142 @@ Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Ban
 
 链接：https://www.zhihu.com/question/2091831158468244988
 
-### N3｜S16有自己的AI短剧
+### N3｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=S16%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84AI%E7%9F%AD%E5%89%A7
+链接：https://wallstreetcn.com/articles/3783220
 
-### N4｜鲸天魔盗团!黑客靠AI入侵韩国银行
+### N4｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
 
-平台：贴吧；榜单排名：2；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
-
-### N5｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
-
-平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783173
 
-### N6｜OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？
+### N5｜OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？
 
-平台：知乎；榜单排名：4；实际出现快照数：1。
+平台：知乎；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091810817008259841
 
-### N7｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N6｜S16有自己的AI短剧
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=S16%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84AI%E7%9F%AD%E5%89%A7
+
+### N7｜OpenAI狂发论文,数学家炮轰
+
+平台：贴吧；榜单排名：4；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
+
+### N8｜怎么看OpenAI数学论文撤稿
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF
+
+### N9｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N8｜AI热潮显现割裂局势？“超级大空头”：这一指标酷似亚洲金融危机前夕！
+### N10｜特朗普为什么非要给AI改名字
+
+平台：今日头条；榜单排名：6；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7694540783252147775/
+
+### N11｜AI热潮显现割裂局势？“超级大空头”：这一指标酷似亚洲金融危机前夕！
 
 平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2500388
 
-### N9｜SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3783234
-
-### N10｜日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作
-
-平台：澎湃新闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34218258
-
-### N11｜如何看待 Claude 辅助提出 3SUM 猜想的反例？
-
-平台：知乎；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2090919793809479354
-
 ### N12｜AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783254
 
 ### N13｜OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2500829
 
-### N14｜美国AI热潮，让老百姓租不起房子了
+### N14｜日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作
 
-平台：凤凰网；榜单排名：11；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：8；实际出现快照数：2。
 
-链接：https://news.ifeng.com/c/8x5GxUoMWHY
+链接：https://www.thepaper.cn/newsDetail_forward_34218258
 
-### N15｜吧友教AI写文,焚诀大公开
+### N15｜SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”
 
-平台：贴吧；榜单排名：12；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
+链接：https://wallstreetcn.com/articles/3783234
 
 ### N16｜公众号消息刺激天阳科技飙涨12% 数十亿算力订单尚“八字未见撇”？
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2500747
 
-### N17｜AI魔改周星驰电影宇宙
+### N17｜如何看待 Claude 辅助提出 3SUM 猜想的反例？
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
+平台：知乎；榜单排名：9；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E9%AD%94%E6%94%B9%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E5%AE%87%E5%AE%99
+链接：https://www.zhihu.com/question/2090919793809479354
 
-### N18｜人口仅 1.6 万的小岛安圭拉靠.ai 域名每年躺赚数千万美元，域名是怎么赚钱的？别的国家能买下这个域名吗？
+### N18｜美国AI热潮，让老百姓租不起房子了
 
-平台：知乎；榜单排名：15；实际出现快照数：1。
+平台：凤凰网；榜单排名：11；实际出现快照数：2。
+
+链接：https://news.ifeng.com/c/8x5GxUoMWHY
+
+### N19｜比亚迪人形机器人外观专利公布
+
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2500813
+
+### N20｜吧友教AI写文,焚诀大公开
+
+平台：贴吧；榜单排名：14；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
+
+### N21｜人口仅 1.6 万的小岛安圭拉靠.ai 域名每年躺赚数千万美元，域名是怎么赚钱的？别的国家能买下这个域名吗？
+
+平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2056046101895934061
 
-### N19｜特朗普为什么非要给AI改名字
+### N22｜AI魔改周星驰电影宇宙
 
-平台：今日头条；榜单排名：19；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：2。
 
-链接：https://www.toutiao.com/trending/7694540783252147775/
+链接：https://search.bilibili.com/all?keyword=AI%E9%AD%94%E6%94%B9%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E5%AE%87%E5%AE%99
 
-### N20｜人形机器人越来越像手机了
+### N23｜人形机器人越来越像手机了
 
 平台：百度热搜；榜单排名：22；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E6%89%8B%E6%9C%BA%E4%BA%86
 
-### N21｜怎么看OpenAI数学论文撤稿
+### N24｜高市早苗反对将AI改名为SI
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
+平台：今日头条；榜单排名：24；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF
+链接：https://www.toutiao.com/trending/7694494302445600809/
 
-核对：AI HOT 11 条；TrendRadar 21 条。
+### N25｜人类数学协会抵制OpenAI公开论文
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87
+
+核对：AI HOT 7 条；TrendRadar 25 条。
