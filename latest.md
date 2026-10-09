@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-09
 
-数据生成时间：2026-10-09T10:32:48+08:00（北京时间）
+数据生成时间：2026-10-09T10:55:43+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：23 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -163,136 +163,142 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 
 链接：https://wallstreetcn.com/articles/3783173
 
-### N2｜如何评价字节 Seed 团队发现 DeepSeek 性能漂移？
+### N2｜“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水
+
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2499956
+
+### N3｜如何评价字节 Seed 团队发现 DeepSeek 性能漂移？
 
 平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2091513666864682278
 
-### N3｜“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水
+### N4｜美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%
 
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2499956
+链接：https://www.cls.cn/detail/2499973
 
-### N4｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
+### N5｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783220
 
-### N5｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N6｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N6｜【焦点复盘】科创50放量跌近5%，算力硬件端再遭重挫，固态电池概念一枝独秀
+### N7｜【焦点复盘】科创50放量跌近5%，算力硬件端再遭重挫，固态电池概念一枝独秀
 
 平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2499589
 
-### N7｜美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%
+### N8｜AI手搓开心麻花版火影忍者
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2499973
+链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
 
-### N8｜“算力租赁”赚的究竟是什么钱？
+### N9｜“算力租赁”赚的究竟是什么钱？
 
 平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2499316
 
-### N9｜网传喀纳斯棕熊索食系AI编造
+### N10｜吧友教AI写文,焚诀大公开
+
+平台：贴吧；榜单排名：10；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
+
+### N11｜网传喀纳斯棕熊索食系AI编造
 
 平台：今日头条；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7694098908959621163/
 
-### N10｜吧友教AI写文,焚诀大公开
+### N12｜特朗普8月证券交易流水出炉：大手笔押中Meta智能体行情
 
-平台：贴吧；榜单排名：12；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
-
-### N11｜特朗普8月证券交易流水出炉：大手笔押中Meta智能体行情
-
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2499863
 
-### N12｜OpenAI发布722篇数学手稿
+### N13｜英伟达承诺5年投入10亿美元助力美国“超级智能”，深度参与“创世纪计划”
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2499917
+
+### N14｜OpenAI发布722篇数学手稿
 
 平台：抖音；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2686054
 
-### N13｜如何评价 OpenAI 撤回 3 篇手稿？为什么前沿模型会犯这种错误？
+### N15｜如何评价 OpenAI 撤回 3 篇手稿？为什么前沿模型会犯这种错误？
 
 平台：知乎；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2091639092467519549
 
-### N14｜AI手搓开心麻花版火影忍者
-
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
-
-### N15｜如何看待 DeepSeek 估值已接近 5000 亿元？
+### N16｜如何看待 DeepSeek 估值已接近 5000 亿元？
 
 平台：知乎；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091466415639196511
 
-### N16｜别让AI糟蹋了四大名著
+### N17｜OpenAI营收数据引发美股重挫
+
+平台：抖音；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.douyin.com/hot/2686692
+
+### N18｜别让AI糟蹋了四大名著
 
 平台：百度热搜；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97
 
-### N17｜为了实现 Token 自由，自己买 GPU 值得吗？
+### N19｜为了实现 Token 自由，自己买 GPU 值得吗？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2080572349796168710
 
-### N18｜AI历史剧火了也遭举报
+### N20｜AI历史剧火了也遭举报
 
 平台：微博；榜单排名：19；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=AI%E5%8E%86%E5%8F%B2%E5%89%A7%E7%81%AB%E4%BA%86%E4%B9%9F%E9%81%AD%E4%B8%BE%E6%8A%A5
 
-### N19｜OpenAI发布可交互界面
+### N21｜OpenAI发布可交互界面
 
 平台：微博；榜单排名：19；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=OpenAI%E5%8F%91%E5%B8%83%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2
 
-### N20｜OpenAI 全面上线 GPT-6，有哪些功能亮点和体验提升？
+### N22｜OpenAI 全面上线 GPT-6，有哪些功能亮点和体验提升？
 
 平台：知乎；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2091441800456282491
 
-### N21｜新数码宝贝AI大电影
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E6%96%B0%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9DAI%E5%A4%A7%E7%94%B5%E5%BD%B1
-
-### N22｜OpenAI推出GPT-6.1 Sol Ultrafast版
+### N23｜OpenAI推出GPT-6.1 Sol Ultrafast版
 
 平台：百度热搜；榜单排名：25；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-6.1+Sol+Ultrafast%E7%89%88
 
-### N23｜OpenAI的722篇论文含金量如何
+### N24｜OpenAI的722篇论文含金量如何
 
 平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95
 
-核对：AI HOT 16 条；TrendRadar 23 条。
+核对：AI HOT 16 条；TrendRadar 24 条。
