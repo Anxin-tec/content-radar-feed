@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-09
 
-数据生成时间：2026-10-09T09:10:57+08:00（北京时间）
+数据生成时间：2026-10-09T10:32:48+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：23 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -155,20 +155,11 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 原文：https://x.com/thsottiaux/status/2108040921044639779
 收录页：https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm
 
-### A17｜【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移
-
-这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。
-
-来源：AIHOT；发布时间：2026-10-08T02:00:00Z
-
-原文：https://aihot.news/agent?tab=api#legacy-api-migration
-收录页：https://aihot.news/agent?tab=api#legacy-api-migration
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783173
 
@@ -180,21 +171,21 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 
 ### N3｜“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水
 
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2499956
 
-### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N4｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
+
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783220
+
+### N5｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
-
-### N5｜新数码宝贝AI大电影
-
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E6%96%B0%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9DAI%E5%A4%A7%E7%94%B5%E5%BD%B1
 
 ### N6｜【焦点复盘】科创50放量跌近5%，算力硬件端再遭重挫，固态电池概念一枝独秀
 
@@ -204,7 +195,7 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 
 ### N7｜美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%
 
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2499973
 
@@ -214,89 +205,89 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 
 链接：https://www.cls.cn/detail/2499316
 
-### N9｜解读AI推翻Kuznetsov猜想
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E6%8E%A8%E7%BF%BBKuznetsov%E7%8C%9C%E6%83%B3
-
-### N10｜相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3783220
-
-### N11｜如何看待 DeepSeek 估值已接近 5000 亿元？
-
-平台：知乎；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2091466415639196511
-
-### N12｜网传喀纳斯棕熊索食系AI编造
+### N9｜网传喀纳斯棕熊索食系AI编造
 
 平台：今日头条；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7694098908959621163/
 
-### N13｜特朗普8月证券交易流水出炉：大手笔押中Meta智能体行情
-
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2499863
-
-### N14｜吧友教AI写文,焚诀大公开
+### N10｜吧友教AI写文,焚诀大公开
 
 平台：贴吧；榜单排名：12；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80&topic_id=28366390
 
-### N15｜美股收盘：纳指跌逾1% AI概念股承压
+### N11｜特朗普8月证券交易流水出炉：大手笔押中Meta智能体行情
 
-平台：今日头条；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7694435893230177835/
+链接：https://www.cls.cn/detail/2499863
 
-### N16｜黄仁勋女婿晋升英伟达副总裁并操盘核心业务，释放了哪些信号？
+### N12｜OpenAI发布722篇数学手稿
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：抖音；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2090951996341739961
+链接：https://www.douyin.com/hot/2686054
 
-### N17｜别让AI糟蹋了四大名著
+### N13｜如何评价 OpenAI 撤回 3 篇手稿？为什么前沿模型会犯这种错误？
 
-平台：百度热搜；榜单排名：18；实际出现快照数：1。
+平台：知乎；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2091639092467519549
+
+### N14｜AI手搓开心麻花版火影忍者
+
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
+
+### N15｜如何看待 DeepSeek 估值已接近 5000 亿元？
+
+平台：知乎；榜单排名：14；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2091466415639196511
+
+### N16｜别让AI糟蹋了四大名著
+
+平台：百度热搜；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97
 
-### N18｜Strata 支持 12GB 显存运行 125B 大模型，其技术难度有多大？
-
-平台：知乎；榜单排名：18；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2090845638498042646
-
-### N19｜为了实现 Token 自由，自己买 GPU 值得吗？
+### N17｜为了实现 Token 自由，自己买 GPU 值得吗？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2080572349796168710
 
-### N20｜DeepSeek“抽风”原因曝光
-
-平台：百度热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E6%8A%BD%E9%A3%8E%E2%80%9D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89
-
-### N21｜AI历史剧火了也遭举报
+### N18｜AI历史剧火了也遭举报
 
 平台：微博；榜单排名：19；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=AI%E5%8E%86%E5%8F%B2%E5%89%A7%E7%81%AB%E4%BA%86%E4%B9%9F%E9%81%AD%E4%B8%BE%E6%8A%A5
 
-### N22｜AI手搓开心麻花版火影忍者
+### N19｜OpenAI发布可交互界面
 
-平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
+平台：微博；榜单排名：19；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
+链接：https://s.weibo.com/weibo?q=OpenAI%E5%8F%91%E5%B8%83%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2
+
+### N20｜OpenAI 全面上线 GPT-6，有哪些功能亮点和体验提升？
+
+平台：知乎；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2091441800456282491
+
+### N21｜新数码宝贝AI大电影
+
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%96%B0%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9DAI%E5%A4%A7%E7%94%B5%E5%BD%B1
+
+### N22｜OpenAI推出GPT-6.1 Sol Ultrafast版
+
+平台：百度热搜；榜单排名：25；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-6.1+Sol+Ultrafast%E7%89%88
 
 ### N23｜OpenAI的722篇论文含金量如何
 
@@ -304,4 +295,4 @@ Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMC
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95
 
-核对：AI HOT 17 条；TrendRadar 23 条。
+核对：AI HOT 16 条；TrendRadar 23 条。
