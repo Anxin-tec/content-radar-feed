@@ -6,6 +6,7 @@ import ipaddress
 import json
 import math
 import time
+import zlib
 from typing import Callable
 from urllib.error import HTTPError, URLError
 from urllib.parse import parse_qsl, urlencode, urlsplit
@@ -18,7 +19,7 @@ USER_AGENT = "content-radar-cloud/1.0"
 MAX_PAGES = 25
 MAX_ITEMS = 2500
 MAX_RESPONSE_BYTES = 8 * 1024 * 1024
-ITEMS_WINDOW = "24h"
+ITEMS_WINDOW = "7d"
 ITEMS_BY = "published"
 ITEMS_LIMIT = 100
 REQUIRED_FIELDS = {
@@ -201,6 +202,7 @@ def fetch_all_items(
     sleep: Callable[[float], None] = time.sleep,
     max_pages: int = MAX_PAGES,
     max_items: int = MAX_ITEMS,
+    filter_outside_window: bool = False,
 ) -> AihotResult:
     if (
         type(max_pages) is not int
@@ -236,7 +238,7 @@ def fetch_all_items(
             or count != len(items)
         ):
             raise AihotIncomplete("page_contract")
-        if len(all_items) + len(items) > max_items:
+        if len(seen_ids) + len(items) > max_items:
             raise AihotIncomplete("item_limit")
 
         for value in items:
@@ -253,6 +255,13 @@ def fetch_all_items(
                     and published_at > until_utc
                 )
             ):
+                if filter_outside_window:
+                    # Keep the ID in the global set so duplicates are still
+                    # rejected even when one copy falls outside the exact
+                    # local window. Pagination must still reach its terminal
+                    # page before the result is accepted.
+                    seen_ids.add(item_id)
+                    continue
                 raise AihotIncomplete("outside_window")
             seen_ids.add(item_id)
             all_items.append(value)
@@ -293,6 +302,7 @@ def request_json_url(url: str, timeout: float = 30) -> dict:
         headers={
             "User-Agent": USER_AGENT,
             "Accept": "application/json",
+            "Accept-Encoding": "gzip",
         },
         method="GET",
     )
@@ -300,6 +310,12 @@ def request_json_url(url: str, timeout: float = 30) -> dict:
     try:
         with opener.open(request, timeout=timeout) as response:
             body = response.read(MAX_RESPONSE_BYTES + 1)
+            headers = getattr(response, "headers", None)
+            content_encoding = (
+                headers.get("Content-Encoding", "")
+                if headers is not None
+                else ""
+            )
     except HTTPError as error:
         code = error.code
         error.close()
@@ -318,8 +334,39 @@ def request_json_url(url: str, timeout: float = 30) -> dict:
         raise AihotIncomplete("response_encoding")
     if len(body) > MAX_RESPONSE_BYTES:
         raise AihotIncomplete("response_too_large")
+    if not isinstance(content_encoding, str):
+        raise AihotIncomplete("response_encoding")
+    content_encoding = content_encoding.strip().casefold()
+    if content_encoding in {"", "identity"}:
+        decoded = body
+    elif content_encoding == "gzip":
+        decoder = zlib.decompressobj(16 + zlib.MAX_WBITS)
+        output = bytearray()
+        try:
+            for offset in range(0, len(body), 64 * 1024):
+                chunk = decoder.decompress(
+                    body[offset:offset + 64 * 1024],
+                    MAX_RESPONSE_BYTES + 1 - len(output),
+                )
+                output.extend(chunk)
+                if len(output) > MAX_RESPONSE_BYTES or decoder.unconsumed_tail:
+                    raise AihotIncomplete("response_too_large")
+            output.extend(
+                decoder.flush(MAX_RESPONSE_BYTES + 1 - len(output))
+            )
+        except AihotIncomplete:
+            raise
+        except (zlib.error, ValueError):
+            raise AihotIncomplete("response_encoding") from None
+        if len(output) > MAX_RESPONSE_BYTES:
+            raise AihotIncomplete("response_too_large")
+        if not decoder.eof or decoder.unused_data:
+            raise AihotIncomplete("response_encoding")
+        decoded = bytes(output)
+    else:
+        raise AihotIncomplete("response_encoding")
     try:
-        text = body.decode("utf-8")
+        text = decoded.decode("utf-8")
     except UnicodeDecodeError:
         raise AihotIncomplete("response_encoding") from None
     try:
@@ -550,9 +597,9 @@ def request_items_page(
     ):
         raise AihotIncomplete("cursor_contract")
 
-    # v1 uses a bounded server-side window.  We still apply the exact local
-    # timestamp window in fetch_all_items because the server window is a coarse
-    # boundary and can include a row at either edge.
+    # v1 uses a coarse seven-day server-side window. We apply the exact local
+    # timestamp window in fetch_all_items and keep walking every page so a
+    # request near midnight cannot lose a row at either 24-hour edge.
     parameters = [
         ("mode", "selected"),
         ("window", ITEMS_WINDOW),
@@ -905,6 +952,7 @@ def fetch_aihot(
         since=since,
         until=now_utc,
         sleep=sleep,
+        filter_outside_window=True,
     )
     return {
         "status": result.status,

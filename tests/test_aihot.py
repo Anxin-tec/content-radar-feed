@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import copy
 from datetime import datetime, timedelta, timezone
+import gzip
 import io
 import json
 import unittest
@@ -163,7 +164,7 @@ def v1_page(*items: dict, has_more: bool = False, next_cursor: str | None = None
         "query": {
             "mode": "selected",
             "category": None,
-            "window": "24h",
+            "window": "7d",
             "q": None,
             "by": "published",
             "ordering": "publishedAtDesc",
@@ -188,8 +189,9 @@ def http_error(url: str, code: int) -> HTTPError:
 
 
 class FakeResponse:
-    def __init__(self, body: bytes) -> None:
+    def __init__(self, body: bytes, headers: dict[str, str] | None = None) -> None:
         self.body = body
+        self.headers = headers or {}
         self.read_sizes = []
         self.closed = False
 
@@ -475,6 +477,60 @@ class AihotPaginationTests(unittest.TestCase):
                 sleep=lambda _: None,
             )
 
+    def test_v1_coarse_window_filters_after_full_pagination_validation(self) -> None:
+        pages = {
+            None: {
+                "count": 2,
+                "hasNext": True,
+                "nextCursor": "cursor-2",
+                "items": [
+                    item("old", "2026-07-21T23:59:59Z"),
+                    item("inside", "2026-07-22T00:00:00Z"),
+                ],
+            },
+            "cursor-2": terminal_page(
+                item("new", "2026-07-23T00:00:00Z")
+            ),
+        }
+        calls = []
+
+        def request(cursor):
+            calls.append(cursor)
+            return pages[cursor]
+
+        result = fetch_all_items(
+            request,
+            since=WINDOW_START,
+            sleep=lambda _: None,
+            filter_outside_window=True,
+        )
+
+        self.assertEqual(calls, [None, "cursor-2"])
+        self.assertEqual(
+            [value["id"] for value in result.items],
+            ["inside", "new"],
+        )
+
+    def test_v1_coarse_window_still_rejects_duplicate_outside_window_id(self) -> None:
+        pages = {
+            None: {
+                "count": 1,
+                "hasNext": True,
+                "nextCursor": "cursor-2",
+                "items": [item("old", "2026-07-21T23:59:59Z")],
+            },
+            "cursor-2": terminal_page(
+                item("old", "2026-07-21T23:59:59Z")
+            ),
+        }
+        with self.assertRaisesRegex(AihotIncomplete, "duplicate_item"):
+            fetch_all_items(
+                lambda cursor: pages[cursor],
+                since=WINDOW_START,
+                sleep=lambda _: None,
+                filter_outside_window=True,
+            )
+
     def test_rejects_non_list_items(self) -> None:
         with self.assertRaisesRegex(AihotIncomplete, "page_contract"):
             fetch_all_items(
@@ -564,7 +620,7 @@ class AihotRequestTests(unittest.TestCase):
         self.assertEqual(parsed.path, "/api/v1/items")
         expected = {
             "mode": ["selected"],
-            "window": ["24h"],
+            "window": ["7d"],
             "by": ["published"],
             "limit": ["100"],
         }
@@ -770,6 +826,10 @@ class RequestJsonUrlTests(unittest.TestCase):
             request.get_header("Accept"),
             "application/json",
         )
+        self.assertEqual(
+            request.get_header("Accept-encoding"),
+            "gzip",
+        )
         self.assertEqual(timeout, 17)
         self.assertEqual(
             response.read_sizes,
@@ -889,6 +949,40 @@ class RequestJsonUrlTests(unittest.TestCase):
             response.read_sizes,
             [aihot.MAX_RESPONSE_BYTES + 1],
         )
+
+    def test_decompresses_gzip_response_with_a_bounded_output(self) -> None:
+        body = json.dumps(
+            {"message": "压缩响应"},
+            ensure_ascii=False,
+        ).encode("utf-8")
+        response = FakeResponse(
+            gzip.compress(body),
+            headers={"Content-Encoding": "gzip"},
+        )
+
+        with patch(
+            "content_radar_feed.aihot.build_opener",
+            return_value=FakeOpener(response=response),
+        ):
+            result = aihot.request_json_url("https://example.test/data")
+
+        self.assertEqual(result, {"message": "压缩响应"})
+
+    def test_rejects_gzip_response_that_expands_past_byte_limit(self) -> None:
+        response = FakeResponse(
+            gzip.compress(b"x" * (aihot.MAX_RESPONSE_BYTES + 1)),
+            headers={"Content-Encoding": "gzip"},
+        )
+
+        with patch(
+            "content_radar_feed.aihot.build_opener",
+            return_value=FakeOpener(response=response),
+        ):
+            with self.assertRaisesRegex(
+                AihotIncomplete,
+                "^response_too_large$",
+            ):
+                aihot.request_json_url("https://example.test/data")
 
     def test_rejects_invalid_json_without_leaking_the_body(self) -> None:
         secret = "private-request-id"
@@ -1415,21 +1509,22 @@ class FetchAihotTests(unittest.TestCase):
 
         self.assertEqual(calls, [])
 
-    def test_rejects_item_published_after_window_end(self) -> None:
+    def test_filters_item_published_after_window_end_in_v1_reader(self) -> None:
         def request_json(url):
             return v1_page(v1_item("future", "2026-07-24T00:00:01Z"))
 
-        with self.assertRaisesRegex(AihotIncomplete, "^outside_window$"):
-            aihot.fetch_aihot(
-                now=datetime(
-                    2026,
-                    7,
-                    24,
-                    tzinfo=timezone.utc,
-                ),
-                request_json=request_json,
-                sleep=lambda _: None,
-            )
+        result = aihot.fetch_aihot(
+            now=datetime(
+                2026,
+                7,
+                24,
+                tzinfo=timezone.utc,
+            ),
+            request_json=request_json,
+            sleep=lambda _: None,
+        )
+
+        self.assertEqual(result["items"], [])
 
     def test_rejects_non_v1_page_schema(self) -> None:
         with self.assertRaisesRegex(AihotIncomplete, "^page_contract$"):
