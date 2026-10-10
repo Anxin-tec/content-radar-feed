@@ -132,6 +132,51 @@ def terminal_page(*items: dict) -> dict:
     }
 
 
+def v1_item(item_id: str, published_at: str | None) -> dict:
+    legacy = item(item_id, published_at)
+    return {
+        "id": legacy["id"],
+        "title": legacy["title"],
+        "originalTitle": legacy["title_en"],
+        "summary": legacy["summary"],
+        "source": {"name": legacy["source"]},
+        "links": {
+            "aihot": legacy["permalink"],
+            "original": legacy["url"],
+        },
+        "publishedAt": legacy["publishedAt"],
+        "discoveredAt": legacy["publishedAt"] or "2026-07-23T00:00:00Z",
+        "category": legacy["category"],
+        "score": legacy["score"],
+        "selected": legacy["selected"],
+        "reason": "fixture reason",
+        "attribution": {
+            "name": legacy["attribution"]["source"],
+            "url": legacy["attribution"]["canonical"],
+        },
+    }
+
+
+def v1_page(*items: dict, has_more: bool = False, next_cursor: str | None = None) -> dict:
+    return {
+        "schemaVersion": 1,
+        "query": {
+            "mode": "selected",
+            "category": None,
+            "window": "24h",
+            "q": None,
+            "by": "published",
+            "ordering": "publishedAtDesc",
+        },
+        "items": list(items),
+        "page": {
+            "count": len(items),
+            "hasMore": has_more,
+            "nextCursor": next_cursor,
+        },
+    }
+
+
 def http_error(url: str, code: int) -> HTTPError:
     return HTTPError(
         url,
@@ -511,17 +556,17 @@ class AihotRequestTests(unittest.TestCase):
         self,
         url: str,
         *,
-        since: str = "2026-07-22T00:00:00Z",
         cursor: str | None = None,
     ) -> None:
         parsed = urlsplit(url)
         self.assertEqual(parsed.scheme, "https")
-        self.assertEqual(parsed.netloc, "aihot.virxact.com")
-        self.assertEqual(parsed.path, "/api/public/items")
+        self.assertEqual(parsed.netloc, "aihot.news")
+        self.assertEqual(parsed.path, "/api/v1/items")
         expected = {
             "mode": ["selected"],
-            "since": [since],
-            "take": ["100"],
+            "window": ["24h"],
+            "by": ["published"],
+            "limit": ["100"],
         }
         if cursor is not None:
             expected["cursor"] = [cursor]
@@ -529,7 +574,7 @@ class AihotRequestTests(unittest.TestCase):
 
     def test_items_request_uses_only_fixed_parameters(self) -> None:
         calls = []
-        page = terminal_page(item("a1", "2026-07-23T00:00:00Z"))
+        page = v1_page(v1_item("a1", "2026-07-23T00:00:00Z"))
 
         def request_json(url):
             calls.append(url)
@@ -542,7 +587,8 @@ class AihotRequestTests(unittest.TestCase):
             sleep=lambda _: None,
         )
 
-        self.assertIs(result, page)
+        self.assertEqual(result["count"], 1)
+        self.assertEqual(result["items"][0]["id"], "a1")
         self.assertEqual(len(calls), 1)
         self.assert_fixed_item_query(calls[0])
 
@@ -550,7 +596,7 @@ class AihotRequestTests(unittest.TestCase):
         calls = []
 
         aihot.request_items_page(
-            lambda url: calls.append(url) or terminal_page(),
+            lambda url: calls.append(url) or v1_page(),
             WINDOW_START,
             "cursor-2",
             sleep=lambda _: None,
@@ -564,8 +610,8 @@ class AihotRequestTests(unittest.TestCase):
             with self.subTest(code=code):
                 calls = []
                 sleeps = []
-                page = terminal_page(
-                    item("a1", "2026-07-23T00:00:00Z")
+                page = v1_page(
+                    v1_item("a1", "2026-07-23T00:00:00Z")
                 )
 
                 def request_json(url):
@@ -581,7 +627,8 @@ class AihotRequestTests(unittest.TestCase):
                     sleep=sleeps.append,
                 )
 
-                self.assertIs(result, page)
+                self.assertEqual(result["count"], 1)
+                self.assertEqual(result["items"][0]["id"], "a1")
                 self.assertEqual(len(calls), 2)
                 self.assertEqual(calls[0], calls[1])
                 self.assertEqual(sleeps, [1.0])
@@ -683,7 +730,7 @@ class AihotRequestTests(unittest.TestCase):
 
         with self.assertRaisesRegex(AihotIncomplete, "since_timezone"):
             aihot.request_items_page(
-                lambda url: calls.append(url) or terminal_page(),
+                lambda url: calls.append(url) or v1_page(),
                 datetime(2026, 7, 22),
                 None,
                 sleep=lambda _: None,
@@ -1296,7 +1343,7 @@ class AihotProjectionTests(unittest.TestCase):
 
 
 class FetchAihotTests(unittest.TestCase):
-    def test_fetches_version_once_and_all_fixed_query_pages(self) -> None:
+    def test_fetches_all_v1_query_pages_with_new_cursor_contract(self) -> None:
         now = datetime(
             2026,
             7,
@@ -1311,25 +1358,15 @@ class FetchAihotTests(unittest.TestCase):
         def request_json(url):
             calls.append(url)
             parsed = urlsplit(url)
-            if parsed.path.endswith("/version"):
-                return {
-                    "apiVersion": "1.4.0",
-                    "requestId": "not public",
-                }
             cursor = parse_qs(parsed.query).get("cursor", [None])[0]
             if cursor is None:
-                return {
-                    "count": 1,
-                    "hasNext": True,
-                    "nextCursor": "cursor-2",
-                    "items": [
-                        item("a1", "2026-07-23T01:00:00Z")
-                    ],
-                }
+                return v1_page(
+                    v1_item("a1", "2026-07-23T01:00:00Z"),
+                    has_more=True,
+                    next_cursor="cursor-2",
+                )
             self.assertEqual(cursor, "cursor-2")
-            return terminal_page(
-                item("a2", "2026-07-23T00:30:00Z")
-            )
+            return v1_page(v1_item("a2", "2026-07-23T00:30:00Z"))
 
         result = aihot.fetch_aihot(
             now=now,
@@ -1337,29 +1374,24 @@ class FetchAihotTests(unittest.TestCase):
             sleep=sleeps.append,
         )
 
-        version_url = f"{aihot.BASE_URL}/version"
-        self.assertEqual(calls.count(version_url), 1)
         item_urls = [
             url
             for url in calls
             if urlsplit(url).path.endswith("/items")
         ]
         self.assertEqual(len(item_urls), 2)
-        expected_since = "2026-07-23T00:30:00Z"
         AihotRequestTests().assert_fixed_item_query(
             item_urls[0],
-            since=expected_since,
         )
         AihotRequestTests().assert_fixed_item_query(
             item_urls[1],
-            since=expected_since,
             cursor="cursor-2",
         )
         self.assertEqual(sleeps, [1.0])
         self.assertEqual(result["status"], "live")
-        self.assertEqual(result["api_version"], "1.4.0")
+        self.assertEqual(result["api_version"], "2.0.0")
         self.assertEqual(result["page_count"], 2)
-        self.assertEqual(result["window_start"], expected_since)
+        self.assertEqual(result["window_start"], "2026-07-23T00:30:00Z")
         self.assertEqual(
             [value["id"] for value in result["items"]],
             ["a1", "a2"],
@@ -1385,11 +1417,7 @@ class FetchAihotTests(unittest.TestCase):
 
     def test_rejects_item_published_after_window_end(self) -> None:
         def request_json(url):
-            if urlsplit(url).path.endswith("/version"):
-                return {"apiVersion": "1.4.0"}
-            return terminal_page(
-                item("future", "2026-07-24T00:00:01Z")
-            )
+            return v1_page(v1_item("future", "2026-07-24T00:00:01Z"))
 
         with self.assertRaisesRegex(AihotIncomplete, "^outside_window$"):
             aihot.fetch_aihot(
@@ -1403,34 +1431,23 @@ class FetchAihotTests(unittest.TestCase):
                 sleep=lambda _: None,
             )
 
-    def test_requires_non_empty_string_api_version(self) -> None:
-        for invalid in (None, "", True, {}):
-            with self.subTest(invalid=invalid):
-                calls = []
-
-                def request_json(url):
-                    calls.append(url)
-                    return {"apiVersion": invalid}
-
-                with self.assertRaisesRegex(
-                    AihotIncomplete,
-                    "^version_contract$",
-                ):
-                    aihot.fetch_aihot(
-                        now=datetime(
-                            2026,
-                            7,
-                            24,
-                            tzinfo=timezone.utc,
-                        ),
-                        request_json=request_json,
-                        sleep=lambda _: None,
-                    )
-
-                self.assertEqual(
-                    calls,
-                    [f"{aihot.BASE_URL}/version"],
-                )
+    def test_rejects_non_v1_page_schema(self) -> None:
+        with self.assertRaisesRegex(AihotIncomplete, "^page_contract$"):
+            aihot.fetch_aihot(
+                now=datetime(
+                    2026,
+                    7,
+                    24,
+                    tzinfo=timezone.utc,
+                ),
+                request_json=lambda url: {
+                    "count": 1,
+                    "hasNext": False,
+                    "nextCursor": None,
+                    "items": [item("legacy", "2026-07-23T00:30:00Z")],
+                },
+                sleep=lambda _: None,
+            )
 
 
 if __name__ == "__main__":

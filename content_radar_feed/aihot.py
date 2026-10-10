@@ -12,11 +12,15 @@ from urllib.parse import parse_qsl, urlencode, urlsplit
 from urllib.request import HTTPRedirectHandler, Request, build_opener
 
 
-BASE_URL = "https://aihot.virxact.com/api/public"
+BASE_URL = "https://aihot.news/api/v1"
+API_VERSION = "2.0.0"
 USER_AGENT = "content-radar-cloud/1.0"
 MAX_PAGES = 25
 MAX_ITEMS = 2500
 MAX_RESPONSE_BYTES = 8 * 1024 * 1024
+ITEMS_WINDOW = "24h"
+ITEMS_BY = "published"
+ITEMS_LIMIT = 100
 REQUIRED_FIELDS = {
     "id",
     "title",
@@ -399,6 +403,140 @@ def request_json_with_retry(
     raise AihotIncomplete("request_failed")
 
 
+def _normalize_v1_item(value: object) -> dict:
+    """Map one AIHOT 2.0 item to the collector's stable internal shape."""
+    if not isinstance(value, dict):
+        raise AihotIncomplete("item_contract")
+
+    item_id = value.get("id")
+    title = value.get("title")
+    if (
+        not isinstance(item_id, str)
+        or not item_id.strip()
+        or not isinstance(title, str)
+        or not title.strip()
+    ):
+        raise AihotIncomplete("item_contract")
+
+    original_title = value.get("originalTitle")
+    summary = value.get("summary")
+    if (
+        original_title is not None
+        and not isinstance(original_title, str)
+    ) or (
+        summary is not None
+        and not isinstance(summary, str)
+    ):
+        raise AihotIncomplete("item_contract")
+
+    source = value.get("source")
+    links = value.get("links")
+    if (
+        not isinstance(source, dict)
+        or not isinstance(source.get("name"), str)
+        or not source["name"].strip()
+        or not isinstance(links, dict)
+        or not isinstance(links.get("aihot"), str)
+        or not links["aihot"].strip()
+        or not isinstance(links.get("original"), str)
+        or not links["original"].strip()
+    ):
+        raise AihotIncomplete("item_contract")
+
+    published_at = value.get("publishedAt")
+    discovered_at = value.get("discoveredAt")
+    if published_at is not None and (
+        not isinstance(published_at, str) or not published_at.strip()
+    ):
+        raise AihotIncomplete("item_contract")
+    if not isinstance(discovered_at, str) or not discovered_at.strip():
+        raise AihotIncomplete("item_contract")
+    # The v1 schema requires discoveredAt even when publishedAt is null.  Parse
+    # both timestamps here so a malformed source cannot bypass window checks.
+    parse_time(discovered_at)
+    if published_at is not None:
+        parse_time(published_at)
+
+    category = value.get("category")
+    # v1 explicitly permits null categories; the public report schema requires a
+    # non-empty string, so preserve the item with a transparent sentinel.
+    if category is None:
+        category = "unknown"
+    elif not isinstance(category, str) or not category.strip():
+        raise AihotIncomplete("item_contract")
+
+    score = value.get("score")
+    if score is not None and (
+        type(score) not in {int, float} or not math.isfinite(score)
+    ):
+        raise AihotIncomplete("item_contract")
+    selected = value.get("selected")
+    if type(selected) is not bool:
+        raise AihotIncomplete("item_contract")
+
+    attribution = value.get("attribution")
+    if attribution is None:
+        normalized_attribution = {"source": None, "canonical": None}
+    elif isinstance(attribution, dict):
+        attribution_name = attribution.get("name")
+        attribution_url = attribution.get("url")
+        if (
+            attribution_name is not None
+            and not isinstance(attribution_name, str)
+        ) or (
+            attribution_url is not None
+            and not isinstance(attribution_url, str)
+        ):
+            raise AihotIncomplete("item_contract")
+        normalized_attribution = {
+            "source": attribution_name,
+            "canonical": attribution_url,
+        }
+    else:
+        raise AihotIncomplete("item_contract")
+
+    return {
+        "id": item_id,
+        "title": title,
+        "title_en": original_title,
+        "permalink": links["aihot"],
+        "url": links["original"],
+        "source": source["name"],
+        "publishedAt": published_at,
+        "discoveredAt": discovered_at,
+        "summary": summary,
+        "category": category,
+        "score": score,
+        "selected": selected,
+        "attribution": normalized_attribution,
+    }
+
+
+def _normalize_v1_items_page(payload: dict) -> dict:
+    if payload.get("schemaVersion") != 1:
+        raise AihotIncomplete("page_contract")
+    items = payload.get("items")
+    page = payload.get("page")
+    if not isinstance(items, list) or not isinstance(page, dict):
+        raise AihotIncomplete("page_contract")
+    count = page.get("count")
+    has_more = page.get("hasMore")
+    next_cursor = page.get("nextCursor")
+    if (
+        type(count) is not int
+        or count != len(items)
+        or type(has_more) is not bool
+        or (next_cursor is not None and not isinstance(next_cursor, str))
+    ):
+        raise AihotIncomplete("page_contract")
+    return {
+        "count": count,
+        "hasNext": has_more,
+        "nextCursor": next_cursor,
+        "items": [_normalize_v1_item(item) for item in items],
+    }
+
+
 def request_items_page(
     request_json: Callable[[str], dict],
     since: datetime,
@@ -412,19 +550,24 @@ def request_items_page(
     ):
         raise AihotIncomplete("cursor_contract")
 
+    # v1 uses a bounded server-side window.  We still apply the exact local
+    # timestamp window in fetch_all_items because the server window is a coarse
+    # boundary and can include a row at either edge.
     parameters = [
         ("mode", "selected"),
-        ("since", _format_utc(since_utc)),
-        ("take", "100"),
+        ("window", ITEMS_WINDOW),
+        ("by", ITEMS_BY),
+        ("limit", str(ITEMS_LIMIT)),
     ]
     if cursor is not None:
         parameters.append(("cursor", cursor))
     url = f"{BASE_URL}/items?{urlencode(parameters)}"
-    return request_json_with_retry(
+    payload = request_json_with_retry(
         request_json,
         url,
         sleep=sleep,
     )
+    return _normalize_v1_items_page(payload)
 
 
 def _parse_ipv4_component(value: str) -> int:
@@ -752,15 +895,6 @@ def fetch_aihot(
 ) -> dict:
     now_utc = _utc_datetime(now, "now_timezone")
     since = now_utc - timedelta(hours=24)
-    version = request_json_with_retry(
-        request_json,
-        f"{BASE_URL}/version",
-        sleep=sleep,
-    )
-    api_version = version.get("apiVersion")
-    if not isinstance(api_version, str) or not api_version.strip():
-        raise AihotIncomplete("version_contract")
-
     result = fetch_all_items(
         lambda cursor: request_items_page(
             request_json,
@@ -774,7 +908,7 @@ def fetch_aihot(
     )
     return {
         "status": result.status,
-        "api_version": api_version,
+        "api_version": API_VERSION,
         "page_count": result.page_count,
         "window_start": _format_utc(since),
         "items": [
