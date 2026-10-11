@@ -17,7 +17,7 @@ def render_report(report: dict) -> str:
     if "aihot_missing_published_at" in report["warnings"]:
         lines += ['', '时间说明：部分资讯未提供原文发布时间，按来源的真实收录时间校验最近 24 小时范围；发布时间仍标为“未提供”。']
     if "trendradar_incomplete_slots" in report["warnings"]:
-        lines += ['', '采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。']
+        lines += ['', '采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。']
     lines += ['', f'来源状态：AI HOT={report["source_status"]["aihot"]["status"]}；TrendRadar={trend["status"]}。',
               '', '## AI HOT 完整资讯', '']
     for item in report["aihot_items"]:

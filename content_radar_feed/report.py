@@ -68,11 +68,17 @@ def _snapshot_values(snapshots: object) -> dict[str, dict]:
             or not isinstance(snapshot.get("items"), list)
         ):
             raise ReportError("snapshot_contract")
+        collected = datetime.fromisoformat(collected_at)
+        if collected.tzinfo is None:
+            raise ReportError("snapshot_date_mismatch")
         current = selected.get(slot)
-        if (
-            current is None
-            or collected_at > current["collected_at"]
-        ):
+        if current is None:
+            selected[slot] = snapshot
+            continue
+        current_time = datetime.fromisoformat(current["collected_at"])
+        if collected == current_time and snapshot != current:
+            raise ReportError("snapshot_contract")
+        if collected > current_time:
             selected[slot] = snapshot
     return selected
 
@@ -154,10 +160,12 @@ def _build_report(
     groups: dict[str, list[tuple[str, dict]]] = {}
     platforms: set[str] = set()
     failed_platforms: set[str] = set()
+    snapshot_platforms: dict[str, set[str]] = {}
     for slot in LOGICAL_SLOTS:
         snapshot = selected.get(slot)
         if snapshot is None:
             continue
+        snapshot_platforms[slot] = set()
         for failed_platform in snapshot["failed_platforms"]:
             if (
                 not isinstance(failed_platform, str)
@@ -168,6 +176,7 @@ def _build_report(
         for raw_value in snapshot["items"]:
             value = _trend_item(raw_value)
             platforms.add(value["platform_id"])
+            snapshot_platforms[slot].add(value["platform_id"])
             groups.setdefault(stable_n_id(value), []).append(
                 (snapshot["collected_at"], value)
             )
@@ -176,7 +185,7 @@ def _build_report(
     for source_id, occurrences in groups.items():
         ordered = sorted(
             occurrences,
-            key=lambda pair: pair[0],
+            key=lambda pair: datetime.fromisoformat(pair[0]),
         )
         first_time, first = ordered[0]
         last_time, latest = ordered[-1]
@@ -193,7 +202,7 @@ def _build_report(
                 "first_crawl_time": first_time,
                 "last_crawl_time": last_time,
                 "crawl_count": len(
-                    {pair[0] for pair in ordered}
+                    {datetime.fromisoformat(pair[0]) for pair in ordered}
                 ),
                 "rank_change": first["rank"] - latest["rank"],
             }
@@ -212,14 +221,27 @@ def _build_report(
         for index, value in enumerate(matched, start=1)
     ]
 
+    # Availability is current; historical rows and failures remain evidence.
+    # A recovery must cover every platform observed or failed during the day.
+    # Equal-time snapshots must all be healthy, independent of input/slot order.
+    latest_time = max(
+        (datetime.fromisoformat(value["collected_at"])
+         for value in selected.values()),
+        default=None,
+    )
+    latest_snapshots = [
+        value for value in selected.values()
+        if datetime.fromisoformat(value["collected_at"]) == latest_time
+    ]
+    expected_platforms = platforms | failed_platforms
     if not selected:
         trend_status = "failed"
-    elif (
-        not failed_platforms
-        and all(
-            value["source_status"] == "live"
-            for value in selected.values()
-        )
+    elif all(
+        value["source_status"] == "live"
+        and not value["failed_platforms"]
+        and snapshot_platforms[value["logical_slot"]]
+        and expected_platforms <= snapshot_platforms[value["logical_slot"]]
+        for value in latest_snapshots
     ):
         trend_status = "live"
     else:
@@ -230,7 +252,12 @@ def _build_report(
         warnings.append("aihot_source_incomplete")
     if any(item["published_at"] is None for item in aihot_items):
         warnings.append("aihot_missing_published_at")
-    if trend_status != "live" or set(selected) != set(LOGICAL_SLOTS):
+    if (
+        trend_status != "live"
+        or set(selected) != set(LOGICAL_SLOTS)
+        or failed_platforms
+        or any(value["source_status"] != "live" for value in selected.values())
+    ):
         warnings.append("trendradar_incomplete_slots")
 
     return {
