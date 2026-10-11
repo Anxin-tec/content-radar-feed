@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-12
 
-数据生成时间：2026-10-12T04:33:56+08:00（北京时间）
+数据生成时间：2026-10-12T05:04:08+08:00（北京时间）
 
-AI HOT：1 条；TrendRadar：15 条 AI 相关热点。
+AI HOT：1 条；TrendRadar：14 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -54,17 +54,17 @@ AI HOT：1 条；TrendRadar：15 条 AI 相关热点。
 
 链接：https://www.cls.cn/detail/2501540
 
-### N6｜胖东来施工现场 干净得像AI
-
-平台：百度热搜；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI
-
-### N7｜高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”
+### N6｜高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783363
+
+### N7｜胖东来施工现场 干净得像AI
+
+平台：百度热搜；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI
 
 ### N8｜美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”
 
@@ -84,17 +84,17 @@ AI HOT：1 条；TrendRadar：15 条 AI 相关热点。
 
 链接：https://www.zhihu.com/question/2092197283857175132
 
-### N11｜马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI
+### N11｜ai 现在发展到什么程度了？
+
+平台：知乎；榜单排名：14；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2076955434141873261
+
+### N12｜马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34232624
-
-### N12｜ai 现在发展到什么程度了？
-
-平台：知乎；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2076955434141873261
 
 ### N13｜OpenAI狂发论文,数学家炮轰
 
@@ -102,16 +102,10 @@ AI HOT：1 条；TrendRadar：15 条 AI 相关热点。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
 
-### N14｜用ai还原抖音寻人真实故事
+### N14｜胖东来施工现场干净得像AI
 
-平台：抖音；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.douyin.com/hot/2690547
-
-### N15｜胖东来施工现场干净得像AI
-
-平台：今日头条；榜单排名：28；实际出现快照数：2。
+平台：今日头条；榜单排名：30；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7695311157557166121/
 
-核对：AI HOT 1 条；TrendRadar 15 条。
+核对：AI HOT 1 条；TrendRadar 14 条。
