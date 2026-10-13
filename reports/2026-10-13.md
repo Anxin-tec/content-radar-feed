@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-13
 
-数据生成时间：2026-10-13T09:36:34+08:00（北京时间）
+数据生成时间：2026-10-13T09:56:36+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,7 +130,7 @@ Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 3
 
 链接：https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
 
-### N4｜陶哲轩的「黑盒 AI 治癌药」思想实验引发争议，如何看待这一讨论？人类需要完全理解科学研究的过程吗？
+### N4｜陶哲轩的「黑盒 AI 治癌药」思想实验引发争议，如何看待这一讨论？我们需要完全理解科学的内在机制再应用吗？
 
 平台：知乎；榜单排名：2；实际出现快照数：1。
 
@@ -196,29 +196,29 @@ Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 3
 
 链接：https://wallstreetcn.com/articles/3783452
 
-### N15｜AI 逆向工程项目 REA 爆火，闭源软件是否都要被迫开源？
+### N15｜押注个人智能体赶超劲敌！Meta推出新模型Muse Wonder，扎克伯格称跻身AI前沿
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783469
+
+### N16｜AI 逆向工程项目 REA 爆火，闭源软件是否都要被迫开源？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2092910466892830417
 
-### N16｜王兴兴：过去十几年犯的最大错误是不够相信AI，具身智能临界点最快一两年内到来
+### N17｜王兴兴：过去十几年犯的最大错误是不够相信AI，具身智能临界点最快一两年内到来
 
 平台：澎湃新闻；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34235226
 
-### N17｜如何看待由 Opus 5.5 生成的各类科普视频爆火？AI 正在改变科普内容的创作方式吗？
+### N18｜如何看待由 Opus 5.5 生成的各类科普视频爆火？AI 正在改变科普内容的创作方式吗？
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2093008136088938434
-
-### N18｜鲸天魔盗团!黑客靠AI入侵韩国银行
-
-平台：贴吧；榜单排名：17；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
 ### N19｜豆包接入生活缴费、订票等服务，大模型争相做生活入口，传统 App 会边缘化吗？资金和信息安全如何保障？
 
@@ -226,22 +226,28 @@ Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 3
 
 链接：https://www.zhihu.com/question/2091829314505401393
 
-### N20｜内娱来了五位AI艺人
+### N20｜鲸天魔盗团!黑客靠AI入侵韩国银行
 
-平台：百度热搜；榜单排名：24；实际出现快照数：3。
+平台：贴吧；榜单排名：18；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
 ### N21｜OpenAI狂发论文,数学家炮轰
 
-平台：贴吧；榜单排名：25；实际出现快照数：3。
+平台：贴吧；榜单排名：26；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
 
-### N22｜数学家怎么看OpenAI的722篇论文
+### N22｜内娱来了五位AI艺人
+
+平台：百度热搜；榜单排名：27；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
+
+### N23｜数学家怎么看OpenAI的722篇论文
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87
 
-核对：AI HOT 11 条；TrendRadar 22 条。
+核对：AI HOT 11 条；TrendRadar 23 条。
