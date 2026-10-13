@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-13
 
-数据生成时间：2026-10-13T10:33:08+08:00（北京时间）
+数据生成时间：2026-10-13T11:09:56+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：27 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,41 +130,41 @@ Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 3
 
 链接：https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
 
-### N4｜陶哲轩的「黑盒 AI 治癌药」思想实验引发争议，如何看待这一讨论？我们需要完全理解科学的内在机制再应用吗？
-
-平台：知乎；榜单排名：2；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2092937311851902232
-
-### N5｜本周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报
+### N4｜本周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783242
 
-### N6｜刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖
+### N5｜陶哲轩的「黑盒 AI 治癌药」思想实验引发争议，如何看待这一讨论？我们需要完全理解科学的内在机制再应用吗？
+
+平台：知乎；榜单排名：3；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2092937311851902232
+
+### N6｜Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2502803
+
+### N7｜刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783396
 
-### N7｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N8｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N8｜马上评｜AI真的会让下一代孩子变笨吗
+### N9｜马上评｜AI真的会让下一代孩子变笨吗
 
 平台：澎湃新闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34235227
-
-### N9｜Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速
-
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2502803
 
 ### N10｜博通CEO：许多AI投资者如同赌场赌徒，AI发展最大制约因素是资本
 
@@ -232,28 +232,46 @@ Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 3
 
 链接：https://www.thepaper.cn/newsDetail_forward_34235226
 
-### N21｜豆包接入生活缴费、订票等服务，大模型争相做生活入口，传统 App 会边缘化吗？资金和信息安全如何保障？
+### N21｜10月13日投资避雷针：德才股份、吉视传媒、欢瑞世纪等AI短剧概念股密集提示风险
 
-平台：知乎；榜单排名：14；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2091829314505401393
+链接：https://www.cls.cn/detail/2502862
 
-### N22｜鲸天魔盗团!黑客靠AI入侵韩国银行
+### N22｜数学家怎么看OpenAI的722篇论文
 
-平台：贴吧；榜单排名：18；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
-
-### N23｜OpenAI狂发论文,数学家炮轰
-
-平台：贴吧；榜单排名：26；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
-
-### N24｜数学家怎么看OpenAI的722篇论文
-
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87
 
-核对：AI HOT 11 条；TrendRadar 24 条。
+### N23｜DeepSeek将完成1000亿元融资
+
+平台：百度热搜；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=DeepSeek%E5%B0%86%E5%AE%8C%E6%88%901000%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84
+
+### N24｜豆包接入生活缴费、订票等服务，大模型争相做生活入口，传统 App 会边缘化吗？资金和信息安全如何保障？
+
+平台：知乎；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2091829314505401393
+
+### N25｜Meta 推出闭源 AI 模型 MuseWonder，将对行业格局产生哪些影响？
+
+平台：知乎；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2093155529078133520
+
+### N26｜鲸天魔盗团!黑客靠AI入侵韩国银行
+
+平台：贴吧；榜单排名：20；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
+
+### N27｜OpenAI狂发论文,数学家炮轰
+
+平台：贴吧；榜单排名：28；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
+
+核对：AI HOT 11 条；TrendRadar 27 条。
