@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-13
 
-数据生成时间：2026-10-13T07:45:54+08:00（北京时间）
+数据生成时间：2026-10-13T08:57:37+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：18 条 AI 相关热点。
+AI HOT：10 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -101,47 +101,11 @@ Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 3
 原文：https://x.com/Khazix0918/status/2109501787736813663
 收录页：https://aihot.news/items/hvxwaxeyj6i82xv44ef4ce6fz
 
-### A11｜AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star
-
-开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-12T00:26:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4
-收录页：https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e
-
-### A12｜xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium
-
-xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。
-
-来源：xAI：News（网页）；发布时间：2026-10-12T00:00:00Z
-
-原文：https://x.ai/news/x-subscription
-收录页：https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn
-
-### A13｜Vapi 自研代码审查机器人如何将 PR 合并时间缩短一半
-
-Vapi 工程师 Lat Ware 自研 Pedantic Review Bot，使 PR 从开到合并的平均时间从 130 多小时降到 65 小时。机器人会运行测试和小复现来验证发现，分析和发评论分属两个 job，只能评论不能批准或推送；2026 年 9 月 2 日至 10 月 2 日审查了 1,694 个 PR，在 276 个中提出 363 个 blocker 发现。
-
-来源：Vapi 产品与 Agent 方法；发布时间：2026-10-12T00:00:00Z
-
-原文：https://vapi.ai/blog/ai-code-review-bot
-收录页：https://aihot.news/items/byijxcheeait7w4okuw9ebnh2
-
-### A14｜GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k
-
-Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。
-
-来源：X：Tibo (@thsottiaux)；发布时间：2026-10-11T23:45:59Z
-
-原文：https://x.com/thsottiaux/status/2109430343346581527
-收录页：https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜“以军使用AI发动空袭，在加沙搞‘工业化屠杀’”
 
-平台：凤凰网；榜单排名：1；实际出现快照数：3。
+平台：凤凰网；榜单排名：1；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8xA78buz1fi
 
@@ -163,65 +127,65 @@ Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k �
 
 链接：https://wallstreetcn.com/articles/3783242
 
-### N5｜刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783396
-
-### N6｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N5｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N7｜马上评｜AI真的会让下一代孩子变笨吗
+### N6｜马上评｜AI真的会让下一代孩子变笨吗
 
-平台：澎湃新闻；榜单排名：6；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34235227
 
-### N8｜Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型
+### N7｜刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3783393
+链接：https://wallstreetcn.com/articles/3783396
 
-### N9｜小米这样的公司，为啥非要执着于做大模型？
+### N8｜小米这样的公司，为啥非要执着于做大模型？
 
 平台：知乎；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2091214671135167570
 
-### N10｜博通CEO：许多AI投资者如同赌场赌徒，AI发展最大制约因素是资本
+### N9｜博通CEO：许多AI投资者如同赌场赌徒，AI发展最大制约因素是资本
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783458
 
-### N11｜内娱来了五位AI艺人
+### N10｜【焦点复盘】市场再陷缩量探底，两市成交额跌破1.6万亿，AI漫剧概念获持续热捧
 
-平台：微博；榜单排名：7；实际出现快照数：3。
-
-链接：https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
-
-### N12｜【焦点复盘】市场再陷缩量探底，两市成交额跌破1.6万亿，AI漫剧概念获持续热捧
-
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2502310
 
+### N11｜Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3783393
+
+### N12｜Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速
+
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2502803
+
 ### N13｜AI算力需求爆发，联讯仪器前三季度净利润同比预增1866%至2073% ｜财报见闻
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783452
 
-### N14｜内娱来了五位AI艺人
+### N14｜王兴兴：过去十几年犯的最大错误是不够相信AI，具身智能临界点最快一两年内到来
 
-平台：百度热搜；榜单排名：9；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
+链接：https://www.thepaper.cn/newsDetail_forward_34235226
 
 ### N15｜AI 逆向工程项目 REA 爆火，闭源软件是否都要被迫开源？
 
@@ -237,14 +201,32 @@ Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k �
 
 ### N17｜鲸天魔盗团!黑客靠AI入侵韩国银行
 
-平台：贴吧；榜单排名：16；实际出现快照数：3。
+平台：贴吧；榜单排名：17；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
-### N18｜OpenAI狂发论文,数学家炮轰
+### N18｜豆包接入生活缴费、订票等服务，大模型争相做生活入口，传统 App 会边缘化吗？资金和信息安全如何保障？
 
-平台：贴吧；榜单排名：24；实际出现快照数：3。
+平台：知乎；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2091829314505401393
+
+### N19｜OpenAI狂发论文,数学家炮轰
+
+平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
 
-核对：AI HOT 14 条；TrendRadar 18 条。
+### N20｜内娱来了五位AI艺人
+
+平台：微博；榜单排名：25；实际出现快照数：3。
+
+链接：https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
+
+### N21｜内娱来了五位AI艺人
+
+平台：百度热搜；榜单排名：26；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA
+
+核对：AI HOT 10 条；TrendRadar 21 条。
