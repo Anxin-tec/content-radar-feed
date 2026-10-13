@@ -4,7 +4,246 @@
     <title>AI 日报</title>
     <link>https://anxin-tec.github.io/content-radar-feed/daily/</link>
     <description>Hermes AI 日报</description>
-    <lastBuildDate>Tue, 13 Oct 2026 07:13:02 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:05:49 +0800</lastBuildDate>
+    <item>
+      <title>AI 日报｜2026-10-14</title>
+      <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-14.html</link>
+      <guid isPermaLink="false">2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <description># AI 日报｜2026-10-14
+
+数据生成时间：2026-10-14T07:05:49+08:00（北京时间）
+
+AI HOT：21 条；TrendRadar：21 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
+
+以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+来源状态：AI HOT=live；TrendRadar=live。
+
+## AI HOT 完整资讯
+
+### A1｜Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2
+
+Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。
+
+来源：X：Arena (@arena)；发布时间：2026-10-13T21:27:15Z
+
+### A2｜Character.ai 破产文件显示 AI 商业模式难以为继
+
+Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。
+
+来源：404 Media（RSS）；发布时间：2026-10-13T20:06:53Z
+
+### A3｜OpenAI 办公室发现窃密录音装置，涉事员工被捕
+
+OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。
+
+来源：X：OpenAI Newsroom (@OpenAINewsroom)；发布时间：2026-10-13T19:48:42Z
+
+### A4｜ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR
+
+NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。
+
+来源：Comfy Blog；发布时间：2026-10-13T19:41:39Z
+
+### A5｜XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金
+
+XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。
+
+来源：X：Vaibhav Srivastav（OpenAI）(@reach_vb)；发布时间：2026-10-13T19:15:03Z
+
+### A6｜Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%
+
+Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。
+
+来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-10-13T18:00:33Z
+
+### A7｜Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter
+
+Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：
+
+来源：X：OpenRouter (@OpenRouter)；发布时间：2026-10-13T16:26:15Z
+
+### A8｜Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型
+
+Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。
+
+来源：Google Blog：AI（RSS）；发布时间：2026-10-13T16:00:00Z
+
+### A9｜ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲
+
+ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。
+
+来源：X：ElevenLabs (@elevenlabs)；发布时间：2026-10-13T15:58:09Z
+
+### A10｜Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI
+
+Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。
+
+来源：Apple：Newsroom（RSS）；发布时间：2026-10-13T12:59:16.617000Z
+
+### A11｜LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹
+
+LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。
+
+来源：LangChain：Blog（RSS）；发布时间：2026-10-13T12:59:12Z
+
+### A12｜Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney
+
+Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。
+
+来源：TechCrunch：AI（RSS）；发布时间：2026-10-13T12:23:42Z
+
+### A13｜NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市
+
+NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。
+
+来源：NVIDIA Blog（RSS）；发布时间：2026-10-13T12:00:49Z
+
+### A14｜LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文
+
+LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。
+
+来源：LangChain：Blog（RSS）；发布时间：2026-10-13T11:56:53Z
+
+### A15｜面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行
+
+面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。
+
+来源：公众号：面壁智能（MiniCPM）；发布时间：2026-10-13T10:29:21Z
+
+### A16｜Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图
+
+Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本身就是图，通过类型提示获得类型安全、通过 async 获得并行执行。他提出图 API 存在类似 CAP 定理的取舍，类型安全、并行与快照三者不可兼得，并以此解释为何在 pydantic-graph V2 移除持久化、将持久执行交给 Temporal。
+
+来源：Pydantic AI 官方文章；发布时间：2026-10-13T09:00:00Z
+
+### A17｜千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售
+
+千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。
+
+来源：公众号：千问APP（阿里）；发布时间：2026-10-13T08:06:57Z
+
+### A18｜Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet
+
+Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。
+
+来源：X：Demis Hassabis (@demishassabis)；发布时间：2026-10-13T01:09:37Z
+
+### A19｜Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK
+
+Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。
+
+来源：Google Developers Blog（RSS）；发布时间：2026-10-13T00:00:00Z
+
+### A20｜Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型
+
+Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。
+
+来源：Liquid AI 模型与工程博客（网页）；发布时间：2026-10-13T00:00:00Z
+
+### A21｜Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移
+
+Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。
+
+来源：Anthropic：Engineering（事故复盘 + 工程实践 · 网页）；发布时间：2026-10-13T00:00:00Z
+
+## TrendRadar 完整 AI 热点
+
+### N1｜如何看待 Andrej Karpathy 提出「AI 能力认知漏斗」，少数专业人士已开始有「眩晕感」？
+
+来源：知乎；榜单排名：3；实际出现快照数：3。
+
+### N2｜Gemini 4 Argon或将开放
+
+来源：bilibili 热搜；榜单排名：4；实际出现快照数：3。
+
+### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+
+来源：财联社热门；榜单排名：5；实际出现快照数：3。
+
+### N4｜79岁老干妈陶华碧用AI一年赚了54亿
+
+来源：今日头条；榜单排名：6；实际出现快照数：3。
+
+### N5｜4800元学习机AI讲题6遍讲出6个样
+
+来源：百度热搜；榜单排名：7；实际出现快照数：3。
+
+### N6｜【焦点复盘】指数全天再现“深V”反弹，算力硬件股大面积回暖，冰雪经济领涨大消费板块
+
+来源：财联社热门；榜单排名：7；实际出现快照数：3。
+
+### N7｜79岁老干妈陶华碧用AI一年赚54亿
+
+来源：微博；榜单排名：7；实际出现快照数：3。
+
+### N8｜英特尔和博通CEO同日警告：资本已成AI最大瓶颈，ROI比芯片更短缺！马斯克回应：在赌场就别哭
+
+来源：华尔街见闻；榜单排名：8；实际出现快照数：3。
+
+### N9｜半个月，500亿变1000亿！DeepSeek将完成新一轮融资，梁文峰盯上具身智能
+
+来源：华尔街见闻；榜单排名：9；实际出现快照数：3。
+
+### N10｜人工智能该加速还是踩刹车？读懂AI安全争论背后的“六大派”立场
+
+来源：澎湃新闻；榜单排名：11；实际出现快照数：2。
+
+### N11｜人形机器人将成内存未来大客户！研究称五年内规模将增长约20倍
+
+来源：财联社热门；榜单排名：12；实际出现快照数：1。
+
+### N12｜梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？
+
+来源：财联社热门；榜单排名：12；实际出现快照数：2。
+
+### N13｜AI女爱豆因怀孕暂停活动
+
+来源：今日头条；榜单排名：15；实际出现快照数：3。
+
+### N14｜小米这样的公司，为啥非要执着于做大模型？
+
+来源：知乎；榜单排名：20；实际出现快照数：1。
+
+### N15｜鲸天魔盗团!黑客靠AI入侵韩国银行
+
+来源：贴吧；榜单排名：22；实际出现快照数：3。
+
+### N16｜德国警方调查机器人性骚扰案
+
+来源：今日头条；榜单排名：27；实际出现快照数：2。
+
+### N17｜两轮电动车也能自动驾驶了
+
+来源：百度热搜；榜单排名：28；实际出现快照数：1。
+
+### N18｜AI批量造星 真人明星还有何价值
+
+来源：百度热搜；榜单排名：30；实际出现快照数：2。
+
+### N19｜当让两个AI互相问1000个问题
+
+来源：bilibili 热搜；榜单排名：30；实际出现快照数：1。
+
+### N20｜用AI粒子消散告别曾经的自己
+
+来源：抖音；榜单排名：30；实际出现快照数：2。
+
+### N21｜OpenAI狂发论文,数学家炮轰
+
+来源：贴吧；榜单排名：30；实际出现快照数：3。
+
+核对：AI HOT 21 条；TrendRadar 21 条。
+
+## 编辑推荐
+
+本次编辑推荐暂未生成，以上完整资讯已通过数据校验。
+
+说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
+</description>
+    </item>
     <item>
       <title>AI 日报｜2026-10-13</title>
       <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-13.html</link>
