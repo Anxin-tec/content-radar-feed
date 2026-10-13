@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-14
 
-数据生成时间：2026-10-14T04:31:46+08:00（北京时间）
+数据生成时间：2026-10-14T05:32:30+08:00（北京时间）
 
-AI HOT：24 条；TrendRadar：20 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -31,16 +31,7 @@ OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模�
 原文：https://x.com/OpenAINewsroom/status/2110095403198849132
 收录页：https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov
 
-### A3｜Google DeepMind 发布 Gemini 4 Argon 并公布安全与防护细节
-
-Google DeepMind 发布 Gemini 4 Argon 并开始广泛推出，同时扩大 Fairwind Program 给受信任的网络防御者。模型解决了全部 12 个端到端模拟网络攻击场景（上一代为 5 个），Wiz 用其发现此前模型遗漏的医院软件关键漏洞，涉及数十万患者记录。
-
-来源：Google DeepMind：Blog（RSS）；发布时间：2026-10-13T19:43:07Z
-
-原文：https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
-收录页：https://aihot.news/items/ul3ueao4t59jq5ubl7n3bu650
-
-### A4｜ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR
+### A3｜ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR
 
 NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。
 
@@ -49,7 +40,7 @@ NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型
 原文：https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling
 收录页：https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq
 
-### A5｜XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金
+### A4｜XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金
 
 XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。
 
@@ -58,7 +49,7 @@ XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算
 原文：https://x.com/reach_vb/status/2110086935733833893
 收录页：https://aihot.news/items/ekphiltd4fdsskdlueleul8qa
 
-### A6｜Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%
+### A5｜Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%
 
 Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。
 
@@ -67,7 +58,7 @@ Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上�
 原文：https://x.com/ArtificialAnlys/status/2110068185793970576
 收录页：https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9
 
-### A7｜Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter
+### A6｜Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter
 
 Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon
 
@@ -76,25 +67,7 @@ Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Clou
 原文：https://x.com/OpenRouter/status/2110044453977403412
 收录页：https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf
 
-### A8｜Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用
-
-Google Gemini 宣布新前沿模型 Gemini 4 Argon 正在 Gemini 应用中逐步推出，定位是把复杂想法变为现实。作者还预告将以推文串介绍 Gemini 4 Argon 及应用内最新更新如何提升每条提示词的效果。
-
-来源：X：Gemini (@GeminiApp)；发布时间：2026-10-13T16:05:51Z
-
-原文：https://x.com/GeminiApp/status/2110039322229649783
-收录页：https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o
-
-### A9｜Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%
-
-Google DeepMind 发布 Gemini 4 Argon，定位为通用物理推理模型，在 Embodied Reasoning（ERQA）基准上以纯推理得分 87%，超过其他前沿模型。
-
-来源：Google DeepMind：Blog（RSS）；发布时间：2026-10-13T16:01:58Z
-
-原文：https://deepmind.google/blog/gemini-4-argon-for-robotics/
-收录页：https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f
-
-### A10｜Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型
+### A7｜Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型
 
 Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。
 
@@ -103,7 +76,7 @@ Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者�
 原文：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
 收录页：https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf
 
-### A11｜ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲
+### A8｜ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲
 
 ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。
 
@@ -112,7 +85,7 @@ ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用
 原文：https://x.com/ElevenLabs/status/2110037384192774210
 收录页：https://aihot.news/items/tggiswcje6mz1ti081jfbro43
 
-### A12｜Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI
+### A9｜Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI
 
 Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。
 
@@ -121,7 +94,7 @@ Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、Fa
 原文：https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/
 收录页：https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40
 
-### A13｜LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹
+### A10｜LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹
 
 LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。
 
@@ -130,7 +103,7 @@ LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述
 原文：https://www.langchain.com/blog/agent-traces-ai-search-langsmith
 收录页：https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov
 
-### A14｜Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney
+### A11｜Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney
 
 Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。
 
@@ -139,7 +112,7 @@ Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债�
 原文：https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
 收录页：https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc
 
-### A15｜NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市
+### A12｜NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市
 
 NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。
 
@@ -148,7 +121,7 @@ NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 
 原文：https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/
 收录页：https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10
 
-### A16｜LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文
+### A13｜LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文
 
 LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。
 
@@ -157,7 +130,7 @@ LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中�
 原文：https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents
 收录页：https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8
 
-### A17｜面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行
+### A14｜面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行
 
 面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。
 
@@ -166,7 +139,7 @@ LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中�
 原文：https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a
 收录页：https://aihot.news/items/fidy0y9chlgs0puyn96qkmj1b
 
-### A18｜Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图
+### A15｜Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图
 
 Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本身就是图，通过类型提示获得类型安全、通过 async 获得并行执行。他提出图 API 存在类似 CAP 定理的取舍，类型安全、并行与快照三者不可兼得，并以此解释为何在 pydantic-graph V2 移除持久化、将持久执行交给 Temporal。
 
@@ -175,7 +148,7 @@ Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本�
 原文：https://pydantic.dev/articles/the-code-is-the-graph
 收录页：https://aihot.news/items/tmj0de0vmzpezz0o5j67nqskj
 
-### A19｜千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售
+### A16｜千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售
 
 千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。
 
@@ -184,7 +157,7 @@ Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本�
 原文：https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb
 收录页：https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi
 
-### A20｜Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet
+### A17｜Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet
 
 Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。
 
@@ -193,7 +166,7 @@ Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLance
 原文：https://x.com/demishassabis/status/2109813775377563908
 收录页：https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c
 
-### A21｜Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK
+### A18｜Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK
 
 Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。
 
@@ -202,7 +175,7 @@ Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 �
 原文：https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/
 收录页：https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui
 
-### A22｜Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型
+### A19｜Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型
 
 Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。
 
@@ -211,7 +184,7 @@ Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token �
 原文：https://www.liquid.ai/blog/lfm2-5-24b-a2b
 收录页：https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj
 
-### A23｜Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移
+### A20｜Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移
 
 Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。
 
@@ -219,15 +192,6 @@ Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5
 
 原文：https://www.anthropic.com/engineering/redesigning-source-control
 收录页：https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i
-
-### A24｜Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期
-
-据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。
-
-来源：Ars Technica：AI（RSS）；发布时间：2026-10-12T20:59:50Z
-
-原文：https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/
-收录页：https://aihot.news/items/kcwro19vl7dr5jgcjgec7mive
 
 ## TrendRadar 完整 AI 热点
 
@@ -269,7 +233,7 @@ Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5
 
 ### N7｜79岁老干妈陶华碧用AI一年赚了54亿
 
-平台：今日头条；榜单排名：8；实际出现快照数：2。
+平台：今日头条；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7695240616376303626/
 
@@ -299,56 +263,62 @@ Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5
 
 ### N12｜人形机器人将成内存未来大客户！研究称五年内规模将增长约20倍
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2503400
 
 ### N13｜梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2503513
 
 ### N14｜AI女爱豆因怀孕暂停活动
 
-平台：今日头条；榜单排名：20；实际出现快照数：2。
+平台：今日头条；榜单排名：21；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7696000536685674550/
 
-### N15｜AI批量造星 真人明星还有何价值
-
-平台：百度热搜；榜单排名：21；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC
-
-### N16｜鲸天魔盗团!黑客靠AI入侵韩国银行
+### N15｜鲸天魔盗团!黑客靠AI入侵韩国银行
 
 平台：贴吧；榜单排名：22；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
-### N17｜德国警方调查机器人性骚扰案
+### N16｜AI批量造星 真人明星还有何价值
+
+平台：百度热搜；榜单排名：23；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC
+
+### N17｜用AI粒子消散告别曾经的自己
+
+平台：抖音；榜单排名：25；实际出现快照数：1。
+
+链接：https://www.douyin.com/hot/2693289
+
+### N18｜德国警方调查机器人性骚扰案
 
 平台：今日头条；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7696008255612583972/
 
-### N18｜两轮电动车也能自动驾驶了
+### N19｜两轮电动车也能自动驾驶了
 
 平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%B8%A4%E8%BD%AE%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B9%9F%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%86
 
-### N19｜当让两个AI互相问1000个问题
+### N20｜当让两个AI互相问1000个问题
 
 平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E5%BD%93%E8%AE%A9%E4%B8%A4%E4%B8%AAAI%E4%BA%92%E7%9B%B8%E9%97%AE1000%E4%B8%AA%E9%97%AE%E9%A2%98
 
-### N20｜OpenAI狂发论文,数学家炮轰
+### N21｜OpenAI狂发论文,数学家炮轰
 
 平台：贴吧；榜单排名：30；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0&topic_id=28366794
 
-核对：AI HOT 24 条；TrendRadar 20 条。
+核对：AI HOT 20 条；TrendRadar 21 条。
