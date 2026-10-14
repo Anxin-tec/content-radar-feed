@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-15
 
-数据生成时间：2026-10-15T04:31:49+08:00（北京时间）
+数据生成时间：2026-10-15T04:57:31+08:00（北京时间）
 
 AI HOT：14 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -159,35 +159,35 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://www.zhihu.com/question/2093654423369152454
 
-### N4｜如何从零开始学习AI
-
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0AI
-
-### N5｜AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟
+### N4｜AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783558
 
-### N6｜数学家如何评价OpenAI公开论文
+### N5｜如何从零开始学习AI
 
 平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87
+链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0AI
 
-### N7｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N6｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N8｜报道：Anthropic今天将公布Q3财务数据
+### N7｜报道：Anthropic今天将公布Q3财务数据
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783580
+
+### N8｜数学家如何评价OpenAI公开论文
+
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87
 
 ### N9｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
 
@@ -219,17 +219,17 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://www.baidu.com/s?wd=%E5%9B%9E%E8%80%81%E5%AE%B6%E6%9C%89%E7%A7%8D%E6%B2%A1%E8%A2%ABAI%E2%80%9C%E6%B1%A1%E6%9F%93%E2%80%9D%E8%BF%87%E7%9A%84%E7%BE%8E
 
-### N14｜iPhone Duo已完成大模型备案
+### N14｜“好莱坞”演员的中国短剧梦被AI截胡
+
+平台：百度热搜；榜单排名：22；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1
+
+### N15｜iPhone Duo已完成大模型备案
 
 平台：抖音；榜单排名：23；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2695338
-
-### N15｜“好莱坞”演员的中国短剧梦被AI截胡
-
-平台：百度热搜；榜单排名：25；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1
 
 ### N16｜装修公司投身AI漫剧 市值暴涨16亿
 
