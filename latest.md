@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-15
 
-数据生成时间：2026-10-15T04:20:08+08:00（北京时间）
+数据生成时间：2026-10-15T04:31:49+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -13,7 +13,16 @@ AI HOT：13 条；TrendRadar：17 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据
+### A1｜Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名
+
+Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。
+
+来源：X：Arena (@arena)；发布时间：2026-10-14T20:19:17Z
+
+原文：https://x.com/arena/status/2110465487914295770
+收录页：https://aihot.news/items/uceolgbpttfw4cgmkqc8cvyw5
+
+### A2｜40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据
 
 纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。
 
@@ -22,7 +31,7 @@ AI HOT：13 条；TrendRadar：17 条 AI 相关热点。
 原文：https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy
 收录页：https://aihot.news/items/gpgj8ws42xbs5zhbxfzvn2g6i
 
-### A2｜Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜
+### A3｜Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜
 
 Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。
 
@@ -31,7 +40,7 @@ Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀
 原文：https://x.com/ArtificialAnlys/status/2110421964095713743
 收录页：https://aihot.news/items/loovm0yfvzmgzmv1yp1mm3up4
 
-### A3｜LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口
+### A4｜LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口
 
 LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。
 
@@ -40,7 +49,7 @@ LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 midd
 原文：https://www.langchain.com/blog/context-engineering-deep-agents-remember
 收录页：https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27
 
-### A4｜MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍
+### A5｜MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍
 
 MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。
 
@@ -49,7 +58,7 @@ MIT研究人员团队在Nature发表论文，提出一个机器学习后处理�
 原文：https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014
 收录页：https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9
 
-### A5｜Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO
+### A6｜Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO
 
 Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。
 
@@ -58,7 +67,7 @@ Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划
 原文：https://lovable.dev/blog/introducing-growth-tools
 收录页：https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7
 
-### A6｜Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励
+### A7｜Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励
 
 Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。
 
@@ -67,7 +76,7 @@ Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源
 原文：https://x.com/rohanpaul_ai/status/2110203596948353155
 收录页：https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi
 
-### A7｜Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra
+### A8｜Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra
 
 Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。
 
@@ -76,7 +85,7 @@ Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难
 原文：https://x.com/Khazix0918/status/2110174495420064055
 收录页：https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv
 
-### A8｜Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资
+### A9｜Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资
 
 Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元，由 Accel 领投，Kleiner Perkins 及现有投资方跟投。
 
@@ -85,7 +94,7 @@ Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融�
 原文：https://modal.com/blog/1-billion-annualized-run-rate-series-d
 收录页：https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa
 
-### A9｜xAI 发布 Grok Voice 3.0 语音模型
+### A10｜xAI 发布 Grok Voice 3.0 语音模型
 
 xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。
 
@@ -94,7 +103,7 @@ xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 
 原文：https://x.ai/news/grok-voice-3
 收录页：https://aihot.news/items/qld0z3p2gztpolbmviizsm66u
 
-### A10｜Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查
+### A11｜Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查
 
 Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。
 
@@ -103,7 +112,7 @@ Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档�
 原文：https://research.google/blog/analyzing-technical-documents-with-deep-review/
 收录页：https://aihot.news/items/enqtz3wtz6khvf0m44z5a5jaz
 
-### A11｜实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra
+### A12｜实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra
 
 Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。
 
@@ -112,7 +121,7 @@ Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Anti
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e
 收录页：https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi
 
-### A12｜Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析
+### A13｜Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析
 
 Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。
 
@@ -121,7 +130,7 @@ Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio �
 原文：https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/
 收录页：https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96
 
-### A13｜Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2
+### A14｜Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2
 
 Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。
 
@@ -158,7 +167,7 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 ### N5｜AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783558
 
@@ -174,23 +183,23 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://www.cls.cn/detail/2495303
 
-### N8｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
+### N8｜报道：Anthropic今天将公布Q3财务数据
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3783580
+
+### N9｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
 
 平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2504786
 
-### N9｜哈里斯警告：遏制AI风险的窗口正在关闭，敦促美国对华开展合作
+### N10｜哈里斯警告：遏制AI风险的窗口正在关闭，敦促美国对华开展合作
 
 平台：凤凰网；榜单排名：9；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8xE1LdLJ1rD
-
-### N10｜报道：Anthropic今天将公布Q3财务数据
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3783580
 
 ### N11｜【焦点复盘】科技权重股持续低迷，创业板指再创年内收盘新低，AI漫剧概念火热依旧
 
@@ -234,4 +243,4 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
-核对：AI HOT 13 条；TrendRadar 17 条。
+核对：AI HOT 14 条；TrendRadar 17 条。
