@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-15
 
-数据生成时间：2026-10-15T04:57:31+08:00（北京时间）
+数据生成时间：2026-10-15T05:55:59+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,15 +130,6 @@ Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio �
 原文：https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/
 收录页：https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96
 
-### A14｜Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2
-
-Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。
-
-来源：X：Arena (@arena)；发布时间：2026-10-13T21:27:15Z
-
-原文：https://x.com/arena/status/2110120205464846828
-收录页：https://aihot.news/items/ob6ryetyialrnqhyjusr2s1iz
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜老干妈用AI一年狂赚54亿
@@ -153,11 +144,11 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://wallstreetcn.com/articles/3783586
 
-### N3｜怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？
+### N3｜数学家如何评价OpenAI公开论文
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2093654423369152454
+链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87
 
 ### N4｜AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟
 
@@ -183,23 +174,23 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://wallstreetcn.com/articles/3783580
 
-### N8｜数学家如何评价OpenAI公开论文
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87
-
-### N9｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
+### N8｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
 
 平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2504786
 
-### N10｜哈里斯警告：遏制AI风险的窗口正在关闭，敦促美国对华开展合作
+### N9｜哈里斯警告：遏制AI风险的窗口正在关闭，敦促美国对华开展合作
 
 平台：凤凰网；榜单排名：9；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8xE1LdLJ1rD
+
+### N10｜怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？
+
+平台：知乎；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2093654423369152454
 
 ### N11｜【焦点复盘】科技权重股持续低迷，创业板指再创年内收盘新低，AI漫剧概念火热依旧
 
@@ -221,7 +212,7 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 ### N14｜“好莱坞”演员的中国短剧梦被AI截胡
 
-平台：百度热搜；榜单排名：22；实际出现快照数：1。
+平台：百度热搜；榜单排名：21；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1
 
@@ -233,7 +224,7 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 ### N16｜装修公司投身AI漫剧 市值暴涨16亿
 
-平台：百度热搜；榜单排名：26；实际出现快照数：1。
+平台：百度热搜；榜单排名：24；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%8A%95%E8%BA%ABAI%E6%BC%AB%E5%89%A7+%E5%B8%82%E5%80%BC%E6%9A%B4%E6%B6%A816%E4%BA%BF
 
@@ -243,4 +234,10 @@ Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
-核对：AI HOT 14 条；TrendRadar 17 条。
+### N18｜特朗普发与老虎嬉戏AI视频遭痛骂
+
+平台：今日头条；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7696297015865081910/
+
+核对：AI HOT 13 条；TrendRadar 18 条。
