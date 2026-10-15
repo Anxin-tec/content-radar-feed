@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-15
 
-数据生成时间：2026-10-15T08:49:10+08:00（北京时间）
+数据生成时间：2026-10-15T09:25:19+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：25 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -128,15 +128,6 @@ Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源
 原文：https://x.com/rohanpaul_ai/status/2110203596948353155
 收录页：https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi
 
-### A14｜Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra
-
-Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。
-
-来源：X：卡兹克 (@Khazix0918)；发布时间：2026-10-14T01:02:59Z
-
-原文：https://x.com/Khazix0918/status/2110174495420064055
-收录页：https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜老干妈用AI一年狂赚54亿
@@ -145,130 +136,148 @@ Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N2｜数学家如何评价OpenAI公开论文
+### N2｜OpenAI称攻克NS方程问题为何引争议
+
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8BNS%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE
+
+### N3｜数学家如何评价OpenAI公开论文
 
 平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87
 
-### N3｜AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟
+### N4｜AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783558
 
-### N4｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
+### N5｜美AI科技股暴跌
+
+平台：微博；榜单排名：4；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E6%9A%B4%E8%B7%8C%23
+
+### N6｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2495303
 
-### N5｜美AI科技股暴跌
+### N7｜报道：Anthropic Q3营收168亿美元，环比大涨46%，调整后盈利并实现正现金流
 
-平台：微博；榜单排名：5；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E6%9A%B4%E8%B7%8C%23
+链接：https://wallstreetcn.com/articles/3783652
 
-### N6｜OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？
+### N8｜OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？
 
 平台：知乎；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2093575542540875135
 
-### N7｜报道：Anthropic Q3营收168亿美元，环比大涨46%，调整后盈利并实现正现金流
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3783652
-
-### N8｜报道：Anthropic今天将公布Q3财务数据
+### N9｜报道：Anthropic今天将公布Q3财务数据
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783580
 
-### N9｜如何从零开始学习AI
+### N10｜如何从零开始学习AI
 
 平台：bilibili 热搜；榜单排名：9；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0AI
 
-### N10｜哈里斯警告：遏制AI风险的窗口正在关闭，敦促美国对华开展合作
+### N11｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
+
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2504786
+
+### N12｜哈里斯警告：遏制AI风险的窗口正在关闭，敦促美国对华开展合作
 
 平台：凤凰网；榜单排名：9；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8xE1LdLJ1rD
 
-### N11｜怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？
+### N13｜怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2093654423369152454
 
-### N12｜【焦点复盘】科技权重股持续低迷，创业板指再创年内收盘新低，AI漫剧概念火热依旧
+### N14｜【焦点复盘】科技权重股持续低迷，创业板指再创年内收盘新低，AI漫剧概念火热依旧
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2504650
 
-### N13｜短剧刷到智商低？AI漫剧概念股升温，公募重仓谁？
+### N15｜中国9月CPI同比涨幅扩大至0.9%，汽油价格上涨16.6%，PPI同比涨5.0%，AI算力需求带动电子制造提价
 
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2504786
-
-### N14｜中国9月CPI同比涨幅扩大至0.9%，汽油价格上涨16.6%，PPI同比涨5.0%，AI算力需求带动电子制造提价
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783584
 
-### N15｜比尔·盖茨：AI 是人类最危险发明，未来一年网络领域恐有大量负面事件
+### N16｜Anthropic全力冲刺“史上最大IPO”：Q3营收暴涨46%，实现盈利！
 
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2505131
+
+### N17｜比尔·盖茨：AI 是人类最危险发明，未来一年网络领域恐有大量负面事件
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2505014
 
-### N16｜我觉得 openai 最近这段时间写出来的所有论文，全部都是错误的，这难道不是很明显的吗？
+### N18｜我觉得 openai 最近这段时间写出来的所有论文，全部都是错误的，这难道不是很明显的吗？
 
-平台：知乎；榜单排名：15；实际出现快照数：1。
+平台：知乎；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2092058455427359070
 
-### N17｜回老家有种没被AI“污染”过的美
+### N19｜DeepSeek崩了
+
+平台：微博；榜单排名：15；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86
+
+### N20｜回老家有种没被AI“污染”过的美
 
 平台：百度热搜；榜单排名：18；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%9B%9E%E8%80%81%E5%AE%B6%E6%9C%89%E7%A7%8D%E6%B2%A1%E8%A2%ABAI%E2%80%9C%E6%B1%A1%E6%9F%93%E2%80%9D%E8%BF%87%E7%9A%84%E7%BE%8E
 
-### N18｜“好莱坞”演员的中国短剧梦被AI截胡
+### N21｜“好莱坞”演员的中国短剧梦被AI截胡
 
 平台：百度热搜；榜单排名：21；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1
 
-### N19｜装修公司投身AI漫剧 市值暴涨16亿
+### N22｜装修公司投身AI漫剧 市值暴涨16亿
 
 平台：百度热搜；榜单排名：24；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%8A%95%E8%BA%ABAI%E6%BC%AB%E5%89%A7+%E5%B8%82%E5%80%BC%E6%9A%B4%E6%B6%A816%E4%BA%BF
 
-### N20｜iPhone Duo已完成大模型备案
+### N23｜iPhone Duo已完成大模型备案
 
-平台：抖音；榜单排名：25；实际出现快照数：3。
+平台：抖音；榜单排名：24；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2695338
 
-### N21｜鲸天魔盗团!黑客靠AI入侵韩国银行
+### N24｜鲸天魔盗团!黑客靠AI入侵韩国银行
 
 平台：贴吧；榜单排名：28；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C&topic_id=28366789
 
-### N22｜特朗普发与老虎嬉戏AI视频遭痛骂
+### N25｜特朗普发与老虎嬉戏AI视频遭痛骂
 
 平台：今日头条；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7696297015865081910/
 
-核对：AI HOT 14 条；TrendRadar 22 条。
+核对：AI HOT 13 条；TrendRadar 25 条。
