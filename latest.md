@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-16
 
-数据生成时间：2026-10-16T04:34:01+08:00（北京时间）
+数据生成时间：2026-10-16T05:43:35+08:00（北京时间）
 
-AI HOT：37 条；TrendRadar：20 条 AI 相关热点。
+AI HOT：37 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -238,7 +238,25 @@ Hugging Face 团队介绍 FLUX.3 Image Klein 模型发布首日即可在 Diffuse
 原文：https://huggingface.co/blog/flux-3
 收录页：https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2
 
-### A26｜vLLM 提供 Muse Spark Open Day 0 支持
+### A26｜Anthropic Code Review 正式可用，面向 Team 和 Enterprise 组织
+
+Anthropic 宣布 Claude 的 Code Review 结束研究预览，正式向 Claude Team 和 Enterprise 组织开放。
+
+来源：Claude：Blog（网页）；发布时间：2026-10-15T00:00:00Z
+
+原文：https://claude.com/blog/code-review-is-now-generally-available
+收录页：https://aihot.news/items/wmxwoemumqiq2yfrjngl3a5rc
+
+### A27｜SGLang 为 816B 开源多模态 MoE 模型 Muse Spark Open 提供 Day-0 支持
+
+SGLang 团队宣布对 Meta 开源多模态 MoE 模型 Muse Spark Open（816B 参数、约 42B 激活、1M token 上下文）提供 Day-0 推理支持，权重提供 NVFP4 和 BF16 两种格式。
+
+来源：LMSYS Blog；发布时间：2026-10-15T00:00:00Z
+
+原文：https://www.lmsys.org/blog/2026-10-15-meta-muse-spark-open
+收录页：https://aihot.news/items/uszbj5nmdutp2pw789lr42hhj
+
+### A28｜vLLM 提供 Muse Spark Open Day 0 支持
 
 vLLM 与 Meta Superintelligence Labs 合作，在发布当天即支持开源 MoE 模型 Muse Spark Open。该模型总参数 816B、每 token 激活 42B、上下文窗口 1M，面向长程智能体编码工作流。
 
@@ -247,7 +265,7 @@ vLLM 与 Meta Superintelligence Labs 合作，在发布当天即支持开源 MoE
 原文：https://vllm.ai/blog/2026-10-15-muse-spark-open
 收录页：https://aihot.news/items/pps3hhirbnlrmk2nxph3fpprt
 
-### A27｜Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check
+### A29｜Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check
 
 Google Developers Blog 发布智能体评测实践指南，指出仅靠终端跑几个提示词的 vibe check 无法发现智能体重试循环、工具参数幻觉等隐性失败。
 
@@ -256,7 +274,7 @@ Google Developers Blog 发布智能体评测实践指南，指出仅靠终端跑
 原文：https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/
 收录页：https://aihot.news/items/ojpe4mr67tjbrt5atyi6hyapl
 
-### A28｜Meta 开源 Muse Spark Open，Modal 上线共享端点按 token 计费
+### A30｜Meta 开源 Muse Spark Open，Modal 上线共享端点按 token 计费
 
 Meta 发布 Muse Spark Open 开源权重，现已上线 Modal Auto Endpoints，以 Shared Endpoint 方式按 token 计费。
 
@@ -265,7 +283,7 @@ Meta 发布 Muse Spark Open 开源权重，现已上线 Modal Auto Endpoints，�
 原文：https://modal.com/blog/meta-muse-spark-open-now-available-on-modal
 收录页：https://aihot.news/items/lkdvh4f06zmcoz5dmkb34u40l
 
-### A29｜Apple 演示用 MLX 与 RDMA 在 Mac Studio 集群本地运行 816B 大模型
+### A31｜Apple 演示用 MLX 与 RDMA 在 Mac Studio 集群本地运行 816B 大模型
 
 Apple 机器学习研究团队演示如何在 Mac Studio 上本地运行近万亿参数的 Muse Spark Open 等前沿模型，使用今天发布的新版 MLX（v0.30.1 起）与 macOS 26.2 的 RDMA over Thunderbolt 驱动。
 
@@ -274,7 +292,7 @@ Apple 机器学习研究团队演示如何在 Mac Studio 上本地运行近万�
 原文：https://machinelearning.apple.com/research/mlx-distributed-inference
 收录页：https://aihot.news/items/j76j898zc7y8on4s10d4nvpan
 
-### A30｜Google 介绍 google/adk-recipes 仓库的三层结构与 Agent Platform 集成
+### A32｜Google 介绍 google/adk-recipes 仓库的三层结构与 Agent Platform 集成
 
 Google Developers Blog 介绍 google/adk-recipes 仓库，它是 google/adk-samples 的重构后继版本，以 core/、plugins/、contrib/ 三层作为 Agent Platform 各入口的单一内容来源。
 
@@ -283,7 +301,7 @@ Google Developers Blog 介绍 google/adk-recipes 仓库，它是 google/adk-samp
 原文：https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/
 收录页：https://aihot.news/items/i0rgqwqwxspm5dl3314cc3ewt
 
-### A31｜Meta Muse Spark Open 上线 Together AI
+### A33｜Meta Muse Spark Open 上线 Together AI
 
 Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Together AI 为 Day 0 发布合作方。该模型主打长时程智能体编码，具备 1M token 上下文窗口、计算机使用与多模态输入（文本、图像、音频、视频），并在行动前输出意图说明。
 
@@ -292,7 +310,7 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 原文：https://www.together.ai/blog/meta-muse-spark-open
 收录页：https://aihot.news/items/hbtll2dfproe6f8in1fifd8wc
 
-### A32｜昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0
+### A34｜昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0
 
 昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。
 
@@ -301,7 +319,7 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 原文：https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294
 收录页：https://aihot.news/items/eg7f0ohfzuyjux9ndx2ggk72s
 
-### A33｜美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人
+### A35｜美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人
 
 当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。
 
@@ -310,7 +328,7 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 原文：https://www.ithome.com/1/013/160.htm
 收录页：https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8
 
-### A34｜欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%
+### A36｜欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%
 
 欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。
 
@@ -319,7 +337,7 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 原文：https://www.ithome.com/1/013/154.htm
 收录页：https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql
 
-### A35｜Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放
+### A37｜Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放
 
 Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。
 
@@ -328,27 +346,9 @@ Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅�
 原文：https://x.com/GeminiApp/status/2110491358498865638
 收录页：https://aihot.news/items/rraljkr6dlbt4wabpcogmdlfv
 
-### A36｜Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值
-
-Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 "idleCompaction": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。
-
-来源：X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)；发布时间：2026-10-14T21:36:11Z
-
-原文：https://x.com/lydiahallie/status/2110484841926152622
-收录页：https://aihot.news/items/whbmvotra7659u98jmj00oegi
-
-### A37｜Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测
-
-Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。
-
-来源：X：Elon Musk (@elonmusk, xAI)；发布时间：2026-10-14T21:32:41Z
-
-原文：https://x.com/elonmusk/status/2110483960312799675
-收录页：https://aihot.news/items/yp2h3luqmkip3si23h4pnfmvb
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，黄仁勋力挺、CoreWeave拉升转涨
+### N1｜AI担忧激发美股轮动，道指反弹超1%，芯片指数一度跌超4%，黄仁勋力挺、CoreWeave拉升转涨
 
 平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
 
@@ -366,11 +366,11 @@ Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引�
 
 链接：https://www.zhihu.com/question/2094116217489450760
 
-### N4｜DeepSeek宣布故障补偿方案
+### N4｜英伟达RTX Spark性能分析
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Spark%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90
 
 ### N5｜报道：Anthropic Q3营收168亿美元，环比大涨46%，调整后盈利并实现正现金流
 
@@ -384,88 +384,94 @@ Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N7｜AI射雕英雄传看起来比人演的好
-
-平台：微博；榜单排名：5；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=AI%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E4%BA%BA%E6%BC%94%E7%9A%84%E5%A5%BD
-
-### N8｜老干妈用AI一年狂赚54亿
+### N7｜老干妈用AI一年狂赚54亿
 
 平台：贴吧；榜单排名：6；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N9｜DeepSeek公布补偿方案
-
-平台：今日头条；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7696824974037221402/
-
-### N10｜DeepSeek发布补偿方案
+### N8｜DeepSeek发布补偿方案
 
 平台：抖音；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2697185
 
-### N11｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-### N12｜黄仁勋：绝对必须与中国AI企业合作
+### N9｜黄仁勋：绝对必须与中国AI企业合作
 
 平台：凤凰网；榜单排名：8；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8xFVzqyTVNv
 
-### N13｜年轻人开始用AI整顿双11了
+### N10｜DeepSeek公布补偿方案
+
+平台：今日头条；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7696824974037221402/
+
+### N11｜年轻人开始用AI整顿双11了
 
 平台：微博；榜单排名：8；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%94%A8AI%E6%95%B4%E9%A1%BF%E5%8F%8C11%E4%BA%86
 
-### N14｜英伟达RTX Spark性能分析
+### N12｜DeepSeek宣布故障补偿方案
 
 平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Spark%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88
 
-### N15｜市场终于发现，AI最大的瓶颈不是电，不是芯片，而是钱
+### N13｜市场终于发现，AI最大的瓶颈不是电，不是芯片，而是钱
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783673
 
-### N16｜中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？
+### N14｜DeepSeek优化27倍token教程
 
-平台：知乎；榜单排名：9；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094035039738488688
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%98%E5%8C%9627%E5%80%8Dtoken%E6%95%99%E7%A8%8B
 
-### N17｜AI基建已成美国经济支柱！全球最大资管警告：数据中心禁令恐引发衰退
+### N15｜AI基建已成美国经济支柱！全球最大资管警告：数据中心禁令恐引发衰退
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2505738
 
-### N18｜DeepSeek致歉，补偿方案公布
+### N16｜DeepSeek致歉，补偿方案公布
 
 平台：凤凰网；榜单排名：10；实际出现快照数：1。
 
 链接：https://news.ifeng.com/c/8xFNuMcEhvB
 
-### N19｜看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？
+### N17｜中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？
+
+平台：知乎；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2094035039738488688
+
+### N18｜谷歌Gemini 4 Argon 实测
+
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CGemini+4+Argon+%E5%AE%9E%E6%B5%8B
+
+### N19｜AI射雕英雄传看起来比人演的好
+
+平台：微博；榜单排名：13；实际出现快照数：2。
+
+链接：https://s.weibo.com/weibo?q=AI%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E4%BA%BA%E6%BC%94%E7%9A%84%E5%A5%BD
+
+### N20｜看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？
 
 平台：知乎；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2062123788586726125
 
-### N20｜陈妤颉回母校和机器人赛跑
+### N21｜陈妤颉回母校和机器人赛跑
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7696387210590617610/
 
-核对：AI HOT 37 条；TrendRadar 20 条。
+核对：AI HOT 37 条；TrendRadar 21 条。
