@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-16
 
-数据生成时间：2026-10-16T06:39:46+08:00（北京时间）
+数据生成时间：2026-10-16T06:59:30+08:00（北京时间）
 
-AI HOT：37 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：37 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -368,7 +368,7 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 ### N4｜报道：Anthropic Q3营收168亿美元，环比大涨46%，调整后盈利并实现正现金流
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783652
 
@@ -390,11 +390,11 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N8｜AI消失前的最后一天
+### N8｜市场终于发现，AI最大的瓶颈不是电，不是芯片，而是钱
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+链接：https://wallstreetcn.com/articles/3783673
 
 ### N9｜黄仁勋：绝对必须与中国AI企业合作
 
@@ -414,17 +414,17 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 链接：https://www.douyin.com/hot/2697185
 
-### N12｜DeepSeek公布补偿方案
+### N12｜美银：AI泡沫破裂或引发美股、美债收益率同步下跌，OpenAI收入事件已提前预演
 
-平台：今日头条；榜单排名：9；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7696824974037221402/
+链接：https://wallstreetcn.com/articles/3783700
 
-### N13｜市场终于发现，AI最大的瓶颈不是电，不是芯片，而是钱
+### N13｜AI为何会欺骗人类
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783673
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
 
 ### N14｜DeepSeek优化27倍token教程
 
@@ -444,40 +444,52 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 链接：https://news.ifeng.com/c/8xFNuMcEhvB
 
-### N17｜谷歌Gemini 4 Argon 实测
+### N17｜国内一半AI算力被指在造爽剧，用于研发仅15%
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783720
+
+### N18｜DeepSeek宣布故障补偿方案
+
+平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88
+
+### N19｜AI消失前的最后一天
+
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+
+### N20｜谷歌Gemini 4 Argon 实测
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CGemini+4+Argon+%E5%AE%9E%E6%B5%8B
 
-### N18｜中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？
+### N21｜DeepSeek公布补偿方案
+
+平台：今日头条；榜单排名：16；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7696824974037221402/
+
+### N22｜看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？
 
 平台：知乎；榜单排名：18；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2094035039738488688
-
-### N19｜看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？
-
-平台：知乎；榜单排名：19；实际出现快照数：3。
-
 链接：https://www.zhihu.com/question/2062123788586726125
 
-### N20｜DeepSeek宣布故障补偿方案
+### N23｜中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？
 
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
+平台：知乎；榜单排名：20；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88
+链接：https://www.zhihu.com/question/2094035039738488688
 
-### N21｜陈妤颉回母校和机器人赛跑
+### N24｜陈妤颉回母校和机器人赛跑
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7696387210590617610/
 
-### N22｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-核对：AI HOT 37 条；TrendRadar 22 条。
+核对：AI HOT 37 条；TrendRadar 24 条。
