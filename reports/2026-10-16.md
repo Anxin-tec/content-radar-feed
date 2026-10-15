@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-16
 
-数据生成时间：2026-10-16T06:59:30+08:00（北京时间）
+数据生成时间：2026-10-16T07:40:42+08:00（北京时间）
 
-AI HOT：37 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：35 条；TrendRadar：26 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -328,31 +328,13 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 原文：https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294
 收录页：https://aihot.news/items/eg7f0ohfzuyjux9ndx2ggk72s
 
-### A36｜美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人
-
-当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。
-
-来源：IT之家·人工智能；发布时间：2026-10-14T23:39:08.393000Z
-
-原文：https://www.ithome.com/1/013/160.htm
-收录页：https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8
-
-### A37｜欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%
-
-欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。
-
-来源：IT之家·人工智能；发布时间：2026-10-14T23:13:18.290000Z
-
-原文：https://www.ithome.com/1/013/154.htm
-收录页：https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜英伟达RTX Spark性能分析
+### N1｜AI为何会欺骗人类
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Spark%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
 
 ### N2｜当我拥有自己的ai播放器
 
@@ -362,7 +344,7 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 ### N3｜如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？
 
-平台：知乎；榜单排名：2；实际出现快照数：3。
+平台：知乎；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2094116217489450760
 
@@ -384,59 +366,59 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N7｜老干妈用AI一年狂赚54亿
+### N7｜市场终于发现，AI最大的瓶颈不是电，不是芯片，而是钱
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3783673
+
+### N8｜老干妈用AI一年狂赚54亿
 
 平台：贴吧；榜单排名：6；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N8｜市场终于发现，AI最大的瓶颈不是电，不是芯片，而是钱
+### N9｜美银：AI泡沫破裂或引发美股、美债收益率同步下跌，OpenAI收入事件已提前预演
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783673
+链接：https://wallstreetcn.com/articles/3783700
 
-### N9｜黄仁勋：绝对必须与中国AI企业合作
+### N10｜黄仁勋：绝对必须与中国AI企业合作
 
 平台：凤凰网；榜单排名：8；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8xFVzqyTVNv
 
-### N10｜年轻人开始用AI整顿双11了
+### N11｜国内一半AI算力被指在造爽剧，用于研发仅15%
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783720
+
+### N12｜年轻人开始用AI整顿双11了
 
 平台：微博；榜单排名：8；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%94%A8AI%E6%95%B4%E9%A1%BF%E5%8F%8C11%E4%BA%86
 
-### N11｜DeepSeek发布补偿方案
-
-平台：抖音；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.douyin.com/hot/2697185
-
-### N12｜美银：AI泡沫破裂或引发美股、美债收益率同步下跌，OpenAI收入事件已提前预演
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3783700
-
-### N13｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-### N14｜DeepSeek优化27倍token教程
+### N13｜DeepSeek优化27倍token教程
 
 平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%98%E5%8C%9627%E5%80%8Dtoken%E6%95%99%E7%A8%8B
 
-### N15｜AI基建已成美国经济支柱！全球最大资管警告：数据中心禁令恐引发衰退
+### N14｜AI基建已成美国经济支柱！全球最大资管警告：数据中心禁令恐引发衰退
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2505738
+
+### N15｜DeepSeek发布补偿方案
+
+平台：抖音；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.douyin.com/hot/2697185
 
 ### N16｜DeepSeek致歉，补偿方案公布
 
@@ -444,52 +426,64 @@ Meta 的 Muse Spark Open 开源权重模型即日起在 Together AI 提供，Tog
 
 链接：https://news.ifeng.com/c/8xFNuMcEhvB
 
-### N17｜国内一半AI算力被指在造爽剧，用于研发仅15%
+### N17｜DeepSeek公布补偿方案
+
+平台：今日头条；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7696824974037221402/
+
+### N18｜贝莱德CEO Larry Fink警告：AI基建已成美国经济支柱，暂停数据中心建设将触发衰退
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783720
+链接：https://wallstreetcn.com/articles/3783674
 
-### N18｜DeepSeek宣布故障补偿方案
+### N19｜中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
+平台：知乎；榜单排名：10；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88
+链接：https://www.zhihu.com/question/2094035039738488688
 
-### N19｜AI消失前的最后一天
+### N20｜美国八州联手起诉OpenAI，称ChatGPT危害儿童和老年人
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：12；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+链接：https://www.thepaper.cn/newsDetail_forward_34254005
 
-### N20｜谷歌Gemini 4 Argon 实测
+### N21｜谷歌Gemini 4 Argon 实测
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CGemini+4+Argon+%E5%AE%9E%E6%B5%8B
 
-### N21｜DeepSeek公布补偿方案
-
-平台：今日头条；榜单排名：16；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7696824974037221402/
-
 ### N22｜看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？
 
-平台：知乎；榜单排名：18；实际出现快照数：3。
+平台：知乎；榜单排名：15；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2062123788586726125
 
-### N23｜中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？
+### N23｜英伟达RTX Spark性能分析
 
-平台：知乎；榜单排名：20；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2094035039738488688
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Spark%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90
 
-### N24｜陈妤颉回母校和机器人赛跑
+### N24｜DeepSeek宣布故障补偿方案
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88
+
+### N25｜AI消失前的最后一天
+
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+
+### N26｜陈妤颉回母校和机器人赛跑
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7696387210590617610/
 
-核对：AI HOT 37 条；TrendRadar 24 条。
+核对：AI HOT 35 条；TrendRadar 26 条。
