@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-17
 
-数据生成时间：2026-10-17T04:31:26+08:00（北京时间）
+数据生成时间：2026-10-17T05:39:16+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -157,15 +157,6 @@ Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超�
 原文：https://x.com/elonmusk/status/2110877572011844019
 收录页：https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6
 
-### A17｜Krea 3 图像模型通过 ComfyUI Partner Nodes 上线
-
-Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。
-
-来源：Comfy Blog；发布时间：2026-10-15T21:15:45Z
-
-原文：https://blog.comfy.org/p/krea-3-is-now-available-via-partner
-收录页：https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜国常会：人工智能是影响未来发展的关键变量
@@ -180,88 +171,94 @@ Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于�
 
 链接：https://wallstreetcn.com/articles/3783763
 
-### N3｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
+### N3｜DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？
 
 平台：知乎；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094468473413789647
+链接：https://www.zhihu.com/question/2094475735796643677
 
 ### N4｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783724
 
-### N5｜英伟达美国官网下架RTX5090
+### N5｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
+
+平台：知乎；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2094468473413789647
+
+### N6｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3783782
+
+### N7｜英伟达美国官网下架RTX5090
 
 平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6RTX5090
 
-### N6｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
+### N8｜AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3783782
-
-### N7｜AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
-
 链接：https://wallstreetcn.com/articles/3783778
 
-### N8｜已恢复!DeepSeek发故障补偿
+### N9｜已恢复!DeepSeek发故障补偿
 
 平台：贴吧；榜单排名：9；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N9｜老干妈用AI一年狂赚54亿
+### N10｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3783736
+
+### N11｜老干妈用AI一年狂赚54亿
 
 平台：贴吧；榜单排名：10；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N10｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3783736
-
-### N11｜如何看待微软已完成 2.8T 大模型的预训练？
+### N12｜如何看待微软已完成 2.8T 大模型的预训练？
 
 平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094234009622599449
 
-### N12｜AI偶像怀孕 把全网都“耍了”
+### N13｜AI偶像怀孕 把全网都“耍了”
 
-平台：百度热搜；榜单排名：13；实际出现快照数：2。
+平台：百度热搜；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
 
-### N13｜如何看待网友说 DeepSeek 在爱里长大？
+### N14｜如何看待网友说 DeepSeek 在爱里长大？
 
 平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2093751116613866755
 
-### N14｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
+### N15｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34261252
 
-### N15｜谢娜发AI视频为赵丽颖庆生
-
-平台：百度热搜；榜单排名：24；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
-
-### N16｜AI消失前的最后一天
+### N16｜OpenAI向数学界捐赠500万美元
 
 平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+链接：https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83
 
-核对：AI HOT 17 条；TrendRadar 16 条。
+### N17｜谢娜发AI视频为赵丽颖庆生
+
+平台：百度热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
+
+核对：AI HOT 16 条；TrendRadar 17 条。
