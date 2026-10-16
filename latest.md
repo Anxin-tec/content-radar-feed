@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-17
 
-数据生成时间：2026-10-17T04:03:49+08:00（北京时间）
+数据生成时间：2026-10-17T04:31:26+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -166,15 +166,6 @@ Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于�
 原文：https://blog.comfy.org/p/krea-3-is-now-available-via-partner
 收录页：https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd
 
-### A18｜Claude Opus 5.5 fast mode 结束研究预览并移除等待名单
-
-Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode
-
-来源：X：Claude Devs (@ClaudeDevs)；发布时间：2026-10-15T20:09:02Z
-
-原文：https://x.com/ClaudeDevs/status/2110825294655562048
-收录页：https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜国常会：人工智能是影响未来发展的关键变量
@@ -189,33 +180,33 @@ Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览
 
 链接：https://wallstreetcn.com/articles/3783763
 
-### N3｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
+### N3｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
+
+平台：知乎；榜单排名：3；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2094468473413789647
+
+### N4｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783724
 
-### N4｜英伟达美国官网下架RTX5090
+### N5｜英伟达美国官网下架RTX5090
 
 平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6RTX5090
 
-### N5｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
+### N6｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783782
 
-### N6｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
-
-平台：知乎；榜单排名：7；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2094468473413789647
-
 ### N7｜AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783778
 
@@ -261,22 +252,16 @@ Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览
 
 链接：https://www.thepaper.cn/newsDetail_forward_34261252
 
-### N15｜AI消失前的最后一天
+### N15｜谢娜发AI视频为赵丽颖庆生
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
-
-### N16｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-### N17｜谢娜发AI视频为赵丽颖庆生
-
-平台：百度热搜；榜单排名：29；实际出现快照数：2。
+平台：百度热搜；榜单排名：24；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
 
-核对：AI HOT 18 条；TrendRadar 17 条。
+### N16｜AI消失前的最后一天
+
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+
+核对：AI HOT 17 条；TrendRadar 16 条。
