@@ -1,9 +1,9 @@
 # AI 日报｜2026-10-17
 
-数据生成时间：2026-10-17T03:42:37+08:00（北京时间）
+数据生成时间：2026-10-17T04:03:49+08:00（北京时间）
 
-AI HOT：19 条；TrendRadar：14 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：18 条；TrendRadar：17 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -175,99 +175,108 @@ Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览
 原文：https://x.com/ClaudeDevs/status/2110825294655562048
 收录页：https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t
 
-### A19｜ChatGPT 为 Chrome 用户新增标签页读取与控制能力
-
-ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。
-
-来源：X：ChatGPT (@ChatGPT)；发布时间：2026-10-15T20:02:51Z
-
-原文：https://x.com/ChatGPT/status/2110823738531037651
-收录页：https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜国常会：人工智能是影响未来发展的关键变量
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2507165
 
 ### N2｜美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783763
 
 ### N3｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783724
 
 ### N4｜英伟达美国官网下架RTX5090
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6RTX5090
 
 ### N5｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783782
 
-### N6｜AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌
+### N6｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+平台：知乎；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2094468473413789647
+
+### N7｜AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783778
 
-### N7｜已恢复!DeepSeek发故障补偿
+### N8｜已恢复!DeepSeek发故障补偿
 
-平台：贴吧；榜单排名：9；实际出现快照数：1。
+平台：贴吧；榜单排名：9；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N8｜老干妈用AI一年狂赚54亿
+### N9｜老干妈用AI一年狂赚54亿
 
-平台：贴吧；榜单排名：10；实际出现快照数：1。
+平台：贴吧；榜单排名：10；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N9｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
+### N10｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783736
 
-### N10｜如何看待微软已完成 2.8T 大模型的预训练？
+### N11｜如何看待微软已完成 2.8T 大模型的预训练？
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094234009622599449
 
-### N11｜AI偶像怀孕 把全网都“耍了”
+### N12｜AI偶像怀孕 把全网都“耍了”
 
-平台：百度热搜；榜单排名：14；实际出现快照数：1。
+平台：百度热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
 
-### N12｜如何看待网友说 DeepSeek 在爱里长大？
+### N13｜如何看待网友说 DeepSeek 在爱里长大？
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2093751116613866755
 
-### N13｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
+### N14｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
 
-平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34261252
 
-### N14｜谢娜发AI视频为赵丽颖庆生
+### N15｜AI消失前的最后一天
 
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+
+### N16｜AI为何会欺骗人类
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
+
+### N17｜谢娜发AI视频为赵丽颖庆生
+
+平台：百度热搜；榜单排名：29；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
 
-核对：AI HOT 19 条；TrendRadar 14 条。
+核对：AI HOT 18 条；TrendRadar 17 条。
