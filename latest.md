@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-17
 
-数据生成时间：2026-10-17T06:11:53+08:00（北京时间）
+数据生成时间：2026-10-17T06:31:55+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：19 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -231,7 +231,7 @@ Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超�
 
 ### N13｜AI偶像怀孕 把全网都“耍了”
 
-平台：百度热搜；榜单排名：13；实际出现快照数：3。
+平台：百度热搜；榜单排名：15；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
 
@@ -247,28 +247,16 @@ Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34261252
 
-### N16｜AI消失前的最后一天
+### N16｜谢娜发AI视频为赵丽颖庆生
 
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
-
-### N17｜OpenAI向数学界捐赠500万美元
-
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83
-
-### N18｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-### N19｜谢娜发AI视频为赵丽颖庆生
-
-平台：百度热搜；榜单排名：30；实际出现快照数：2。
+平台：百度热搜；榜单排名：27；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
 
-核对：AI HOT 16 条；TrendRadar 19 条。
+### N17｜OpenAI向数学界捐赠500万美元
+
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83
+
+核对：AI HOT 16 条；TrendRadar 17 条。
