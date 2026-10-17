@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-17
 
-数据生成时间：2026-10-17T08:45:44+08:00（北京时间）
+数据生成时间：2026-10-17T09:16:20+08:00（北京时间）
 
-AI HOT：9 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：8 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -83,15 +83,6 @@ Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服�
 原文：https://x.com/Khazix0918/status/2110914404393091205
 收录页：https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip
 
-### A9｜消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元
-
-路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值，此前预期 11 月上市时估值约 2 万亿美元，投资者日活动讨论约 1.5 万亿美元。
-
-来源：IT之家·人工智能；发布时间：2026-10-16T00:54:07.827000Z
-
-原文：https://www.ithome.com/1/013/723.htm
-收录页：https://aihot.news/items/ldwt1jervkxlsh99322u661fc
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜国常会：人工智能是影响未来发展的关键变量
@@ -114,7 +105,7 @@ Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服�
 
 ### N4｜【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份
 
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2507382
 
@@ -142,65 +133,65 @@ Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服�
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6RTX5090
 
-### N9｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
+### N9｜一口气介绍OpenAI的数学成果
+
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BB%8B%E7%BB%8DOpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
+
+### N10｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783736
 
-### N10｜已恢复!DeepSeek发故障补偿
+### N11｜已恢复!DeepSeek发故障补偿
 
 平台：贴吧；榜单排名：10；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N11｜全球科技股暴跌，黄仁勋下场“救市”：力挺CoreWeave，直指“AI算力全靠两家实验室买单”是巨大误读
+### N12｜全球科技股暴跌，黄仁勋下场“救市”：力挺CoreWeave，直指“AI算力全靠两家实验室买单”是巨大误读
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783749
 
-### N12｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
+### N13｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094468473413789647
 
-### N13｜老干妈用AI一年狂赚54亿
+### N14｜老干妈用AI一年狂赚54亿
 
 平台：贴吧；榜单排名：11；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N14｜DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？
+### N15｜DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？
 
 平台：知乎；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094475735796643677
 
-### N15｜如何看待微软已完成 2.8T 大模型的预训练？
+### N16｜如何看待微软已完成 2.8T 大模型的预训练？
 
 平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094234009622599449
 
-### N16｜如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？
+### N17｜如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？
 
-平台：知乎；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2094037238065714517
 
-### N17｜AI偶像怀孕 把全网都“耍了”
+### N18｜AI偶像怀孕 把全网都“耍了”
 
-平台：百度热搜；榜单排名：14；实际出现快照数：3。
+平台：百度热搜；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
-
-### N18｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
 
 ### N19｜如何看待网友说 DeepSeek 在爱里长大？
 
@@ -214,16 +205,28 @@ Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34261252
 
-### N21｜OpenAI向数学界捐赠500万美元
+### N21｜AI为何会欺骗人类
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
+
+### N22｜OpenAI向数学界捐赠500万美元
 
 平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83
 
-### N22｜谢娜发AI视频为赵丽颖庆生
+### N23｜用DeepSeek翻唱人是猫
 
-平台：百度热搜；榜单排名：30；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
+
+### N24｜谢娜发AI视频为赵丽颖庆生
+
+平台：百度热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
 
-核对：AI HOT 9 条；TrendRadar 22 条。
+核对：AI HOT 8 条；TrendRadar 24 条。
