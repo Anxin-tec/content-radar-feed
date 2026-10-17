@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-18
 
-数据生成时间：2026-10-18T06:06:50+08:00（北京时间）
+数据生成时间：2026-10-18T06:31:33+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：26 条 AI 相关热点。
+AI HOT：3 条；TrendRadar：26 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -38,15 +38,6 @@ WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31
 原文：https://x.com/shao__meng/status/2111274173192638932
 收录页：https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv
 
-### A4｜Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一
-
-Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。
-
-来源：X：Arena (@arena)；发布时间：2026-10-16T22:22:42Z
-
-原文：https://x.com/arena/status/2111221323217412318
-收录页：https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份
@@ -67,23 +58,23 @@ Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 151
 
 链接：https://www.zhihu.com/question/2094773240036061683
 
-### N4｜国常会：人工智能是影响未来发展的关键变量
+### N4｜英伟达称RTX5090没有停产
+
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
+
+### N5｜国常会：人工智能是影响未来发展的关键变量
 
 平台：财联社热门；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2507165
 
-### N5｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
+### N6｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
 
 平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2094715615177085550
-
-### N6｜英伟达称RTX5090没有停产
-
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
 
 ### N7｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
 
@@ -151,35 +142,35 @@ Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 151
 
 链接：https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23
 
-### N18｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
+### N18｜毕导 科普UP主会被AI取代吗
+
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC+%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97
+
+### N19｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34271084
 
-### N19｜龙珠声优痛斥AI配音没灵魂
+### N20｜龙珠声优痛斥AI配音没灵魂
 
 平台：贴吧；榜单排名：13；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82&topic_id=28367426
 
-### N20｜用DeepSeek翻唱人是猫
+### N21｜用DeepSeek翻唱人是猫
 
 平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
 
-### N21｜英伟达市值9天蒸发4万亿元
+### N22｜英伟达市值9天蒸发4万亿元
 
 平台：今日头条；榜单排名：18；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7696986246765264947/
-
-### N22｜毕导 科普UP主会被AI取代吗
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC+%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97
 
 ### N23｜已恢复!DeepSeek发故障补偿
 
@@ -205,4 +196,4 @@ Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 151
 
 链接：https://www.toutiao.com/trending/7697588071004376619/
 
-核对：AI HOT 4 条；TrendRadar 26 条。
+核对：AI HOT 3 条；TrendRadar 26 条。
