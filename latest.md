@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-18
 
-数据生成时间：2026-10-18T06:31:33+08:00（北京时间）
+数据生成时间：2026-10-18T07:03:16+08:00（北京时间）
 
-AI HOT：3 条；TrendRadar：26 条 AI 相关热点。
+AI HOT：3 条；TrendRadar：27 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -52,41 +52,41 @@ WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31
 
 链接：https://wallstreetcn.com/articles/3783778
 
-### N3｜如何评价 DeepSeek V4.1 Flash 1017?
+### N3｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
 
 平台：知乎；榜单排名：1；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2094773240036061683
+链接：https://www.zhihu.com/question/2094715615177085550
 
-### N4｜英伟达称RTX5090没有停产
-
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
-
-### N5｜国常会：人工智能是影响未来发展的关键变量
+### N4｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
 
 平台：财联社热门；榜单排名：2；实际出现快照数：3。
 
+链接：https://www.cls.cn/detail/2507445
+
+### N5｜国常会：人工智能是影响未来发展的关键变量
+
+平台：财联社热门；榜单排名：2；实际出现快照数：2。
+
 链接：https://www.cls.cn/detail/2507165
 
-### N6｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
+### N6｜如何评价 DeepSeek V4.1 Flash 1017?
 
 平台：知乎；榜单排名：2；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2094715615177085550
+链接：https://www.zhihu.com/question/2094773240036061683
 
-### N7｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
-
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2507445
-
-### N8｜美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？
+### N7｜美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783832
+
+### N8｜三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼
+
+平台：财联社热门；榜单排名：4；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2507474
 
 ### N9｜华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火
 
@@ -94,35 +94,35 @@ WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31
 
 链接：https://wallstreetcn.com/articles/3783826
 
-### N10｜三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼
-
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2507474
-
-### N11｜Claude专封国人,二创人设变腹黑
+### N10｜Claude专封国人,二创人设变腹黑
 
 平台：贴吧；榜单排名：5；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91&topic_id=28367470
 
-### N12｜Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？
+### N11｜Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783831
 
-### N13｜AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防
+### N12｜AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783836
 
-### N14｜AI融资成本攀升：Anthropic拟向黑石提供超10%收益率
+### N13｜AI融资成本攀升：Anthropic拟向黑石提供超10%收益率
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783838
+
+### N14｜Anthropic秘密游说国会 推动制定前沿AI监管法案
+
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2507401
 
 ### N15｜林园：现在是乌龟爬着，等牛市哪天爆发，看好AI大时代但不碰个股
 
@@ -130,70 +130,76 @@ WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31
 
 链接：https://wallstreetcn.com/articles/3783834
 
-### N16｜Anthropic秘密游说国会 推动制定前沿AI监管法案
-
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2507401
-
-### N17｜AI的吻戏比真人还欲啊
+### N16｜AI的吻戏比真人还欲啊
 
 平台：微博；榜单排名：11；实际出现快照数：3。
 
 链接：https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23
 
-### N18｜毕导 科普UP主会被AI取代吗
+### N17｜用DeepSeek翻唱人是猫
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC+%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
 
-### N19｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
+### N18｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34271084
 
-### N20｜龙珠声优痛斥AI配音没灵魂
+### N19｜龙珠声优痛斥AI配音没灵魂
 
 平台：贴吧；榜单排名：13；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82&topic_id=28367426
 
-### N21｜用DeepSeek翻唱人是猫
+### N20｜英伟达市值9天蒸发4万亿元
 
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
-
-### N22｜英伟达市值9天蒸发4万亿元
-
-平台：今日头条；榜单排名：18；实际出现快照数：3。
+平台：今日头条；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7696986246765264947/
 
-### N23｜已恢复!DeepSeek发故障补偿
+### N21｜毕导 科普UP主会被AI取代吗
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC+%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97
+
+### N22｜观察｜人工智能时代，如何合力应对反恐新挑战？
+
+平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34268546
+
+### N23｜英伟达称RTX5090没有停产
+
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
+
+### N24｜已恢复!DeepSeek发故障补偿
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N24｜老干妈用AI一年狂赚54亿
+### N25｜老干妈用AI一年狂赚54亿
 
 平台：贴吧；榜单排名：23；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N25｜人形机器人产业前景究竟如何
+### N26｜人形机器人产业前景究竟如何
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E4%B8%9A%E5%89%8D%E6%99%AF%E7%A9%B6%E7%AB%9F%E5%A6%82%E4%BD%95
 
-### N26｜DeepSeek新模型登场
+### N27｜DeepSeek新模型登场
 
 平台：今日头条；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7697588071004376619/
 
-核对：AI HOT 3 条；TrendRadar 26 条。
+核对：AI HOT 3 条；TrendRadar 27 条。
