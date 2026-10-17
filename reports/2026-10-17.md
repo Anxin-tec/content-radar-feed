@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-17
 
-数据生成时间：2026-10-17T07:30:29+08:00（北京时间）
+数据生成时间：2026-10-17T08:45:44+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：21 条 AI 相关热点。
+AI HOT：9 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -92,121 +92,49 @@ Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服�
 原文：https://www.ithome.com/1/013/723.htm
 收录页：https://aihot.news/items/ldwt1jervkxlsh99322u661fc
 
-### A10｜可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考
-
-可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-16T00:18:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198
-收录页：https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw
-
-### A11｜PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%
-
-PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。
-
-来源：PromptArmor：Threat Intelligence；发布时间：2026-10-16T00:00:00Z
-
-原文：https://www.promptarmor.com/resources/open-weight-susceptibility
-收录页：https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d
-
-### A12｜Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计
-
-Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。
-
-来源：Google Research：Blog（网页）；发布时间：2026-10-16T00:00:00Z
-
-原文：https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/
-收录页：https://aihot.news/items/kovelcbltjj7xf054h8mffaxo
-
-### A13｜vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%
-
-AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct MI355X 上的推理优化。
-
-来源：vLLM 官方博客（RSS）；发布时间：2026-10-16T00:00:00Z
-
-原文：https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x
-收录页：https://aihot.news/items/jc7pyt619xhznn9j28apoedto
-
-### A14｜SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API
-
-SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。
-
-来源：LMSYS Blog；发布时间：2026-10-16T00:00:00Z
-
-原文：https://www.lmsys.org/blog/2026-10-16-beam
-收录页：https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56
-
-### A15｜Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用
-
-Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。
-
-来源：Ollama：Blog（RSS）；发布时间：2026-10-16T00:00:00Z
-
-原文：https://ollama.com/blog/reflection-beam
-收录页：https://aihot.news/items/f14brdupsvks0k2hoang4lx6w
-
-### A16｜vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持
-
-vLLM 宣布从 Day 0 支持 Reflection 的 Beam 模型，这是一个 501B 参数、每 token 激活 23B 的 MoE 模型，在 NVIDIA Blackwell 上完成优化。
-
-来源：vLLM 官方博客（RSS）；发布时间：2026-10-16T00:00:00Z
-
-原文：https://vllm.ai/blog/2026-10-16-reflection-beam
-收录页：https://aihot.news/items/d0pow9b93paydjtg2i76ang83
-
-### A17｜Musk 称 xAI 2027 年底算力目标可能超过 10GW
-
-Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。
-
-来源：X：Elon Musk (@elonmusk, xAI)；发布时间：2026-10-15T23:36:46Z
-
-原文：https://x.com/elonmusk/status/2110877572011844019
-收录页：https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜国常会：人工智能是影响未来发展的关键变量
 
-平台：财联社热门；榜单排名：2；实际出现快照数：3。
+平台：财联社热门；榜单排名：1；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2507165
 
-### N2｜美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要
+### N2｜AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3783778
+
+### N3｜美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783763
 
-### N3｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
+### N4｜【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2507382
+
+### N5｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783724
 
-### N4｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
+### N6｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783782
 
-### N5｜DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？
+### N7｜德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任 ？
 
-平台：知乎；榜单排名：4；实际出现快照数：2。
+平台：知乎；榜单排名：5；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094475735796643677
-
-### N6｜AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783778
-
-### N7｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
-
-平台：知乎；榜单排名：5；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2094468473413789647
+链接：https://www.zhihu.com/question/2094141358558502945
 
 ### N8｜英伟达美国官网下架RTX5090
 
@@ -214,41 +142,41 @@ Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超�
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6RTX5090
 
-### N9｜德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任 ？
-
-平台：知乎；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2094141358558502945
-
-### N10｜已恢复!DeepSeek发故障补偿
-
-平台：贴吧；榜单排名：9；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
-
-### N11｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
+### N9｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783736
 
-### N12｜【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份
-
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2507382
-
-### N13｜老干妈用AI一年狂赚54亿
+### N10｜已恢复!DeepSeek发故障补偿
 
 平台：贴吧；榜单排名：10；实际出现快照数：3。
 
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
+
+### N11｜全球科技股暴跌，黄仁勋下场“救市”：力挺CoreWeave，直指“AI算力全靠两家实验室买单”是巨大误读
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783749
+
+### N12｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
+
+平台：知乎；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2094468473413789647
+
+### N13｜老干妈用AI一年狂赚54亿
+
+平台：贴吧；榜单排名：11；实际出现快照数：3。
+
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N14｜AI偶像怀孕 把全网都“耍了”
+### N14｜DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？
 
-平台：百度热搜；榜单排名：12；实际出现快照数：3。
+平台：知乎；榜单排名：11；实际出现快照数：2。
 
-链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
+链接：https://www.zhihu.com/question/2094475735796643677
 
 ### N15｜如何看待微软已完成 2.8T 大模型的预训练？
 
@@ -256,40 +184,46 @@ Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超�
 
 链接：https://www.zhihu.com/question/2094234009622599449
 
-### N16｜谢娜发AI视频为赵丽颖庆生
+### N16｜如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？
 
-平台：百度热搜；榜单排名：15；实际出现快照数：2。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
+链接：https://www.zhihu.com/question/2094037238065714517
 
-### N17｜如何看待网友说 DeepSeek 在爱里长大？
+### N17｜AI偶像怀孕 把全网都“耍了”
 
-平台：知乎；榜单排名：16；实际出现快照数：3。
+平台：百度热搜；榜单排名：14；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
+
+### N18｜AI为何会欺骗人类
+
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
+
+### N19｜如何看待网友说 DeepSeek 在爱里长大？
+
+平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2093751116613866755
 
-### N18｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
+### N20｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
 
-平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34261252
 
-### N19｜OpenAI向数学界捐赠500万美元
+### N21｜OpenAI向数学界捐赠500万美元
 
 平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83
 
-### N20｜AI消失前的最后一天
+### N22｜谢娜发AI视频为赵丽颖庆生
 
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
+平台：百度热搜；榜单排名：30；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9
+链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
 
-### N21｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-核对：AI HOT 17 条；TrendRadar 21 条。
+核对：AI HOT 9 条；TrendRadar 22 条。
