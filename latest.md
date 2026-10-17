@@ -1,17 +1,46 @@
-# AI 日报｜2026-10-17
+# AI 日报｜2026-10-18
 
-数据生成时间：2026-10-17T09:16:20+08:00（北京时间）
+数据生成时间：2026-10-18T00:31:40+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：24 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：4 条；TrendRadar：24 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一
+### A1｜WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费
+
+WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。
+
+来源：X：Tencent WorkBuddy (@WorkBuddy_AI)；发布时间：2026-10-17T10:29:00Z
+
+原文：https://x.com/WorkBuddy_AI/status/2111404103402430558
+收录页：https://aihot.news/items/xgj246drlw70qbgypibz6atla
+
+### A2｜卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由
+
+数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-10-17T10:19:04Z
+
+原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86
+收录页：https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz
+
+### A3｜Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审
+
+作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。
+
+来源：X：邵猛 (@shao__meng)；发布时间：2026-10-17T01:52:43Z
+
+原文：https://x.com/shao__meng/status/2111274173192638932
+收录页：https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv
+
+### A4｜Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一
 
 Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。
 
@@ -20,213 +49,150 @@ Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 151
 原文：https://x.com/arena/status/2111221323217412318
 收录页：https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp
 
-### A2｜Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码
-
-Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。
-
-来源：X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)；发布时间：2026-10-16T19:05:40Z
-
-原文：https://x.com/adocomplete/status/2111171735806767558
-收录页：https://aihot.news/items/kygipgwqrajle6hctg9nqid7w
-
-### A3｜a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后
-
-a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。
-
-来源：a16z：News（RSS）；发布时间：2026-10-16T14:00:39Z
-
-原文：https://www.a16z.news/p/this-week-in-charts-agents-denied
-收录页：https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc
-
-### A4｜NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI
-
-NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。
-
-来源：NVIDIA：Newsroom（RSS）；发布时间：2026-10-16T12:00:00Z
-
-原文：https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs
-收录页：https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr
-
-### A5｜商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见
-
-商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。
-
-来源：IT之家·人工智能；发布时间：2026-10-16T08:23:54.520000Z
-
-原文：https://www.ithome.com/1/013/983.htm
-收录页：https://aihot.news/items/p11tj593iq5nrtiotvoxllop4
-
-### A6｜Waymo 宣布进军多伦多，计划2028年迎接首批乘客
-
-Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。近期将先以人工驾驶方式采集高精地图并由自动驾驶专家进行测试；Waymo 与 Element Fleet Management 合作提供车队管理服务，将逐步创造数百个岗位。官方称基于超4亿公里完全自动驾驶里程，其车辆在严重伤害及以上事故中比人类驾驶少95%。
-
-来源：Waymo：Blog（网页）；发布时间：2026-10-16T07:00:00Z
-
-原文：https://waymo.com/blog/2026/10/waymo-in-toronto
-收录页：https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es
-
-### A7｜丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑
-
-据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。
-
-来源：IT之家·人工智能；发布时间：2026-10-16T06:14:36.073000Z
-
-原文：https://www.ithome.com/1/013/914.htm
-收录页：https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4
-
-### A8｜Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现
-
-可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。
-
-来源：X：卡兹克 (@Khazix0918)；发布时间：2026-10-16T02:03:07Z
-
-原文：https://x.com/Khazix0918/status/2110914404393091205
-收录页：https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜国常会：人工智能是影响未来发展的关键变量
+### N1｜英伟达称RTX5090没有停产
 
-平台：财联社热门；榜单排名：1；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2507165
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
 
-### N2｜AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110
+### N2｜【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783778
-
-### N3｜美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要
-
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783763
-
-### N4｜【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份
-
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2507382
 
-### N5｜CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底
+### N3｜AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783778
+
+### N4｜如何评价 DeepSeek V4.1 Flash 1017?
+
+平台：知乎；榜单排名：1；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2094773240036061683
+
+### N5｜国常会：人工智能是影响未来发展的关键变量
+
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2507165
+
+### N6｜华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783826
+
+### N7｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2507445
+
+### N8｜美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783724
+链接：https://wallstreetcn.com/articles/3783832
 
-### N6｜两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
+### N9｜三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783782
+链接：https://www.cls.cn/detail/2507474
 
-### N7｜德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任 ？
+### N10｜Claude专封国人,二创人设变腹黑
+
+平台：贴吧；榜单排名：5；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91&topic_id=28367470
+
+### N11｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
 
 平台：知乎；榜单排名：5；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094141358558502945
+链接：https://www.zhihu.com/question/2094715615177085550
 
-### N8｜英伟达美国官网下架RTX5090
+### N12｜Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6RTX5090
+链接：https://wallstreetcn.com/articles/3783831
 
-### N9｜一口气介绍OpenAI的数学成果
+### N13｜AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防
 
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BB%8B%E7%BB%8DOpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C
+链接：https://wallstreetcn.com/articles/3783836
 
-### N10｜Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元
+### N14｜费城半导体连跌八个交易日，黄仁勋：“这一切终将过去”，AI变革才刚刚开始
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783736
+链接：https://wallstreetcn.com/articles/3783817
 
-### N11｜已恢复!DeepSeek发故障补偿
+### N15｜Anthropic秘密游说国会 推动制定前沿AI监管法案
 
-平台：贴吧；榜单排名：10；实际出现快照数：3。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
+链接：https://www.cls.cn/detail/2507401
 
-### N12｜全球科技股暴跌，黄仁勋下场“救市”：力挺CoreWeave，直指“AI算力全靠两家实验室买单”是巨大误读
+### N16｜AI的吻戏比真人还欲啊
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：微博；榜单排名：12；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3783749
+链接：https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23
 
-### N13｜官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？
+### N17｜龙珠声优痛斥AI配音没灵魂
 
-平台：知乎；榜单排名：10；实际出现快照数：2。
+平台：贴吧；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094468473413789647
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82&topic_id=28367426
 
-### N14｜老干妈用AI一年狂赚54亿
+### N18｜用DeepSeek翻唱人是猫
 
-平台：贴吧；榜单排名：11；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
-
-### N15｜DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？
-
-平台：知乎；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2094475735796643677
-
-### N16｜如何看待微软已完成 2.8T 大模型的预训练？
-
-平台：知乎；榜单排名：12；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2094234009622599449
-
-### N17｜如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？
-
-平台：知乎；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2094037238065714517
-
-### N18｜AI偶像怀孕 把全网都“耍了”
-
-平台：百度热搜；榜单排名：13；实际出现快照数：3。
-
-链接：https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D
-
-### N19｜如何看待网友说 DeepSeek 在爱里长大？
-
-平台：知乎；榜单排名：16；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2093751116613866755
-
-### N20｜库克：中国几乎所有人都在积极拥抱AI，令人印象深刻
-
-平台：澎湃新闻；榜单排名：17；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34261252
-
-### N21｜AI为何会欺骗人类
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB
-
-### N22｜OpenAI向数学界捐赠500万美元
-
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83
-
-### N23｜用DeepSeek翻唱人是猫
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
 
-### N24｜谢娜发AI视频为赵丽颖庆生
+### N19｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
 
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F
+链接：https://www.thepaper.cn/newsDetail_forward_34271084
 
-核对：AI HOT 8 条；TrendRadar 24 条。
+### N20｜AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机
+
+平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34263975
+
+### N21｜毕导 科普UP主会被AI取代吗
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC+%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97
+
+### N22｜已恢复!DeepSeek发故障补偿
+
+平台：贴吧；榜单排名：22；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
+
+### N23｜老干妈用AI一年狂赚54亿
+
+平台：贴吧；榜单排名：23；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
+
+### N24｜美股AI巨头还能撑多久
+
+平台：今日头条；榜单排名：24；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7697639907996470847/
+
+核对：AI HOT 4 条；TrendRadar 24 条。
