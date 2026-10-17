@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-18
 
-数据生成时间：2026-10-18T02:49:16+08:00（北京时间）
+数据生成时间：2026-10-18T03:42:01+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：23 条 AI 相关热点。
+AI HOT：4 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -69,23 +69,23 @@ Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 151
 
 链接：https://www.zhihu.com/question/2094773240036061683
 
-### N4｜国常会：人工智能是影响未来发展的关键变量
+### N4｜英伟达称RTX5090没有停产
+
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
+
+### N5｜国常会：人工智能是影响未来发展的关键变量
 
 平台：财联社热门；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2507165
 
-### N5｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
+### N6｜英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？
 
 平台：知乎；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2094715615177085550
-
-### N6｜英伟达称RTX5090没有停产
-
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0RTX5090%E6%B2%A1%E6%9C%89%E5%81%9C%E4%BA%A7
 
 ### N7｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
 
@@ -147,46 +147,52 @@ Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 151
 
 链接：https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23
 
-### N17｜用DeepSeek翻唱人是猫
-
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
-
-### N18｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
+### N17｜“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34271084
 
-### N19｜龙珠声优痛斥AI配音没灵魂
+### N18｜龙珠声优痛斥AI配音没灵魂
 
 平台：贴吧；榜单排名：13；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82&topic_id=28367426
 
-### N20｜毕导 科普UP主会被AI取代吗
+### N19｜英伟达市值9天蒸发4万亿元
 
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：1。
+平台：今日头条；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7696986246765264947/
+
+### N20｜用DeepSeek翻唱人是猫
+
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB
+
+### N21｜毕导 科普UP主会被AI取代吗
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC+%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97
 
-### N21｜已恢复!DeepSeek发故障补偿
+### N22｜已恢复!DeepSeek发故障补偿
 
 平台：贴吧；榜单排名：22；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF&topic_id=28367231
 
-### N22｜老干妈用AI一年狂赚54亿
+### N23｜老干妈用AI一年狂赚54亿
 
 平台：贴吧；榜单排名：23；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF&topic_id=28367216
 
-### N23｜英伟达市值9天蒸发4万亿元
+### N24｜DeepSeek新模型登场
 
-平台：今日头条；榜单排名：24；实际出现快照数：1。
+平台：今日头条；榜单排名：29；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7696986246765264947/
+链接：https://www.toutiao.com/trending/7697588071004376619/
 
-核对：AI HOT 4 条；TrendRadar 23 条。
+核对：AI HOT 4 条；TrendRadar 24 条。
