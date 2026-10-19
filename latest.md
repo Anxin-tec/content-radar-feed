@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-20
 
-数据生成时间：2026-10-20T05:14:35+08:00（北京时间）
+数据生成时间：2026-10-20T05:44:48+08:00（北京时间）
 
 AI HOT：14 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -219,11 +219,11 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 链接：https://www.toutiao.com/trending/7698189752482365483/
 
-### N14｜不用AI特效的中国功夫什么样
+### N14｜老人去见苦命“小海” 上车才知是AI
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
+平台：百度热搜；榜单排名：29；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
+链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
 
 ### N15｜洛手转投玩家AI创作遭吐槽
 
@@ -231,10 +231,10 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-### N16｜老人去见苦命“小海” 上车才知是AI
+### N16｜不用AI特效的中国功夫什么样
 
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
 
-链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
+链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
 
 核对：AI HOT 14 条；TrendRadar 16 条。
