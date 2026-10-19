@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-20
 
-数据生成时间：2026-10-20T06:37:09+08:00（北京时间）
+数据生成时间：2026-10-20T07:03:34+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -166,11 +166,11 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 链接：https://www.cls.cn/detail/2508604
 
-### N4｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
+### N4｜美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2508559
+链接：https://www.cls.cn/detail/2509104
 
 ### N5｜梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？
 
@@ -178,70 +178,76 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 链接：https://www.zhihu.com/question/2093628371448217836
 
-### N6｜AI画大肥鱼翻车,鲸鱼娘遭殃
+### N6｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
+
+平台：财联社热门；榜单排名：12；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2508559
+
+### N7｜AI画大肥鱼翻车,鲸鱼娘遭殃
 
 平台：贴吧；榜单排名：14；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
 
-### N7｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
+### N8｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
 
 平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282373
 
-### N8｜不用AI特效的中国功夫什么样
+### N9｜不用AI特效的中国功夫什么样
 
 平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
 
-### N9｜北大教授预言AI催生弃民
+### N10｜北大教授预言AI催生弃民
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N10｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
+### N11｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
 
 平台：知乎；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2094892066190915387
 
-### N11｜女子离婚6天用AI救了前夫一命
+### N12｜女子离婚6天用AI救了前夫一命
 
 平台：百度热搜；榜单排名：21；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD
 
-### N12｜AI同人抢跑官方,追番党忧心
+### N13｜AI同人抢跑官方,追番党忧心
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
 
-### N13｜实测Deepseek v4.1动画效果
+### N14｜实测Deepseek v4.1动画效果
 
 平台：抖音；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2703379
 
-### N14｜女子用AI救了前夫一命
+### N15｜女子用AI救了前夫一命
 
 平台：今日头条；榜单排名：23；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7698189752482365483/
 
-### N15｜老人去见苦命“小海” 上车才知是AI
+### N16｜老人去见苦命“小海” 上车才知是AI
 
 平台：百度热搜；榜单排名：28；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
 
-### N16｜洛手转投玩家AI创作遭吐槽
+### N17｜洛手转投玩家AI创作遭吐槽
 
 平台：贴吧；榜单排名：29；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-核对：AI HOT 15 条；TrendRadar 16 条。
+核对：AI HOT 15 条；TrendRadar 17 条。
