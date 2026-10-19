@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-20
 
-数据生成时间：2026-10-20T07:03:34+08:00（北京时间）
+数据生成时间：2026-10-20T07:31:20+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,14 +130,23 @@ Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，�
 
 ### A14｜AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端
 
-AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。
+AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。
 
 来源：PyTorch：Blog（RSS）；发布时间：2026-10-19T12:45:23Z
 
 原文：https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/
 收录页：https://aihot.news/items/szf3v3re4888fzekwoohhu8b4
 
-### A15｜蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型
+### A15｜OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力
+
+OpenAI 宣布其最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上的构建与迁移能力显著提升，并开源评测套件。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-19T12:00:00Z
+
+原文：https://openai.com/index/low-resource-programming-languages
+收录页：https://aihot.news/items/tzuiybo7a45sm87wj4rec2mvo
+
+### A16｜蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型
 
 蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。
 
@@ -198,7 +207,7 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 ### N9｜不用AI特效的中国功夫什么样
 
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
 
@@ -240,7 +249,7 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 ### N16｜老人去见苦命“小海” 上车才知是AI
 
-平台：百度热搜；榜单排名：28；实际出现快照数：3。
+平台：百度热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
 
@@ -250,4 +259,4 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-核对：AI HOT 15 条；TrendRadar 17 条。
+核对：AI HOT 16 条；TrendRadar 17 条。
