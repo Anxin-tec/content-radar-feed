@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-20
 
-数据生成时间：2026-10-20T04:31:37+08:00（北京时间）
+数据生成时间：2026-10-20T05:14:35+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -13,7 +13,16 @@ AI HOT：13 条；TrendRadar：17 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max
+### A1｜FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹
+
+美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。
+
+来源：Ars Technica：AI（RSS）；发布时间：2026-10-19T20:21:53Z
+
+原文：https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
+收录页：https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1
+
+### A2｜fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max
 
 fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。
 
@@ -22,7 +31,7 @@ fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第�
 原文：https://x.com/fal/status/2112251022047412492
 收录页：https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km
 
-### A2｜DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一
+### A3｜DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一
 
 Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。
 
@@ -31,7 +40,7 @@ Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源�
 原文：https://x.com/arena/status/2112247114944360666
 收录页：https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm
 
-### A3｜Inception 扩散模型 Mercury 3 上线 OpenRouter
+### A4｜Inception 扩散模型 Mercury 3 上线 OpenRouter
 
 Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。
 
@@ -40,7 +49,7 @@ Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 to
 原文：https://x.com/OpenRouter/status/2112225779782398131
 收录页：https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb
 
-### A4｜DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二
+### A5｜DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二
 
 DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。
 
@@ -49,7 +58,7 @@ DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence 
 原文：https://x.com/ArtificialAnlys/status/2112218661432000694
 收录页：https://aihot.news/items/wrlpmwb2tsk1moehp5kpsvovb
 
-### A5｜Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分
+### A6｜Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分
 
 Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。
 
@@ -58,7 +67,7 @@ Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜
 原文：https://x.com/arena/status/2112215825944117361
 收录页：https://aihot.news/items/qxv5364a77v0d22sab7mq4dha
 
-### A6｜Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性
+### A7｜Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性
 
 Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。
 
@@ -67,7 +76,7 @@ Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orch
 原文：https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/
 收录页：https://aihot.news/items/qh6pvehounuylklti7i0zl124
 
-### A7｜Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu
+### A8｜Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu
 
 英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。
 
@@ -76,7 +85,7 @@ Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orch
 原文：https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith
 收录页：https://aihot.news/items/nk19eo4eud45d47tmwxm684iu
 
-### A8｜Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼
+### A9｜Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼
 
 若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。
 
@@ -85,7 +94,7 @@ Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orch
 原文：https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/
 收录页：https://aihot.news/items/x7nruknd2vvd2dlhipy8tzy5m
 
-### A9｜黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站
+### A10｜黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站
 
 AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。
 
@@ -94,7 +103,7 @@ AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的�
 原文：https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
 收录页：https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz
 
-### A10｜n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流
+### A11｜n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流
 
 n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。
 
@@ -103,7 +112,7 @@ n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一�
 原文：https://blog.n8n.io/n8n-nvidia-dgx-spark/
 收录页：https://aihot.news/items/ezjbo6ic6xfvpyxyghjekaude
 
-### A11｜Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型
+### A12｜Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型
 
 Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。
 
@@ -112,7 +121,7 @@ Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，�
 原文：https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/
 收录页：https://aihot.news/items/ebl13m9gich6kfjixzvfiw5bq
 
-### A12｜AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端
+### A13｜AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端
 
 AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。
 
@@ -121,7 +130,7 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 原文：https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/
 收录页：https://aihot.news/items/szf3v3re4888fzekwoohhu8b4
 
-### A13｜蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型
+### A14｜蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型
 
 蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。
 
@@ -168,70 +177,64 @@ AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
 
-### N7｜不用AI特效的中国功夫什么样
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
-
-### N8｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
+### N7｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
 
 平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282373
 
-### N9｜Deepseek对传统搜索的冲击有多大？
-
-平台：知乎；榜单排名：16；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/13453602540
-
-### N10｜北大教授预言AI催生弃民
+### N8｜北大教授预言AI催生弃民
 
 平台：贴吧；榜单排名：19；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N11｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
+### N9｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
 
 平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094892066190915387
 
-### N12｜女子离婚6天用AI救了前夫一命
+### N10｜女子离婚6天用AI救了前夫一命
 
-平台：百度热搜；榜单排名：21；实际出现快照数：2。
+平台：百度热搜；榜单排名：22；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD
 
-### N13｜AI同人抢跑官方,追番党忧心
+### N11｜AI同人抢跑官方,追番党忧心
 
 平台：贴吧；榜单排名：22；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
 
-### N14｜实测Deepseek v4.1动画效果
+### N12｜实测Deepseek v4.1动画效果
 
 平台：抖音；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2703379
 
-### N15｜女子用AI救了前夫一命
+### N13｜女子用AI救了前夫一命
 
 平台：今日头条；榜单排名：23；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7698189752482365483/
 
-### N16｜洛手转投玩家AI创作遭吐槽
+### N14｜不用AI特效的中国功夫什么样
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
+
+### N15｜洛手转投玩家AI创作遭吐槽
 
 平台：贴吧；榜单排名：29；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-### N17｜老人去见苦命“小海” 上车才知是AI
+### N16｜老人去见苦命“小海” 上车才知是AI
 
 平台：百度热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
 
-核对：AI HOT 13 条；TrendRadar 17 条。
+核对：AI HOT 14 条；TrendRadar 16 条。
