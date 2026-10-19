@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-19
 
-数据生成时间：2026-10-19T08:27:49+08:00（北京时间）
+数据生成时间：2026-10-19T09:08:19+08:00（北京时间）
 
 AI HOT：4 条；TrendRadar：30 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -67,71 +67,71 @@ Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初�
 
 链接：https://wallstreetcn.com/articles/3783849
 
-### N4｜AI画大肥鱼翻车,鲸鱼娘遭殃
-
-平台：贴吧；榜单排名：2；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
-
-### N5｜“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”
+### N4｜“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783851
 
-### N6｜广交会AI新品热度拉满
+### N5｜广交会AI新品热度拉满
 
 平台：微博；榜单排名：3；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%BA%A4%E4%BC%9AAI%E6%96%B0%E5%93%81%E7%83%AD%E5%BA%A6%E6%8B%89%E6%BB%A1%23
 
-### N7｜【早报】两部门：支持体育运动进影院；DeepSeek新模型登场
+### N6｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
 
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
+平台：财联社热门；榜单排名：4；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2507548
+链接：https://www.cls.cn/detail/2507445
 
-### N8｜多家期刊拒绝人工智能参与撰写稿件，润色也不行
+### N7｜多家期刊拒绝人工智能参与撰写稿件，润色也不行
 
 平台：澎湃新闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34276234
 
-### N9｜“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”
+### N8｜AI画大肥鱼翻车,鲸鱼娘遭殃
+
+平台：贴吧；榜单排名：4；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
+
+### N9｜【早报】两部门：支持体育运动进影院；DeepSeek新模型登场
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2507445
+链接：https://www.cls.cn/detail/2507548
 
-### N10｜北大教授预言AI催生弃民
+### N10｜下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报
 
-平台：贴吧；榜单排名：5；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
-
-### N11｜下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3783759
 
-### N12｜AI剧真实到几乎可以替代演员
+### N11｜三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼
 
-平台：微博；榜单排名：7；实际出现快照数：3。
-
-链接：https://s.weibo.com/weibo?q=AI%E5%89%A7%E7%9C%9F%E5%AE%9E%E5%88%B0%E5%87%A0%E4%B9%8E%E5%8F%AF%E4%BB%A5%E6%9B%BF%E4%BB%A3%E6%BC%94%E5%91%98
-
-### N13｜三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼
-
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2507474
 
-### N14｜AI同人抢跑官方,追番党忧心
+### N12｜北大教授预言AI催生弃民
 
-平台：贴吧；榜单排名：8；实际出现快照数：3。
+平台：贴吧；榜单排名：7；实际出现快照数：3。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
+
+### N13｜演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空
+
+平台：澎湃新闻；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34274620
+
+### N14｜马斯克反思白宫往事 称美债问题只能靠AI和机器人解决
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2507535
 
 ### N15｜AI竞争打到工厂，欧洲想和中国掰手腕
 
@@ -139,93 +139,93 @@ Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初�
 
 链接：https://news.ifeng.com/c/8xKApDsNCxa
 
-### N16｜演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空
-
-平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34274620
-
-### N17｜网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？
+### N16｜网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094959269275878409
 
-### N18｜马斯克反思白宫往事 称美债问题只能靠AI和机器人解决
+### N17｜AI同人抢跑官方,追番党忧心
 
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
+平台：贴吧；榜单排名：10；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2507535
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
 
-### N19｜如何看待 anthropic 取消 git？
+### N18｜如何看待 anthropic 取消 git？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094352602074965020
 
-### N20｜众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来
+### N19｜众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来
 
-平台：澎湃新闻；榜单排名：12；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34275099
 
-### N21｜我国首个十万卡AI超集群 “能装一个宇宙”
+### N20｜我国首个十万卡AI超集群 “能装一个宇宙”
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2507661
 
-### N22｜谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？
+### N21｜谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？
 
 平台：知乎；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2094251044960211894
 
-### N23｜“最牛文科生”赌中AI
+### N22｜洛手转投玩家AI创作遭吐槽
 
-平台：百度热搜；榜单排名：15；实际出现快照数：3。
-
-链接：https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E7%89%9B%E6%96%87%E7%A7%91%E7%94%9F%E2%80%9D%E8%B5%8C%E4%B8%ADAI
-
-### N24｜洛手转投玩家AI创作遭吐槽
-
-平台：贴吧；榜单排名：15；实际出现快照数：3。
+平台：贴吧；榜单排名：17；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-### N25｜张雪回记者九号自动驾驶技术看法称「有点搞笑」引热议，发文回应仔细剖析争议点，有哪些信息值得关注？
+### N23｜张雪回记者九号自动驾驶技术看法称「有点搞笑」引热议，发文回应仔细剖析争议点，有哪些信息值得关注？
 
 平台：知乎；榜单排名：18；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2094696922921563605
 
-### N26｜明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频
+### N24｜“最牛文科生”赌中AI
+
+平台：百度热搜；榜单排名：19；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E7%89%9B%E6%96%87%E7%A7%91%E7%94%9F%E2%80%9D%E8%B5%8C%E4%B8%ADAI
+
+### N25｜明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34274965
 
+### N26｜AI剧真实到几乎可以替代演员
+
+平台：微博；榜单排名：19；实际出现快照数：3。
+
+链接：https://s.weibo.com/weibo?q=AI%E5%89%A7%E7%9C%9F%E5%AE%9E%E5%88%B0%E5%87%A0%E4%B9%8E%E5%8F%AF%E4%BB%A5%E6%9B%BF%E4%BB%A3%E6%BC%94%E5%91%98
+
 ### N27｜Claude专封国人,二创人设变腹黑
 
-平台：贴吧；榜单排名：20；实际出现快照数：3。
+平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91&topic_id=28367470
 
-### N28｜DeepSeek新模型有哪些优势
+### N28｜AI微电影星河外卖员规则诡域
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF
-
-### N29｜AI微电影星河外卖员规则诡域
-
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F
 
+### N29｜90岁奶奶和94岁爷爷成AI重度用户
+
+平台：今日头条；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7697957641586442249/
+
 ### N30｜龙珠声优痛斥AI配音没灵魂
 
-平台：贴吧；榜单排名：28；实际出现快照数：3。
+平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82&topic_id=28367426
 
