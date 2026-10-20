@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-20
 
-数据生成时间：2026-10-20T07:31:20+08:00（北京时间）
+数据生成时间：2026-10-20T08:16:29+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：16 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -163,83 +163,83 @@ OpenAI 宣布其最新模型在 COBOL、Fortran、Visual Basic 等低资源编�
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E6%B6%88%E8%B4%B9%E7%BA%A7GPU%E7%9F%AD%E7%BC%BA%E5%B7%B2%E5%A4%B1%E6%8E%A7
 
-### N2｜外网评最烂AI命名榜,DS夺冠
+### N2｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
+
+平台：澎湃新闻；榜单排名：2；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34282373
+
+### N3｜外网评最烂AI命名榜,DS夺冠
 
 平台：贴吧；榜单排名：2；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N3｜【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”
+### N4｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
 
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：知乎；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2508604
+链接：https://www.zhihu.com/question/2095476625228019430
 
-### N4｜美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹
+### N5｜美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹
 
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2509104
 
-### N5｜梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？
+### N6｜【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”
 
-平台：知乎；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2093628371448217836
+链接：https://www.cls.cn/detail/2508604
 
-### N6｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
+### N7｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2508559
 
-### N7｜AI画大肥鱼翻车,鲸鱼娘遭殃
+### N8｜AI画大肥鱼翻车,鲸鱼娘遭殃
 
 平台：贴吧；榜单排名：14；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
 
-### N8｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
+### N9｜梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
+平台：知乎；榜单排名：14；实际出现快照数：3。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34282373
+链接：https://www.zhihu.com/question/2093628371448217836
 
-### N9｜不用AI特效的中国功夫什么样
+### N10｜系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
+链接：https://www.thepaper.cn/newsDetail_forward_34282923
 
-### N10｜北大教授预言AI催生弃民
+### N11｜北大教授预言AI催生弃民
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N11｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
+### N12｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
 
-平台：知乎；榜单排名：19；实际出现快照数：3。
+平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2094892066190915387
 
-### N12｜女子离婚6天用AI救了前夫一命
+### N13｜女子离婚6天用AI救了前夫一命
 
 平台：百度热搜；榜单排名：21；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD
 
-### N13｜AI同人抢跑官方,追番党忧心
+### N14｜AI同人抢跑官方,追番党忧心
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
-
-### N14｜实测Deepseek v4.1动画效果
-
-平台：抖音；榜单排名：23；实际出现快照数：1。
-
-链接：https://www.douyin.com/hot/2703379
 
 ### N15｜女子用AI救了前夫一命
 
@@ -247,16 +247,28 @@ OpenAI 宣布其最新模型在 COBOL、Fortran、Visual Basic 等低资源编�
 
 链接：https://www.toutiao.com/trending/7698189752482365483/
 
-### N16｜老人去见苦命“小海” 上车才知是AI
+### N16｜实测Deepseek v4.1动画效果
 
-平台：百度热搜；榜单排名：25；实际出现快照数：3。
+平台：抖音；榜单排名：28；实际出现快照数：2。
+
+链接：https://www.douyin.com/hot/2703379
+
+### N17｜老人去见苦命“小海” 上车才知是AI
+
+平台：百度热搜；榜单排名：29；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
 
-### N17｜洛手转投玩家AI创作遭吐槽
+### N18｜洛手转投玩家AI创作遭吐槽
 
 平台：贴吧；榜单排名：29；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-核对：AI HOT 16 条；TrendRadar 17 条。
+### N19｜不用AI特效的中国功夫什么样
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
+
+核对：AI HOT 16 条；TrendRadar 19 条。
