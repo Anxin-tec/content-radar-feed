@@ -1,17 +1,91 @@
-# AI 日报｜2026-10-20
+# AI 日报｜2026-10-21
 
-数据生成时间：2026-10-20T09:44:08+08:00（北京时间）
+数据生成时间：2026-10-21T00:31:54+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：25 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：13 条；TrendRadar：27 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号
+### A1｜Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端
+
+Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to("cuda") 改为 .to("tpu")。
+
+来源：PyTorch：Blog（RSS）；发布时间：2026-10-20T16:00:30Z
+
+原文：https://pytorch.org/blog/introducing-torchtpu/
+收录页：https://aihot.news/items/lh8vm7yp332xoffhqoscusss4
+
+### A2｜美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器
+
+据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-10-20T12:32:56Z
+
+原文：https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/
+收录页：https://aihot.news/items/u6kqfrgiqrhbpxn012nlisd66
+
+### A3｜llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪
+
+IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。
+
+来源：IBM Research：AI；发布时间：2026-10-20T12:00:00Z
+
+原文：https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss
+收录页：https://aihot.news/items/b1pcaa7ceghor24vjgsjagqqd
+
+### A4｜DeepSeek 全面开源内部推理框架 DeepInfer
+
+DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。
+
+来源：公众号：DeepSeek（深度求索）；发布时间：2026-10-20T08:54:54Z
+
+原文：https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836
+收录页：https://aihot.news/items/ckykonvith99q6hvd0utjdwfn
+
+### A5｜路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元
+
+据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-20T08:06:25Z
+
+原文：https://x.com/rohanpaul_ai/status/2112455383356989598
+收录页：https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya
+
+### A6｜Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称
+
+Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。
+
+来源：Ai2 / Allen Institute for AI（RSS）；发布时间：2026-10-20T08:00:00Z
+
+原文：https://allenai.org/blog/fairstress
+收录页：https://aihot.news/items/cszm6fv1o99q04dbffzx8qqio
+
+### A7｜Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客
+
+Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。
+
+来源：Waymo：Blog（网页）；发布时间：2026-10-20T07:00:00Z
+
+原文：https://waymo.com/blog/2026/10/waymo-in-madrid-region
+收录页：https://aihot.news/items/mnqboa5pusqz9brarpfutz57b
+
+### A8｜面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行
+
+面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术，称首次实现 35B-A3B 规模 MoE 在端侧实时无损运行，iPhone 18 Pro Max 实测解码超 20 token/s。
+
+来源：公众号：面壁智能（MiniCPM）；发布时间：2026-10-20T06:22:26Z
+
+原文：https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea
+收录页：https://aihot.news/items/m2ylwtzb8x49c32spfl1wplqz
+
+### A9｜Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号
 
 作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。
 
@@ -20,7 +94,7 @@ AI HOT：18 条；TrendRadar：25 条 AI 相关热点。
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20
 收录页：https://aihot.news/items/awmaqqunma83599eii4g3akgw
 
-### A2｜FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹
+### A10｜FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹
 
 美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。
 
@@ -29,7 +103,7 @@ AI HOT：18 条；TrendRadar：25 条 AI 相关热点。
 原文：https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
 收录页：https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1
 
-### A3｜fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max
+### A11｜fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max
 
 fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。
 
@@ -38,7 +112,7 @@ fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第�
 原文：https://x.com/fal/status/2112251022047412492
 收录页：https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km
 
-### A4｜DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一
+### A12｜DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一
 
 Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。
 
@@ -47,7 +121,7 @@ Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源�
 原文：https://x.com/arena/status/2112247114944360666
 收录页：https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm
 
-### A5｜Inception 扩散模型 Mercury 3 上线 OpenRouter
+### A13｜Inception 扩散模型 Mercury 3 上线 OpenRouter
 
 Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。
 
@@ -56,273 +130,168 @@ Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 to
 原文：https://x.com/OpenRouter/status/2112225779782398131
 收录页：https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb
 
-### A6｜DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二
-
-DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。
-
-来源：X：Artificial Analysis (@ArtificialAnlys)；发布时间：2026-10-19T16:25:46Z
-
-原文：https://x.com/ArtificialAnlys/status/2112218661432000694
-收录页：https://aihot.news/items/wrlpmwb2tsk1moehp5kpsvovb
-
-### A7｜Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分
-
-Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。
-
-来源：X：Arena (@arena)；发布时间：2026-10-19T16:14:30Z
-
-原文：https://x.com/arena/status/2112215825944117361
-收录页：https://aihot.news/items/qxv5364a77v0d22sab7mq4dha
-
-### A8｜Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性
-
-Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。
-
-来源：Meta Engineering Blog（RSS）；发布时间：2026-10-19T15:30:37Z
-
-原文：https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/
-收录页：https://aihot.news/items/qh6pvehounuylklti7i0zl124
-
-### A9｜美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品
-
-美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。
-
-来源：Hacker News：AI 热帖；发布时间：2026-10-19T15:05:00Z
-
-原文：https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/
-收录页：https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka
-
-### A10｜Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu
-
-英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。
-
-来源：LangChain：Blog（RSS）；发布时间：2026-10-19T15:00:00Z
-
-原文：https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith
-收录页：https://aihot.news/items/nk19eo4eud45d47tmwxm684iu
-
-### A11｜Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼
-
-若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。
-
-来源：Ars Technica：AI（RSS）；发布时间：2026-10-19T14:45:43Z
-
-原文：https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/
-收录页：https://aihot.news/items/x7nruknd2vvd2dlhipy8tzy5m
-
-### A12｜黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站
-
-AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。
-
-来源：The Verge：AI（RSS）；发布时间：2026-10-19T13:58:41Z
-
-原文：https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
-收录页：https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz
-
-### A13｜n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流
-
-n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。
-
-来源：n8n Blog；发布时间：2026-10-19T13:22:17Z
-
-原文：https://blog.n8n.io/n8n-nvidia-dgx-spark/
-收录页：https://aihot.news/items/ezjbo6ic6xfvpyxyghjekaude
-
-### A14｜Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型
-
-Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。
-
-来源：Meta Engineering Blog（RSS）；发布时间：2026-10-19T13:00:10Z
-
-原文：https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/
-收录页：https://aihot.news/items/ebl13m9gich6kfjixzvfiw5bq
-
-### A15｜AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端
-
-AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。
-
-来源：PyTorch：Blog（RSS）；发布时间：2026-10-19T12:45:23Z
-
-原文：https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/
-收录页：https://aihot.news/items/szf3v3re4888fzekwoohhu8b4
-
-### A16｜OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力
-
-OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-19T12:00:00Z
-
-原文：https://openai.com/index/low-resource-programming-languages
-收录页：https://aihot.news/items/tzuiybo7a45sm87wj4rec2mvo
-
-### A17｜蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型
-
-蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。
-
-来源：蚂蚁 inclusionAI：GitHub 新仓库；发布时间：2026-10-19T07:03:25Z
-
-原文：https://github.com/inclusionAI/Ming-3.0-tts
-收录页：https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd
-
-### A18｜Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒
-
-Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。
-
-来源：Inception Labs：Blog（网页）；发布时间：2026-10-19T07:00:00Z
-
-原文：https://www.inceptionlabs.ai/blog/introducing-mercury-3
-收录页：https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮
+### N1｜英伟达或推迟RTX6060发布时间
 
-平台：澎湃新闻；榜单排名：2；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34282373
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%88%96%E6%8E%A8%E8%BF%9FRTX6060%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4
 
-### N2｜美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹
+### N2｜美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化
 
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2509104
+链接：https://www.cls.cn/detail/2509748
 
-### N3｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
+### N3｜半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力
 
-平台：知乎；榜单排名：5；实际出现快照数：1。
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2095476625228019430
+链接：https://www.cls.cn/detail/2510147
 
-### N4｜外网评最烂AI命名榜,DS夺冠
+### N4｜如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？
 
-平台：贴吧；榜单排名：6；实际出现快照数：3。
+平台：知乎；榜单排名：2；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
+链接：https://www.zhihu.com/question/2095922064804636469
 
-### N5｜首届智能机器人应用技能大展
+### N5｜众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：3；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BA%94%E7%94%A8%E6%8A%80%E8%83%BD%E5%A4%A7%E5%B1%95
+链接：https://www.thepaper.cn/newsDetail_forward_34288055
 
-### N6｜Anthropic据称洽谈450亿美元算力交易 Nscale或再添上市筹码
+### N6｜AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软
 
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2509091
+链接：https://wallstreetcn.com/articles/3783983
 
-### N7｜【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”
+### N7｜【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱
 
-平台：财联社热门；榜单排名：8；实际出现快照数：2。
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2508604
+链接：https://www.cls.cn/detail/2509936
 
-### N8｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
+### N8｜OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密
 
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
+平台：凤凰网；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2508559
+链接：https://news.ifeng.com/c/8xNZBdFHgMK
 
-### N9｜英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成
+### N9｜似曾相识？再度打爆“AI股神”后，AI交易迎来反弹
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783975
+
+### N10｜【每日收评】科创50指数探底回升涨1%，全市场超3700股收红，机器人概念股全线爆发
+
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2509894
+
+### N11｜沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3783987
+
+### N12｜英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783958
 
-### N10｜英伟达称消费级GPU短缺已失控
+### N13｜现在 AI 短剧满天飞，怎么没见影视行业人员发声？
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+平台：知乎；榜单排名：7；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E6%B6%88%E8%B4%B9%E7%BA%A7GPU%E7%9F%AD%E7%BC%BA%E5%B7%B2%E5%A4%B1%E6%8E%A7
+链接：https://www.zhihu.com/question/2090228809819862141
 
-### N11｜中国大模型正在接管工厂吗
+### N14｜韩国最大IPO首日暴跌32%：盈利的"新云"公司也难逃AI数据中心寒冬
 
-平台：今日头条；榜单排名：14；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7698402093937200681/
+链接：https://wallstreetcn.com/articles/3783991
 
-### N12｜MiniMax 发布新模型 M3.1-Flash，主打多模态编程，其实际性能表现如何？
+### N15｜韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点
 
-平台：知乎；榜单排名：15；实际出现快照数：1。
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2095590617426482384
+链接：https://www.cls.cn/detail/2510214
 
-### N13｜AI画大肥鱼翻车,鲸鱼娘遭殃
+### N16｜无理打压中企！美国政府下令全面移除DeepSeek技术
 
-平台：贴吧；榜单排名：16；实际出现快照数：3。
+平台：凤凰网；榜单排名：9；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
+链接：https://original.ifeng.com/c/8xNeD5i09FW
 
-### N14｜英伟达宣布新突破
+### N17｜外网评最烂AI命名榜,DS夺冠
 
-平台：百度热搜；榜单排名：18；实际出现快照数：1。
+平台：贴吧；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A3%E5%B8%83%E6%96%B0%E7%AA%81%E7%A0%B4
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N15｜系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径
+### N18｜系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径
 
-平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282923
 
-### N16｜如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？
+### N19｜为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？
 
-平台：知乎；榜单排名：19；实际出现快照数：2。
+平台：知乎；榜单排名：17；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094892066190915387
+链接：https://www.zhihu.com/question/2059660303915397288
 
-### N17｜梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？
+### N20｜明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成
 
-平台：知乎；榜单排名：19；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2093628371448217836
+链接：https://www.thepaper.cn/newsDetail_forward_34282214
 
-### N18｜女子离婚6天用AI救了前夫一命
+### N21｜AI凭人脸照片预测癌症患者死亡风险
 
-平台：百度热搜；榜单排名：21；实际出现快照数：3。
+平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD
+链接：https://www.baidu.com/s?wd=AI%E5%87%AD%E4%BA%BA%E8%84%B8%E7%85%A7%E7%89%87%E9%A2%84%E6%B5%8B%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9
 
-### N19｜北大教授预言AI催生弃民
+### N22｜澳洲一公司用 AI 假扮受害者接听诈骗电话以提前套取诈骗犯信息，这项技术值得在我国推广以解决诈骗问题吗？
 
-平台：贴吧；榜单排名：21；实际出现快照数：3。
+平台：知乎；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2094749068610072751
+
+### N23｜AI画大肥鱼翻车,鲸鱼娘遭殃
+
+平台：贴吧；榜单排名：22；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
+
+### N24｜UP主拆解爆款AI代码动画
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB
+
+### N25｜DeepSeek一张卡每小时收入38美元
+
+平台：百度热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83
+
+### N26｜北大教授预言AI催生弃民
+
+平台：贴吧；榜单排名：27；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N20｜实测Deepseek v4.1动画效果
+### N27｜AI同人抢跑官方,追番党忧心
 
-平台：抖音；榜单排名：22；实际出现快照数：2。
-
-链接：https://www.douyin.com/hot/2703379
-
-### N21｜女子用AI救了前夫一命
-
-平台：今日头条；榜单排名：23；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7698189752482365483/
-
-### N22｜AI同人抢跑官方,追番党忧心
-
-平台：贴吧；榜单排名：24；实际出现快照数：3。
+平台：贴吧；榜单排名：30；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
 
-### N23｜不用AI特效的中国功夫什么样
-
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
-
-### N24｜老人去见苦命“小海” 上车才知是AI
-
-平台：百度热搜；榜单排名：29；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
-
-### N25｜洛手转投玩家AI创作遭吐槽
-
-平台：贴吧；榜单排名：29；实际出现快照数：2。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
-
-核对：AI HOT 18 条；TrendRadar 25 条。
+核对：AI HOT 13 条；TrendRadar 27 条。
