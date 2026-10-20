@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-21
 
-数据生成时间：2026-10-21T04:08:04+08:00（北京时间）
+数据生成时间：2026-10-21T04:31:38+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：31 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：30 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -121,15 +121,6 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 原文：https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents
 收录页：https://aihot.news/items/v26pyuir21k0m4r02acyz6v4g
 
-### A13｜FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹
-
-美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。
-
-来源：Ars Technica：AI（RSS）；发布时间：2026-10-19T20:21:53Z
-
-原文：https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
-收录页：https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜英伟达或推迟RTX6060发布时间
@@ -210,29 +201,29 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://wallstreetcn.com/articles/3783958
 
-### N14｜为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？
-
-平台：知乎；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2059660303915397288
-
-### N15｜韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点
+### N14｜韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2510214
 
-### N16｜韩国最大IPO首日暴跌32%：盈利的"新云"公司也难逃AI数据中心寒冬
+### N15｜韩国最大IPO首日暴跌32%：盈利的"新云"公司也难逃AI数据中心寒冬
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3783991
 
-### N17｜无理打压中企！美国政府下令全面移除DeepSeek技术
+### N16｜无理打压中企！美国政府下令全面移除DeepSeek技术
 
 平台：凤凰网；榜单排名：9；实际出现快照数：2。
 
 链接：https://original.ifeng.com/c/8xNeD5i09FW
+
+### N17｜现在 AI 短剧满天飞，怎么没见影视行业人员发声？
+
+平台：知乎；榜单排名：12；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2090228809819862141
 
 ### N18｜外网评最烂AI命名榜,DS夺冠
 
@@ -240,11 +231,11 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N19｜现在 AI 短剧满天飞，怎么没见影视行业人员发声？
+### N19｜为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？
 
 平台：知乎；榜单排名：13；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2090228809819862141
+链接：https://www.zhihu.com/question/2059660303915397288
 
 ### N20｜UP主拆解爆款AI代码动画
 
@@ -258,17 +249,17 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282923
 
-### N22｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
-
-平台：知乎；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2095476625228019430
-
-### N23｜明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成
+### N22｜明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282214
+
+### N23｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
+
+平台：知乎；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2095476625228019430
 
 ### N24｜AI凭人脸照片预测癌症患者死亡风险
 
@@ -288,34 +279,28 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
 
-### N27｜马斯克警告人类将被AI“一击拿下”
-
-平台：今日头条；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7698722112940281386/
-
-### N28｜DeepSeek一张卡每小时收入38美元
+### N27｜DeepSeek一张卡每小时收入38美元
 
 平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83
 
-### N29｜北大教授预言AI催生弃民
+### N28｜北大教授预言AI催生弃民
 
 平台：贴吧；榜单排名：27；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N30｜周小川：防范AI投资失败引发金融风险
-
-平台：今日头条；榜单排名：29；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7698658087200293386/
-
-### N31｜AI同人抢跑官方,追番党忧心
+### N29｜AI同人抢跑官方,追番党忧心
 
 平台：贴吧；榜单排名：30；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
 
-核对：AI HOT 13 条；TrendRadar 31 条。
+### N30｜马斯克警告人类将被AI“一击拿下”
+
+平台：今日头条；榜单排名：30；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7698722112940281386/
+
+核对：AI HOT 12 条；TrendRadar 30 条。
