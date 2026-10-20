@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-20
 
-数据生成时间：2026-10-20T09:14:02+08:00（北京时间）
+数据生成时间：2026-10-20T09:44:08+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：25 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -181,35 +181,35 @@ Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282373
 
-### N2｜外网评最烂AI命名榜,DS夺冠
+### N2｜美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹
 
-平台：贴吧；榜单排名：2；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
-
-### N3｜美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹
-
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2509104
 
-### N4｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
+### N3｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
 
-平台：知乎；榜单排名：4；实际出现快照数：1。
+平台：知乎；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2095476625228019430
 
-### N5｜英伟达称消费级GPU短缺已失控
+### N4｜外网评最烂AI命名榜,DS夺冠
 
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：3。
+平台：贴吧；榜单排名：6；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E6%B6%88%E8%B4%B9%E7%BA%A7GPU%E7%9F%AD%E7%BC%BA%E5%B7%B2%E5%A4%B1%E6%8E%A7
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N6｜首届智能机器人应用技能大展
+### N5｜首届智能机器人应用技能大展
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BA%94%E7%94%A8%E6%8A%80%E8%83%BD%E5%A4%A7%E5%B1%95
+
+### N6｜Anthropic据称洽谈450亿美元算力交易 Nscale或再添上市筹码
+
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2509091
 
 ### N7｜【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”
 
@@ -217,45 +217,45 @@ Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准�
 
 链接：https://www.cls.cn/detail/2508604
 
-### N8｜Anthropic据称洽谈450亿美元算力交易 Nscale或再添上市筹码
-
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2509091
-
-### N9｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
+### N8｜【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2508559
 
-### N10｜英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成
+### N9｜英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783958
 
-### N11｜AI画大肥鱼翻车,鲸鱼娘遭殃
+### N10｜英伟达称消费级GPU短缺已失控
 
-平台：贴吧；榜单排名：15；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E6%B6%88%E8%B4%B9%E7%BA%A7GPU%E7%9F%AD%E7%BC%BA%E5%B7%B2%E5%A4%B1%E6%8E%A7
+
+### N11｜中国大模型正在接管工厂吗
+
+平台：今日头条；榜单排名：14；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7698402093937200681/
+
+### N12｜MiniMax 发布新模型 M3.1-Flash，主打多模态编程，其实际性能表现如何？
+
+平台：知乎；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2095590617426482384
+
+### N13｜AI画大肥鱼翻车,鲸鱼娘遭殃
+
+平台：贴吧；榜单排名：16；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
 
-### N12｜梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？
-
-平台：知乎；榜单排名：15；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2093628371448217836
-
-### N13｜不用AI特效的中国功夫什么样
-
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
-
 ### N14｜英伟达宣布新突破
 
-平台：百度热搜；榜单排名：17；实际出现快照数：1。
+平台：百度热搜；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A3%E5%B8%83%E6%96%B0%E7%AA%81%E7%A0%B4
 
@@ -271,11 +271,11 @@ Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准�
 
 链接：https://www.zhihu.com/question/2094892066190915387
 
-### N17｜北大教授预言AI催生弃民
+### N17｜梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？
 
-平台：贴吧；榜单排名：20；实际出现快照数：3。
+平台：知乎；榜单排名：19；实际出现快照数：3。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
+链接：https://www.zhihu.com/question/2093628371448217836
 
 ### N18｜女子离婚6天用AI救了前夫一命
 
@@ -283,40 +283,46 @@ Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准�
 
 链接：https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD
 
-### N19｜AI同人抢跑官方,追番党忧心
+### N19｜北大教授预言AI催生弃民
 
-平台：贴吧；榜单排名：23；实际出现快照数：3。
+平台：贴吧；榜单排名：21；实际出现快照数：3。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N20｜女子用AI救了前夫一命
+### N20｜实测Deepseek v4.1动画效果
 
-平台：今日头条；榜单排名：25；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7698189752482365483/
-
-### N21｜实测Deepseek v4.1动画效果
-
-平台：抖音；榜单排名：27；实际出现快照数：2。
+平台：抖音；榜单排名：22；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2703379
 
-### N22｜老人去见苦命“小海” 上车才知是AI
+### N21｜女子用AI救了前夫一命
+
+平台：今日头条；榜单排名：23；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7698189752482365483/
+
+### N22｜AI同人抢跑官方,追番党忧心
+
+平台：贴吧；榜单排名：24；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
+
+### N23｜不用AI特效的中国功夫什么样
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7
+
+### N24｜老人去见苦命“小海” 上车才知是AI
 
 平台：百度热搜；榜单排名：29；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI
 
-### N23｜洛手转投玩家AI创作遭吐槽
+### N25｜洛手转投玩家AI创作遭吐槽
 
-平台：贴吧；榜单排名：30；实际出现快照数：3。
+平台：贴吧；榜单排名：29；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD&topic_id=28367575
 
-### N24｜机器人公司到底该怎么算估值
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7698399006824599103/
-
-核对：AI HOT 18 条；TrendRadar 24 条。
+核对：AI HOT 18 条；TrendRadar 25 条。
