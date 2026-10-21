@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-21
 
-数据生成时间：2026-10-21T07:48:56+08:00（北京时间）
+数据生成时间：2026-10-21T08:52:19+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：29 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：31 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -119,24 +119,6 @@ Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠�
 原文：https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea
 收录页：https://aihot.news/items/m2ylwtzb8x49c32spfl1wplqz
 
-### A13｜Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号
-
-作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-20T00:26:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20
-收录页：https://aihot.news/items/awmaqqunma83599eii4g3akgw
-
-### A14｜Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构
-
-Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，结合情景记忆与派生记忆，通过插件、工具调用和离线 dreaming 管线三种访问模式读写与整合记忆，已用于 Agent Bricks Memory 和 Genie。
-
-来源：Databricks：Blog（RSS）；发布时间：2026-10-20T00:00:00Z
-
-原文：https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents
-收录页：https://aihot.news/items/v26pyuir21k0m4r02acyz6v4g
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化
@@ -157,29 +139,29 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%88%96%E6%8E%A8%E8%BF%9FRTX6060%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4
 
-### N4｜半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力
-
-平台：财联社热门；榜单排名：2；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2510147
-
-### N5｜似曾相识？再度打爆“AI股神”后，AI交易迎来反弹
-
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783975
-
-### N6｜如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？
+### N4｜如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？
 
 平台：知乎；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2095922064804636469
 
-### N7｜沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%
+### N5｜【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：财联社热门；榜单排名：3；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3783987
+链接：https://www.cls.cn/detail/2509936
+
+### N6｜半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力
+
+平台：财联社热门；榜单排名：3；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2510147
+
+### N7｜SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784066
 
 ### N8｜【每日收评】科创50指数探底回升涨1%，全市场超3700股收红，机器人概念股全线爆发
 
@@ -193,11 +175,11 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://news.ifeng.com/c/8xNZBdFHgMK
 
-### N10｜【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱
+### N10｜似曾相识？再度打爆“AI股神”后，AI交易迎来反弹
 
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2509936
+链接：https://wallstreetcn.com/articles/3783975
 
 ### N11｜众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应
 
@@ -205,29 +187,29 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://www.thepaper.cn/newsDetail_forward_34288055
 
-### N12｜英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成
+### N12｜沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3783987
+
+### N13｜英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3783958
 
-### N13｜韩国最大IPO首日暴跌32%：盈利的"新云"公司也难逃AI数据中心寒冬
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3783991
-
-### N14｜为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？
-
-平台：知乎；榜单排名：7；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2059660303915397288
-
-### N15｜现在 AI 短剧满天飞，怎么没见影视行业人员发声？
+### N14｜现在 AI 短剧满天飞，怎么没见影视行业人员发声？
 
 平台：知乎；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2090228809819862141
+
+### N15｜韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2510214
 
 ### N16｜无理打压中企！美国政府下令全面移除DeepSeek技术
 
@@ -235,29 +217,29 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://original.ifeng.com/c/8xNeD5i09FW
 
-### N17｜韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点
+### N17｜韩国最大IPO首日暴跌32%：盈利的"新云"公司也难逃AI数据中心寒冬
 
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2510214
+链接：https://wallstreetcn.com/articles/3783991
 
-### N18｜外网评最烂AI命名榜,DS夺冠
+### N18｜为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？
+
+平台：知乎；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2059660303915397288
+
+### N19｜外网评最烂AI命名榜,DS夺冠
 
 平台：贴吧；榜单排名：13；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N19｜系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径
+### N20｜系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282923
-
-### N20｜UP主拆解爆款AI代码动画
-
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB
 
 ### N21｜如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?
 
@@ -265,52 +247,64 @@ Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，
 
 链接：https://www.zhihu.com/question/2095476625228019430
 
-### N22｜明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成
+### N22｜UP主拆解爆款AI代码动画
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB
+
+### N23｜明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34282214
 
-### N23｜澳洲一公司用 AI 假扮受害者接听诈骗电话以提前套取诈骗犯信息，这项技术值得在我国推广以解决诈骗问题吗？
+### N24｜澳洲一公司用 AI 假扮受害者接听诈骗电话以提前套取诈骗犯信息，这项技术值得在我国推广以解决诈骗问题吗？
 
 平台：知乎；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2094749068610072751
 
-### N24｜AI画大肥鱼翻车,鲸鱼娘遭殃
+### N25｜AI画大肥鱼翻车,鲸鱼娘遭殃
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83&topic_id=28367596
 
-### N25｜DeepSeek一张卡每小时收入38美元
+### N26｜城堡投资创始人：AI几乎肯定有泡沫
+
+平台：今日头条；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7698649739163664420/
+
+### N27｜DeepSeek一张卡每小时收入38美元
 
 平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83
 
-### N26｜北大教授预言AI催生弃民
+### N28｜北大教授预言AI催生弃民
 
 平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91&topic_id=28367595
 
-### N27｜马斯克警告人类将被AI“一击拿下”
+### N29｜马斯克警告人类将被AI“一击拿下”
 
 平台：今日头条；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7698722112940281386/
 
-### N28｜AI凭人脸照片预测癌症患者死亡风险
+### N30｜AI凭人脸照片预测癌症患者死亡风险
 
 平台：百度热搜；榜单排名：30；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E5%87%AD%E4%BA%BA%E8%84%B8%E7%85%A7%E7%89%87%E9%A2%84%E6%B5%8B%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9
 
-### N29｜AI同人抢跑官方,追番党忧心
+### N31｜AI同人抢跑官方,追番党忧心
 
 平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83&topic_id=28367613
 
-核对：AI HOT 14 条；TrendRadar 29 条。
+核对：AI HOT 12 条；TrendRadar 31 条。
