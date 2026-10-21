@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-22
 
-数据生成时间：2026-10-22T07:09:17+08:00（北京时间）
+数据生成时间：2026-10-22T07:59:37+08:00（北京时间）
 
 AI HOT：17 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -166,71 +166,71 @@ Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智�
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地
+### N1｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3784116
+
+### N2｜黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地
 
 平台：财联社热门；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2511348
 
-### N2｜低价共享AI付费权益靠谱吗
+### N3｜低价共享AI付费权益靠谱吗
 
 平台：bilibili 热搜；榜单排名：3；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97
 
-### N3｜Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿
+### N4｜英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3784062
+链接：https://wallstreetcn.com/articles/3784122
 
-### N4｜SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻
+### N5｜SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784066
 
-### N5｜强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高
+### N6｜超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3784116
-
-### N6｜英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784122
-
-### N7｜超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
 链接：https://wallstreetcn.com/articles/3784079
 
-### N8｜张益唐的数学难题被AI化为习题
+### N7｜【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98
+链接：https://www.cls.cn/detail/2511640
+
+### N8｜Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3784062
 
 ### N9｜【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2511149
 
-### N10｜网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？
-
-平台：知乎；榜单排名：8；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2095844033167716971
-
-### N11｜宇树发布功夫传奇机器人
+### N10｜张益唐的数学难题被AI化为习题
 
 平台：bilibili 热搜；榜单排名：9；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
+链接：https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98
+
+### N11｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784140
 
 ### N12｜妈妈染上AI短剧后无法自拔
 
@@ -238,76 +238,76 @@ Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智�
 
 链接：https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E6%9F%93%E4%B8%8AAI%E7%9F%AD%E5%89%A7%E5%90%8E%E6%97%A0%E6%B3%95%E8%87%AA%E6%8B%94
 
-### N13｜连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?
+### N13｜宇树发布功夫传奇机器人
 
-平台：知乎；榜单排名：13；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2095674841978488596
+链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
 
-### N14｜吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任
+### N14｜网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？
+
+平台：知乎；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2095844033167716971
+
+### N15｜吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34296636
 
-### N15｜日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？
+### N16｜日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2095491583533658157
 
-### N16｜比亚迪L3级自动驾驶有望2028年落地
+### N17｜揭秘机器人数据采集行业内幕
+
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95
+
+### N18｜比亚迪L3级自动驾驶有望2028年落地
 
 平台：今日头条；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699048888803577385/
 
-### N17｜揭秘机器人数据采集行业内幕
+### N19｜连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+平台：知乎；榜单排名：19；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95
+链接：https://www.zhihu.com/question/2095674841978488596
 
-### N18｜腾讯姚顺雨想把DeepSeek卷到加班
+### N20｜UP主自制AI丧尸剧余波
 
-平台：今日头条；榜单排名：19；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7697961005829668883/
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E4%B8%A7%E5%B0%B8%E5%89%A7%E4%BD%99%E6%B3%A2
 
-### N19｜陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？
+### N21｜陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？
 
 平台：知乎；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2095840244973004152
 
-### N20｜英伟达RTX Pro 5500订单暴涨
+### N22｜英伟达RTX Pro 5500订单暴涨
 
 平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Pro+5500%E8%AE%A2%E5%8D%95%E6%9A%B4%E6%B6%A8
 
-### N21｜外网评最烂AI命名榜,DS夺冠
+### N23｜外网评最烂AI命名榜,DS夺冠
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N22｜UP主自制AI丧尸剧余波
+### N24｜腾讯姚顺雨想把DeepSeek卷到加班
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
+平台：今日头条；榜单排名：30；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E4%B8%A7%E5%B0%B8%E5%89%A7%E4%BD%99%E6%B3%A2
-
-### N23｜第一批用AI裁员的老板后悔了
-
-平台：今日头条；榜单排名：26；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7698965729365724691/
-
-### N24｜华尔街大佬：AI确定已是大泡沫
-
-平台：今日头条；榜单排名：27；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7699032278101397028/
+链接：https://www.toutiao.com/trending/7697961005829668883/
 
 核对：AI HOT 17 条；TrendRadar 24 条。
