@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-22
 
-数据生成时间：2026-10-22T08:52:37+08:00（北京时间）
+数据生成时间：2026-10-22T09:27:30+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：29 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：30 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -137,15 +137,6 @@ WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、�
 原文：https://x.com/rohanpaul_ai/status/2112763999586771238
 收录页：https://aihot.news/items/oiqrjvmo3ausrs9j1ttttsqc5
 
-### A15｜OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留
-
-OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。
-
-来源：X：Tibo (@thsottiaux)；发布时间：2026-10-21T01:10:02Z
-
-原文：https://x.com/thsottiaux/status/2112712984644784534
-收录页：https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议
@@ -154,17 +145,17 @@ OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续�
 
 链接：https://www.cls.cn/detail/2511640
 
-### N2｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
-
-平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784116
-
-### N3｜低价共享AI付费权益靠谱吗
+### N2｜低价共享AI付费权益靠谱吗
 
 平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97
+
+### N3｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
+
+平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3784116
 
 ### N4｜黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地
 
@@ -178,53 +169,53 @@ OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续�
 
 链接：https://wallstreetcn.com/articles/3784122
 
-### N6｜SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻
+### N6｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
+
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784152
+
+### N7｜SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784066
 
-### N7｜连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?
+### N8｜宇树机器人展示举起汽车救人
+
+平台：微博；榜单排名：4；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA
+
+### N9｜连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?
 
 平台：知乎；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2095674841978488596
 
-### N8｜Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿
+### N10｜揭秘DeepSeek开源推理框架
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6
+
+### N11｜Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784062
 
-### N9｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
+### N12｜【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3784152
-
-### N10｜宇树机器人展示举起汽车救人
-
-平台：微博；榜单排名：5；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA
-
-### N11｜【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2511149
 
-### N12｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
+### N13｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784140
-
-### N13｜张益唐的数学难题被AI化为习题
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98
 
 ### N14｜超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨
 
@@ -240,86 +231,92 @@ OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续�
 
 ### N16｜传字节阿里腾讯花 350 亿美元订购英伟达工作站 GPU，大厂为何转向采购该显卡？
 
-平台：知乎；榜单排名：10；实际出现快照数：1。
+平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2096010997483967669
 
-### N17｜网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？
+### N17｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784155
+
+### N18｜网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2095844033167716971
 
-### N18｜吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任
+### N19｜特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！
+
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2511667
+
+### N20｜多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？
+
+平台：知乎；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2094620721343481537
+
+### N21｜吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任
 
 平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34296636
 
-### N19｜多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？
+### N22｜张益唐的数学难题被AI化为习题
 
-平台：知乎；榜单排名：15；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2094620721343481537
+链接：https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98
 
-### N20｜日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？
+### N23｜日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2095491583533658157
 
-### N21｜比亚迪L3级自动驾驶有望2028年落地
+### N24｜比亚迪L3级自动驾驶有望2028年落地
 
 平台：今日头条；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699048888803577385/
 
-### N22｜宇树发布功夫传奇机器人
+### N25｜陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
-
-### N23｜陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？
-
-平台：知乎；榜单排名：20；实际出现快照数：3。
+平台：知乎；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2095840244973004152
 
-### N24｜UP主自制AI丧尸剧余波
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E4%B8%A7%E5%B0%B8%E5%89%A7%E4%BD%99%E6%B3%A2
-
-### N25｜英伟达RTX Pro 5500订单暴涨
+### N26｜英伟达RTX Pro 5500订单暴涨
 
 平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Pro+5500%E8%AE%A2%E5%8D%95%E6%9A%B4%E6%B6%A8
 
-### N26｜外网评最烂AI命名榜,DS夺冠
+### N27｜外网评最烂AI命名榜,DS夺冠
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
 
-### N27｜揭秘机器人数据采集行业内幕
+### N28｜宇树发布功夫传奇机器人
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
+
+### N29｜揭秘机器人数据采集行业内幕
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95
 
-### N28｜腾讯姚顺雨想把DeepSeek卷到加班
+### N30｜腾讯姚顺雨想把DeepSeek卷到加班
 
-平台：今日头条；榜单排名：26；实际出现快照数：3。
+平台：今日头条；榜单排名：30；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7697961005829668883/
 
-### N29｜周鸿祎谈美国“封杀”DeepSeek
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7699074388208913958/
-
-核对：AI HOT 15 条；TrendRadar 29 条。
+核对：AI HOT 14 条；TrendRadar 30 条。
