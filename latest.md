@@ -1,17 +1,145 @@
-# AI 日报｜2026-10-22
+# AI 日报｜2026-10-23
 
-数据生成时间：2026-10-22T09:27:30+08:00（北京时间）
+数据生成时间：2026-10-23T00:31:56+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：30 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：18 条；TrendRadar：22 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
+### A1｜Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%
+
+Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。
+
+来源：Newcomer 新闻长文（RSS）；发布时间：2026-10-22T15:53:55Z
+
+原文：https://www.newcomer.co/p/the-story-of-anthropics-cap-table
+收录页：https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4
+
+### A2｜METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞
+
+METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。
+
+来源：Redwood Research：Blog（RSS）；发布时间：2026-10-22T15:32:17Z
+
+原文：https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent
+收录页：https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7
+
+### A3｜PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应
+
+PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。
+
+来源：Ars Technica：AI（RSS）；发布时间：2026-10-22T15:25:02Z
+
+原文：https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/
+收录页：https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46
+
+### A4｜404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局
+
+404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的"Black October"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。
+
+来源：404 Media（RSS）；发布时间：2026-10-22T14:23:36Z
+
+原文：https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/
+收录页：https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum
+
+### A5｜Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息
+
+Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。
+
+来源：Sierra：Blog（RSS）；发布时间：2026-10-22T14:02:33Z
+
+原文：https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right
+收录页：https://aihot.news/items/fjyan16f0mvfywabd78m70hv3
+
+### A6｜Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商
+
+Wiz 披露 2026 年 10 月有攻击者使用开源自主渗透测试框架 ARTEX 针对多家 IT 和软件厂商，活动与微软报告的中国国家级关联组织 Storm-0940 重叠，并已扩展到其他软件领域的供应链攻击尝试。
+
+来源：Wiz：Research（安全研究）；发布时间：2026-10-22T13:05:31Z
+
+原文：https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors
+收录页：https://aihot.news/items/n6afjfxhq6vadobu4p0lm6tzm
+
+### A7｜Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击
+
+Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-10-22T11:30:56Z
+
+原文：https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/
+收录页：https://aihot.news/items/r557iovkk5v7ddt8py86ejctv
+
+### A8｜Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图
+
+OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。
+
+来源：X：可灵 Kling AI (@Kling_ai)；发布时间：2026-10-22T06:32:56Z
+
+原文：https://x.com/Kling_ai/status/2113156632134005040
+收录页：https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v
+
+### A9｜Kling 4.0 现已上线 OnSolo
+
+可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。
+
+来源：X：可灵 Kling AI (@Kling_ai)；发布时间：2026-10-22T05:36:40Z
+
+原文：https://x.com/Kling_ai/status/2113142473145078041
+收录页：https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5
+
+### A10｜NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告
+
+NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-22T05:13:16Z
+
+原文：https://x.com/rohanpaul_ai/status/2113136583985766442
+收录页：https://aihot.news/items/eme8i9igoadxb3beb902byfz0
+
+### A11｜WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并
+
+WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-22T03:16:19Z
+
+原文：https://x.com/rohanpaul_ai/status/2113107154219741231
+收录页：https://aihot.news/items/nag5wgod0havrmodeo75pwnge
+
+### A12｜Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元
+
+据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-22T03:13:00Z
+
+原文：https://x.com/rohanpaul_ai/status/2113106318659928525
+收录页：https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah
+
+### A13｜AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘
+
+作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。
+
+来源：X：卡兹克 (@Khazix0918)；发布时间：2026-10-22T02:33:39Z
+
+原文：https://x.com/Khazix0918/status/2113096414469464281
+收录页：https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x
+
+### A14｜消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO
+
+据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。
+
+来源：IT之家·人工智能；发布时间：2026-10-22T02:17:14.247000Z
+
+原文：https://www.ithome.com/1/016/243.htm
+收录页：https://aihot.news/items/p6muwj8t5l4p2fcshu0tpzpek
+
+### A15｜卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
 
 作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。
 
@@ -20,16 +148,16 @@ AI HOT：14 条；TrendRadar：30 条 AI 相关热点。
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60
 收录页：https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
 
-### A2｜OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线
+### A16｜Anthropic 指南：何时把子智能体合并进主 Agent 循环
 
-NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。
+Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。
 
-来源：TechCrunch：AI（RSS）；发布时间：2026-10-21T17:59:12Z
+来源：Claude：Blog（网页）；发布时间：2026-10-22T00:00:00Z
 
-原文：https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/
-收录页：https://aihot.news/items/hhfrsh3lfmud3u56r6ozp64oa
+原文：https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop
+收录页：https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il
 
-### A3｜研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞
+### A17｜研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞
 
 AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。
 
@@ -38,7 +166,7 @@ AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏
 原文：https://x.com/rohanpaul_ai/status/2112962364996038971
 收录页：https://aihot.news/items/heuaxyy5ixq9x5wtoobw5wq7e
 
-### A4｜OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响
+### A18｜OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响
 
 OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。
 
@@ -47,276 +175,138 @@ OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/o
 原文：https://x.com/OpenAI/status/2112945805686604033
 收录页：https://aihot.news/items/b31hjqo2l088vfydp5gcdyv8p
 
-### A5｜Microsoft Research 与合作者证明 31 年历史的 KLS 猜想
-
-Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出的 Kannan–Lovász–Simonovits（KLS）猜想，表明对数凹分布的最优平面切割与任意形状切割的差距不随维度增长，以普适常数为界。
-
-来源：Microsoft Research 博客（RSS）；发布时间：2026-10-21T16:00:00Z
-
-原文：https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/
-收录页：https://aihot.news/items/y1fd2c0s3ydociygdah7apvme
-
-### A6｜OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件
-
-OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。
-
-来源：The Verge：AI（RSS）；发布时间：2026-10-21T13:57:43Z
-
-原文：https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems
-收录页：https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw
-
-### A7｜Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据
-
-Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。
-
-来源：Wiz：Research（安全研究）；发布时间：2026-10-21T13:44:12Z
-
-原文：https://www.wiz.io/blog/litellm-compromised-steals-credentials
-收录页：https://aihot.news/items/rmwtbq3o8rnr9kfjbgric6qew
-
-### A8｜ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响
-
-ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。
-
-来源：ChinaTalk（RSS）；发布时间：2026-10-21T13:43:39Z
-
-原文：https://www.chinatalk.media/p/mofcoms-new-ai-rules
-收录页：https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m
-
-### A9｜Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站
-
-Wiz Research 披露 PHP 核心中的多个内存安全漏洞（CVE-2026-109618/109619，CVSS 最高 9.2），实现无需认证的远程代码执行与内存泄露，影响至少追溯到 PHP 5.4 的近十年版本。
-
-来源：Wiz：Research（安全研究）；发布时间：2026-10-21T13:30:59Z
-
-原文：https://www.wiz.io/blog/php2shell-php-rce
-收录页：https://aihot.news/items/z9nqeyi6p0br6knhkrt3xd3n6
-
-### A10｜OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden
-
-OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-21T12:00:00Z
-
-原文：https://openai.com/index/openai-models-google-cloud
-收录页：https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r
-
-### A11｜OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复
-
-OpenAI 宣布在过去两个月牵头维护者、研究者与安全厂商联盟，修复 PHP 的关键漏洞，其中 Calif 用 GPT-5.6 Sol 发现一处严重缺陷，Wiz 也独立发现并报告了这两个漏洞，PHP 维护者主导修复和发布。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-21T07:00:00Z
-
-原文：https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
-收录页：https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0
-
-### A12｜SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源
-
-Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-21T04:50:29Z
-
-原文：https://x.com/rohanpaul_ai/status/2112768460866695334
-收录页：https://aihot.news/items/qhvh1rm03vym5ns6ku6hjkkmq
-
-### A13｜OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索
-
-OpenAI、PerturbAI 与 Scripps Research 联合发布研究，用数千个由 GPT‑Rosalind 驱动的 AI 智能体并行分析数百万小鼠脑细胞的全脑 CRISPR atlas，32 分钟内完成分析与文献解读，并称人工逐一分析需数月至一年。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-21T04:50:00Z
-
-原文：https://openai.com/index/scaling-ai-research-for-complex-biological-data
-收录页：https://aihot.news/items/indtvl01y865vrsp81h64q7j4
-
-### A14｜WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺
-
-WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B，并承诺约 $4500 亿算力支出。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-21T04:32:45Z
-
-原文：https://x.com/rohanpaul_ai/status/2112763999586771238
-收录页：https://aihot.news/items/oiqrjvmo3ausrs9j1ttttsqc5
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议
+### N1｜黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张
 
-平台：财联社热门；榜单排名：1；实际出现快照数：1。
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2511640
+链接：https://www.cls.cn/detail/2512629
 
-### N2｜低价共享AI付费权益靠谱吗
+### N2｜人形机器人板块集体涨停释放何信号
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
+平台：今日头条；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97
+链接：https://www.toutiao.com/trending/7699493765660020262/
 
-### N3｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
+### N3｜AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784189
+
+### N4｜基金经理为重仓AI致歉，又到了集体反思时刻
+
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2512611
+
+### N5｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784116
 
-### N4｜黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地
+### N6｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
 
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
+平台：知乎；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2511348
+链接：https://www.zhihu.com/question/2096603053763846842
 
-### N5｜英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI
+### N7｜英伟达RTX显卡涨幅扩大
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784122
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX%E6%98%BE%E5%8D%A1%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7
 
-### N6｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
+### N8｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784152
 
-### N7｜SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻
+### N9｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3784066
-
-### N8｜宇树机器人展示举起汽车救人
-
-平台：微博；榜单排名：4；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA
-
-### N9｜连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?
-
-平台：知乎；榜单排名：4；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2095674841978488596
-
-### N10｜揭秘DeepSeek开源推理框架
-
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6
-
-### N11｜Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3784062
-
-### N12｜【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧
-
-平台：财联社热门；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2511149
-
-### N13｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784140
 
-### N14｜超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨
+### N10｜创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784079
+链接：https://wallstreetcn.com/articles/3784171
 
-### N15｜妈妈染上AI短剧后无法自拔
+### N11｜中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？
 
-平台：微博；榜单排名：9；实际出现快照数：1。
+平台：知乎；榜单排名：6；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E6%9F%93%E4%B8%8AAI%E7%9F%AD%E5%89%A7%E5%90%8E%E6%97%A0%E6%B3%95%E8%87%AA%E6%8B%94
+链接：https://www.zhihu.com/question/2096230307561037909
 
-### N16｜传字节阿里腾讯花 350 亿美元订购英伟达工作站 GPU，大厂为何转向采购该显卡？
+### N12｜DeepSeek完成1000亿融资
 
-平台：知乎；榜单排名：9；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2096010997483967669
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
 
-### N17｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
+### N13｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784155
 
-### N18｜网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？
+### N14｜AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了
 
-平台：知乎；榜单排名：10；实际出现快照数：2。
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2095844033167716971
+链接：https://www.cls.cn/detail/2512263
 
-### N19｜特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！
+### N15｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2511667
+链接：https://wallstreetcn.com/articles/3784154
 
-### N20｜多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？
+### N16｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2094620721343481537
+链接：https://www.cls.cn/detail/2512325
 
-### N21｜吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任
+### N17｜“DeepSeek才是真正的OpenAI”
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
+平台：凤凰网；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34296636
+链接：https://news.ifeng.com/c/8xQqgcTDXjq
 
-### N22｜张益唐的数学难题被AI化为习题
+### N18｜野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价
 
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98
+链接：https://wallstreetcn.com/articles/3784197
 
-### N23｜日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？
+### N19｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：知乎；榜单排名：14；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2095491583533658157
+链接：https://www.zhihu.com/question/2096327185309160809
 
-### N24｜比亚迪L3级自动驾驶有望2028年落地
+### N20｜王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力
 
-平台：今日头条；榜单排名：18；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7699048888803577385/
+链接：https://www.thepaper.cn/newsDetail_forward_34306053
 
-### N25｜陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？
+### N21｜宇树发布功夫传奇机器人
 
-平台：知乎；榜单排名：20；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2095840244973004152
-
-### N26｜英伟达RTX Pro 5500订单暴涨
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX+Pro+5500%E8%AE%A2%E5%8D%95%E6%9A%B4%E6%B6%A8
-
-### N27｜外网评最烂AI命名榜,DS夺冠
-
-平台：贴吧；榜单排名：22；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0&topic_id=28367763
-
-### N28｜宇树发布功夫传奇机器人
-
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
 
-### N29｜揭秘机器人数据采集行业内幕
+### N22｜姚明问机器人打篮球能不能做假动作
 
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
+平台：今日头条；榜单排名：28；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95
+链接：https://www.toutiao.com/trending/7699383860152434715/
 
-### N30｜腾讯姚顺雨想把DeepSeek卷到加班
-
-平台：今日头条；榜单排名：30；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7697961005829668883/
-
-核对：AI HOT 14 条；TrendRadar 30 条。
+核对：AI HOT 18 条；TrendRadar 22 条。
