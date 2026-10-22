@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-23
 
-数据生成时间：2026-10-23T06:31:30+08:00（北京时间）
+数据生成时间：2026-10-23T06:41:55+08:00（北京时间）
 
 AI HOT：21 条；TrendRadar：25 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -208,23 +208,23 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://www.cls.cn/detail/2512629
 
-### N2｜基金经理为重仓AI致歉，又到了集体反思时刻
-
-平台：财联社热门；榜单排名：2；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2512611
-
-### N3｜人形机器人板块集体涨停释放何信号
+### N2｜人形机器人板块集体涨停释放何信号
 
 平台：今日头条；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699493765660020262/
 
-### N4｜AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%
+### N3｜AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784189
+
+### N4｜基金经理为重仓AI致歉，又到了集体反思时刻
+
+平台：财联社热门；榜单排名：3；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2512611
 
 ### N5｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
 
@@ -292,59 +292,59 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://wallstreetcn.com/articles/3784197
 
-### N16｜DeepSeek完成1000亿融资
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
-
-### N17｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
+### N16｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
 
 平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2512325
 
-### N18｜“DeepSeek才是真正的OpenAI”
+### N17｜“DeepSeek才是真正的OpenAI”
 
 平台：凤凰网；榜单排名：10；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8xQqgcTDXjq
 
-### N19｜中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？
+### N18｜中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？
 
 平台：知乎；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2096230307561037909
 
-### N20｜AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？
+### N19｜AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2094239068095602796
 
-### N21｜IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险
+### N20｜IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34308431
 
-### N22｜王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力
+### N21｜王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34306053
 
-### N23｜宇树发布功夫传奇机器人
+### N22｜宇树发布功夫传奇机器人
 
 平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
 
-### N24｜曝DeepSeek拟筹得约1000亿元融资
+### N23｜曝DeepSeek拟筹得约1000亿元融资
 
 平台：今日头条；榜单排名：24；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699466374275403307/
+
+### N24｜DeepSeek完成1000亿融资
+
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
 
 ### N25｜姚明问机器人打篮球能不能做假动作
 
