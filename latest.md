@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-23
 
-数据生成时间：2026-10-23T06:41:55+08:00（北京时间）
+数据生成时间：2026-10-23T07:08:46+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：25 条 AI 相关热点。
+AI HOT：21 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -214,7 +214,7 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://www.toutiao.com/trending/7699493765660020262/
 
-### N3｜AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%
+### N3｜AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
@@ -232,23 +232,23 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://wallstreetcn.com/articles/3784152
 
-### N6｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
-
-平台：知乎；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2096603053763846842
-
-### N7｜英伟达RTX显卡涨幅扩大
+### N6｜英伟达RTX显卡涨幅扩大
 
 平台：bilibili 热搜；榜单排名：4；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX%E6%98%BE%E5%8D%A1%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7
 
-### N8｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
+### N7｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784116
+
+### N8｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
+
+平台：知乎；榜单排名：4；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2096603053763846842
 
 ### N9｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
 
@@ -258,33 +258,33 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 ### N10｜创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784171
 
-### N11｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
-
-平台：知乎；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2096327185309160809
-
-### N12｜AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了
+### N11｜AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了
 
 平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2512263
 
-### N13｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
+### N12｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784155
 
-### N14｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
+### N13｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784154
+
+### N14｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
+
+平台：知乎；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2096327185309160809
 
 ### N15｜野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价
 
@@ -312,7 +312,7 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 ### N19｜AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？
 
-平台：知乎；榜单排名：18；实际出现快照数：1。
+平台：知乎；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2094239068095602796
 
@@ -334,22 +334,16 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
 
-### N23｜曝DeepSeek拟筹得约1000亿元融资
-
-平台：今日头条；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7699466374275403307/
-
-### N24｜DeepSeek完成1000亿融资
+### N23｜DeepSeek完成1000亿融资
 
 平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
 
-### N25｜姚明问机器人打篮球能不能做假动作
+### N24｜姚明问机器人打篮球能不能做假动作
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699383860152434715/
 
-核对：AI HOT 21 条；TrendRadar 25 条。
+核对：AI HOT 21 条；TrendRadar 24 条。
