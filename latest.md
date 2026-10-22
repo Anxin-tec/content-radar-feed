@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-23
 
-数据生成时间：2026-10-23T04:31:37+08:00（北京时间）
+数据生成时间：2026-10-23T04:46:43+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：23 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -22,7 +22,16 @@ Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌
 原文：https://x.com/claudeai/status/2113360845409583307
 收录页：https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
 
-### A2｜Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science
+### A2｜OpenAI 正式发布 Decisions API，面向低延迟低成本小决策
+
+OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-22T19:00:00Z
+
+原文：https://openai.com/index/decisions-api
+收录页：https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
+
+### A3｜Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science
 
 Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。
 
@@ -31,7 +40,7 @@ Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系�
 原文：https://microsoft.ai/news/building-medical-superintelligence/
 收录页：https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u
 
-### A3｜Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%
+### A4｜Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%
 
 Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。
 
@@ -40,7 +49,7 @@ Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权�
 原文：https://www.newcomer.co/p/the-story-of-anthropics-cap-table
 收录页：https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4
 
-### A4｜METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞
+### A5｜METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞
 
 METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。
 
@@ -49,7 +58,7 @@ METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日�
 原文：https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent
 收录页：https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7
 
-### A5｜PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应
+### A6｜PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应
 
 PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。
 
@@ -58,7 +67,7 @@ PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研�
 原文：https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/
 收录页：https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46
 
-### A6｜404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局
+### A7｜404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局
 
 404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的"Black October"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。
 
@@ -67,7 +76,7 @@ PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研�
 原文：https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/
 收录页：https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum
 
-### A7｜Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息
+### A8｜Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息
 
 Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。
 
@@ -76,7 +85,7 @@ Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识
 原文：https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right
 收录页：https://aihot.news/items/fjyan16f0mvfywabd78m70hv3
 
-### A8｜Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商
+### A9｜Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商
 
 Wiz 披露 2026 年 10 月有攻击者使用开源自主渗透测试框架 ARTEX 针对多家 IT 和软件厂商，活动与微软报告的中国国家级关联组织 Storm-0940 重叠，并已扩展到其他软件领域的供应链攻击尝试。
 
@@ -85,7 +94,7 @@ Wiz 披露 2026 年 10 月有攻击者使用开源自主渗透测试框架 ARTEX
 原文：https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors
 收录页：https://aihot.news/items/n6afjfxhq6vadobu4p0lm6tzm
 
-### A9｜Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击
+### A10｜Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击
 
 Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。
 
@@ -94,7 +103,7 @@ Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的�
 原文：https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/
 收录页：https://aihot.news/items/r557iovkk5v7ddt8py86ejctv
 
-### A10｜Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图
+### A11｜Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图
 
 OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。
 
@@ -103,7 +112,7 @@ OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多�
 原文：https://x.com/Kling_ai/status/2113156632134005040
 收录页：https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v
 
-### A11｜Kling 4.0 现已上线 OnSolo
+### A12｜Kling 4.0 现已上线 OnSolo
 
 可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。
 
@@ -112,7 +121,7 @@ OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多�
 原文：https://x.com/Kling_ai/status/2113142473145078041
 收录页：https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5
 
-### A12｜NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告
+### A13｜NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告
 
 NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。
 
@@ -121,7 +130,7 @@ NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞
 原文：https://x.com/rohanpaul_ai/status/2113136583985766442
 收录页：https://aihot.news/items/eme8i9igoadxb3beb902byfz0
 
-### A13｜WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并
+### A14｜WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并
 
 WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。
 
@@ -130,7 +139,7 @@ WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $
 原文：https://x.com/rohanpaul_ai/status/2113107154219741231
 收录页：https://aihot.news/items/nag5wgod0havrmodeo75pwnge
 
-### A14｜Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元
+### A15｜Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元
 
 据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。
 
@@ -139,7 +148,7 @@ WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $
 原文：https://x.com/rohanpaul_ai/status/2113106318659928525
 收录页：https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah
 
-### A15｜AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘
+### A16｜AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘
 
 作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。
 
@@ -148,7 +157,7 @@ WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $
 原文：https://x.com/Khazix0918/status/2113096414469464281
 收录页：https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x
 
-### A16｜消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO
+### A17｜消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO
 
 据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。
 
@@ -157,7 +166,7 @@ WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $
 原文：https://www.ithome.com/1/016/243.htm
 收录页：https://aihot.news/items/p6muwj8t5l4p2fcshu0tpzpek
 
-### A17｜卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
+### A18｜卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
 
 作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。
 
@@ -166,7 +175,7 @@ WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60
 收录页：https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
 
-### A18｜Anthropic 指南：何时把子智能体合并进主 Agent 循环
+### A19｜Anthropic 指南：何时把子智能体合并进主 Agent 循环
 
 Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。
 
@@ -183,29 +192,29 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://www.cls.cn/detail/2512629
 
-### N2｜人形机器人板块集体涨停释放何信号
+### N2｜基金经理为重仓AI致歉，又到了集体反思时刻
+
+平台：财联社热门；榜单排名：2；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2512611
+
+### N3｜人形机器人板块集体涨停释放何信号
 
 平台：今日头条；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699493765660020262/
 
-### N3｜AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%
+### N4｜AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784189
 
-### N4｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
+### N5｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
 
 平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2096603053763846842
-
-### N5｜基金经理为重仓AI致歉，又到了集体反思时刻
-
-平台：财联社热门；榜单排名：3；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2512611
 
 ### N6｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
 
@@ -255,41 +264,41 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://wallstreetcn.com/articles/3784155
 
-### N14｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
+### N14｜DeepSeek完成1000亿融资
+
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
+
+### N15｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784154
 
-### N15｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
+### N16｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2512325
 
-### N16｜“DeepSeek才是真正的OpenAI”
+### N17｜“DeepSeek才是真正的OpenAI”
 
 平台：凤凰网；榜单排名：10；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8xQqgcTDXjq
 
-### N17｜野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价
+### N18｜野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784197
 
-### N18｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
+### N19｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2096327185309160809
-
-### N19｜DeepSeek完成1000亿融资
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
 
 ### N20｜IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险
 
@@ -315,4 +324,10 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://www.toutiao.com/trending/7699383860152434715/
 
-核对：AI HOT 18 条；TrendRadar 23 条。
+### N24｜AI让大学生抬头率更低了吗
+
+平台：百度热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=AI%E8%AE%A9%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%AC%E5%A4%B4%E7%8E%87%E6%9B%B4%E4%BD%8E%E4%BA%86%E5%90%97
+
+核对：AI HOT 19 条；TrendRadar 24 条。
