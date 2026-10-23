@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-24
 
-数据生成时间：2026-10-24T04:05:13+08:00（北京时间）
+数据生成时间：2026-10-24T04:31:39+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：14 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：13 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -112,15 +112,6 @@ Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全
 原文：https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident
 收录页：https://aihot.news/items/z0bvyvw47egmxydg6jwaxqxki
 
-### A12｜Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体
-
-Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。
-
-来源：Replit：Blog（RSS）；发布时间：2026-10-22T20:24:13Z
-
-原文：https://replit.com/blog/replit-monitoring-agent
-收录页：https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨
@@ -141,41 +132,41 @@ Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师�
 
 链接：https://wallstreetcn.com/articles/3784272
 
-### N4｜DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？
-
-平台：知乎；榜单排名：4；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2096713518582179306
-
-### N5｜图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责
+### N4｜图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责
 
 平台：澎湃新闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34301129
 
-### N6｜AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅
+### N5｜AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784249
 
-### N7｜机器人概念领涨两市 VIP栏目策划专题解读
+### N6｜机器人概念领涨两市 VIP栏目策划专题解读
 
 平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2513677
 
-### N8｜国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间
+### N7｜国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2513630
 
-### N9｜曝DeepSeek完成千亿融资
+### N8｜曝DeepSeek完成千亿融资
 
 平台：贴吧；榜单排名：7；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
+
+### N9｜DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？
+
+平台：知乎；榜单排名：7；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2096713518582179306
 
 ### N10｜减缓人工智能应用就业替代影响
 
@@ -195,16 +186,10 @@ Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34320341
 
-### N13｜DeepSeek又要拿到一笔巨额融资了
-
-平台：今日头条；榜单排名：26；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7699822969706515994/
-
-### N14｜成都“龟速车”被AI锁定
+### N13｜成都“龟速车”被AI锁定
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699370850386542611/
 
-核对：AI HOT 12 条；TrendRadar 14 条。
+核对：AI HOT 11 条；TrendRadar 13 条。
