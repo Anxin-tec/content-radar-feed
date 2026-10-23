@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-23
 
-数据生成时间：2026-10-23T07:58:40+08:00（北京时间）
+数据生成时间：2026-10-23T08:55:06+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：25 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -182,37 +182,19 @@ WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $
 原文：https://www.ithome.com/1/016/243.htm
 收录页：https://aihot.news/items/p6muwj8t5l4p2fcshu0tpzpek
 
-### A20｜卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
-
-作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-22T00:06:00Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60
-收录页：https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
-
-### A21｜Anthropic 指南：何时把子智能体合并进主 Agent 循环
-
-Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。
-
-来源：Claude：Blog（网页）；发布时间：2026-10-22T00:00:00Z
-
-原文：https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop
-收录页：https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张
-
-平台：财联社热门；榜单排名：1；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2512629
-
-### N2｜AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨
+### N1｜AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨
 
 平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784189
+
+### N2｜黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张
+
+平台：财联社热门；榜单排名：2；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2512629
 
 ### N3｜人形机器人板块集体涨停释放何信号
 
@@ -220,130 +202,136 @@ Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路
 
 链接：https://www.toutiao.com/trending/7699493765660020262/
 
-### N4｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
+### N4｜程序员解读AI挖出PHP安全漏洞
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A7%A3%E8%AF%BBAI%E6%8C%96%E5%87%BAPHP%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E
+
+### N5｜Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784152
 
-### N5｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
+### N6｜如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？
 
 平台：知乎；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2096603053763846842
 
-### N6｜英伟达RTX显卡涨幅扩大
+### N7｜英伟达RTX显卡涨幅扩大
 
 平台：bilibili 热搜；榜单排名：4；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX%E6%98%BE%E5%8D%A1%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7
 
-### N7｜基金经理为重仓AI致歉，又到了集体反思时刻
+### N8｜基金经理为重仓AI致歉，又到了集体反思时刻
 
 平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2512611
 
-### N8｜创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌
+### N9｜创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784171
 
-### N9｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
+### N10｜强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784116
 
-### N10｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
+### N11｜AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784140
 
-### N11｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
+### N12｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3784155
-
-### N12｜Meta电话会：Muse商业化比以往更早，拆股融资支撑算力需求，明年成本效率提升十倍
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
 链接：https://wallstreetcn.com/articles/3784154
 
-### N13｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
-
-平台：知乎；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2096327185309160809
-
-### N14｜AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了
+### N13｜AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2512263
 
-### N15｜野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价
+### N14｜如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+平台：知乎；榜单排名：7；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2096327185309160809
+
+### N15｜AI短片妖怪衙门
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8
+
+### N16｜DeepSeek完成1000亿融资
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
+
+### N17｜特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3784155
+
+### N18｜野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784197
 
-### N16｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
+### N19｜【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫
 
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2512325
 
-### N17｜“DeepSeek才是真正的OpenAI”
+### N20｜“DeepSeek才是真正的OpenAI”
 
 平台：凤凰网；榜单排名：10；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8xQqgcTDXjq
 
-### N18｜中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？
+### N21｜中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2096230307561037909
 
-### N19｜AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？
-
-平台：知乎；榜单排名：15；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2094239068095602796
-
-### N20｜IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险
+### N22｜IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险
 
 平台：澎湃新闻；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34308431
 
-### N21｜王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力
+### N23｜王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34306053
 
-### N22｜DeepSeek完成1000亿融资
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84
-
-### N23｜宇树发布功夫传奇机器人
+### N24｜宇树发布功夫传奇机器人
 
 平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA
 
-### N24｜姚明问机器人打篮球能不能做假动作
+### N25｜姚明问机器人打篮球能不能做假动作
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699383860152434715/
 
-核对：AI HOT 21 条；TrendRadar 24 条。
+核对：AI HOT 19 条；TrendRadar 25 条。
