@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-24
 
-数据生成时间：2026-10-24T07:51:16+08:00（北京时间）
+数据生成时间：2026-10-24T09:01:42+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：15 条 AI 相关热点。
+AI HOT：10 条；TrendRadar：17 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -101,15 +101,6 @@ MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B�
 原文：https://x.com/MiniMax_AI/status/2113436864904610008
 收录页：https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314
 
-### A11｜Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计
-
-Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。
-
-来源：Claude：Blog（网页）；发布时间：2026-10-23T00:00:00Z
-
-原文：https://claude.com/blog/claude-duet-safety-privacy-and-security
-收录页：https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨
@@ -118,23 +109,23 @@ Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全
 
 链接：https://wallstreetcn.com/articles/3784189
 
-### N2｜奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%
+### N2｜油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3784279
+
+### N3｜图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责
+
+平台：澎湃新闻；榜单排名：2；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34301129
+
+### N4｜奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784272
-
-### N3｜图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责
-
-平台：澎湃新闻；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34301129
-
-### N4｜油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%
-
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784279
 
 ### N5｜DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？
 
@@ -142,64 +133,76 @@ Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全
 
 链接：https://www.zhihu.com/question/2096713518582179306
 
-### N6｜AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅
+### N6｜AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784249
-
-### N7｜机器人概念领涨两市 VIP栏目策划专题解读
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2513677
-
-### N8｜AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784277
 
-### N9｜国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间
+### N7｜AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3784249
+
+### N8｜机器人概念领涨两市 VIP栏目策划专题解读
 
 平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2513630
+链接：https://www.cls.cn/detail/2513677
 
-### N10｜曝DeepSeek完成千亿融资
+### N9｜宇树机器人侧空翻表演时甩断腿
 
-平台：贴吧；榜单排名：7；实际出现快照数：3。
+平台：微博；榜单排名：7；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
+链接：https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BE%A7%E7%A9%BA%E7%BF%BB%E8%A1%A8%E6%BC%94%E6%97%B6%E7%94%A9%E6%96%AD%E8%85%BF%23
 
-### N11｜投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资
+### N10｜投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784256
 
-### N12｜减缓人工智能应用就业替代影响
+### N11｜减缓人工智能应用就业替代影响
 
 平台：微博；榜单排名：8；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D%23
 
-### N13｜Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？
+### N12｜国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间
 
-平台：知乎；榜单排名：8；实际出现快照数：3。
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2096930670463530796
+链接：https://www.cls.cn/detail/2513630
+
+### N13｜曝DeepSeek完成千亿融资
+
+平台：贴吧；榜单排名：9；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
 
 ### N14｜AI算力市场需求持续旺盛：寒武纪三季度营收翻倍，净利14亿元增近1.5倍
 
-平台：澎湃新闻；榜单排名：12；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34320341
 
-### N15｜成都“龟速车”被AI锁定
+### N15｜AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784326
+
+### N16｜Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？
+
+平台：知乎；榜单排名：12；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2096930670463530796
+
+### N17｜成都“龟速车”被AI锁定
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7699370850386542611/
 
-核对：AI HOT 11 条；TrendRadar 15 条。
+核对：AI HOT 10 条；TrendRadar 17 条。
