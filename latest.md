@@ -1,17 +1,46 @@
-# AI 日报｜2026-10-24
+# AI 日报｜2026-10-25
 
-数据生成时间：2026-10-24T09:31:22+08:00（北京时间）
+数据生成时间：2026-10-25T00:31:39+08:00（北京时间）
 
-AI HOT：9 条；TrendRadar：19 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：6 条；TrendRadar：17 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露
+### A1｜Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视
+
+Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。
+
+来源：X：Ethan Mollick (@emollick)；发布时间：2026-10-24T14:30:45Z
+
+原文：https://x.com/emollick/status/2114001653879672877
+收录页：https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c
+
+### A2｜OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信
+
+OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-10-24T11:12:36Z
+
+原文：https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
+收录页：https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1
+
+### A3｜Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效
+
+月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-10-24T02:08:43Z
+
+原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f
+收录页：https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s
+
+### A4｜OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露
 
 OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。
 
@@ -20,7 +49,7 @@ OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程�
 原文：https://x.com/OpenAI/status/2113766354386084338
 收录页：https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc
 
-### A2｜Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职
+### A5｜Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职
 
 Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。
 
@@ -29,7 +58,7 @@ Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管�
 原文：https://x.com/alexeheath/status/2113706585348600220
 收录页：https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf
 
-### A3｜月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型
+### A6｜月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型
 
 OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。
 
@@ -38,174 +67,108 @@ OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 
 原文：https://x.com/OpenRouter/status/2113699820124934334
 收录页：https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4
 
-### A4｜月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出
-
-月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。
-
-来源：Moonshot AI：Kimi Blog；发布时间：2026-10-23T16:00:00Z
-
-原文：https://www.kimi.com/blog/kimi-k3-1-pro
-收录页：https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie
-
-### A5｜Kling 4.0 在 fal 上线并向所有客户开放 API 访问
-
-fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。
-
-来源：X：fal (@fal)；发布时间：2026-10-23T15:00:43Z
-
-原文：https://x.com/fal/status/2113646807997620396
-收录页：https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh
-
-### A6｜OpenAI 详解前沿模型训练环境的安全加固与红队测试
-
-OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-23T10:00:00Z
-
-原文：https://openai.com/index/securing-our-frontier-model-training-environment
-收录页：https://aihot.news/items/ss1c1fu81134agwcw2ae90gai
-
-### A7｜OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元
-
-OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-10-23T09:49:38Z
-
-原文：https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/
-收录页：https://aihot.news/items/qexf6est4uitwd71p3ugedxo6
-
-### A8｜国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响
-
-国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。
-
-来源：IT之家·人工智能；发布时间：2026-10-23T09:17:16.350000Z
-
-原文：https://www.ithome.com/1/017/113.htm
-收录页：https://aihot.news/items/shi5tga503u6jcb3itberbm18
-
-### A9｜WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员
-
-据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-23T06:04:55Z
-
-原文：https://x.com/rohanpaul_ai/status/2113511968112042349
-收录页：https://aihot.news/items/mc8widr5lukck9npmgeat917x
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨
+### N1｜AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784189
+链接：https://wallstreetcn.com/articles/3784376
 
-### N2｜油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%
+### N2｜国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
+平台：知乎；榜单排名：1；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2097043375547536464
+
+### N3｜又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题
+
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2513560
+
+### N4｜B站肥鱼成灾,AI评论泛滥
+
+平台：贴吧；榜单排名：3；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
+
+### N5｜油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784279
 
-### N3｜图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责
+### N6｜当AI开始写代码，还需要什么样的程序员？
 
-平台：澎湃新闻；榜单排名：2；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34301129
+链接：https://www.thepaper.cn/newsDetail_forward_34225156
 
-### N4｜奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%
+### N7｜Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784272
+链接：https://wallstreetcn.com/articles/3784358
 
-### N5｜AI短剧公司几乎不需要基础岗
+### N8｜亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求
 
-平台：微博；榜单排名：2；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E5%85%AC%E5%8F%B8%E5%87%A0%E4%B9%8E%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9F%BA%E7%A1%80%E5%B2%97
+链接：https://wallstreetcn.com/articles/3784391
 
-### N6｜DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？
+### N9｜“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI
 
-平台：知乎；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2096713518582179306
+链接：https://wallstreetcn.com/articles/3784388
 
-### N7｜AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！
+### N10｜宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：知乎；榜单排名：7；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784277
+链接：https://www.zhihu.com/question/2097252062257832354
 
-### N8｜AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅
+### N11｜38美元，DeepSeek算了一笔赚钱的账
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784249
+链接：https://wallstreetcn.com/articles/3784386
 
-### N9｜机器人概念领涨两市 VIP栏目策划专题解读
+### N12｜“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2513677
+链接：https://www.cls.cn/detail/2514247
 
-### N10｜宇树机器人侧空翻表演时甩断腿
-
-平台：微博；榜单排名：7；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BE%A7%E7%A9%BA%E7%BF%BB%E8%A1%A8%E6%BC%94%E6%97%B6%E7%94%A9%E6%96%AD%E8%85%BF%23
-
-### N11｜国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间
-
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2513630
-
-### N12｜投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3784256
-
-### N13｜减缓人工智能应用就业替代影响
-
-平台：微博；榜单排名：8；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D%23
-
-### N14｜曝DeepSeek完成千亿融资
-
-平台：贴吧；榜单排名：9；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
-
-### N15｜AI算力市场需求持续旺盛：寒武纪三季度营收翻倍，净利14亿元增近1.5倍
-
-平台：澎湃新闻；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34320341
-
-### N16｜AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻
+### N13｜警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784326
+链接：https://wallstreetcn.com/articles/3784379
 
-### N17｜Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？
+### N14｜OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世
 
-平台：知乎；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2096930670463530796
+链接：https://www.cls.cn/detail/2514203
 
-### N18｜博主：DeepSeek打碎了AI很贵的共识
+### N15｜“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”
 
-平台：今日头条；榜单排名：27；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7699976198847204927/
+链接：https://www.cls.cn/detail/2513542
 
-### N19｜成都“龟速车”被AI锁定
+### N16｜《过来人》和Yuri：两场AI音乐试验都在守“人味”
 
-平台：今日头条；榜单排名：28；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：18；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7699370850386542611/
+链接：https://www.thepaper.cn/newsDetail_forward_34317944
 
-核对：AI HOT 9 条；TrendRadar 19 条。
+### N17｜曝DeepSeek完成千亿融资
+
+平台：贴吧；榜单排名：26；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
+
+核对：AI HOT 6 条；TrendRadar 17 条。
