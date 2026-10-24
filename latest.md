@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-25
 
-数据生成时间：2026-10-25T00:31:39+08:00（北京时间）
+数据生成时间：2026-10-25T02:59:29+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：4 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -49,24 +49,6 @@ OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程�
 原文：https://x.com/OpenAI/status/2113766354386084338
 收录页：https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc
 
-### A5｜Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职
-
-Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。
-
-来源：X：Alex Heath (@alexeheath)；发布时间：2026-10-23T18:58:15Z
-
-原文：https://x.com/alexeheath/status/2113706585348600220
-收录页：https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf
-
-### A6｜月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型
-
-OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。
-
-来源：X：OpenRouter (@OpenRouter)；发布时间：2026-10-23T18:31:22Z
-
-原文：https://x.com/OpenRouter/status/2113699820124934334
-收录页：https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案
@@ -83,7 +65,7 @@ OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 
 
 ### N3｜又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2513560
 
@@ -99,47 +81,47 @@ OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 
 
 链接：https://wallstreetcn.com/articles/3784279
 
-### N6｜当AI开始写代码，还需要什么样的程序员？
-
-平台：澎湃新闻；榜单排名：4；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34225156
-
-### N7｜Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重
+### N6｜Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784358
 
+### N7｜当AI开始写代码，还需要什么样的程序员？
+
+平台：澎湃新闻；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34225156
+
 ### N8｜亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784391
 
 ### N9｜“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784388
 
-### N10｜宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？
-
-平台：知乎；榜单排名：7；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2097252062257832354
-
-### N11｜38美元，DeepSeek算了一笔赚钱的账
+### N10｜38美元，DeepSeek算了一笔赚钱的账
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784386
 
-### N12｜“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？
+### N11｜“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？
 
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2514247
+
+### N12｜宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？
+
+平台：知乎；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2097252062257832354
 
 ### N13｜警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”
 
@@ -159,16 +141,10 @@ OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 
 
 链接：https://www.cls.cn/detail/2513542
 
-### N16｜《过来人》和Yuri：两场AI音乐试验都在守“人味”
-
-平台：澎湃新闻；榜单排名：18；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34317944
-
-### N17｜曝DeepSeek完成千亿融资
+### N16｜曝DeepSeek完成千亿融资
 
 平台：贴吧；榜单排名：26；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
 
-核对：AI HOT 6 条；TrendRadar 17 条。
+核对：AI HOT 4 条；TrendRadar 16 条。
