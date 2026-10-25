@@ -1,169 +1,114 @@
-# AI 日报｜2026-10-25
+# AI 日报｜2026-10-26
 
-数据生成时间：2026-10-25T09:03:23+08:00（北京时间）
+数据生成时间：2026-10-26T00:31:36+08:00（北京时间）
 
-AI HOT：3 条；TrendRadar：21 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：0 条；TrendRadar：16 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视
-
-Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。
-
-来源：X：Ethan Mollick (@emollick)；发布时间：2026-10-24T14:30:45Z
-
-原文：https://x.com/emollick/status/2114001653879672877
-收录页：https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c
-
-### A2｜OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信
-
-OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-10-24T11:12:36Z
-
-原文：https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
-收录页：https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1
-
-### A3｜Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效
-
-月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-24T02:08:43Z
-
-原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f
-收录页：https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案
+### N1｜英伟达老显卡算力被破解了吗
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784376
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%80%81%E6%98%BE%E5%8D%A1%E7%AE%97%E5%8A%9B%E8%A2%AB%E7%A0%B4%E8%A7%A3%E4%BA%86%E5%90%97
 
-### N2｜又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题
+### N2｜下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？
 
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784282
+
+### N3｜又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题
+
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2513560
 
-### N3｜亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求
+### N4｜AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784391
+链接：https://wallstreetcn.com/articles/3784405
 
-### N4｜油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%
+### N5｜“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3784279
-
-### N5｜B站肥鱼成灾,AI评论泛滥
-
-平台：贴吧；榜单排名：4；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
-
-### N6｜“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784388
-
-### N7｜“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2514247
 
-### N8｜38美元，DeepSeek算了一笔赚钱的账
+### N6｜2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784386
+链接：https://www.thepaper.cn/newsDetail_forward_34326151
 
-### N9｜当AI开始写代码，还需要什么样的程序员？
+### N7｜SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？
 
-平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34225156
+链接：https://wallstreetcn.com/articles/3784410
 
-### N10｜警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784379
-
-### N11｜从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784381
-
-### N12｜AI交易崩盘，Anthropic会推迟"超级IPO"吗？距离11月中旬"预定上市日期"不远了
+### N8｜野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784380
+链接：https://wallstreetcn.com/articles/3784406
 
-### N13｜为什么 chatgpt 和 claude 防不住蒸馏？
+### N9｜环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调
 
-平台：知乎；榜单排名：11；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2097291551575749628
+链接：https://www.cls.cn/detail/2514275
 
-### N14｜OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世
+### N10｜央视批AI魔改经典名著
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：贴吧；榜单排名：10；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97&topic_id=28368017
+
+### N11｜机器人IPO门槛提高 具身智能一级市场预期变了
+
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2514289
+
+### N12｜DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心
+
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2514315
+
+### N13｜OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2514203
 
-### N15｜宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？
+### N14｜7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2097252062257832354
+链接：https://www.thepaper.cn/newsDetail_forward_34328097
 
-### N16｜“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”
+### N15｜DeepSeek到底怎么得罪了美国
 
-平台：财联社热门；榜单排名：13；实际出现快照数：3。
+平台：今日头条；榜单排名：17；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2513542
+链接：https://www.toutiao.com/trending/7700471897347067435/
 
-### N17｜国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？
+### N16｜B站肥鱼成灾,AI评论泛滥
 
-平台：知乎；榜单排名：17；实际出现快照数：3。
+平台：贴吧；榜单排名：19；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2097043375547536464
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
 
-### N18｜2026 年 10 月 Steam 新品节被指 AI 游戏过多，怎么全民做游戏的浪潮刚开始就人人喊打了？
-
-平台：知乎；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2096210471389077623
-
-### N19｜曝DeepSeek完成千亿融资
-
-平台：贴吧；榜单排名：27；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84&topic_id=28367960
-
-### N20｜智元机器人创造吉尼斯世界纪录
-
-平台：百度热搜；榜单排名：29；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E6%99%BA%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E9%80%A0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95
-
-### N21｜AI泡沫或在2028年初破裂
-
-平台：今日头条；榜单排名：29；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7699860703661788691/
-
-核对：AI HOT 3 条；TrendRadar 21 条。
+核对：AI HOT 0 条；TrendRadar 16 条。
