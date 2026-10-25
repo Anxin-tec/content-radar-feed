@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-26
 
-数据生成时间：2026-10-26T00:31:36+08:00（北京时间）
+数据生成时间：2026-10-26T03:15:16+08:00（北京时间）
 
-AI HOT：0 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：0 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -35,7 +35,7 @@ AI HOT：0 条；TrendRadar：16 条 AI 相关热点。
 
 ### N4｜AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784405
 
@@ -47,7 +47,7 @@ AI HOT：0 条；TrendRadar：16 条 AI 相关热点。
 
 ### N6｜2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案
 
-平台：澎湃新闻；榜单排名：7；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34326151
 
@@ -87,23 +87,23 @@ AI HOT：0 条；TrendRadar：16 条 AI 相关热点。
 
 链接：https://www.cls.cn/detail/2514315
 
-### N13｜OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世
+### N13｜市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2514203
+链接：https://www.cls.cn/detail/2514356
 
-### N14｜7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力
+### N14｜DeepSeek到底怎么得罪了美国
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34328097
-
-### N15｜DeepSeek到底怎么得罪了美国
-
-平台：今日头条；榜单排名：17；实际出现快照数：1。
+平台：今日头条；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7700471897347067435/
+
+### N15｜7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力
+
+平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34328097
 
 ### N16｜B站肥鱼成灾,AI评论泛滥
 
@@ -111,4 +111,16 @@ AI HOT：0 条；TrendRadar：16 条 AI 相关热点。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
 
-核对：AI HOT 0 条；TrendRadar 16 条。
+### N17｜丈母娘也开始抢AI人了
+
+平台：百度热搜；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86
+
+### N18｜机器人老板们烧香、磕头、翻旧账
+
+平台：百度热搜；榜单排名：28；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%81%E6%9D%BF%E4%BB%AC%E7%83%A7%E9%A6%99%E3%80%81%E7%A3%95%E5%A4%B4%E3%80%81%E7%BF%BB%E6%97%A7%E8%B4%A6
+
+核对：AI HOT 0 条；TrendRadar 18 条。
