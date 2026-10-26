@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-27
 
-数据生成时间：2026-10-27T05:11:39+08:00（北京时间）
+数据生成时间：2026-10-27T05:50:49+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：21 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -180,7 +180,7 @@ OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推�
 
 链接：https://www.zhihu.com/question/2097984108207027914
 
-### N3｜Anthropic正式提交IPO申请！上半年净亏损807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”
+### N3｜Anthropic正式提交IPO申请！上半年净亏807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
@@ -234,64 +234,58 @@ OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34335625
 
-### N12｜专家：AI视频生成下一步是更高级智能
-
-平台：今日头条；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7700830683280687131/
-
-### N13｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
-
-平台：知乎；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2098146460403615476
-
-### N14｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
+### N12｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784484
 
-### N15｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
+### N13｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
+
+平台：知乎；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2098146460403615476
+
+### N14｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515772
 
-### N16｜AI短片《齐天大圣》为何能引发关注
+### N15｜AI伪人广告正在集体“霸凌”人类
 
-平台：今日头条；榜单排名：16；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7700837515682578495/
-
-### N17｜AI伪人广告正在集体“霸凌”人类
-
-平台：百度热搜；榜单排名：18；实际出现快照数：1。
+平台：百度热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB
 
-### N18｜央视批AI魔改经典名著
+### N16｜DeepSeek七款工具同题实测
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B
+
+### N17｜央视批AI魔改经典名著
 
 平台：贴吧；榜单排名：20；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97&topic_id=28368017
 
-### N19｜B站肥鱼成灾,AI评论泛滥
+### N18｜AI短片《齐天大圣》为何能引发关注
+
+平台：今日头条；榜单排名：20；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7700837515682578495/
+
+### N19｜专家：AI视频生成下一步是更高级智能
+
+平台：今日头条；榜单排名：24；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7700830683280687131/
+
+### N20｜B站肥鱼成灾,AI评论泛滥
 
 平台：贴吧；榜单排名：27；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
 
-### N20｜DeepSeek七款工具同题实测
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B
-
-### N21｜DeepSeek把自家“印钞机”开源了
-
-平台：今日头条；榜单排名：29；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7700884077489950271/
-
-核对：AI HOT 17 条；TrendRadar 21 条。
+核对：AI HOT 17 条；TrendRadar 20 条。
