@@ -1,13 +1,11 @@
 # AI 日报｜2026-10-27
 
-数据生成时间：2026-10-27T05:50:49+08:00（北京时间）
+数据生成时间：2026-10-27T06:31:25+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：20 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：18 条；TrendRadar：21 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -148,7 +146,16 @@ OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推�
 原文：https://openai.com/index/introducing-gpt-6-1-terra/
 收录页：https://aihot.news/items/zogr3l33craxfj4s296npqpqc
 
-### A16｜英国 AISI 实测 ESM-2 预训练数据过滤可削弱目标能力但约 80 美元算力即可恢复
+### A16｜OpenAI 宣布模型产出三项数学成果并与学界协作发布
+
+OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取得三项成果，包括证明各维度的 local smoothing 猜想（进而解决 Kakeya 猜想与 Stein 限制猜想）、在 Lean 中验证 ETH 为假、以及给出 QCD 与纯 Yang–Mills 理论的严格存在性证明。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-26T00:00:00Z
+
+原文：https://openai.com/index/building-scientific-understanding-with-academic-communities
+收录页：https://aihot.news/items/x7jvppwrm1ldjd93v0jvsfd9c
+
+### A17｜英国 AISI 实测 ESM-2 预训练数据过滤可削弱目标能力但约 80 美元算力即可恢复
 
 英国 AI Security Institute 的 Chem-Bio 团队从零预训练 8M 到 3B 参数的 ESM-2 蛋白质语言模型，测试预训练数据过滤对专业科学模型的效果。
 
@@ -157,7 +164,7 @@ OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推�
 原文：https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models
 收录页：https://aihot.news/items/xm6i4tcgyby0bditot3bz9x8x
 
-### A17｜AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具
+### A18｜AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具
 
 英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。
 
@@ -170,122 +177,128 @@ OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推�
 
 ### N1｜如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？
 
-平台：知乎；榜单排名：1；实际出现快照数：2。
+平台：知乎；榜单排名：1；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2098102680065237063
 
 ### N2｜菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2097984108207027914
 
 ### N3｜Anthropic正式提交IPO申请！上半年净亏807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784495
 
 ### N4｜AI被当真人,大肥鱼遭网恋哥骚扰
 
-平台：贴吧；榜单排名：4；实际出现快照数：2。
+平台：贴吧；榜单排名：4；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0&topic_id=28368128
 
-### N5｜Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强
+### N5｜Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784464
 
 ### N6｜DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？
 
-平台：知乎；榜单排名：4；实际出现快照数：2。
+平台：知乎；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2095940115537334577
 
-### N7｜周末，物理AI“刷屏”
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3784428
-
-### N8｜【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元
+### N7｜【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515278
 
-### N9｜马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足
+### N8｜美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨
 
-平台：财联社热门；榜单排名：6；实际出现快照数：2。
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2515881
+
+### N9｜周末，物理AI“刷屏”
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3784428
+
+### N10｜马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足
+
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2515369
 
-### N10｜沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%
+### N11｜沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784435
 
-### N11｜众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处
+### N12｜众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处
 
-平台：澎湃新闻；榜单排名：8；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34335625
 
-### N12｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
+### N13｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784484
 
-### N13｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
+### N14｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
 
-平台：知乎；榜单排名：10；实际出现快照数：1。
+平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2098146460403615476
 
-### N14｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
+### N15｜DeepSeek七款工具同题实测
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2515772
-
-### N15｜AI伪人广告正在集体“霸凌”人类
-
-平台：百度热搜；榜单排名：15；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB
-
-### N16｜DeepSeek七款工具同题实测
-
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B
 
-### N17｜央视批AI魔改经典名著
+### N16｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
 
-平台：贴吧；榜单排名：20；实际出现快照数：2。
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97&topic_id=28368017
+链接：https://www.cls.cn/detail/2515772
 
-### N18｜AI短片《齐天大圣》为何能引发关注
+### N17｜AI短片《齐天大圣》为何能引发关注
 
-平台：今日头条；榜单排名：20；实际出现快照数：2。
+平台：今日头条；榜单排名：14；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7700837515682578495/
 
+### N18｜AI伪人广告正在集体“霸凌”人类
+
+平台：百度热搜；榜单排名：16；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB
+
 ### N19｜专家：AI视频生成下一步是更高级智能
 
-平台：今日头条；榜单排名：24；实际出现快照数：1。
+平台：今日头条；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7700830683280687131/
 
-### N20｜B站肥鱼成灾,AI评论泛滥
+### N20｜央视批AI魔改经典名著
 
-平台：贴吧；榜单排名：27；实际出现快照数：2。
+平台：贴吧；榜单排名：20；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97&topic_id=28368017
+
+### N21｜B站肥鱼成灾,AI评论泛滥
+
+平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
 
-核对：AI HOT 17 条；TrendRadar 20 条。
+核对：AI HOT 18 条；TrendRadar 21 条。
