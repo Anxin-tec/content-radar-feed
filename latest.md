@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-27
 
-数据生成时间：2026-10-27T06:31:25+08:00（北京时间）
+数据生成时间：2026-10-27T06:52:07+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：21 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -193,89 +193,89 @@ OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取�
 
 链接：https://wallstreetcn.com/articles/3784495
 
-### N4｜AI被当真人,大肥鱼遭网恋哥骚扰
+### N4｜众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处
+
+平台：澎湃新闻；榜单排名：4；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34335625
+
+### N5｜AI被当真人,大肥鱼遭网恋哥骚扰
 
 平台：贴吧；榜单排名：4；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0&topic_id=28368128
 
-### N5｜Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落
+### N6｜Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784464
 
-### N6｜DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？
+### N7｜DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？
 
-平台：知乎；榜单排名：4；实际出现快照数：3。
+平台：知乎；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2095940115537334577
 
-### N7｜【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元
+### N8｜【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515278
 
-### N8｜美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨
+### N9｜美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515881
 
-### N9｜周末，物理AI“刷屏”
+### N10｜周末，物理AI“刷屏”
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784428
 
-### N10｜马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足
+### N11｜马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足
 
 平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2515369
 
-### N11｜沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%
+### N12｜沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784435
 
-### N12｜众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处
+### N13｜AI短片《齐天大圣》为何能引发关注
 
-平台：澎湃新闻；榜单排名：8；实际出现快照数：2。
+平台：今日头条；榜单排名：8；实际出现快照数：3。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34335625
+链接：https://www.toutiao.com/trending/7700837515682578495/
 
-### N13｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
+### N14｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784484
 
-### N14｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
+### N15｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
 
-平台：知乎；榜单排名：10；实际出现快照数：2。
+平台：知乎；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2098146460403615476
 
-### N15｜DeepSeek七款工具同题实测
+### N16｜DeepSeek七款工具同题实测
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B
 
-### N16｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
+### N17｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
 
 平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2515772
-
-### N17｜AI短片《齐天大圣》为何能引发关注
-
-平台：今日头条；榜单排名：14；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7700837515682578495/
 
 ### N18｜AI伪人广告正在集体“霸凌”人类
 
@@ -283,11 +283,11 @@ OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取�
 
 链接：https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB
 
-### N19｜专家：AI视频生成下一步是更高级智能
+### N19｜Meta拟融资950亿美元砸向AI，英伟达、AMD、博通有意认购至多50亿美元股票
 
-平台：今日头条；榜单排名：16；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7700830683280687131/
+链接：https://www.thepaper.cn/newsDetail_forward_34335837
 
 ### N20｜央视批AI魔改经典名著
 
@@ -295,10 +295,22 @@ OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97&topic_id=28368017
 
-### N21｜B站肥鱼成灾,AI评论泛滥
+### N21｜DeepSeek把自家“印钞机”开源了
+
+平台：今日头条；榜单排名：25；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7700884077489950271/
+
+### N22｜B站肥鱼成灾,AI评论泛滥
 
 平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
 
-核对：AI HOT 18 条；TrendRadar 21 条。
+### N23｜专家：AI视频生成下一步是更高级智能
+
+平台：今日头条；榜单排名：27；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7700830683280687131/
+
+核对：AI HOT 18 条；TrendRadar 23 条。
