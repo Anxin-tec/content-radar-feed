@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-27
 
-数据生成时间：2026-10-27T09:37:21+08:00（北京时间）
+数据生成时间：2026-10-27T10:01:30+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：33 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：32 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -172,71 +172,71 @@ Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1
 
 链接：https://wallstreetcn.com/articles/3784495
 
-### N2｜美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨
+### N2｜如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？
+
+平台：知乎；榜单排名：1；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2098102680065237063
+
+### N3｜美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨
 
 平台：财联社热门；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515881
 
-### N3｜Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落
+### N4｜Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784464
 
-### N4｜菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？
+### N5｜菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？
 
 平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2097984108207027914
 
-### N5｜OpenAI公布三项科学成果
+### N6｜OpenAI公布三项科学成果
 
 平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C
 
-### N6｜众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处
+### N7｜众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处
 
 平台：澎湃新闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34335625
 
-### N7｜DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？
+### N8｜DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？
 
 平台：知乎；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2095940115537334577
 
-### N8｜卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场
+### N9｜卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场
 
 平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515893
 
-### N9｜周末，物理AI“刷屏”
+### N10｜周末，物理AI“刷屏”
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784428
 
-### N10｜史上最大IPO 史上最亏AI公司
+### N11｜史上最大IPO 史上最亏AI公司
 
 平台：百度热搜；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8
 
-### N11｜【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元
+### N12｜【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2515278
-
-### N12｜微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算
-
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2515838
 
 ### N13｜马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足
 
@@ -250,23 +250,23 @@ Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1
 
 链接：https://wallstreetcn.com/articles/3784435
 
-### N15｜如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？
+### N15｜10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险
 
-平台：知乎；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2098102680065237063
+链接：https://www.cls.cn/detail/2515947
 
-### N16｜AI被当真人,大肥鱼遭网恋哥骚扰
-
-平台：贴吧；榜单排名：7；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0&topic_id=28368128
-
-### N17｜10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险
+### N16｜微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算
 
 平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2515947
+链接：https://www.cls.cn/detail/2515838
+
+### N17｜AI被当真人,大肥鱼遭网恋哥骚扰
+
+平台：贴吧；榜单排名：8；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0&topic_id=28368128
 
 ### N18｜股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药
 
@@ -274,11 +274,11 @@ Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1
 
 链接：https://wallstreetcn.com/articles/3784484
 
-### N19｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
+### N19｜如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？
 
-平台：财联社热门；榜单排名：9；实际出现快照数：2。
+平台：知乎；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2515772
+链接：https://www.zhihu.com/question/2098291700204622696
 
 ### N20｜马斯克预警：200多家AI云厂商面临清洗，Nebius、CoreWeave盘前跌超4%
 
@@ -286,82 +286,76 @@ Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1
 
 链接：https://wallstreetcn.com/articles/3784479
 
-### N21｜马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人
+### N21｜Anthropic招股书来了：近一年10万美元+营收客户超11900家
+
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2515772
+
+### N22｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
+
+平台：知乎；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2098146460403615476
+
+### N23｜马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人
 
 平台：澎湃新闻；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34336116
 
-### N22｜如何评价 OpenAI 发布的 GPT-6.1 Terra？
+### N24｜如何评价 OpenAI 发布的 GPT-6.1 Terra？
 
-平台：知乎；榜单排名：11；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2098252387312058852
 
-### N23｜Meta拟融资950亿美元  为AI基础设施和“超级智能”筹钱
-
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2515690
-
-### N24｜老干妈HR回应AI裁员传闻
+### N25｜老干妈HR回应AI裁员传闻
 
 平台：抖音；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2714511
 
-### N25｜DeepSeek七款工具同题实测
-
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B
-
-### N26｜如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？
-
-平台：知乎；榜单排名：14；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2098146460403615476
-
-### N27｜AI伪人广告正在集体“霸凌”人类
+### N26｜AI伪人广告正在集体“霸凌”人类
 
 平台：百度热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB
 
-### N28｜Meta拟融资950亿美元砸向AI，英伟达、AMD、博通有意认购至多50亿美元股票
+### N27｜Meta拟融资950亿美元砸向AI，英伟达、AMD、博通有意认购至多50亿美元股票
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34335837
 
-### N29｜S16进入大AI时代
-
-平台：抖音；榜单排名：18；实际出现快照数：1。
-
-链接：https://www.douyin.com/hot/2712181
-
-### N30｜AI短片《齐天大圣》为何能引发关注
+### N28｜AI短片《齐天大圣》为何能引发关注
 
 平台：今日头条；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7700837515682578495/
 
-### N31｜央视批AI魔改经典名著
+### N29｜央视批AI魔改经典名著
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97&topic_id=28368017
 
-### N32｜专家：AI视频生成下一步是更高级智能
+### N30｜专家：AI视频生成下一步是更高级智能
 
 平台：今日头条；榜单排名：24；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7700830683280687131/
 
-### N33｜B站肥鱼成灾,AI评论泛滥
+### N31｜B站肥鱼成灾,AI评论泛滥
 
 平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5&topic_id=28368005
 
-核对：AI HOT 17 条；TrendRadar 33 条。
+### N32｜DeepSeek七款工具同题实测
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B
+
+核对：AI HOT 17 条；TrendRadar 32 条。
