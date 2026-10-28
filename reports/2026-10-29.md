@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-29
 
-数据生成时间：2026-10-29T07:29:09+08:00（北京时间）
+数据生成时间：2026-10-29T07:57:57+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：19 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -182,24 +182,6 @@ OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继
 原文：https://openrouter.ai/blog/tutorials/claude-code-usage-limit/
 收录页：https://aihot.news/items/wgss1ksoafvu62x799sdfs0fo
 
-### A20｜家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死
-
-一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。
-
-来源：TechCrunch：AI（RSS）；发布时间：2026-10-27T23:34:27Z
-
-原文：https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
-收录页：https://aihot.news/items/dk0g487d7s2n5hq9ex5bim1sy
-
-### A21｜Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证
-
-作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-27T23:31:32Z
-
-原文：https://x.com/rohanpaul_ai/status/2115224910603890778
-收录页：https://aihot.news/items/o5s4s2z9njz29hgd7im06gzrf
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI
@@ -208,71 +190,71 @@ OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继
 
 链接：https://www.thepaper.cn/newsDetail_forward_34351416
 
-### N2｜美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股
-
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2518554
-
-### N3｜一张全国算力网重塑生产生活
+### N2｜一张全国算力网重塑生产生活
 
 平台：抖音；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2718233
 
-### N4｜美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%
+### N3｜美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784535
 
-### N5｜宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期
-
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2518195
-
-### N6｜男子回应借助AI买彩票中508万
+### N4｜男子回应借助AI买彩票中508万
 
 平台：今日头条；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7701562501992824874/
 
-### N7｜沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）
+### N5｜沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784708
 
-### N8｜我国智能算力规模全球第二
+### N6｜宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期
+
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2518195
+
+### N7｜美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股
+
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2518554
+
+### N8｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784714
+
+### N9｜我国智能算力规模全球第二
 
 平台：抖音；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2718237
 
-### N9｜算力网加速织就 八大枢纽各展所长
+### N10｜算力网加速织就 八大枢纽各展所长
 
 平台：今日头条；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7700943570391580699/
 
-### N10｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
+### N11｜AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3784714
+链接：https://www.cls.cn/detail/2518569
 
-### N11｜创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%
+### N12｜创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3784632
-
-### N12｜AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了
-
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2518352
 
 ### N13｜【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口
 
@@ -280,40 +262,46 @@ OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继
 
 链接：https://www.cls.cn/detail/2517890
 
-### N14｜Anthropic招股书解析：OpenAI两大潜在优势浮现
+### N14｜罗翔用AI做了个视频
+
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91
+
+### N15｜AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了
+
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2518352
+
+### N16｜Anthropic招股书解析：OpenAI两大潜在优势浮现
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2518311
 
-### N15｜明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成
+### N17｜明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成
 
-平台：澎湃新闻；榜单排名：18；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34350138
 
-### N16｜如果有一天没有大模型了，古法编程你还回的去吗？
+### N18｜如果有一天没有大模型了，古法编程你还回的去吗？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2082439003412894451
 
-### N17｜为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？
-
-平台：知乎；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2096860633161545316
-
-### N18｜30多万元机器人进厂目前速度比人慢
+### N19｜30多万元机器人进厂目前速度比人慢
 
 平台：今日头条；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7700583596558336041/
 
-### N19｜罗翔用AI做了个视频
+### N20｜薛之谦称要与AI音乐对峙到底
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：2。
+平台：抖音；榜单排名：30；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91
+链接：https://www.douyin.com/hot/2717524
 
-核对：AI HOT 21 条；TrendRadar 19 条。
+核对：AI HOT 19 条；TrendRadar 20 条。
