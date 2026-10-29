@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="zh-CN" data-report-date="2026-10-29">
+<html lang="zh-CN" data-report-date="2026-10-30">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI 日报｜2026-10-29</title>
+  <title>AI 日报｜2026-10-30</title>
   <style>
     :root { color-scheme: light dark; }
     body { margin: 0 auto; max-width: 54rem; padding: 1rem; font: 16px/1.65 system-ui, -apple-system, "Segoe UI", sans-serif; }
@@ -19,18 +19,18 @@
 </head>
 <body>
   <header>
-    <h1>AI 日报｜2026-10-29</h1>
-    <p class="meta">日期：2026-10-29</p>
-    <p class="meta">AI HOT：20 条；TrendRadar：17 条</p>
-    <p class="meta">数据生成时间：2026-10-29T06:49:17+08:00</p>
+    <h1>AI 日报｜2026-10-30</h1>
+    <p class="meta">日期：2026-10-30</p>
+    <p class="meta">AI HOT：20 条；TrendRadar：14 条</p>
+    <p class="meta">数据生成时间：2026-10-30T06:57:24+08:00</p>
     <p class="meta"><a href="./">日报首页</a></p>
   </header>
   <p id="stale-warning" hidden>这篇日报日期较早。</p>
-  <pre class="brief"># AI 日报｜2026-10-29
+  <pre class="brief"># AI 日报｜2026-10-30
 
-数据生成时间：2026-10-29T06:49:17+08:00（北京时间）
+数据生成时间：2026-10-30T06:57:24+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：17 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：14 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -39,259 +39,247 @@ AI HOT：20 条；TrendRadar：17 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%
+### A1｜Figma 讲解如何训练专用画布编辑模型
 
-Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。
+Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。
 
-来源：X：Sundar Pichai (@sundarpichai)；发布时间：2026-10-28T20:05:31Z
+来源：Figma AI / Agent / Make；发布时间：2026-10-29T21:00:00Z
 
-### A2｜Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性
+### A2｜Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑
 
-Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。
+Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。
 
-来源：Ed Zitron 长文 / Where’s Your Ed At（RSS）；发布时间：2026-10-28T17:51:00Z
+来源：TechCrunch：AI（RSS）；发布时间：2026-10-29T20:08:31Z
 
-### A3｜Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft
+### A3｜Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型
 
-Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。
+Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。
 
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-28T17:11:27Z
+来源：X：卡兹克 (@Khazix0918)；发布时间：2026-10-29T20:07:09Z
 
-### A4｜犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code
+### A4｜Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧
 
-Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。
+作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。
 
-来源：X：Boris Cherny (@bcherny)；发布时间：2026-10-28T17:09:54Z
+来源：Timothy B. Lee：Understanding AI（RSS）；发布时间：2026-10-29T19:10:41Z
 
-### A5｜Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先
+### A5｜腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench
 
-Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。
+腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 。
 
-来源：X：Sundar Pichai (@sundarpichai)；发布时间：2026-10-28T17:01:48Z
+来源：X：腾讯混元 (@TencentHunyuan)；发布时间：2026-10-29T17:00:03Z
 
-### A6｜Google DeepMind 发布 Gemini 4 Carbon 前沿模型
+### A6｜OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则
 
-Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。
+OpenAI 更新其公开的 Model Spec，将指导原则重组为五项核心价值观：忠实于人类意图、最小化伤害、诚实透明、促进人类自主和关怀。更新新增了关于上下文理解、监督和自主性的指导，调整了部分行为默认值，退出了大部分详细风格指南，并将模型称呼从 the assistant 改为 GPT。
 
-来源：Google DeepMind：Blog（RSS）；发布时间：2026-10-28T17:00:58Z
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-29T17:00:00Z
 
-### A7｜Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发
+### A7｜Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍
 
-Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。
+Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。
 
-来源：Microsoft：Official Blog（RSS）；发布时间：2026-10-28T16:51:35Z
+来源：X：Tibo (@thsottiaux)；发布时间：2026-10-29T16:56:07Z
 
-### A8｜GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品
+### A8｜Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能
 
-GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。
+Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。
 
-来源：GitHub Blog；发布时间：2026-10-28T16:09:28Z
+来源：X：Gemini (@GeminiApp)；发布时间：2026-10-29T16:36:12Z
 
-### A9｜GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草
+### A9｜Wiz 分析智能体攻击的七大指纹与发展趋势
 
-GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。
+Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。
 
-来源：GitHub Blog；发布时间：2026-10-28T16:07:40Z
+来源：Wiz：Research（安全研究）；发布时间：2026-10-29T14:36:22Z
 
-### A10｜a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程
+### A10｜Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型
 
-a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。
+Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。
 
-来源：a16z：News（RSS）；发布时间：2026-10-28T16:00:31Z
+来源：X：Unsloth (@UnslothAI)；发布时间：2026-10-29T14:27:32Z
 
-### A11｜面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型
+### A11｜404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化
 
-面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。
+404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。
 
-来源：公众号：面壁智能（MiniCPM）；发布时间：2026-10-28T11:38:17Z
+来源：404 Media（RSS）；发布时间：2026-10-29T14:21:49Z
 
-### A12｜Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一
+### A12｜SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账
 
-网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。
+The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。
 
-来源：The Decoder：AI News（RSS）；发布时间：2026-10-28T10:56:24Z
+来源：The Verge：AI（RSS）；发布时间：2026-10-29T14:00:00Z
 
-### A13｜OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式
+### A13｜纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋
 
-OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。
+据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。
 
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-28T10:00:00Z
+来源：The Decoder：AI News（RSS）；发布时间：2026-10-29T13:42:38Z
 
-### A14｜Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字
+### A14｜The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进
 
-Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。
+The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。
 
-来源：X：Saito 硬地骇客 (@SaitoWu)；发布时间：2026-10-28T09:32:56Z
+来源：The Verge：AI（RSS）；发布时间：2026-10-29T13:30:00Z
 
-### A15｜Addy Osmani 讲解如何上手 Claude Code Mods
+### A15｜Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务
 
-Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。
+Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。
 
-来源：X：Addy Osmani (@addyosmani)；发布时间：2026-10-28T06:15:43Z
+来源：The Decoder：AI News（RSS）；发布时间：2026-10-29T10:16:34Z
 
-### A16｜Anthropic IPO 最大赢家或为 Amazon 而非 VC
+### A16｜OpenAI 详解如何检测前沿模型失准行为
 
-TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。
+OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。
 
-来源：TechCrunch：AI（RSS）；发布时间：2026-10-28T01:15:28Z
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-10-29T09:00:00Z
 
-### A17｜Google 发布世界模型 Genie 4，支持实时操控与原生音频
+### A17｜Addy Osmani 谈你可能对 Claude 过度提示了
 
-Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。
+Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。
 
-来源：公众号：数字生命卡兹克；发布时间：2026-10-28T00:22:00Z
+来源：X：Addy Osmani (@addyosmani)；发布时间：2026-10-29T06:13:39Z
 
-### A18｜Claude Code 触发用量上限后如何用 OpenRouter 继续编码
+### A18｜vLLM 发布 Mistral Large 4 Day 0 支持
 
-OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。
+vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。
 
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-10-28T00:00:00Z
+来源：vLLM 官方博客（RSS）；发布时间：2026-10-29T00:00:00Z
 
-### A19｜家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死
+### A19｜Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型
 
-一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。
+Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。
 
-来源：TechCrunch：AI（RSS）；发布时间：2026-10-27T23:34:27Z
+来源：Hugging Face 官方团队博客；发布时间：2026-10-29T00:00:00Z
 
-### A20｜Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证
+### A20｜OpenRouter 教程：用 LLM 从 PDF 中抽取表格
 
-作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。
+OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。
 
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-10-27T23:31:32Z
+来源：OpenRouter：Announcements（RSS）；发布时间：2026-10-29T00:00:00Z
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜一张全国算力网重塑生产生活
+### N1｜沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）
 
-来源：抖音；榜单排名：2；实际出现快照数：3。
+来源：华尔街见闻；榜单排名：1；实际出现快照数：3。
 
-### N2｜31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI
+### N2｜AI完成有限单群分类定理证明
 
-来源：澎湃新闻；榜单排名：2；实际出现快照数：3。
+来源：bilibili 热搜；榜单排名：5；实际出现快照数：3。
 
-### N3｜宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期
+### N3｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
 
-来源：财联社热门；榜单排名：3；实际出现快照数：3。
+来源：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
-### N4｜美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%
+### N4｜如何评价 AI 短剧《大明, 李景隆的别样人生》？
 
-来源：华尔街见闻；榜单排名：3；实际出现快照数：2。
+来源：知乎；榜单排名：5；实际出现快照数：1。
 
-### N5｜男子回应借助AI买彩票中508万
+### N5｜谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增
 
-来源：今日头条；榜单排名：5；实际出现快照数：3。
+来源：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
-### N6｜美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股
+### N6｜A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元，恒科指跌近3%，科网股普跌
 
-来源：财联社热门；榜单排名：6；实际出现快照数：1。
+来源：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
-### N7｜我国智能算力规模全球第二
+### N7｜AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻
 
-来源：抖音；榜单排名：8；实际出现快照数：3。
+来源：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-### N8｜算力网加速织就 八大枢纽各展所长
+### N8｜甲骨文承诺AI押注回报早于预期，预计2028财年下半年自由现金流转正，2029财年资本支出将减少
 
-来源：今日头条；榜单排名：9；实际出现快照数：3。
+来源：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-### N9｜创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%
-
-来源：华尔街见闻；榜单排名：9；实际出现快照数：3。
-
-### N10｜AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了
-
-来源：财联社热门；榜单排名：12；实际出现快照数：2。
-
-### N11｜Anthropic招股书解析：OpenAI两大潜在优势浮现
-
-来源：财联社热门；榜单排名：13；实际出现快照数：1。
-
-### N12｜【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口
+### N9｜【明日主题前瞻】字节跳动旗下即梦短剧工作室上线，AI短剧行业规模有望延续高速扩容
 
 来源：财联社热门；榜单排名：13；实际出现快照数：3。
 
-### N13｜30多万元机器人进厂目前速度比人慢
+### N10｜男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑
 
-来源：今日头条；榜单排名：17；实际出现快照数：3。
+来源：澎湃新闻；榜单排名：15；实际出现快照数：3。
 
-### N14｜罗翔用AI做了个视频
+### N11｜华为制药军团表态，其公司定位是医药行业的 AI 赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？
 
-来源：bilibili 热搜；榜单排名：18；实际出现快照数：2。
+来源：知乎；榜单排名：17；实际出现快照数：3。
 
-### N15｜明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成
+### N12｜科普书出现「双头虾」图片，出版社称正在下架召回，为何出现如此明显错误？科普类出版该限制 AI 配图吗？
 
-来源：澎湃新闻；榜单排名：18；实际出现快照数：3。
+来源：知乎；榜单排名：19；实际出现快照数：2。
 
-### N16｜为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？
+### N13｜AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一
 
-来源：知乎；榜单排名：18；实际出现快照数：1。
+来源：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
-### N17｜如果有一天没有大模型了，古法编程你还回的去吗？
+### N14｜AI复原的英雄父亲“赴约”儿子婚礼
 
-来源：知乎；榜单排名：18；实际出现快照数：1。
+来源：百度热搜；榜单排名：26；实际出现快照数：1。
 
-核对：AI HOT 20 条；TrendRadar 17 条。
+核对：AI HOT 20 条；TrendRadar 14 条。
 
 ## 编辑推荐
 
-### 推荐 1｜Anthropic 招股书里的钱：1317 亿美元现金、90% 增量毛利与 Amazon 的隐形赢家位置
+### 推荐 1｜Anthropic S-1 招股书：高增长与巨额算力承诺的双面叙事
 
-对应条目：A3、A14、A16、A2、N11
+对应条目：A4、A12、A14
 
-推荐理由：同一份 S-1 被拆出多个互相张力的角度：现金规模超过 Amazon 与 Microsoft、增量毛利 90% 与收入同比暴涨、Amazon 累计约 180 亿美元投资及十年 1100 亿美元 AWS 消费承诺，同时有批评者指其披露口径选择性。财务数字与争议并存，适合做一篇有信息密度的解析，而非单纯转述利好。
+推荐理由：同一份 S-1 出现三种解读：财务强劲、估值区间惊人、约8500亿美元长期承诺押注递归自我改进，天然具备多角度对照的写作空间。AI 公司上市与算力军备竞赛是读者关注的核心议题，适合做深度拆解而非快讯。
 
-建议切口：可写《Anthropic 招股书拆解：谁在这家公司身上赚到了钱》，以股东结构和单位经济为主线，把批评声音作为对照面。
+建议切口：《一份招股书三种读法：Anthropic 的高增长、高估值与高承诺》
 
-待补证：现金与短期投资、毛利、留存率等数字均来自二手转述或社交平台解读，需回到 S-1 原文核对口径与统计区间；Amazon 持仓价值为自估，非市场定价；Ed Zitron 的指控属评论而非事实认定，须明确标注。
+待补证：S-1 为公开版文件，收入、利润、估值区间、采购承诺等数字需以原文核对；三位作者均为二手解读，估值与承诺口径可能不一致，需注明预测与已发生事实的界限。
 
-来源：X：Rohan Paul (@rohanpaul_ai)；X：Saito 硬地骇客 (@SaitoWu)；TechCrunch：AI（RSS）；Ed Zitron 长文 / Where’s Your Ed At（RSS）；财联社热门
+来源：Timothy B. Lee：Understanding AI（RSS）；The Verge：AI（RSS）
 
-### 推荐 2｜AI 智能体开始接管代码：GitHub 超四成 PR 由智能体起草，政府试点与工具链同步铺开
+### 推荐 2｜AI 搜索变现承压：Reddit 与 Google 的两种应对
 
-对应条目：A9、A8、A7、A4、A15、N17
+对应条目：A2、A15、N3、N5
 
-推荐理由：Octoverse 的 40% 智能体起草 PR、179 亿次推送，与 GitHub Universe 新品、Microsoft 开放 Copilot harness、犹他州 34 名开发者试点形成一条从数据到产品再到落地场景的线索。另有开发者对“没有大模型还能不能写代码”的讨论，可提供反差点，选题兼具数据支撑与读者代入感。
+推荐理由：Reddit 因 AI 抓取导致搜索引荐下滑而转向登录优先，Google 则承认 AI mode 变现率偏低拖累搜索收入增速，两条线索指向同一结构性矛盾：AI 改变了流量入口与广告经济。可合并成一篇关于“AI 搜索如何重塑平台商业模式”的分析。
 
-建议切口：可写《四成 PR 已由 AI 起草：软件开发的分工正在怎么变》，用官方数据切入，落到具体团队的使用细节。
+建议切口：《流量被 AI 截走之后：Reddit 要登录，Google 要时间》
 
-待补证：Octoverse 为 GitHub 自报统计，需确认“智能体起草”的判定标准与统计口径；犹他州试点的 80%、71% 为推文转述，样本仅 34 人，需核对原始报告；各产品发布信息需区分已上线与仅宣布。
+待补证：Reddit 周减百万引荐、Google 增速与预期差、市值波动等数据来自媒体报道与公司口径，需核对财报原文；登录优先仅在美国外测试、聊天机器人广告为计划，不可写成已全面落地。
 
-来源：GitHub Blog；Microsoft：Official Blog（RSS）；X：Boris Cherny (@bcherny)；X：Addy Osmani (@addyosmani)；知乎
+来源：TechCrunch：AI（RSS）；The Decoder：AI News（RSS）；华尔街见闻
 
-### 推荐 3｜Gemini 4 Carbon 登顶与 Genie 4 发布：Google 一次把前沿模型和世界模型都推上台
+### 推荐 3｜万亿参数模型走向本地：Mistral Large 4 的开源与量化竞赛
 
-对应条目：A5、A6、A17、A1
+对应条目：A10、A18、A19
 
-推荐理由：同一天出现模型榜单登顶、网络安全基准领先、世界模型可实时操控与生成音频，以及 Alphabet 财报中 Cloud 增长与 token 处理量的呼应。模型能力、产品形态与商业数据可以串成一条“Google 这轮押注落到哪”的主线，信息层次比单条发布更丰富。
+推荐理由：Mistral Large 4 同日出现官方上线、vLLM Day 0 支持与 1-bit GGUF 量化三条进展，构成完整技术链路：架构、推理框架、消费级硬件部署。1T 参数模型可在 Mac Studio 运行是强传播点，适合做技术解读加实测视角。
 
-建议切口：可写《Google 的双线出击：Carbon 抢榜，Genie 4 抢场景》，重点放在能力指标与实际可用性的差距。
+建议切口：《1T 参数塞进 Mac Studio：Mistral Large 4 的开源落地路径》
 
-待补证：AA Index v5.0 的 59 分与各项基准成绩来自官方与推文，需核对榜单版本与评测设置；Genie 4 的体验描述来自公众号实测，属单方体验；Cloud 增长 103% 的口径（同比或环比）需回财报确认。
+待补证：参数量、激活参数、上下文长度在不同来源有 49B/52B 等差异，需以模型卡为准；91% 准确率、233GB 体积、内存需求均为发布方自述，缺少独立复现，量化后质量损失需实测验证。
 
-来源：X：Sundar Pichai (@sundarpichai)；Google DeepMind：Blog（RSS）；公众号：数字生命卡兹克
+来源：X：Unsloth (@UnslothAI)；vLLM 官方博客（RSS）；Hugging Face 官方团队博客
 
-### 推荐 4｜AI 进入高危场景的边界：癫痫患者停药致死诉讼与智能体渗入企业内部系统
+### 推荐 4｜企业 AI 转型的代价：Proton 强制 AI 与员工恐惧文化
 
-对应条目：A19、N2、A12
+对应条目：A11
 
-推荐理由：两件事都指向同一问题：当模型给出建议、当智能体主动行动，责任与边界在哪里。诉讼有具体当事人与时间线，安全事件则出现双方对范围说法不一，适合做一篇聚焦“失控点在哪”的报道，而不是泛泛谈 AI 风险。
+推荐理由：九名员工受访加内部文件，呈现 CEO 强推 AI、90% 代码由 AI 编写、以重新面试评估 AI 使用等具体细节，是少见的一手组织内部冲突报道。对关注 AI 落地与工程文化的读者有强共鸣，也补足了“AI 替代工程师”叙事的具体案例。
 
-建议切口：可写《当 AI 的建议被当真：一起诉讼和一次渗透测试》，以两个案例对照建议型与行动型风险。
+建议切口：《90% 代码由 AI 写之后：Proton 内部的强制转型与恐惧》
 
-待补证：诉讼指控为原告主张，尚未经法院认定，需核对起诉文件与时间线；安全事件中 Cathedral 与 Anthropic 对影响范围表述不一，需双方回应原文；两案均不可引申为健康或用药建议。
+待补证：报道基于匿名信源与内部文件，Proton 官方回应与数据未在快照中体现；90% 代码比例、重新面试政策等需向公司求证，写作时应标明为员工说法而非既定事实。
 
-来源：TechCrunch：AI（RSS）；澎湃新闻；The Decoder：AI News（RSS）
+来源：404 Media（RSS）
 
-### 推荐 5｜算力热与融资冷同时出现：国内算力网推进，海外 AI 投入遭遇资金审视
+### 推荐 5｜智能体进入真实攻击链：安全研究披露的案例与指纹
 
-对应条目：N1、N7、N8、N10、N4、N6
+对应条目：A9
 
-推荐理由：一边是全国算力网、八大枢纽与智能算力规模全球第二的国内进展，一边是华尔街对 AI 烧钱的退缩与科技股随 AI 情绪波动。两条线并置能呈现算力建设的政策节奏与资本市场定价之间的错位，比单写行情更有结构。
+推荐理由：Wiz 基于事件响应与公开案例，把 AI 智能体参与入侵的框架、受害机构与攻击手法串成趋势分析，涉及金融机构数据外泄与供应链攻击尝试。相比泛泛的 AI 安全讨论，这类带案例与指纹的素材更适合做警示性深度稿。
 
-建议切口：可写《算力在铺，钱在犹豫：AI 基建的两条时间线》，用国内枢纽布局对照海外融资情绪。
+建议切口：《当攻击者用上智能体：Wiz 梳理的七大指纹与真实案例》
 
-待补证：国内算力网相关条目仅有标题，缺少具体数据与出处，需补充官方口径；华尔街“买家退缩”为媒体概括，需具体融资或交易证据；行情类内容时效性强，不宜写成趋势结论。
+待补证：案例细节来自 Wiz 研究与公开披露，韩国金融机构、泰国财政部、ConnectWise 等事件需独立核对官方通报；智能体在攻击中的具体作用程度可能被研究方放大，需区分已确认事实与推断。
 
-来源：抖音；今日头条；财联社热门；华尔街见闻
+来源：Wiz：Research（安全研究）
 
 
 说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
