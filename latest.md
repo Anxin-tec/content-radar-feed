@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-30
 
-数据生成时间：2026-10-30T06:31:32+08:00（北京时间）
+数据生成时间：2026-10-30T06:57:24+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：13 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：14 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -191,15 +191,6 @@ OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON s
 原文：https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/
 收录页：https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z
 
-### A21｜Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链
-
-Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。
-
-来源：IT之家·人工智能；发布时间：2026-10-28T22:35:25.040000Z
-
-原文：https://www.ithome.com/1/019/268.htm
-收录页：https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）
@@ -208,23 +199,23 @@ Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Clau
 
 链接：https://wallstreetcn.com/articles/3784708
 
-### N2｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
+### N2｜AI完成有限单群分类定理证明
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%AE%8C%E6%88%90%E6%9C%89%E9%99%90%E5%8D%95%E7%BE%A4%E5%88%86%E7%B1%BB%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E
+
+### N3｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784714
 
-### N3｜如何评价 AI 短剧《大明, 李景隆的别样人生》？
+### N4｜如何评价 AI 短剧《大明, 李景隆的别样人生》？
 
 平台：知乎；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2060278561760605556
-
-### N4｜AI完成有限单群分类定理证明
-
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%AE%8C%E6%88%90%E6%9C%89%E9%99%90%E5%8D%95%E7%BE%A4%E5%88%86%E7%B1%BB%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E
 
 ### N5｜谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增
 
@@ -252,13 +243,13 @@ Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Clau
 
 ### N9｜【明日主题前瞻】字节跳动旗下即梦短剧工作室上线，AI短剧行业规模有望延续高速扩容
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2519325
 
 ### N10｜男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：15；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34354514
 
@@ -276,8 +267,14 @@ Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Clau
 
 ### N13｜AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一
 
-平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34352856
 
-核对：AI HOT 21 条；TrendRadar 13 条。
+### N14｜AI复原的英雄父亲“赴约”儿子婚礼
+
+平台：百度热搜；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=AI%E5%A4%8D%E5%8E%9F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%88%B6%E4%BA%B2%E2%80%9C%E8%B5%B4%E7%BA%A6%E2%80%9D%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC
+
+核对：AI HOT 20 条；TrendRadar 14 条。
