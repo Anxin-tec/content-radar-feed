@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-29
 
-数据生成时间：2026-10-29T09:56:53+08:00（北京时间）
+数据生成时间：2026-10-29T10:23:32+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：25 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：26 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -119,7 +119,16 @@ a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年
 原文：https://www.a16z.news/p/the-new-security-agenda
 收录页：https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t
 
-### A13｜面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型
+### A13｜OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局
+
+OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。
+
+来源：OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）；发布时间：2026-10-28T16:00:00Z
+
+原文：https://openmoss.ai/blog/cn/moss-image/
+收录页：https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v
+
+### A14｜面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型
 
 面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。
 
@@ -128,7 +137,7 @@ a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年
 原文：https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f
 收录页：https://aihot.news/items/zd8g1y3609zl72lnwis70owqt
 
-### A14｜Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一
+### A15｜Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一
 
 网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。
 
@@ -137,7 +146,7 @@ a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年
 原文：https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/
 收录页：https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg
 
-### A15｜OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式
+### A16｜OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式
 
 OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。
 
@@ -146,7 +155,7 @@ OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列�
 原文：https://openai.com/index/the-future-of-the-firm
 收录页：https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr
 
-### A16｜Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字
+### A17｜Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字
 
 Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。
 
@@ -155,7 +164,7 @@ Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为
 原文：https://x.com/SaitoWu/status/2115376256929948006
 收录页：https://aihot.news/items/gxwqce1swocfo9bp3dgqy3dnj
 
-### A17｜Addy Osmani 讲解如何上手 Claude Code Mods
+### A18｜Addy Osmani 讲解如何上手 Claude Code Mods
 
 Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。
 
@@ -214,65 +223,65 @@ Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会�
 
 链接：https://www.cls.cn/detail/2518554
 
-### N9｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
+### N9｜男子回应借助AI买彩票中508万
+
+平台：今日头条；榜单排名：5；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7701562501992824874/
+
+### N10｜谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784714
 
-### N10｜我国智能算力规模全球第二
+### N11｜AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻
 
-平台：抖音；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.douyin.com/hot/2718237
+链接：https://wallstreetcn.com/articles/3784713
 
-### N11｜AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了
+### N12｜陶哲轩发文谴责AI公司
+
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%8F%91%E6%96%87%E8%B0%B4%E8%B4%A3AI%E5%85%AC%E5%8F%B8
+
+### N13｜10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%
+
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2518619
+
+### N14｜AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了
 
 平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2518352
 
-### N12｜算力网加速织就 八大枢纽各展所长
+### N15｜我国智能算力规模全球第二
+
+平台：抖音；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.douyin.com/hot/2718237
+
+### N16｜算力网加速织就 八大枢纽各展所长
 
 平台：今日头条；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7700943570391580699/
 
-### N13｜AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3784713
-
-### N14｜陶哲轩发文谴责AI公司
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%8F%91%E6%96%87%E8%B0%B4%E8%B4%A3AI%E5%85%AC%E5%8F%B8
-
-### N15｜10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%
-
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2518619
-
-### N16｜创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%
+### N17｜创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784632
 
-### N17｜【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口
+### N18｜【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口
 
 平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2517890
-
-### N18｜如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？
-
-平台：知乎；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2098949045934880103
 
 ### N19｜Anthropic招股书解析：OpenAI两大潜在优势浮现
 
@@ -280,17 +289,17 @@ Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会�
 
 链接：https://www.cls.cn/detail/2518311
 
-### N20｜明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成
+### N20｜如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？
+
+平台：知乎；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2098949045934880103
+
+### N21｜明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34350138
-
-### N21｜机器人保姆预计三年内走进日常生活
-
-平台：今日头条；榜单排名：18；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7701769464899191322/
 
 ### N22｜如果有一天没有大模型了，古法编程你还回的去吗？
 
@@ -298,22 +307,28 @@ Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会�
 
 链接：https://www.zhihu.com/question/2082439003412894451
 
-### N23｜30多万元机器人进厂目前速度比人慢
+### N23｜机器人保姆预计三年内走进日常生活
+
+平台：今日头条；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7701769464899191322/
+
+### N24｜外媒：中国2030将在AI模型等领域领先
+
+平台：今日头条；榜单排名：25；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7701772623855750699/
+
+### N25｜30多万元机器人进厂目前速度比人慢
 
 平台：今日头条；榜单排名：28；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7700583596558336041/
 
-### N24｜罗翔用AI做了个视频
+### N26｜罗翔用AI做了个视频
 
 平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91
 
-### N25｜男子回应借助AI买彩票中508万
-
-平台：今日头条；榜单排名：30；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7701562501992824874/
-
-核对：AI HOT 17 条；TrendRadar 25 条。
+核对：AI HOT 18 条；TrendRadar 26 条。
