@@ -1,6 +1,6 @@
 # AI 日报｜2026-10-31
 
-数据生成时间：2026-10-31T06:38:14+08:00（北京时间）
+数据生成时间：2026-10-31T07:09:15+08:00（北京时间）
 
 AI HOT：15 条；TrendRadar：9 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -148,57 +148,57 @@ Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜人民日报：警惕“中国AI跑偏论”
-
-平台：今日头条；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7701987261797482550/
-
-### N2｜AI写文被扒,榜一转头开团榜二
+### N1｜AI写文被扒,榜一转头开团榜二
 
 平台：贴吧；榜单排名：6；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C&topic_id=28368606
 
-### N3｜AWS收入劲增39%但AI支出吓退市场，亚马逊Q3自由现金流恶化，线上销售乏力，盘后跳水｜财报见闻
+### N2｜AWS收入劲增39%但AI支出吓退市场，亚马逊Q3自由现金流恶化，线上销售乏力，盘后跳水｜财报见闻
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784799
 
-### N4｜英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻
+### N3｜英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784798
 
-### N5｜谷歌暴跌背后的逻辑：AI烧穿了现金流，烧没了回购，还烧着了搜索
+### N4｜谷歌暴跌背后的逻辑：AI烧穿了现金流，烧没了回购，还烧着了搜索
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784823
 
-### N6｜AI回答不合意,老外杠上Grok
+### N5｜AI回答不合意,老外杠上Grok
 
 平台：贴吧；榜单排名：10；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok&topic_id=28368500
 
-### N7｜AI攻克全维度挂谷猜想
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3
-
-### N8｜怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？
+### N6｜怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？
 
 平台：知乎；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2099480874530228121
 
+### N7｜人民日报：警惕“中国AI跑偏论”
+
+平台：今日头条；榜单排名：16；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7701987261797482550/
+
+### N8｜AI攻克全维度挂谷猜想
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3
+
 ### N9｜AI珍珠圣女妆
 
-平台：抖音；榜单排名：21；实际出现快照数：3。
+平台：抖音；榜单排名：22；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2720954
 
