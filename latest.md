@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-31
 
-数据生成时间：2026-10-31T05:02:17+08:00（北京时间）
+数据生成时间：2026-10-31T05:41:53+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：9 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -130,15 +130,6 @@ Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来
 原文：https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
 收录页：https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl
 
-### A14｜Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧
-
-Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。
-
-来源：Hacker News：AI 热帖；发布时间：2026-10-29T21:29:51.580000Z
-
-原文：https://www.bbc.com/news/articles/cm9qzdqpxy48o
-收录页：https://aihot.news/items/puushryi79v0flh2um3a70xnw
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI写文被扒,榜一转头开团榜二
@@ -155,25 +146,25 @@ Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌�
 
 ### N3｜英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784798
 
-### N4｜人民日报：警惕“中国AI跑偏论”
-
-平台：今日头条；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7701987261797482550/
-
-### N5｜AI回答不合意,老外杠上Grok
+### N4｜AI回答不合意,老外杠上Grok
 
 平台：贴吧；榜单排名：10；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok&topic_id=28368500
 
+### N5｜谷歌暴跌背后的逻辑：AI烧穿了现金流，烧没了回购，还烧着了搜索
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3784823
+
 ### N6｜AI攻克全维度挂谷猜想
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3
 
@@ -183,10 +174,16 @@ Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌�
 
 链接：https://www.zhihu.com/question/2099480874530228121
 
-### N8｜AI珍珠圣女妆
+### N8｜人民日报：警惕“中国AI跑偏论”
 
-平台：抖音；榜单排名：16；实际出现快照数：2。
+平台：今日头条；榜单排名：16；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7701987261797482550/
+
+### N9｜AI珍珠圣女妆
+
+平台：抖音；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2720954
 
-核对：AI HOT 14 条；TrendRadar 8 条。
+核对：AI HOT 13 条；TrendRadar 9 条。
