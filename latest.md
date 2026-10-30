@@ -1,8 +1,8 @@
 # AI 日报｜2026-10-31
 
-数据生成时间：2026-10-31T04:31:26+08:00（北京时间）
+数据生成时间：2026-10-31T05:02:17+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：8 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：8 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -139,15 +139,6 @@ Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌�
 原文：https://www.bbc.com/news/articles/cm9qzdqpxy48o
 收录页：https://aihot.news/items/puushryi79v0flh2um3a70xnw
 
-### A15｜Figma 讲解如何训练专用画布编辑模型
-
-Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。
-
-来源：Figma AI / Agent / Make；发布时间：2026-10-29T21:00:00Z
-
-原文：https://www.figma.com/blog/training-a-figma-fluent-editing-model/
-收录页：https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI写文被扒,榜一转头开团榜二
@@ -168,34 +159,34 @@ Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过
 
 链接：https://wallstreetcn.com/articles/3784798
 
-### N4｜AI回答不合意,老外杠上Grok
+### N4｜人民日报：警惕“中国AI跑偏论”
+
+平台：今日头条；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7701987261797482550/
+
+### N5｜AI回答不合意,老外杠上Grok
 
 平台：贴吧；榜单排名：10；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok&topic_id=28368500
 
-### N5｜AI攻克全维度挂谷猜想
+### N6｜AI攻克全维度挂谷猜想
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3
 
-### N6｜怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？
+### N7｜怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？
 
 平台：知乎；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2099480874530228121
 
-### N7｜AI珍珠圣女妆
+### N8｜AI珍珠圣女妆
 
-平台：抖音；榜单排名：18；实际出现快照数：2。
+平台：抖音；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2720954
 
-### N8｜人民日报：警惕“中国AI跑偏论”
-
-平台：今日头条；榜单排名：18；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7701987261797482550/
-
-核对：AI HOT 15 条；TrendRadar 8 条。
+核对：AI HOT 14 条；TrendRadar 8 条。
