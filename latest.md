@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-01
 
-数据生成时间：2026-11-01T04:17:17+08:00（北京时间）
+数据生成时间：2026-11-01T04:31:24+08:00（北京时间）
 
 AI HOT：8 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -123,47 +123,47 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&topic_id=28368651
 
-### N7｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
+### N7｜首部AI电影成本千万周票房不到150万
+
+平台：百度热搜；榜单排名：6；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87
+
+### N8｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784910
 
-### N8｜AI短片邪修润魂子
+### N9｜AI短片邪修润魂子
 
 平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90
 
-### N9｜Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛
+### N10｜Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521127
 
-### N10｜2008再现！一文读懂华尔街最热门交易：AI CDS
+### N11｜2008再现！一文读懂华尔街最热门交易：AI CDS
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784900
 
-### N11｜AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元
+### N12｜AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784890
 
-### N12｜DeepSeek重磅发布：AI开始指挥AI干活
+### N13｜DeepSeek重磅发布：AI开始指挥AI干活
 
 平台：百度热搜；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB
-
-### N13｜首部AI电影成本千万周票房不到150万
-
-平台：百度热搜；榜单排名：12；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87
 
 ### N14｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
 
