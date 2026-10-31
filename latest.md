@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-01
 
-数据生成时间：2026-11-01T04:39:55+08:00（北京时间）
+数据生成时间：2026-11-01T05:51:16+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：20 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -76,15 +76,6 @@ Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全�
 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms
 收录页：https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz
 
-### A8｜科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌
-
-Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。
-
-来源：TechCrunch：AI（RSS）；发布时间：2026-10-30T21:17:40Z
-
-原文：https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
-收录页：https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月
@@ -117,63 +108,63 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&topic_id=28368651
 
-### N6｜首部AI电影成本千万周票房不到150万
+### N6｜如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？
 
-平台：百度热搜；榜单排名：6；实际出现快照数：2。
+平台：知乎；榜单排名：5；实际出现快照数：2。
 
-链接：https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87
+链接：https://www.zhihu.com/question/2098823323752690341
 
-### N7｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
+### N7｜AI短片邪修润魂子
+
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90
+
+### N8｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784910
 
-### N8｜如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？
-
-平台：知乎；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2098823323752690341
-
-### N9｜AI短片邪修润魂子
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90
-
-### N10｜Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛
+### N9｜Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521127
 
-### N11｜2008再现！一文读懂华尔街最热门交易：AI CDS
+### N10｜2008再现！一文读懂华尔街最热门交易：AI CDS
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784900
 
-### N12｜AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元
+### N11｜AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784890
 
-### N13｜DeepSeek重磅发布：AI开始指挥AI干活
+### N12｜DeepSeek重磅发布：AI开始指挥AI干活
 
 平台：百度热搜；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB
 
-### N14｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
+### N13｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
 
 平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521558
 
+### N14｜首部AI电影成本千万周票房不到150万
+
+平台：百度热搜；榜单排名：13；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87
+
 ### N15｜人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？
 
-平台：知乎；榜单排名：13；实际出现快照数：2。
+平台：知乎；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099418216976102291
 
@@ -201,10 +192,4 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok&topic_id=28368500
 
-### N20｜DeepSeek联手华为能否击穿英伟达CUDA
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7702513613042355722/
-
-核对：AI HOT 8 条；TrendRadar 20 条。
+核对：AI HOT 7 条；TrendRadar 19 条。
