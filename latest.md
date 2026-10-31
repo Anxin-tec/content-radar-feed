@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-01
 
-数据生成时间：2026-11-01T04:31:24+08:00（北京时间）
+数据生成时间：2026-11-01T04:39:55+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：19 条 AI 相关热点。
+AI HOT：8 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -105,35 +105,35 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 
 链接：https://wallstreetcn.com/articles/3784903
 
-### N4｜如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？
-
-平台：知乎；榜单排名：4；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2098823323752690341
-
-### N5｜CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世
+### N4｜CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2520513
 
-### N6｜美股AI暴跌,万亿市值蒸发
+### N5｜美股AI暴跌,万亿市值蒸发
 
 平台：贴吧；榜单排名：5；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&topic_id=28368651
 
-### N7｜首部AI电影成本千万周票房不到150万
+### N6｜首部AI电影成本千万周票房不到150万
 
 平台：百度热搜；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87
 
-### N8｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
+### N7｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784910
+
+### N8｜如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？
+
+平台：知乎；榜单排名：6；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2098823323752690341
 
 ### N9｜AI短片邪修润魂子
 
@@ -173,7 +173,7 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 
 ### N15｜人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？
 
-平台：知乎；榜单排名：14；实际出现快照数：2。
+平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099418216976102291
 
@@ -201,4 +201,10 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok&topic_id=28368500
 
-核对：AI HOT 8 条；TrendRadar 19 条。
+### N20｜DeepSeek联手华为能否击穿英伟达CUDA
+
+平台：今日头条；榜单排名：30；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7702513613042355722/
+
+核对：AI HOT 8 条；TrendRadar 20 条。
