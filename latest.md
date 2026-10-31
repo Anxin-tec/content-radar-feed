@@ -1,9 +1,9 @@
 # AI 日报｜2026-11-01
 
-数据生成时间：2026-11-01T00:31:38+08:00（北京时间）
+数据生成时间：2026-11-01T04:17:17+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：19 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：8 条；TrendRadar：19 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -85,147 +85,120 @@ Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿�
 原文：https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
 收录页：https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b
 
-### A9｜Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应
-
-Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。
-
-来源：X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)；发布时间：2026-10-30T18:28:00Z
-
-原文：https://x.com/_philschmid/status/2116235686445502608
-收录页：https://aihot.news/items/cms82puwtmpssdpbjmajoopr9
-
-### A10｜Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制
-
-Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。
-
-来源：X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)；发布时间：2026-10-30T17:42:26Z
-
-原文：https://x.com/adocomplete/status/2116224220539883992
-收录页：https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj
-
-### A11｜Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问
-
-Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-10-30T17:15:24Z
-
-原文：https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/
-收录页：https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784816
 
 ### N2｜这届进博会出行有了AI助手
 
-平台：抖音；榜单排名：3；实际出现快照数：1。
+平台：抖音；榜单排名：3；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2723227
 
 ### N3｜“黑色星期五”的导火索：Anthropic只能“垃圾级”？
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3784903
 
-### N4｜美股AI暴跌,万亿市值蒸发
+### N4｜如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？
 
-平台：贴吧；榜单排名：5；实际出现快照数：1。
+平台：知乎；榜单排名：4；实际出现快照数：2。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&topic_id=28368651
+链接：https://www.zhihu.com/question/2098823323752690341
 
-### N5｜AI短片邪修润魂子
+### N5｜CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90
-
-### N6｜CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世
-
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2520513
 
-### N7｜Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛
+### N6｜美股AI暴跌,万亿市值蒸发
 
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：贴吧；榜单排名：5；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&topic_id=28368651
+
+### N7｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3784910
+
+### N8｜AI短片邪修润魂子
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90
+
+### N9｜Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛
+
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521127
 
-### N8｜AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元
+### N10｜2008再现！一文读懂华尔街最热门交易：AI CDS
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3784900
+
+### N11｜AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3784890
 
-### N9｜DeepSeek重磅发布：AI开始指挥AI干活
+### N12｜DeepSeek重磅发布：AI开始指挥AI干活
 
-平台：百度热搜；榜单排名：9；实际出现快照数：1。
+平台：百度热搜；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB
 
-### N10｜2008再现！一文读懂华尔街最热门交易：AI CDS
+### N13｜首部AI电影成本千万周票房不到150万
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3784900
-
-### N11｜人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？
-
-平台：知乎；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2099418216976102291
-
-### N12｜当前AI最紧迫的瓶颈：廉价资金正在枯竭！
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3784910
-
-### N13｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
-
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2521558
-
-### N14｜如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？
-
-平台：知乎；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2098823323752690341
-
-### N15｜「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？
-
-平台：知乎；榜单排名：20；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2096595801644299451
-
-### N16｜AI写文被扒,榜一转头开团榜二
-
-平台：贴吧；榜单排名：24；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C&topic_id=28368606
-
-### N17｜DeepSeek发布全新Agent架构
-
-平台：百度热搜；榜单排名：25；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84
-
-### N18｜首部AI电影成本千万周票房不到150万
-
-平台：百度热搜；榜单排名：27；实际出现快照数：1。
+平台：百度热搜；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87
 
+### N14｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
+
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2521558
+
+### N15｜人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？
+
+平台：知乎；榜单排名：14；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2099418216976102291
+
+### N16｜「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？
+
+平台：知乎；榜单排名：16；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2096595801644299451
+
+### N17｜AI写文被扒,榜一转头开团榜二
+
+平台：贴吧；榜单排名：24；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C&topic_id=28368606
+
+### N18｜DeepSeek发布全新Agent架构
+
+平台：百度热搜；榜单排名：25；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84
+
 ### N19｜AI回答不合意,老外杠上Grok
 
-平台：贴吧；榜单排名：28；实际出现快照数：1。
+平台：贴吧；榜单排名：28；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok&topic_id=28368500
 
-核对：AI HOT 11 条；TrendRadar 19 条。
+核对：AI HOT 8 条；TrendRadar 19 条。
