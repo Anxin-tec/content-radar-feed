@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-02
 
-数据生成时间：2026-11-02T06:31:36+08:00（北京时间）
+数据生成时间：2026-11-02T07:00:37+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：3 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -38,15 +38,6 @@ OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，
 原文：https://openrouter.ai/blog/tutorials/ai-code-review/
 收录页：https://aihot.news/items/yww15c701iat30p8ttjf029ij
 
-### A4｜美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业
-
-美国白宫科学与技术顾问会议主席戴维·萨克斯在 All-In 播客分析 Anthropic 的 S-1 文件，称其很可能成为资本主义历史上最伟大企业，也可能是回报最高的风险投资项目。
-
-来源：IT之家·人工智能；发布时间：2026-10-31T22:56:28.467000Z
-
-原文：https://www.ithome.com/1/020/633.htm
-收录页：https://aihot.news/items/dpm21l66z2iizblehsdg09c8t
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜AI的“火” PCB三季报接住了
@@ -79,23 +70,23 @@ OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%85%8B%E5%8A%B3%E5%BE%B7%E7%9A%84%E6%95%91%E8%B5%8E
 
-### N6｜江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？
+### N6｜AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？
+
+平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3784930
+
+### N7｜江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？
 
 平台：知乎；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2099653516453328673
 
-### N7｜AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式
+### N8｜AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34381316
-
-### N8｜AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784930
 
 ### N9｜AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？
 
@@ -181,4 +172,4 @@ OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，
 
 链接：https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE
 
-核对：AI HOT 4 条；TrendRadar 22 条。
+核对：AI HOT 3 条；TrendRadar 22 条。
