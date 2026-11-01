@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-02
 
-数据生成时间：2026-11-02T04:49:15+08:00（北京时间）
+数据生成时间：2026-11-02T05:22:43+08:00（北京时间）
 
 AI HOT：4 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -69,11 +69,11 @@ OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
 
-### N4｜怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？
+### N4｜怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？
 
 平台：知乎；榜单排名：5；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2099967799934313950
+链接：https://www.zhihu.com/question/2100203992827557509
 
 ### N5｜AI短片克劳德的救赎
 
@@ -81,11 +81,11 @@ OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%85%8B%E5%8A%B3%E5%BE%B7%E7%9A%84%E6%95%91%E8%B5%8E
 
-### N6｜怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？
+### N6｜怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？
 
 平台：知乎；榜单排名：6；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2100203992827557509
+链接：https://www.zhihu.com/question/2099967799934313950
 
 ### N7｜AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？
 
@@ -123,29 +123,29 @@ OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，
 
 链接：https://www.cls.cn/detail/2521662
 
-### N13｜江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？
-
-平台：知乎；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2099653516453328673
-
-### N14｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
+### N13｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
 
 平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521558
 
-### N15｜吧友拿十六进制撩AI,回复亮了
+### N14｜吧友拿十六进制撩AI,回复亮了
 
 平台：贴吧；榜单排名：11；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86&topic_id=28368713
 
-### N16｜从线缆到备电 算力“买电”重塑电力设备企业成长逻辑
+### N15｜从线缆到备电 算力“买电”重塑电力设备企业成长逻辑
 
 平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521697
+
+### N16｜江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？
+
+平台：知乎；榜单排名：14；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2099653516453328673
 
 ### N17｜媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”
 
