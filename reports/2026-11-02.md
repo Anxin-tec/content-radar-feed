@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-02
 
-数据生成时间：2026-11-02T08:37:11+08:00（北京时间）
+数据生成时间：2026-11-02T09:47:27+08:00（北京时间）
 
-AI HOT：2 条；TrendRadar：27 条 AI 相关热点。
+AI HOT：2 条；TrendRadar：29 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -31,35 +31,35 @@ Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜【早报】事关股市，重磅会议今日召开；英伟达披露下一代CPO技术；美国已进入冬令时
+### N1｜数学协会抵制AI反致舆论反转
+
+平台：bilibili 热搜；榜单排名：1；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E5%8F%8D%E8%87%B4%E8%88%86%E8%AE%BA%E5%8F%8D%E8%BD%AC
+
+### N2｜【早报】事关股市，重磅会议今日召开；英伟达披露下一代CPO技术；美国已进入冬令时
 
 平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2521932
 
-### N2｜普通人不配?AI巨头嫌内存浪费
+### N3｜普通人不配?AI巨头嫌内存浪费
 
 平台：贴吧；榜单排名：1；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9&topic_id=28368792
 
-### N3｜AI的“火” PCB三季报接住了
+### N4｜AI的“火” PCB三季报接住了
 
 平台：财联社热门；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2521696
 
-### N4｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+### N5｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
 
 平台：贴吧；榜单排名：2；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
-
-### N5｜江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？
-
-平台：知乎；榜单排名：2；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2099653516453328673
 
 ### N6｜为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？
 
@@ -73,41 +73,41 @@ Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude
 
 链接：https://www.zhihu.com/question/2100203992827557509
 
-### N8｜AI短片克劳德的救赎
+### N8｜江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
+平台：知乎；榜单排名：5；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2099653516453328673
+
+### N9｜AI短片克劳德的救赎
+
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%85%8B%E5%8A%B3%E5%BE%B7%E7%9A%84%E6%95%91%E8%B5%8E
 
-### N9｜DeepSeek亮出“超级智能体”架构
-
-平台：今日头条；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7703258129567321638/
-
-### N10｜AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3784930
-
-### N11｜怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？
+### N10｜怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？
 
 平台：知乎；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099967799934313950
 
-### N12｜AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？
+### N11｜首届CMG世界机器人登泰山大赛开赛
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2521722
+链接：https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8ACMG%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E6%B3%B0%E5%B1%B1%E5%A4%A7%E8%B5%9B%E5%BC%80%E8%B5%9B
 
-### N13｜一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场
+### N12｜AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3784943
+链接：https://wallstreetcn.com/articles/3784930
+
+### N13｜AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？
+
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2521722
 
 ### N14｜媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”
 
@@ -115,82 +115,94 @@ Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude
 
 链接：https://www.thepaper.cn/newsDetail_forward_34381747
 
-### N15｜Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？
+### N15｜90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3784949
+
+### N16｜Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？
 
 平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099683580964352612
 
-### N16｜环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭
+### N17｜环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭
 
 平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2521662
 
-### N17｜AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式
+### N18｜一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场
 
-平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3784943
+
+### N19｜AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式
+
+平台：澎湃新闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34381316
 
-### N18｜90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3784949
-
-### N19｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
+### N20｜英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位
 
 平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2521558
 
-### N20｜吧友拿十六进制撩AI,回复亮了
+### N21｜吧友拿十六进制撩AI,回复亮了
 
 平台：贴吧；榜单排名：11；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86&topic_id=28368713
 
-### N21｜从线缆到备电 算力“买电”重塑电力设备企业成长逻辑
+### N22｜从线缆到备电 算力“买电”重塑电力设备企业成长逻辑
 
 平台：财联社热门；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2521697
 
-### N22｜双十一AI暗战：电商想提升交易 消费者要全网比价
+### N23｜双十一AI暗战：电商想提升交易 消费者要全网比价
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2521706
 
-### N23｜美股AI暴跌,万亿市值蒸发
+### N24｜DeepSeek亮出“超级智能体”架构
+
+平台：今日头条；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7703258129567321638/
+
+### N25｜美股AI暴跌,万亿市值蒸发
 
 平台：贴吧；榜单排名：17；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&topic_id=28368651
 
-### N24｜硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”
+### N26｜硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”
 
 平台：澎湃新闻；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34376118
 
-### N25｜奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？
+### N27｜奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？
 
 平台：知乎；榜单排名：18；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2099437165495300675
 
-### N26｜若AI破解世界难题 数学家还剩什么
+### N28｜想阴阳中国结果AI说是美国
 
-平台：今日头条；榜单排名：27；实际出现快照数：1。
+平台：微博；榜单排名：21；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7703251675905003062/
+链接：https://s.weibo.com/weibo?q=%E6%83%B3%E9%98%B4%E9%98%B3%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%9E%9CAI%E8%AF%B4%E6%98%AF%E7%BE%8E%E5%9B%BD
 
-### N27｜12个AI预测BLG对阵HLE
+### N29｜12个AI预测BLG对阵HLE
 
 平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE
 
-核对：AI HOT 2 条；TrendRadar 27 条。
+核对：AI HOT 2 条；TrendRadar 29 条。
