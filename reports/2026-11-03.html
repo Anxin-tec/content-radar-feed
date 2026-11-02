@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="zh-CN" data-report-date="2026-11-03">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI 日报｜2026-11-03</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0 auto; max-width: 54rem; padding: 1rem; font: 16px/1.65 system-ui, -apple-system, "Segoe UI", sans-serif; }
+    header { border-bottom: 1px solid #8886; margin-bottom: 1rem; padding-bottom: .75rem; }
+    h1 { font-size: 1.45rem; margin: 0 0 .35rem; }
+    .meta { color: #666; font-size: .92rem; margin: .2rem 0; }
+    @media (prefers-color-scheme: dark) { .meta { color: #bbb; } }
+    pre { white-space: pre-wrap; overflow-wrap: anywhere; font: inherit; margin: 0; }
+    #stale-warning { background: #fff3cd; color: #664d03; border-radius: .35rem; padding: .5rem .7rem; margin: .75rem 0; }
+    @media (prefers-color-scheme: dark) { #stale-warning { background: #514414; color: #fff3cd; } }
+    a { color: inherit; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI 日报｜2026-11-03</h1>
+    <p class="meta">日期：2026-11-03</p>
+    <p class="meta">AI HOT：7 条；TrendRadar：17 条</p>
+    <p class="meta">数据生成时间：2026-11-03T06:31:33+08:00</p>
+    <p class="meta"><a href="../index.html">日报首页</a></p>
+  </header>
+  <p id="stale-warning" hidden>这篇日报日期较早。</p>
+  <pre class="brief"># AI 日报｜2026-11-03
+
+数据生成时间：2026-11-03T06:31:33+08:00（北京时间）
+
+AI HOT：7 条；TrendRadar：17 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
+
+以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+来源状态：AI HOT=live；TrendRadar=live。
+
+## AI HOT 完整资讯
+
+### A1｜Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付
+
+Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-02T21:28:26Z
+
+### A2｜OpenAI 训练并部署激活分类器作为前沿模型安全监控层
+
+OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。实验显示 probes 比更大的文本分类器对测试的越狱攻击更鲁棒，准确率随模型能力提升，且在后训练各检查点间迁移良好，但需为新基础模型重新训练，且只能检测可显式训练的已知违规类型。
+
+来源：OpenAI：Alignment 研究博客（RSS）；发布时间：2026-11-02T20:00:00Z
+
+### A3｜Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元
+
+据 Bloomberg 与 The Information，Anthropic 该季度营收近 170 亿美元，为一年前的十二倍，但运营成本达 175 亿美元，季度净亏损 233 亿美元，高于去年同期的 121 亿美元。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-11-02T16:26:03Z
+
+### A4｜OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰
+
+OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策制定者合作，让未来算力校园在电网紧张时降低用电需求，首站为 Effingham County 校园。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-11-02T15:00:00Z
+
+### A5｜腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型
+
+腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。系统采用 Overall、Mission、Worker 三层分工，接入企业微信、计算平台和代码仓库的实际研发环境，成果已公开在 GitHub 仓库。
+
+来源：公众号：腾讯混元；发布时间：2026-11-02T10:06:28Z
+
+### A6｜数字生命卡兹克分享折腾一年的Agent自动化系统架构
+
+自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。系统分为自动化中台、Agent执行、CI中台和飞书决策四层：中台用rules.json统一管理事件触发和Agent调度，本地MacMini跑Agent任务，自建CI中台完成审查、检查、合并、发布、核实五步，只在删数据、花钱、改方向等关键决策时通过飞书卡片找作者拍板。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-11-02T00:19:00Z
+
+### A7｜Claude Platform 推出 message threads 公测，降低长会话智能体延迟
+
+Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。
+
+来源：Claude：Blog（网页）；发布时间：2026-11-02T00:00:00Z
+
+## TrendRadar 完整 AI 热点
+
+### N1｜DeepSeek Harness入驻B站
+
+来源：bilibili 热搜；榜单排名：1；实际出现快照数：3。
+
+### N2｜不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？
+
+来源：澎湃新闻；榜单排名：3；实际出现快照数：3。
+
+### N3｜微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？
+
+来源：知乎；榜单排名：4；实际出现快照数：3。
+
+### N4｜期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心
+
+来源：澎湃新闻；榜单排名：5；实际出现快照数：3。
+
+### N5｜AI攻破困扰化学界50年难题
+
+来源：bilibili 热搜；榜单排名：6；实际出现快照数：3。
+
+### N6｜AI时代数学该何去何从
+
+来源：bilibili 热搜；榜单排名：7；实际出现快照数：2。
+
+### N7｜【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停
+
+来源：财联社热门；榜单排名：8；实际出现快照数：3。
+
+### N8｜Anthropic IPO前更新招股书凸显盈利压力：Q3营收近170亿美元、同比增11倍，净亏损扩大92%，算力承诺近9000亿
+
+来源：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+### N9｜【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发
+
+来源：财联社热门；榜单排名：11；实际出现快照数：3。
+
+### N10｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+
+来源：贴吧；榜单排名：13；实际出现快照数：3。
+
+### N11｜首届CMG世界机器人登泰山大赛
+
+来源：抖音；榜单排名：14；实际出现快照数：3。
+
+### N12｜AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”
+
+来源：澎湃新闻；榜单排名：14；实际出现快照数：2。
+
+### N13｜普通人不配?AI巨头嫌内存浪费
+
+来源：贴吧；榜单排名：18；实际出现快照数：3。
+
+### N14｜宇树机器人被担架抬下山
+
+来源：百度热搜；榜单排名：27；实际出现快照数：2。
+
+### N15｜AI预测TES对战IG谁胜算大
+
+来源：bilibili 热搜；榜单排名：27；实际出现快照数：2。
+
+### N16｜吧友拿十六进制撩AI,回复亮了
+
+来源：贴吧；榜单排名：27；实际出现快照数：3。
+
+### N17｜DeepSeek Agent小白教程
+
+来源：bilibili 热搜；榜单排名：29；实际出现快照数：2。
+
+核对：AI HOT 7 条；TrendRadar 17 条。
+
+## 编辑推荐
+
+### 推荐 1｜Anthropic IPO 招股书里的两本账：营收暴涨与千亿算力承诺
+
+对应条目：A1、A3、N8
+
+推荐理由：同一家公司同时出现季度营收近170亿美元、同比增约十二倍，与净亏损233亿美元、算力合同承诺约8954亿美元、其中4475亿美元须在2031年前支付，构成极强的张力。IPO文件披露的长期支付义务是理解AI公司商业模式与风险的关键切口，比单纯讨论模型能力更有公共价值。
+
+建议切口：《营收涨12倍，亏损也涨92%：Anthropic招股书里的9000亿算力赌注》
+
+待补证：营收、亏损、合同承诺等数字来自X、The Decoder与华尔街见闻的转述，需核对招股书原文口径：是否为季度、是否含可取消部分、净亏损是否含非现金项目，以及4475亿支付时间表的准确表述。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；The Decoder：AI News（RSS）；华尔街见闻
+
+### 推荐 2｜给模型装“探针”：OpenAI 用激活分类器做实时安全拦截
+
+对应条目：A2
+
+推荐理由：这是少见的把安全机制落到模型内部激活层面的公开说明，涉及逐token评分、生成中途阻断工具调用、交由推理模型复审等具体设计，还披露了鲁棒性实验与迁移性结论。对关注大模型安全工程化的读者，比泛泛谈“对齐”更有信息密度，也便于与文本分类器路线做对比。
+
+建议切口：《不只看输出：OpenAI把安全审查塞进模型内部激活》
+
+待补证：内容来自OpenAI研究博客的单一来源，实验条件、攻击样本范围、误拦率与线上实际拦截数据均未在摘要中给出；需补证probes在真实流量中的效果与失败案例，避免把博客结论写成已获独立验证。
+
+来源：OpenAI：Alignment 研究博客（RSS）
+
+### 推荐 3｜AI眼镜十元遮光贴就能偷拍：硬件热背后的隐私漏洞
+
+对应条目：N2
+
+推荐理由：AI眼镜正从概念走向消费级，但一张低价遮光贴即可绕过拍摄提示，说明隐私设计依赖外部标识而非硬件强制，属于典型的产品责任与监管空白议题。可与AI硬件普及、公共场所拍摄边界结合，具备较强的读者代入感和讨论空间。
+
+建议切口：《十块钱的贴纸，撕开了AI眼镜的隐私防线》
+
+待补证：报道为澎湃新闻单篇，遮光贴的具体原理、涉及品牌型号、是否可复现、厂商回应及监管表态均需补证；不能据单篇报道推断行业普遍存在同类漏洞，也需区分个案与系统性风险。
+
+来源：澎湃新闻
+
+### 推荐 4｜从“人找任务”到“事件找Agent”：一套自建自动化系统的四层架构
+
+对应条目：A6、A7、N17
+
+推荐理由：自媒体作者公开了近一年打磨的Agent自动化架构，包含rules.json统一调度、本地机器执行、自建CI五步审查、关键决策回飞书拍板等可复用细节；同时Claude Platform推出message threads降低长会话延迟，DeepSeek Agent教程在B站受关注，三者共同指向Agent工程化落地的真实需求。
+
+建议切口：《一个人、一台MacMini：我的Agent自动化系统长什么样》
+
+待补证：架构描述来自个人公众号自述，缺少代码、稳定性数据与失败复盘，rules.json与CI流程的可迁移性未经第三方验证；message threads为公测功能，实际延迟收益需实测，不能把个人经验写成通用最佳实践。
+
+来源：公众号：数字生命卡兹克；Claude：Blog（网页）；bilibili 热搜
+
+### 推荐 5｜算力校园与社区电网：OpenAI 削峰计划遇上数据中心选址争议
+
+对应条目：A4、N4
+
+推荐理由：一边是企业推出Grid Protectors计划，承诺在电网紧张时降低用电需求，首站落在Georgia校园；另一边是美国社区对数据中心的抵触被拿来与“输给中国”的叙事捆绑。把企业方案与地方政治放在一起看，能呈现AI基础设施扩张的真实摩擦，而非单向的能源焦虑。
+
+建议切口：《数据中心来了，电网和社区谁先让步？》
+
+待补证：Grid Protectors尚属计划阶段，削峰规模、触发机制、补偿方式与是否具约束力均未披露；N4为媒体综述，社区诉求与政治话语的代表性需补证，不可将计划表述为已产生实际削峰效果。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；澎湃新闻
+
+
+说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
+</pre>
+  <script>
+(function () {
+  var value = document.documentElement.getAttribute('data-report-date');
+  var today = new Date();
+  var current = today.getFullYear() + '-' + String(today.getMonth() + 1).padStart(2, '0') + '-' + String(today.getDate()).padStart(2, '0');
+  if (value < current) { document.getElementById('stale-warning').hidden = false; }
+})();
+</script>
+</body>
+</html>

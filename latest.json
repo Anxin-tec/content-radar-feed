@@ -1,14 +1,14 @@
 {
-  "brief_sha256": "b115b0e5cdf4227c98519dcb04a2d1db8062835a7d4bec0aa74bc680651e1520",
-  "content_sha256": "b115b0e5cdf4227c98519dcb04a2d1db8062835a7d4bec0aa74bc680651e1520",
+  "brief_sha256": "98a3efd551b0d6c7a7ce2df0f9c5b3ab62d172da910070aeda6a1e08fedbbefc",
+  "content_sha256": "98a3efd551b0d6c7a7ce2df0f9c5b3ab62d172da910070aeda6a1e08fedbbefc",
   "counts": {
-    "aihot_published": 3,
-    "aihot_upstream": 3,
-    "trendradar_matched": 22,
-    "trendradar_published": 22,
-    "trendradar_raw": 329
+    "aihot_published": 7,
+    "aihot_upstream": 7,
+    "trendradar_matched": 17,
+    "trendradar_published": 17,
+    "trendradar_raw": 326
   },
-  "generated_at": "2026-11-02T07:00:37+08:00",
-  "recommendation_count": 4,
-  "report_date": "2026-11-02"
+  "generated_at": "2026-11-03T06:31:33+08:00",
+  "recommendation_count": 5,
+  "report_date": "2026-11-03"
 }
