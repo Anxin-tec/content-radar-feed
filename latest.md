@@ -1,13 +1,11 @@
 # AI 日报｜2026-11-04
 
-数据生成时间：2026-11-04T05:59:12+08:00（北京时间）
+数据生成时间：2026-11-04T06:31:13+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：16 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：6 条；TrendRadar：16 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -67,44 +65,35 @@ OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框�
 原文：https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake
 收录页：https://aihot.news/items/recqqiy27l866jfbhjk0cusqh
 
-### A7｜Revolut 将约 2000 名工程师迁移到自托管 GLM 编码
-
-据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。
-
-来源：Hacker News：AI 热帖；发布时间：2026-11-02T22:11:24Z
-
-原文：https://twitter.com/guilleflorvs/status/2117379073785696395
-收录页：https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？
 
-平台：知乎；榜单排名：3；实际出现快照数：2。
+平台：知乎；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2099981630773400745
 
 ### N2｜DeepSeek又崩了
 
-平台：财联社热门；榜单排名：5；实际出现快照数：2。
+平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2524036
 
 ### N3｜AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？
 
-平台：知乎；榜单排名：5；实际出现快照数：1。
+平台：知乎；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099804620293927443
 
 ### N4｜【焦点复盘】科创50低开低走跌3.81%，算力硬件股再遭重挫，资金持续逆势热捧“羊字辈”股
 
-平台：财联社热门；榜单排名：7；实际出现快照数：2。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2523918
 
 ### N5｜陶哲轩AI抗癌药思维实验后续
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9AI%E6%8A%97%E7%99%8C%E8%8D%AF%E6%80%9D%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%90%8E%E7%BB%AD
 
@@ -116,33 +105,33 @@ OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框�
 
 ### N7｜英伟达涨3% 总市值重回5万亿美元
 
-平台：百度热搜；榜单排名：13；实际出现快照数：2。
+平台：百度热搜；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A83%25+%E6%80%BB%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83
 
-### N8｜AI时代数学该何去何从
-
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E
-
-### N9｜李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？
+### N8｜李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？
 
 平台：知乎；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100704253669069587
 
-### N10｜大模型的理论基础中，有哪些令人惊叹的数学工具或关键研究？
+### N9｜大模型的理论基础中，有哪些令人惊叹的数学工具或关键研究？
 
 平台：知乎；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2015477375933096972
 
-### N11｜DeepSeek要让AI自己干活
+### N10｜DeepSeek要让AI自己干活
 
 平台：今日头条；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7703946509242338879/
+
+### N11｜DeepSeek为什么要开源
+
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
 
 ### N12｜DeepSeek Agent小白教程
 
@@ -150,28 +139,28 @@ OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框�
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B
 
-### N13｜全球首款全尺寸超仿真机器人亮相
+### N13｜AI时代数学该何去何从
 
-平台：今日头条；榜单排名：23；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
-链接：https://www.toutiao.com/trending/7703580610329248283/
+链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E
 
-### N14｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+### N14｜DeepSeek V5计划基于昇腾训练
 
-平台：贴吧；榜单排名：27；实际出现快照数：2。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
-
-### N15｜DeepSeek为什么要开源
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
-
-### N16｜DeepSeek V5计划基于昇腾训练
-
-平台：抖音；榜单排名：29；实际出现快照数：2。
+平台：抖音；榜单排名：26；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2726996
 
-核对：AI HOT 7 条；TrendRadar 16 条。
+### N15｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+
+平台：贴吧；榜单排名：27；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
+
+### N16｜全球首款全尺寸超仿真机器人亮相
+
+平台：今日头条；榜单排名：27；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7703580610329248283/
+
+核对：AI HOT 6 条；TrendRadar 16 条。
