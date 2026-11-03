@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-03
 
-数据生成时间：2026-11-03T09:46:22+08:00（北京时间）
+数据生成时间：2026-11-03T10:07:46+08:00（北京时间）
 
 AI HOT：6 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -115,59 +115,59 @@ OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策�
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E5%85%A5%E9%A9%BBB%E7%AB%99
 
-### N9｜【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发
+### N9｜微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？
+
+平台：知乎；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2098769070032164639
+
+### N10｜【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2522567
 
-### N10｜为什么豆包至今没有被 deepseek 斩杀？
+### N11｜为什么豆包至今没有被 deepseek 斩杀？
 
 平台：知乎；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2061775648419492191
 
-### N11｜DeepSeek Agent小白教程
+### N12｜DeepSeek Agent小白教程
 
 平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B
 
-### N12｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+### N13｜AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”
+
+平台：澎湃新闻；榜单排名：14；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34388778
+
+### N14｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
 
 平台：贴吧；榜单排名：14；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
 
-### N13｜AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”
-
-平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34388778
-
-### N14｜怎么看 OpenAI  CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？
+### N15｜怎么看 OpenAI  CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100164407087067932
 
-### N15｜首届CMG世界机器人登泰山大赛
+### N16｜首届CMG世界机器人登泰山大赛
 
 平台：抖音；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2724740
 
-### N16｜普通人不配?AI巨头嫌内存浪费
+### N17｜普通人不配?AI巨头嫌内存浪费
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9&topic_id=28368792
-
-### N17｜微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？
-
-平台：知乎；榜单排名：20；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2098769070032164639
 
 ### N18｜AI攻破困扰化学界50年难题
 
