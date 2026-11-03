@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-03
 
-数据生成时间：2026-11-03T07:41:31+08:00（北京时间）
+数据生成时间：2026-11-03T08:02:42+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：20 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -65,15 +65,6 @@ OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策�
 原文：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df
 收录页：https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier
 
-### A7｜Claude Platform 推出 message threads 公测，降低长会话智能体延迟
-
-Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。
-
-来源：Claude：Blog（网页）；发布时间：2026-11-02T00:00:00Z
-
-原文：https://claude.com/blog/message-threads
-收录页：https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜DeepSeek Harness入驻B站
@@ -88,112 +79,118 @@ Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只
 
 链接：https://www.thepaper.cn/newsDetail_forward_34248283
 
-### N3｜AI预测TES对战IG谁胜算大
-
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8BTES%E5%AF%B9%E6%88%98IG%E8%B0%81%E8%83%9C%E7%AE%97%E5%A4%A7
-
-### N4｜期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心
+### N3｜期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心
 
 平台：澎湃新闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34375606
 
-### N5｜AI攻破困扰化学界50年难题
+### N4｜AI攻破困扰化学界50年难题
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E5%9B%B0%E6%89%B0%E5%8C%96%E5%AD%A6%E7%95%8C50%E5%B9%B4%E9%9A%BE%E9%A2%98
 
-### N6｜微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？
+### N5｜AI时代数学该何去何从
 
-平台：知乎；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2098769070032164639
-
-### N7｜AI时代数学该何去何从
-
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E
 
-### N8｜Anthropic IPO前更新招股书凸显盈利压力：Q3营收近170亿美元、同比增11倍，净亏损扩大92%，算力承诺近9000亿
+### N6｜Anthropic IPO前更新招股书凸显盈利压力：Q3营收近170亿美元、同比增11倍，净亏损扩大92%，算力承诺近9000亿
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785012
 
-### N9｜美股收盘：纳指冲高回落收跌1% AI投资回报疑虑升温
+### N7｜微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？
+
+平台：知乎；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2098769070032164639
+
+### N8｜美股收盘：纳指冲高回落收跌1% AI投资回报疑虑升温
 
 平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2523159
 
-### N10｜【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发
+### N9｜【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2522567
 
-### N11｜【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停
+### N10｜【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停
 
 平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2522637
 
-### N12｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+### N11｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
 
 平台：贴吧；榜单排名：13；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
 
-### N13｜纳指收跌1% AI投资回报疑虑升温
+### N12｜纳指收跌1% AI投资回报疑虑升温
 
 平台：百度热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E6%94%B6%E8%B7%8C1%25+AI%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%96%91%E8%99%91%E5%8D%87%E6%B8%A9
 
-### N14｜AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”
+### N13｜AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”
 
 平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34388778
 
-### N15｜DeepSeek Agent小白教程
+### N14｜怎么看 OpenAI  CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？
 
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
+平台：知乎；榜单排名：16；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B
+链接：https://www.zhihu.com/question/2100164407087067932
 
-### N16｜首届CMG世界机器人登泰山大赛
+### N15｜首届CMG世界机器人登泰山大赛
 
 平台：抖音；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2724740
 
-### N17｜普通人不配?AI巨头嫌内存浪费
+### N16｜普通人不配?AI巨头嫌内存浪费
 
 平台：贴吧；榜单排名：18；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9&topic_id=28368792
 
-### N18｜宇树机器人被担架抬下山
+### N17｜宇树机器人被担架抬下山
 
-平台：百度热搜；榜单排名：22；实际出现快照数：2。
+平台：百度热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E4%B8%8B%E5%B1%B1
 
-### N19｜35岁中专小伙“手搓”AI短剧走红
+### N18｜35岁中专小伙“手搓”AI短剧走红
 
 平台：今日头条；榜单排名：24；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7703172995954638890/
 
-### N20｜吧友拿十六进制撩AI,回复亮了
+### N19｜吧友拿十六进制撩AI,回复亮了
 
 平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86&topic_id=28368713
 
-核对：AI HOT 7 条；TrendRadar 20 条。
+### N20｜DeepSeek Agent小白教程
+
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B
+
+### N21｜AI预测TES对战IG谁胜算大
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8BTES%E5%AF%B9%E6%88%98IG%E8%B0%81%E8%83%9C%E7%AE%97%E5%A4%A7
+
+核对：AI HOT 6 条；TrendRadar 21 条。
