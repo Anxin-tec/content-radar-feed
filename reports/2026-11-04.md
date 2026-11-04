@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-04
 
-数据生成时间：2026-11-04T07:38:43+08:00（北京时间）
+数据生成时间：2026-11-04T08:11:45+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：18 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -65,52 +65,43 @@ Addy Osmani 发文探讨在大量使用 Agent 工作流后如何保持批判性�
 原文：https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog
 收录页：https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk
 
-### A7｜OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案
-
-OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。
-
-来源：OpenHands 官方博客；发布时间：2026-11-03T00:00:00Z
-
-原文：https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake
-收录页：https://aihot.news/items/recqqiy27l866jfbhjk0cusqh
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜DeepSeek又崩了
+### N1｜美股收盘：纳指反弹收高0.83% AI科技巨头集体回暖
 
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2524036
-
-### N2｜基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？
-
-平台：知乎；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2099981630773400745
-
-### N3｜AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？
-
-平台：知乎；榜单排名：5；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2099804620293927443
-
-### N4｜【焦点复盘】科创50低开低走跌3.81%，算力硬件股再遭重挫，资金持续逆势热捧“羊字辈”股
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2523918
-
-### N5｜美股收盘：纳指反弹收高0.83% AI科技巨头集体回暖
-
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2524390
 
-### N6｜陶哲轩AI抗癌药思维实验后续
+### N2｜AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？
+
+平台：知乎；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2099804620293927443
+
+### N3｜DeepSeek又崩了
+
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2524036
+
+### N4｜【焦点复盘】科创50低开低走跌3.81%，算力硬件股再遭重挫，资金持续逆势热捧“羊字辈”股
+
+平台：财联社热门；榜单排名：7；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2523918
+
+### N5｜陶哲轩AI抗癌药思维实验后续
 
 平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9AI%E6%8A%97%E7%99%8C%E8%8D%AF%E6%80%9D%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%90%8E%E7%BB%AD
+
+### N6｜学者：AI会导致出现越来越多“弃民”
+
+平台：今日头条；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7703397386923917331/
 
 ### N7｜英伟达涨3% 总市值重回5万亿美元
 
@@ -120,68 +111,80 @@ OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框�
 
 ### N8｜DeepSeek Agent小白教程
 
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B
 
-### N9｜学者：AI会导致出现越来越多“弃民”
+### N9｜如何看待宇树机器人因过热退出登泰山大赛，被担架抬下山？人形机器人的发展目前还存在哪些技术瓶颈？
 
-平台：今日头条；榜单排名：15；实际出现快照数：3。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7703397386923917331/
+链接：https://www.zhihu.com/question/2100633417675293561
 
-### N10｜为何智谱有底气让套餐 GLM-5.3 flash 价格比肩 GPT-6.1 Sol？
+### N10｜基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？
+
+平台：知乎；榜单排名：14；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2099981630773400745
+
+### N11｜美股AI科技巨头集体回暖
+
+平台：百度热搜；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E5%9B%9E%E6%9A%96
+
+### N12｜李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？
+
+平台：知乎；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2100704253669069587
+
+### N13｜为何智谱有底气让套餐 GLM-5.3 flash 价格比肩 GPT-6.1 Sol？
 
 平台：知乎；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100276309146575288
 
-### N11｜大模型的理论基础中，有哪些令人惊叹的数学工具或关键研究？
+### N14｜大模型的理论基础中，有哪些令人惊叹的数学工具或关键研究？
 
 平台：知乎；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2015477375933096972
 
-### N12｜李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？
-
-平台：知乎；榜单排名：18；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2100704253669069587
-
-### N13｜DeepSeek为什么要开源
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
-
-### N14｜DeepSeek要让AI自己干活
+### N15｜DeepSeek要让AI自己干活
 
 平台：今日头条；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7703946509242338879/
 
-### N15｜全球首款全尺寸超仿真机器人亮相
+### N16｜全球首款全尺寸超仿真机器人亮相
 
-平台：今日头条；榜单排名：20；实际出现快照数：2。
+平台：今日头条；榜单排名：22；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7703580610329248283/
 
-### N16｜AI时代数学该何去何从
+### N17｜DeepSeek V5计划基于昇腾训练
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：2。
+平台：抖音；榜单排名：25；实际出现快照数：3。
+
+链接：https://www.douyin.com/hot/2726996
+
+### N18｜AI时代数学该何去何从
+
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E
 
-### N17｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
+### N19｜赛博鱼塘!大肥鱼AI涌入鲸鱼吧
 
 平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7&topic_id=28368798
 
-### N18｜DeepSeek V5计划基于昇腾训练
+### N20｜DeepSeek为什么要开源
 
-平台：抖音；榜单排名：29；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
 
-链接：https://www.douyin.com/hot/2726996
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
 
-核对：AI HOT 7 条；TrendRadar 18 条。
+核对：AI HOT 6 条；TrendRadar 20 条。
