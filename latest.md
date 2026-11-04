@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-05
 
-数据生成时间：2026-11-05T06:11:13+08:00（北京时间）
+数据生成时间：2026-11-05T06:31:37+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：19 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -114,7 +114,7 @@ AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于
 
 ### N1｜中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为
 
-平台：澎湃新闻；榜单排名：4；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34405097
 
@@ -144,7 +144,7 @@ AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于
 
 ### N6｜AI有意识吗？——从脑机智能与脑机接口谈起
 
-平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34390827
 
@@ -160,70 +160,76 @@ AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于
 
 链接：https://www.toutiao.com/trending/7704243006215294507/
 
-### N9｜DeepSeek Harness零基础全流程教学
-
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
-
-### N10｜巴彦淖尔一医院大楼起火图系AI生成
+### N9｜巴彦淖尔一医院大楼起火图系AI生成
 
 平台：今日头条；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7702735035199295010/
 
-### N11｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
+### N10｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
 
 平台：知乎；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2099896271318397900
 
+### N11｜DeepSeek Harness零基础全流程教学
+
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
+
 ### N12｜苹果国行AI与努比亚智能体对比
 
-平台：抖音；榜单排名：12；实际出现快照数：3。
+平台：抖音；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2728815
 
-### N13｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
+### N13｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
+
+平台：知乎；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2100991081307453217
+
+### N14｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
 
 平台：澎湃新闻；榜单排名：15；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34374966
 
-### N14｜马斯克：AI算力将100%搬上太空
+### N15｜当没有 Token 额度了，你会开始手动改 AI 生成的代码吗？
+
+平台：知乎；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2100912392884506635
+
+### N16｜马斯克：AI算力将100%搬上太空
 
 平台：百度热搜；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E7%AE%97%E5%8A%9B%E5%B0%86100%25%E6%90%AC%E4%B8%8A%E5%A4%AA%E7%A9%BA
 
-### N15｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
+### N17｜DeepSeek为什么要开源
 
-平台：知乎；榜单排名：19；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2100991081307453217
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
 
-### N16｜字节AI开发平台“扣子”企业版下架
+### N18｜字节AI开发平台“扣子”企业版下架
 
 平台：百度热搜；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6
 
-### N17｜DeepSeek为什么要开源
-
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
-
-### N18｜大V：五大AI各自适合干什么
+### N19｜大V：五大AI各自适合干什么
 
 平台：今日头条；榜单排名：26；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7704301746100637227/
 
-### N19｜你的下一辆车 机器人手搓的
+### N20｜你的下一辆车 机器人手搓的
 
 平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E4%B8%8B%E4%B8%80%E8%BE%86%E8%BD%A6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%90%93%E7%9A%84
 
-核对：AI HOT 11 条；TrendRadar 19 条。
+核对：AI HOT 11 条；TrendRadar 20 条。
