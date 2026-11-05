@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-05
 
-数据生成时间：2026-11-05T08:50:09+08:00（北京时间）
+数据生成时间：2026-11-05T09:26:40+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -101,16 +101,7 @@ OpenAI 构建了一条由即将推出的 cyber 模型驱动的漏洞发现、验
 原文：https://openai.com/index/a-thousand-fewer-paths-to-root
 收录页：https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl
 
-### A11｜OpenAI 发布 GPT-Image-2.6（Sunburst 与 Flare）系统卡
-
-OpenAI 发布 ChatGPT Images 2.6 系统卡，涵盖 GPT-Image-2.6 Sunburst 与 GPT-Image-2.6 Flare 的训练数据、安全评估与防护措施。
-
-来源：OpenAI：部署安全与系统卡（网页）；发布时间：2026-11-04T07:00:00Z
-
-原文：https://deploymentsafety.openai.com/chatgpt-images-2-6
-收录页：https://aihot.news/items/hoc5e7f6m140ydnyhciavbgwj
-
-### A12｜Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当
+### A11｜Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当
 
 Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监控事件，认为 OpenAI 披露迅速坦诚，但现有缓解措施不足以保证每次生效。文章指出 L2 安全部监控仅标记 42.9%、对齐监控为 57.1%，部分已导致模型实际无监控运行，建议所有无监控运行案例都应进入人工审查，并要求 OpenAI 更透明地说明升级处理流程。
 
@@ -119,7 +110,7 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 原文：https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring
 收录页：https://aihot.news/items/z2bhg9i4eqahaqc7zgktvqk98
 
-### A13｜腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力
+### A12｜腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力
 
 腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。
 
@@ -136,17 +127,17 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 
 链接：https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86
 
-### N2｜中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为
+### N2｜AI时代数学专业该何去何从
+
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E
+
+### N3｜中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为
 
 平台：澎湃新闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34405097
-
-### N3｜AI套娃,大肥鱼要养小肥鱼
-
-平台：贴吧；榜单排名：4；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
 
 ### N4｜美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫
 
@@ -154,11 +145,11 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 
 链接：https://www.cls.cn/detail/2525646
 
-### N5｜吧友实测:AI偏爱当女孩
+### N5｜AI套娃,大肥鱼要养小肥鱼
 
-平台：贴吧；榜单排名：6；实际出现快照数：3。
+平台：贴吧；榜单排名：5；实际出现快照数：3。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
 
 ### N6｜AI有意识吗？——从脑机智能与脑机接口谈起
 
@@ -166,65 +157,65 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34390827
 
-### N7｜豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？
+### N7｜吧友实测:AI偏爱当女孩
+
+平台：贴吧；榜单排名：7；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
+
+### N8｜豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？
 
 平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2100943272122250679
 
-### N8｜“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低
+### N9｜“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785143
 
-### N9｜巴彦淖尔一医院大楼起火图系AI生成
+### N10｜巴彦淖尔一医院大楼起火图系AI生成
 
 平台：今日头条；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7702735035199295010/
 
-### N10｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
+### N11｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100991081307453217
 
-### N11｜怎么看 Anthropic 发布 Smart Reports，老板可以直接看员工产出和对话类型统计？
+### N12｜怎么看 Anthropic 发布 Smart Reports，老板可以直接看员工产出和对话类型统计？
 
-平台：知乎；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100612812506715255
 
-### N12｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
+### N13｜DeepSeek Harness零基础全流程教学
+
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
+
+### N14｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
 
 平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099896271318397900
 
-### N13｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
+### N15｜苹果国行AI与努比亚智能体对比
+
+平台：抖音；榜单排名：16；实际出现快照数：3。
+
+链接：https://www.douyin.com/hot/2728815
+
+### N16｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34374966
-
-### N14｜肖战大战AI短剧的时代
-
-平台：微博；榜单排名：16；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%88%98AI%E7%9F%AD%E5%89%A7%E7%9A%84%E6%97%B6%E4%BB%A3%23
-
-### N15｜DeepSeek Harness零基础全流程教学
-
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
-
-### N16｜苹果国行AI与努比亚智能体对比
-
-平台：抖音；榜单排名：18；实际出现快照数：3。
-
-链接：https://www.douyin.com/hot/2728815
 
 ### N17｜马斯克：AI算力将100%搬上太空
 
@@ -238,28 +229,40 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
 
-### N19｜字节AI开发平台“扣子”企业版下架
+### N19｜AI短剧《持械入宋》为何火了
+
+平台：今日头条；榜单排名：19；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7704243006215294507/
+
+### N20｜《嫁金钗》忘删AI水印
+
+平台：百度热搜；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0
+
+### N21｜字节AI开发平台“扣子”企业版下架
 
 平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6
 
-### N20｜AI短剧《持械入宋》为何火了
+### N22｜肖战大战AI短剧的时代
 
-平台：今日头条；榜单排名：23；实际出现快照数：3。
+平台：微博；榜单排名：22；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7704243006215294507/
+链接：https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%88%98AI%E7%9F%AD%E5%89%A7%E7%9A%84%E6%97%B6%E4%BB%A3%23
 
-### N21｜大V：五大AI各自适合干什么
+### N23｜大V：五大AI各自适合干什么
 
 平台：今日头条；榜单排名：26；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7704301746100637227/
 
-### N22｜你的下一辆车 机器人手搓的
+### N24｜你的下一辆车 机器人手搓的
 
 平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E4%B8%8B%E4%B8%80%E8%BE%86%E8%BD%A6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%90%93%E7%9A%84
 
-核对：AI HOT 13 条；TrendRadar 22 条。
+核对：AI HOT 12 条；TrendRadar 24 条。
