@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-05
 
-数据生成时间：2026-11-05T09:26:40+08:00（北京时间）
+数据生成时间：2026-11-05T10:45:08+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：28 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -127,11 +127,11 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 
 链接：https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86
 
-### N2｜AI时代数学专业该何去何从
+### N2｜OpenAI发布Images 2.6
 
 平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E
+链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83Images+2.6
 
 ### N3｜中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为
 
@@ -139,130 +139,154 @@ Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34405097
 
-### N4｜美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫
+### N4｜AI生成卖家秀能代替实拍吗
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%94%9F%E6%88%90%E5%8D%96%E5%AE%B6%E7%A7%80%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%AE%9E%E6%8B%8D%E5%90%97
+
+### N5｜美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2525646
 
-### N5｜AI套娃,大肥鱼要养小肥鱼
+### N6｜《嫁金钗》忘删AI水印
+
+平台：百度热搜；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0
+
+### N7｜AI套娃,大肥鱼要养小肥鱼
 
 平台：贴吧；榜单排名：5；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
 
-### N6｜AI有意识吗？——从脑机智能与脑机接口谈起
+### N8｜AI有意识吗？——从脑机智能与脑机接口谈起
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34390827
 
-### N7｜吧友实测:AI偏爱当女孩
+### N9｜吧友实测:AI偏爱当女孩
 
 平台：贴吧；榜单排名：7；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
 
-### N8｜豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？
+### N10｜AI短剧《持械入宋》为何火了
+
+平台：今日头条；榜单排名：7；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7704243006215294507/
+
+### N11｜豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？
 
 平台：知乎；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2100943272122250679
 
-### N9｜“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低
+### N12｜“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785143
 
-### N10｜巴彦淖尔一医院大楼起火图系AI生成
+### N13｜巴彦淖尔一医院大楼起火图系AI生成
 
-平台：今日头条；榜单排名：11；实际出现快照数：3。
+平台：今日头条；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7702735035199295010/
 
-### N11｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
+### N14｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100991081307453217
 
-### N12｜怎么看 Anthropic 发布 Smart Reports，老板可以直接看员工产出和对话类型统计？
+### N15｜怎么看 Anthropic 发布 Smart Reports，老板可以直接看员工产出和对话类型统计？
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：知乎；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2100612812506715255
 
-### N13｜DeepSeek Harness零基础全流程教学
+### N16｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：15；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
+链接：https://www.thepaper.cn/newsDetail_forward_34374966
 
-### N14｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
+### N17｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
 
 平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2099896271318397900
 
-### N15｜苹果国行AI与努比亚智能体对比
+### N18｜DeepSeek Harness零基础全流程教学
 
-平台：抖音；榜单排名：16；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
 
-链接：https://www.douyin.com/hot/2728815
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
 
-### N16｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
+### N19｜如何评价 DeepSeek 工程师高熙说的「AI 竞赛中，真正的对手不是其他大模型公司，而是时间」？
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34374966
+链接：https://www.zhihu.com/question/2101053619059389232
 
-### N17｜马斯克：AI算力将100%搬上太空
+### N20｜马斯克：AI算力将100%搬上太空
 
 平台：百度热搜；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E7%AE%97%E5%8A%9B%E5%B0%86100%25%E6%90%AC%E4%B8%8A%E5%A4%AA%E7%A9%BA
 
-### N18｜DeepSeek为什么要开源
+### N21｜DeepSeek为什么要开源
 
 平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
 
-### N19｜AI短剧《持械入宋》为何火了
-
-平台：今日头条；榜单排名：19；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7704243006215294507/
-
-### N20｜《嫁金钗》忘删AI水印
-
-平台：百度热搜；榜单排名：20；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0
-
-### N21｜字节AI开发平台“扣子”企业版下架
+### N22｜字节AI开发平台“扣子”企业版下架
 
 平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6
 
-### N22｜肖战大战AI短剧的时代
+### N23｜苹果国行AI与努比亚智能体对比
+
+平台：抖音；榜单排名：22；实际出现快照数：3。
+
+链接：https://www.douyin.com/hot/2728815
+
+### N24｜肖战大战AI短剧的时代
 
 平台：微博；榜单排名：22；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%88%98AI%E7%9F%AD%E5%89%A7%E7%9A%84%E6%97%B6%E4%BB%A3%23
 
-### N23｜大V：五大AI各自适合干什么
+### N25｜AI时代哪些知识不能交给AI
+
+平台：今日头条；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7704336329428962858/
+
+### N26｜大V：五大AI各自适合干什么
 
 平台：今日头条；榜单排名：26；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7704301746100637227/
 
-### N24｜你的下一辆车 机器人手搓的
+### N27｜人民日报评AI歌曲《过来人》出圈
+
+平台：百度热搜；榜单排名：28；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E5%87%BA%E5%9C%88
+
+### N28｜你的下一辆车 机器人手搓的
 
 平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E4%B8%8B%E4%B8%80%E8%BE%86%E8%BD%A6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%90%93%E7%9A%84
 
-核对：AI HOT 12 条；TrendRadar 24 条。
+核对：AI HOT 12 条；TrendRadar 28 条。
