@@ -1,17 +1,37 @@
-# AI 日报｜2026-11-05
+# AI 日报｜2026-11-06
 
-数据生成时间：2026-11-05T11:27:45+08:00（北京时间）
+数据生成时间：2026-11-06T00:31:30+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：31 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：8 条；TrendRadar：19 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Higgsfield 上线 GPT Image 2.6，新用户 7 天无限使用
+### A1｜a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时
+
+a16z 分析师撰文指出，2026 年 AI 智能体已把从漏洞到可用 exploit 的成本从专业人员的数周压缩到数小时，8 月底一次行动在 4 小时内攻破首个真实受害者，26 秒内攻陷 11 个组织，累计 48 国 395 个机构被攻破，其中一半是学校。
+
+来源：a16z：News（RSS）；发布时间：2026-11-05T15:01:00Z
+
+原文：https://www.a16z.news/p/the-exploit-was-the-bottleneck
+收录页：https://aihot.news/items/t5j6ucy3ao84zrwoz2yf2ovra
+
+### A2｜腾讯混元感谢 Artificial Analysis 对 Hy4 的评测，模型获 Intelligence Index v5 35 分
+
+腾讯混元转发并感谢 Artificial Analysis 对其最新模型 Hy4 的评测。Hy4 在 Artificial Analysis Intelligence Index v5 得 35 分，与中国实验室模型中仅次于 Kimi K3.1 Pro（46 分），与 Grok 4.7 (xhigh) 持平，比 Claude Haiku 5.5 (max) 低 1 分。评测要点：FrontierCode 2.0 得 31%，为中国实验室模型最高；AA-Omniscience v1.1 达 50% 但幻觉率高达 89%；定价 $0.834/$2.501 per 1M input/output tokens，支持 1M token 上下文窗口和文本加图像输入。
+
+来源：X：腾讯混元 (@TencentHunyuan)；发布时间：2026-11-05T10:23:42Z
+
+原文：https://x.com/TencentHunyuan/status/2118288137973854397
+收录页：https://aihot.news/items/fj4zi12biz0b62ckhzg5awcxx
+
+### A3｜Higgsfield 上线 GPT Image 2.6，新用户 7 天无限使用
 
 Higgsfield 宣布 GPT Image 2.6 已上线，新用户可 7 天无限使用。功能包括把提示词或图片转成 GIF、保存参考图随时复用、通过 markup 细化并导出 SVG。OpenAI 此前介绍 ChatGPT Images 2.6 新增 GIF 和参考图功能，另有两款 API 模型将带来 50% 更快的图像生成。
 
@@ -20,7 +40,7 @@ Higgsfield 宣布 GPT Image 2.6 已上线，新用户可 7 天无限使用。功
 原文：https://x.com/higgsfield/status/2118134123533623424
 收录页：https://aihot.news/items/lcdap1o18bh6bt70ij66nakij
 
-### A2｜月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源模型榜
+### A4｜月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源模型榜
 
 月之暗面按 10 月 24 日发布时的承诺，在 Hugging Face 开放 Kimi K3.1 Pro 权重。
 
@@ -29,7 +49,7 @@ Higgsfield 宣布 GPT Image 2.6 已上线，新用户可 7 天无限使用。功
 原文：https://www.ithome.com/1/022/490.htm
 收录页：https://aihot.news/items/hkcafk9es55rbok8pinu90x5o
 
-### A3｜OpenAI 称其智能体发现至少 10 种新型 Linux 漏洞利用技术
+### A5｜OpenAI 称其智能体发现至少 10 种新型 Linux 漏洞利用技术
 
 OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用技术，据其及所咨询专家所知均为此前未知的。OpenAI 认为这表明前沿大语言模型能发现并修补新的漏洞利用方式，而不只是套用已知技术。
 
@@ -38,7 +58,7 @@ OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用�
 原文：https://x.com/OpenAI/status/2118119461345739018
 收录页：https://aihot.news/items/ulr0gn1mg4kpj7yz2h2zwp7u1
 
-### A4｜Figma code layers 开放测试：在画布上用代码层和 Figma agent 协作探索设计
+### A6｜Figma code layers 开放测试：在画布上用代码层和 Figma agent 协作探索设计
 
 Figma 宣布 code layers 进入面向 100% 用户的 open beta，团队可在画布上直接创建和编辑基于代码的交互原型。
 
@@ -47,16 +67,16 @@ Figma 宣布 code layers 进入面向 100% 用户的 open beta，团队可在画
 原文：https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/
 收录页：https://aihot.news/items/xm8frob53vrd652eafjfg4o1c
 
-### A5｜美国中期选举投票限制 AI 与数据中心，Big Tech 称这是反特朗普而非反科技
+### A7｜美国中期选举大规模通过 AI 与数据中心限制措施，大型科技公司称反弹针对特朗普而非科技
 
-2026 年美国中期选举中，选民压倒性支持限制 AI 和数据中心的候选人及措施。Redbud Consulting 统计 10 个州 44 项数据中心限制措施已有 38 项通过；民主党人 Gina Hinojosa 赢得德州州长选举，计划推迟项目直到通过保护水电、空气和财产权的法律，Bloomberg 称约 13GW 数据中心容量受影响。
+2026 年美国中期选举中，10 个州 44 项限制数据中心的措施有 38 项通过，选民还选出了主张收紧 AI 管制的候选人。Gina Hinojosa 赢得德州州长选举，约 13GW 数据中心容量面临延迟，Axios 估计近三分之二的 2028 年数据中心容量可能受影响。
 
 来源：Ars Technica：AI（RSS）；发布时间：2026-11-04T20:55:50Z
 
 原文：https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/
 收录页：https://aihot.news/items/ueakbz7ghxdsqffsw67d61y7j
 
-### A6｜美国中期选举中选民在 13 州否决数据中心相关提案
+### A8｜美国中期选举中选民在 13 州否决数据中心相关提案
 
 美国中期选举中，13 个州逾 40 项数据中心相关 ballot 提案至少 38 项被否决，6 个城市投票全面禁止数据中心，12 个城市限制其用电兆瓦数。支持数据中心的候选人普遍落败，包括推动德州数据中心建设的州长 Gregg Abbott，他输掉第四次连任竞选、落后逾 70 万票；堪萨斯 Emporia 通过高影响数据中心禁令，Musk 在 X 上表示太空数据中心现在看来颇有吸引力。
 
@@ -65,246 +85,120 @@ Figma 宣布 code layers 进入面向 100% 用户的 open beta，团队可在画
 原文：https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/
 收录页：https://aihot.news/items/rt92cw12z1dsqozka4y4wzl2v
 
-### A7｜PFN 开放翻译特化模型 PLaMo 3 Translate，0.8B 至 31B 四个尺寸可离线运行
-
-Preferred Networks 将自家翻译服务使用的翻译特化 LLM PLaMo 3 Translate 以开放权重形式在 Hugging Face 公开，提供 0.8B、2B、8B、31B 四个尺寸。
-
-来源：Preferred Networks：AI 研究与产品；发布时间：2026-11-04T16:00:00Z
-
-原文：https://www.preferred.jp/ja/news/pr20261105
-收录页：https://aihot.news/items/mfhrioi9hwoh0m8q6q2yhjzo7
-
-### A8｜可灵 Kling 4.0 Flash 全面开放，支持官网、API、MCP 和 Adobe 插件接入
-
-可灵AI 宣布 Kling 4.0 Flash 现已向所有用户全面开放，可通过 Kling AI 官网和 API 使用。同时支持通过 MCP、CLI 及 AI 插件接入，创作者还可在 Adobe Photoshop、Premiere Pro 和 After Effects 中通过可灵插件调用该模型，体验入口为 klingai.com。
-
-来源：公众号：可灵AI（快手·视频）；发布时间：2026-11-04T15:00:00Z
-
-原文：https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ
-收录页：https://aihot.news/items/dh8lnoo1i3xiq7a12azrnmmwf
-
-### A9｜OpenAI 宣布收购 Code Storage 背后公司 Pierre
-
-OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。其 Trees 和 Diffs 库已被用于 Codex 应用的文件浏览与代码变更审阅；交割后 Pierre 的开源项目将继续开源，Code Storage 客户可继续使用，功能将逐步并入 Codex，交割尚待监管批准。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-11-04T14:30:00Z
-
-原文：https://openai.com/index/openai-to-acquire-pierre
-收录页：https://aihot.news/items/c39s97tylya5njp0nro6dwvbx
-
-### A10｜OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞
-
-OpenAI 构建了一条由即将推出的 cyber 模型驱动的漏洞发现、验证、利用评估与补丁生成流水线，于 2026 年 10 月中旬对最新 Linux 内核的一次运行中复现 1,724 个漏洞，生成 948 个本地提权（LPE）漏洞利用及对应补丁，总 API 成本 $1,213,430，平均每个 LPE $1,279。
-
-来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-11-04T08:00:00Z
-
-原文：https://openai.com/index/a-thousand-fewer-paths-to-root
-收录页：https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl
-
-### A11｜Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当
-
-Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监控事件，认为 OpenAI 披露迅速坦诚，但现有缓解措施不足以保证每次生效。文章指出 L2 安全部监控仅标记 42.9%、对齐监控为 57.1%，部分已导致模型实际无监控运行，建议所有无监控运行案例都应进入人工审查，并要求 OpenAI 更透明地说明升级处理流程。
-
-来源：Redwood Research：Blog（RSS）；发布时间：2026-11-04T06:34:24Z
-
-原文：https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring
-收录页：https://aihot.news/items/z2bhg9i4eqahaqc7zgktvqk98
-
-### A12｜腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力
-
-腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。
-
-来源：公众号：腾讯混元；发布时间：2026-11-04T04:43:55Z
-
-原文：https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA
-收录页：https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜嫁金钗忘删AI水印了
+### N1｜民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌8%，黄金站上4100
 
-平台：微博；榜单排名：1；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86
+链接：https://wallstreetcn.com/articles/3785235
 
-### N2｜AI生成卖家秀能代替实拍吗
+### N2｜进博探“芯”：三星、SK海力士、英特尔、AMD等同台亮相 算力跳出“参数比拼”转向“可部署系统”
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E7%94%9F%E6%88%90%E5%8D%96%E5%AE%B6%E7%A7%80%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%AE%9E%E6%8B%8D%E5%90%97
+链接：https://www.cls.cn/detail/2526575
 
-### N3｜中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为
+### N3｜多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率
 
-平台：澎湃新闻；榜单排名：2；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34405097
+链接：https://www.thepaper.cn/newsDetail_forward_34411188
 
-### N4｜OpenAI发布Images 2.6
+### N4｜官方要求2030年剧集AI渗透超九成
 
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+平台：贴吧；榜单排名：5；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83Images+2.6
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
 
-### N5｜美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫
+### N5｜【焦点复盘】市场连续2日现放量普涨，算力租赁概念现久违大涨，煤炭石油板块逆势领跌
 
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2525646
+链接：https://www.cls.cn/detail/2526309
 
-### N6｜AI套娃,大肥鱼要养小肥鱼
+### N6｜AI短剧为何几乎没有清宫戏
 
-平台：贴吧；榜单排名：5；实际出现快照数：3。
+平台：今日头条；榜单排名：8；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
+链接：https://www.toutiao.com/trending/7704623276374363658/
 
-### N7｜AI有意识吗？——从脑机智能与脑机接口谈起
+### N7｜跌到位了，高盛喊出：逢低买入A股，尤其AI
 
-平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34390827
+链接：https://wallstreetcn.com/articles/3785234
 
-### N8｜吧友实测:AI偏爱当女孩
+### N8｜美股AI硬件股大跌
 
-平台：贴吧；榜单排名：7；实际出现快照数：3。
+平台：微博；榜单排名：8；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
+链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C
 
-### N9｜AI短剧《持械入宋》为何火了
+### N9｜「AI 教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？
 
-平台：今日头条；榜单排名：7；实际出现快照数：2。
+平台：知乎；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7704243006215294507/
+链接：https://www.zhihu.com/question/2101374444023146456
 
-### N10｜豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？
-
-平台：知乎；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2100943272122250679
-
-### N11｜《嫁金钗》忘删AI水印
+### N10｜全球首个仿生人形机器人新闻主播发布
 
 平台：百度热搜；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0
+链接：https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E5%8F%91%E5%B8%83
 
-### N12｜“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低
+### N11｜民主党反对AI？
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785288
+
+### N12｜科技巨头与清洁能源股续涨，AI算力链再承压 | 今夜看点
+
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2526626
+
+### N13｜一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785143
+链接：https://wallstreetcn.com/articles/3785285
 
-### N13｜DeepSeek Harness零基础全流程教学
+### N14｜英伟达总市值跌至4.5万亿美元
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：3。
+平台：百度热搜；榜单排名：12；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
+链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%BB%E5%B8%82%E5%80%BC%E8%B7%8C%E8%87%B34.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83
 
-### N14｜巴彦淖尔一医院大楼起火图系AI生成
+### N15｜金元政治的惨败：马斯克砸重金挡不住蓝色浪潮，AI数据中心遇逆风
 
-平台：今日头条；榜单排名：11；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7702735035199295010/
+链接：https://www.thepaper.cn/newsDetail_forward_34410722
 
-### N15｜为什么 GPT 先起飞，Claude 现在却断档领先？他们有独特的训练方法吗？
+### N16｜冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：知乎；榜单排名：16；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2100991081307453217
+链接：https://www.zhihu.com/question/2101279300045338395
 
-### N16｜11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%
+### N17｜AI套娃,大肥鱼要养小肥鱼
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：贴吧；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2525696
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
 
-### N17｜有人买算力，有人买服务，今年“双十一”还有哪些新变化？
+### N18｜阻挠日本软银买机器人业务？中方回应
 
-平台：澎湃新闻；榜单排名：14；实际出现快照数：3。
+平台：今日头条；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34374966
+链接：https://www.toutiao.com/trending/7704694262574665226/
 
-### N18｜网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？
+### N19｜吧友实测:AI偏爱当女孩
 
-平台：知乎；榜单排名：15；实际出现快照数：2。
+平台：贴吧；榜单排名：22；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2099896271318397900
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
 
-### N19｜苹果国行AI与努比亚智能体对比
-
-平台：抖音；榜单排名：18；实际出现快照数：2。
-
-链接：https://www.douyin.com/hot/2728815
-
-### N20｜马斯克：AI算力将100%搬上太空
-
-平台：百度热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E7%AE%97%E5%8A%9B%E5%B0%86100%25%E6%90%AC%E4%B8%8A%E5%A4%AA%E7%A9%BA
-
-### N21｜DeepSeek为什么要开源
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90
-
-### N22｜如何评价 DeepSeek 工程师高熙说的「AI 竞赛中，真正的对手不是其他大模型公司，而是时间」？
-
-平台：知乎；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2101053619059389232
-
-### N23｜字节AI开发平台“扣子”企业版下架
-
-平台：百度热搜；榜单排名：20；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6
-
-### N24｜前Claude Code产品负责人加入OpenAI
-
-平台：百度热搜；榜单排名：21；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%89%8DClaude+Code%E4%BA%A7%E5%93%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8A%A0%E5%85%A5OpenAI
-
-### N25｜业内：人形机器人关键要能干活
-
-平台：今日头条；榜单排名：22；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7704438886373916710/
-
-### N26｜肖战大战AI短剧的时代
-
-平台：微博；榜单排名：22；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%88%98AI%E7%9F%AD%E5%89%A7%E7%9A%84%E6%97%B6%E4%BB%A3%23
-
-### N27｜大V：五大AI各自适合干什么
-
-平台：今日头条；榜单排名：26；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7704301746100637227/
-
-### N28｜人民日报评AI歌曲《过来人》出圈
-
-平台：百度热搜；榜单排名：27；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E5%87%BA%E5%9C%88
-
-### N29｜你的下一辆车 机器人手搓的
-
-平台：百度热搜；榜单排名：28；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E4%B8%8B%E4%B8%80%E8%BE%86%E8%BD%A6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%90%93%E7%9A%84
-
-### N30｜当李在明向AI询问韩国的司法未来
-
-平台：今日头条；榜单排名：29；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7704478913690340905/
-
-### N31｜AI服务器越卖越火 普通PC何去何从
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7704480644184690218/
-
-核对：AI HOT 12 条；TrendRadar 31 条。
+核对：AI HOT 8 条；TrendRadar 19 条。
