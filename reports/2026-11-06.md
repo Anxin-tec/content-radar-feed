@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-06
 
-数据生成时间：2026-11-06T06:16:24+08:00（北京时间）
+数据生成时间：2026-11-06T06:31:30+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：23 条 AI 相关热点。
+AI HOT：17 条；TrendRadar：24 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -186,7 +186,7 @@ OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用�
 
 ### N4｜多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率
 
-平台：澎湃新闻；榜单排名：4；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34411188
 
@@ -264,7 +264,7 @@ OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用�
 
 ### N17｜全球首个仿生人形机器人新闻主播发布
 
-平台：百度热搜；榜单排名：13；实际出现快照数：3。
+平台：百度热搜；榜单排名：14；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E5%8F%91%E5%B8%83
 
@@ -286,22 +286,28 @@ OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用�
 
 链接：https://www.toutiao.com/trending/7704694262574665226/
 
-### N21｜美股AI硬件股大跌
-
-平台：微博；榜单排名：20；实际出现快照数：3。
-
-链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C
-
-### N22｜吧友实测:AI偏爱当女孩
+### N21｜吧友实测:AI偏爱当女孩
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
 
-### N23｜DeepSeek Harness零基础全流程教学
+### N22｜DeepSeek Harness零基础全流程教学
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
 
-核对：AI HOT 17 条；TrendRadar 23 条。
+### N23｜但斌回应重仓AI回撤大
+
+平台：微博；榜单排名：28；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%E4%BD%86%E6%96%8C%E5%9B%9E%E5%BA%94%E9%87%8D%E4%BB%93AI%E5%9B%9E%E6%92%A4%E5%A4%A7
+
+### N24｜美股AI硬件股大跌
+
+平台：微博；榜单排名：29；实际出现快照数：3。
+
+链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C
+
+核对：AI HOT 17 条；TrendRadar 24 条。
