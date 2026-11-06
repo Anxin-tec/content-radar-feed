@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-07
 
-数据生成时间：2026-11-07T06:21:02+08:00（北京时间）
+数据生成时间：2026-11-07T06:31:29+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：21 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：21 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -110,15 +110,6 @@ OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不�
 原文：https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ
 收录页：https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw
 
-### A12｜OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿
-
-OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 40 亿张，高于仅 8 周前的每周超 30 亿张。其转发的 @OpenAI 内容还提到 ChatGPT Images 2.6 新增 GIF 与参考图支持，API 将迎来两个图像生成速度提升 50% 的新模型。
-
-来源：X：Tibo (@thsottiaux)；发布时间：2026-11-05T22:24:51Z
-
-原文：https://x.com/thsottiaux/status/2118469621011677521
-收录页：https://aihot.news/items/z16tksw5l40w2edrohnozslkl
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？
@@ -147,7 +138,7 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 
 ### N5｜如何看待广电总局重申未来将把重点放在扶持真人短剧，以及规范 AI 短剧？这对短剧行业会带来哪些影响？
 
-平台：知乎；榜单排名：5；实际出现快照数：2。
+平台：知乎；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101979474723960031
 
@@ -171,7 +162,7 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 
 ### N9｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
 
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2527541
 
@@ -205,23 +196,23 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 
 链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
 
-### N15｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
-
-平台：知乎；榜单排名：14；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2101923145217209086
-
-### N16｜DeepSeek最新Super Agent实测
+### N15｜DeepSeek最新Super Agent实测
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Super+Agent
 
-### N17｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
+### N16｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2096226529332180229
+
+### N17｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
+
+平台：知乎；榜单排名：16；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2101923145217209086
 
 ### N18｜donk鉴赏AI整活短片
 
@@ -247,4 +238,4 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
 
-核对：AI HOT 12 条；TrendRadar 21 条。
+核对：AI HOT 11 条；TrendRadar 21 条。
