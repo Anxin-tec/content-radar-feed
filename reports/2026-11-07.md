@@ -1,13 +1,11 @@
 # AI 日报｜2026-11-07
 
-数据生成时间：2026-11-07T05:45:41+08:00（北京时间）
+数据生成时间：2026-11-07T06:21:02+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：21 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：12 条；TrendRadar：21 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -121,32 +119,23 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 原文：https://x.com/thsottiaux/status/2118469621011677521
 收录页：https://aihot.news/items/z16tksw5l40w2edrohnozslkl
 
-### A13｜美股单日蒸发 3.2 万亿美元，Nasdaq 创 2025 年 4 月以来最大跌幅
-
-11 月 5 日华尔街市值蒸发 3.2 万亿美元，Nasdaq 综合指数跌 5.52%，投资者恐慌民主党掌控国会将放缓高杠杆 AI 支出热潮。Nvidia 跌 9.3% 抹去 2026 年涨幅，费城半导体指数跌 12.3%，SanDisk 跌 22%，Micron、Western Digital 和 AMD 各跌 17%。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-05T21:50:41Z
-
-原文：https://x.com/rohanpaul_ai/status/2118461023808323957
-收录页：https://aihot.news/items/czctc3kqzf5wru8fhsbnhvxt7
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：知乎；榜单排名：2；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2101987202196400085
 
 ### N2｜撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785351
 
 ### N3｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
 
-平台：财联社热门；榜单排名：4；实际出现快照数：2。
+平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2527812
 
@@ -158,13 +147,13 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 
 ### N5｜如何看待广电总局重申未来将把重点放在扶持真人短剧，以及规范 AI 短剧？这对短剧行业会带来哪些影响？
 
-平台：知乎；榜单排名：5；实际出现快照数：1。
+平台：知乎；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101979474723960031
 
 ### N6｜民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？
 
-平台：知乎；榜单排名：6；实际出现快照数：2。
+平台：知乎；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2101977105504235968
 
@@ -180,82 +169,82 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 
 链接：https://www.zhihu.com/question/2101823381955990842
 
-### N9｜DeepSeek Harness基础教学
+### N9｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
-
-### N10｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
-
-平台：财联社热门；榜单排名：8；实际出现快照数：2。
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2527541
 
-### N11｜美议员扬言推动AI禁令
+### N10｜美议员扬言推动AI禁令
 
-平台：贴吧；榜单排名：9；实际出现快照数：2。
+平台：贴吧；榜单排名：9；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
 
-### N12｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
+### N11｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785306
 
+### N12｜DeepSeek Harness基础教学
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
+
 ### N13｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2527443
 
-### N14｜DeepSeek最新Super Agent实测
+### N14｜这到底是机器人还是真人
+
+平台：百度热搜；榜单排名：13；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
+
+### N15｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
+
+平台：知乎；榜单排名：14；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2101923145217209086
+
+### N16｜DeepSeek最新Super Agent实测
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Super+Agent
 
-### N15｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
+### N17｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2096226529332180229
 
-### N16｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
-
-平台：知乎；榜单排名：16；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2101923145217209086
-
-### N17｜donk鉴赏AI整活短片
+### N18｜donk鉴赏AI整活短片
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87
 
-### N18｜王子璇走心发言疑似AI预制
+### N19｜王子璇走心发言疑似AI预制
 
-平台：贴吧；榜单排名：19；实际出现快照数：2。
+平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6&topic_id=28369346
 
-### N19｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
+### N20｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34404164
 
-### N20｜这到底是机器人还是真人
-
-平台：百度热搜；榜单排名：21；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
-
 ### N21｜官方要求2030年剧集AI渗透超九成
 
-平台：贴吧；榜单排名：24；实际出现快照数：2。
+平台：贴吧；榜单排名：24；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
 
-核对：AI HOT 13 条；TrendRadar 21 条。
+核对：AI HOT 12 条；TrendRadar 21 条。
