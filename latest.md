@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-07
 
-数据生成时间：2026-11-07T07:29:28+08:00（北京时间）
+数据生成时间：2026-11-07T07:48:31+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：26 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：29 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -142,23 +142,23 @@ OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不�
 
 链接：https://www.cls.cn/detail/2527369
 
-### N6｜DeepSeek Harness基础教学
-
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
-
-### N7｜美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌
+### N6｜美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2527967
 
-### N8｜民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？
+### N7｜民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？
 
 平台：知乎；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2101977105504235968
+
+### N8｜DeepSeek Harness基础教学
+
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
 
 ### N9｜AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水
 
@@ -202,70 +202,88 @@ OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不�
 
 链接：https://wallstreetcn.com/articles/3785306
 
-### N16｜特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场
+### N16｜创业板跌4%，AI硬件集体调整、“易中天”再度大跌，电力、农业逆势活跃，恒指、恒科指均跌超1%
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785325
+
+### N17｜特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场
 
 平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2527972
 
-### N17｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
+### N18｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
 
 平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2527443
 
-### N18｜美股AI概念股止跌反弹
+### N19｜在乌镇被机器人“拿捏”了
+
+平台：抖音；榜单排名：14；实际出现快照数：1。
+
+链接：https://www.douyin.com/hot/2731993
+
+### N20｜美股AI概念股止跌反弹
 
 平台：百度热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E6%A6%82%E5%BF%B5%E8%82%A1%E6%AD%A2%E8%B7%8C%E5%8F%8D%E5%BC%B9
 
-### N19｜DeepSeek最新Super Agent实测
+### N21｜DeepSeek最新Super Agent实测
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Super+Agent
 
-### N20｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
+### N22｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2096226529332180229
 
-### N21｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
+### N23｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
 
 平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101923145217209086
 
-### N22｜donk鉴赏AI整活短片
+### N24｜donk鉴赏AI整活短片
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87
 
-### N23｜王子璇走心发言疑似AI预制
+### N25｜进博观察｜从“展示”到“干活”，人形机器人回到工作场景
+
+平台：澎湃新闻；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34422539
+
+### N26｜王子璇走心发言疑似AI预制
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6&topic_id=28369346
 
-### N24｜进博观察｜从“展示”到“干活”，人形机器人回到工作场景
-
-平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34422539
-
-### N25｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
+### N27｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34404164
 
-### N26｜官方要求2030年剧集AI渗透超九成
+### N28｜官方要求2030年剧集AI渗透超九成
 
 平台：贴吧；榜单排名：24；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
 
-核对：AI HOT 11 条；TrendRadar 26 条。
+### N29｜AI构造3000亿变量多项式推进世纪难题
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%9E%84%E9%80%A03000%E4%BA%BF%E5%8F%98%E9%87%8F%E5%A4%9A%E9%A1%B9%E5%BC%8F%E6%8E%A8%E8%BF%9B%E4%B8%96%E7%BA%AA%E9%9A%BE%E9%A2%98
+
+核对：AI HOT 11 条；TrendRadar 29 条。
