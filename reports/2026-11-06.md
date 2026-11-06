@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-06
 
-数据生成时间：2026-11-06T08:56:14+08:00（北京时间）
+数据生成时间：2026-11-06T09:30:39+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：33 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：37 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -163,11 +163,11 @@ Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数
 
 链接：https://wallstreetcn.com/articles/3785294
 
-### N5｜进博探“芯”：三星、SK海力士、英特尔、AMD等同台亮相 算力跳出“参数比拼”转向“可部署系统”
+### N5｜54岁大哥靠AI短剧还清负债
 
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
+平台：微博；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2526575
+链接：https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23
 
 ### N6｜多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率
 
@@ -175,41 +175,41 @@ Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数
 
 链接：https://www.thepaper.cn/newsDetail_forward_34411188
 
-### N7｜官方要求2030年剧集AI渗透超九成
-
-平台：贴吧；榜单排名：5；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
-
-### N8｜一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫
+### N7｜一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785285
 
-### N9｜民主党反对AI？
+### N8｜进博探“芯”：三星、SK海力士、英特尔、AMD等同台亮相 算力跳出“参数比拼”转向“可部署系统”
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2526575
+
+### N9｜官方要求2030年剧集AI渗透超九成
+
+平台：贴吧；榜单排名：7；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
+
+### N10｜民主党反对AI？
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785288
 
-### N10｜AI交易遭遇至暗时刻 美防长赫格塞思面临弹劾压力 | 环球市场
+### N11｜AI交易遭遇至暗时刻 美防长赫格塞思面临弹劾压力 | 环球市场
 
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2526809
 
-### N11｜【焦点复盘】市场连续2日现放量普涨，算力租赁概念现久违大涨，煤炭石油板块逆势领跌
+### N12｜【焦点复盘】市场连续2日现放量普涨，算力租赁概念现久违大涨，煤炭石油板块逆势领跌
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2526309
-
-### N12｜54岁大哥靠AI短剧还清负债
-
-平台：微博；榜单排名：8；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23
 
 ### N13｜「AI 教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？
 
@@ -223,23 +223,23 @@ Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数
 
 链接：https://www.zhihu.com/question/2101356243331839893
 
-### N15｜科技巨头与清洁能源股续涨，AI算力链再承压 | 今夜看点
+### N15｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
 
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2526626
+链接：https://wallstreetcn.com/articles/3785306
 
-### N16｜跌到位了，高盛喊出：逢低买入A股，尤其AI
+### N16｜AI短剧为何几乎没有清宫戏
+
+平台：今日头条；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.toutiao.com/trending/7704623276374363658/
+
+### N17｜跌到位了，高盛喊出：逢低买入A股，尤其AI
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785234
-
-### N17｜AI帮我揪出自动续费刺客
-
-平台：微博；榜单排名：11；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23AI%E5%B8%AE%E6%88%91%E6%8F%AA%E5%87%BA%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%88%BA%E5%AE%A2%23
 
 ### N18｜英伟达总市值跌至4.5万亿美元
 
@@ -253,88 +253,112 @@ Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数
 
 链接：https://www.thepaper.cn/newsDetail_forward_34410722
 
-### N20｜马斯克评论民主党议员呼吁暂停研发AI
+### N20｜54岁大哥靠AI短剧还清负债
 
-平台：今日头条；榜单排名：15；实际出现快照数：1。
+平台：百度热搜；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7704627714594177545/
+链接：https://www.baidu.com/s?wd=54%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA
 
-### N21｜圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？
+### N21｜科技巨头与清洁能源股续涨，AI算力链再承压 | 今夜看点
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34412734
+链接：https://www.cls.cn/detail/2526626
 
-### N22｜OpenAI 推出 Images2.6，生成速度提升 50% 且支持 GIF，体验如何？
+### N22｜UP主用AI重新编写线代教材
+
+平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E9%87%8D%E6%96%B0%E7%BC%96%E5%86%99%E7%BA%BF%E4%BB%A3%E6%95%99%E6%9D%90
+
+### N23｜OpenAI 推出 Images2.6，生成速度提升 50% 且支持 GIF，体验如何？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2101596366724190781
 
-### N23｜冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？
+### N24｜曝 DeepSeek V5 将采用华为昇腾 950 芯片作为核心训练算力，这意味着什么？
 
-平台：知乎；榜单排名：18；实际出现快照数：3。
+平台：知乎；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2100918856617288554
+
+### N25｜圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？
+
+平台：澎湃新闻；榜单排名：18；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34412734
+
+### N26｜马斯克评论民主党议员呼吁暂停研发AI
+
+平台：今日头条；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7704627714594177545/
+
+### N27｜冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？
+
+平台：知乎；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2101279300045338395
 
-### N24｜UP主用AI重新编写线代教材
-
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E9%87%8D%E6%96%B0%E7%BC%96%E5%86%99%E7%BA%BF%E4%BB%A3%E6%95%99%E6%9D%90
-
-### N25｜AI套娃,大肥鱼要养小肥鱼
-
-平台：贴吧；榜单排名：20；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
-
-### N26｜阻挠日本软银买机器人业务？中方回应
+### N28｜阻挠日本软银买机器人业务？中方回应
 
 平台：今日头条；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7704694262574665226/
 
-### N27｜闪迪跌逾22% 英伟达跌9.26%
+### N29｜全球首个仿生人形机器人新闻主播发布
 
-平台：百度热搜；榜单排名：22；实际出现快照数：1。
+平台：百度热搜；榜单排名：21；实际出现快照数：2。
 
-链接：https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E8%B7%8C%E9%80%BE22%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C9.26%25
+链接：https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E5%8F%91%E5%B8%83
 
-### N28｜吧友实测:AI偏爱当女孩
+### N30｜机器人格斗不如去年好看？王兴兴回应
+
+平台：百度热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E4%B8%8D%E5%A6%82%E5%8E%BB%E5%B9%B4%E5%A5%BD%E7%9C%8B%EF%BC%9F%E7%8E%8B%E5%85%B4%E5%85%B4%E5%9B%9E%E5%BA%94
+
+### N31｜AI套娃,大肥鱼要养小肥鱼
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC&topic_id=28369136
 
-### N29｜DeepSeek Harness零基础全流程教学
+### N32｜美国AI禁令 科技股
+
+平台：微博；榜单排名：22；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDAI%E7%A6%81%E4%BB%A4+%E7%A7%91%E6%8A%80%E8%82%A1
+
+### N33｜DeepSeek Harness零基础全流程教学
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness%E6%95%99%E5%AD%A6
 
-### N30｜市场能接受AI繁荣退潮吗
+### N34｜吧友实测:AI偏爱当女孩
 
-平台：今日头条；榜单排名：24；实际出现快照数：1。
+平台：贴吧；榜单排名：24；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9&topic_id=28368950
+
+### N35｜闪迪跌逾22% 英伟达跌9.26%
+
+平台：百度热搜；榜单排名：28；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E8%B7%8C%E9%80%BE22%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C9.26%25
+
+### N36｜市场能接受AI繁荣退潮吗
+
+平台：今日头条；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7704706973463219775/
 
-### N31｜AI短剧为何几乎没有清宫戏
-
-平台：今日头条；榜单排名：26；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7704623276374363658/
-
-### N32｜全球首个仿生人形机器人新闻主播发布
-
-平台：百度热搜；榜单排名：28；实际出现快照数：3。
-
-链接：https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E5%8F%91%E5%B8%83
-
-### N33｜美股AI硬件股大跌
+### N37｜美股AI硬件股大跌
 
 平台：微博；榜单排名：30；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C
 
-核对：AI HOT 14 条；TrendRadar 33 条。
+核对：AI HOT 14 条；TrendRadar 37 条。
