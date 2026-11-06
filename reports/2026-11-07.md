@@ -1,9 +1,9 @@
 # AI 日报｜2026-11-07
 
-数据生成时间：2026-11-07T00:31:36+08:00（北京时间）
+数据生成时间：2026-11-07T04:31:27+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：18 条 AI 相关热点。
-实际采集快照：1 个；平台：11 个。
+AI HOT：11 条；TrendRadar：20 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
 
@@ -49,7 +49,25 @@ METR 发布对 Anthropic 内部数据的十一周审计结果，称自 2025 年 
 原文：https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg
 收录页：https://aihot.news/items/apnpwouw9phkt81pijcxcl1a1
 
-### A5｜OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器
+### A5｜Meta 将基于 Muse Wonder 训练的专用模型上线 Muse 与 Meta AI
+
+Meta 宣布把基于 Muse Wonder 训练的专用模型推向 Muse 和 Meta AI 用户，Personal Superintelligence Index 得分从 38% 提升到 47%。
+
+来源：Meta AI：Research Blog（网页）；发布时间：2026-11-06T07:00:00Z
+
+原文：https://research.meta.ai/blog/specialized-models-for-muse-and-metaai
+收录页：https://aihot.news/items/fjuidf0zii7na78sxru5il7pr
+
+### A6｜Cursor 推出与智能体的实时语音聊天
+
+Cursor 推出与智能体的实时语音聊天功能，可用语音提出更改、询问进展并听取智能体播报的简短进度。语音聊天支持智能体窗口、IDE、Web 端和 iOS，可搜索历史消息和通话、在多个 worker 间切换，iOS 上还支持“Hey Siri, call Cursor”发起通话。
+
+来源：Cursor：Changelog（网页）；发布时间：2026-11-06T00:00:00Z
+
+原文：https://cursor.com/changelog/voice-chat
+收录页：https://aihot.news/items/nzxzrjiqbmjkybz85mcylo2xo
+
+### A7｜OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器
 
 OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。
 
@@ -58,7 +76,16 @@ OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Cod
 原文：https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/
 收录页：https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn
 
-### A6｜美国中期选举后数据中心民意反弹引发AI股暴跌
+### A8｜OpenClaw 无需更新即可使用新模型：改为三个模型列表来源
+
+OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不再等客户端发版。现在从三处取模型列表：每 4 小时重建的 catalog.openclaw.ai 目录（约 1000 个模型）、账号可用的模型列表，以及 PATH 上已安装的 Codex（需同主版本且握手通过，否则回退内置版本）。
+
+来源：OpenClaw：Blog（网页）；发布时间：2026-11-06T00:00:00Z
+
+原文：https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update
+收录页：https://aihot.news/items/b0ddwv6p8wgd0xlhcvvw4z36b
+
+### A9｜美国中期选举后数据中心民意反弹引发AI股暴跌
 
 作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。背景是中期选举民主党拿下两院，亚利桑那州众议员安萨里提出应暂停先进AI开发，此前桑德斯等人在9月提过《2026年禁止人工超级智能法案》，按训练算力10的25次方划线并规定违规个人最高判20年、公司可强制解散。
 
@@ -67,7 +94,7 @@ OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Cod
 原文：https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ
 收录页：https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw
 
-### A7｜OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿
+### A10｜OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿
 
 OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 40 亿张，高于仅 8 周前的每周超 30 亿张。其转发的 @OpenAI 内容还提到 ChatGPT Images 2.6 新增 GIF 与参考图支持，API 将迎来两个图像生成速度提升 50% 的新模型。
 
@@ -76,7 +103,7 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 原文：https://x.com/thsottiaux/status/2118469621011677521
 收录页：https://aihot.news/items/z16tksw5l40w2edrohnozslkl
 
-### A8｜美股单日蒸发 3.2 万亿美元，Nasdaq 创 2025 年 4 月以来最大跌幅
+### A11｜美股单日蒸发 3.2 万亿美元，Nasdaq 创 2025 年 4 月以来最大跌幅
 
 11 月 5 日华尔街市值蒸发 3.2 万亿美元，Nasdaq 综合指数跌 5.52%，投资者恐慌民主党掌控国会将放缓高杠杆 AI 支出热潮。Nvidia 跌 9.3% 抹去 2026 年涨幅，费城半导体指数跌 12.3%，SanDisk 跌 22%，Micron、Western Digital 和 AMD 各跌 17%。
 
@@ -85,103 +112,49 @@ OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 4
 原文：https://x.com/rohanpaul_ai/status/2118461023808323957
 收录页：https://aihot.news/items/czctc3kqzf5wru8fhsbnhvxt7
 
-### A9｜李飞飞宣传 World Labs 发布 Frameboy，可实时体验 Atlas 世界模型
-
-李飞飞转发 World Labs 官方账号，宣传其新发布的 Frameboy demo，可用于实时探索世界。Frameboy 是两个月前发布的自回归世界模型 Atlas 的高度优化版本，从云端 GPU 流式传输，最高可达 15 fps，支持像素级相机控制。
-
-来源：X：Fei-Fei Li (@drfeifei, World Labs)；发布时间：2026-11-05T20:21:15Z
-
-原文：https://x.com/drfeifei/status/2118438515474374904
-收录页：https://aihot.news/items/m725rhhdt7a38zdd3aappeofn
-
-### A10｜美国中期选举蓝潮冲击 AI 行业，44 项数据中心暂停提案中 43 项通过
-
-美国中期选举民主党拿下参众两院，多场竞选以问责 AI 公司为主题，行业面临监管、数据中心建设放缓等前景。44 项地方数据中心暂停提案中 43 项通过，NBC 民调显示 76% 选民反对在社区建数据中心；专家称共和党禁止州级 AI 限制的尝试可能终结，OpenAI 和 Anthropic 未置评，据华尔街日报报道 CEO 们在私下讨论算力容量受限问题。
-
-来源：The Verge：AI（RSS）；发布时间：2026-11-05T17:51:52Z
-
-原文：https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai
-收录页：https://aihot.news/items/vkfrtci1ufbtbydsqersys6lx
-
-### A11｜Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放
-
-Perplexity 推出 Teammates 功能，这些智能体可承接任务，利用 Computer tasks、skills、memory 和工具主动工作。Teammates 之间可相互协作，还能在 Slack 中给同事发消息，目前已向 Max 订阅用户开放网页版。
-
-来源：X：Perplexity (@perplexity_ai)；发布时间：2026-11-05T17:05:47Z
-
-原文：https://x.com/perplexity_ai/status/2118389326459670825
-收录页：https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45
-
-### A12｜Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒
-
-Google 发布 Gemini Omni 1.2 Flash，在 Gemini API 和 Gemini for business 全面开放。新模型原生支持最长 15 秒视频生成（此前为 10 秒），支持多轮对话编辑和更强的参考图一致性，价格较 1.1 下降 30% 至 720p 视频 $0.07/秒。
-
-来源：Google Blog：AI（RSS）；发布时间：2026-11-05T17:00:00Z
-
-原文：https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
-收录页：https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105
-
-### A13｜Reflection 详解开源模型 Beam 的安全训练与评估方法
-
-Reflection 发布博文，讲解其开源权重模型 Beam 的安全训练与评估方法，并推出开源安全研究计划 Project Iris。Beam 在 Iris Safety Evaluations 对话任务中拒绝 89% 的有害请求，为所测开源权重模型中最高，同时遵守 82% 的安全相关无害请求；安全对齐教师模型从 100B 增至 501B 参数后，过度拒绝相对下降 48.7%。
-
-来源：Reflection Blog；发布时间：2026-11-05T17:00:00Z
-
-原文：https://reflection.ai/blog/open-model-safety-lessons
-收录页：https://aihot.news/items/mpv0jfejdzdm2336jgtyj9tde
-
-### A14｜Mustafa Suleyman 对特拉华允许 AI 智能体经营企业的提案表示担忧
-
-Mustafa Suleyman 表示对特拉华州允许 AI 智能体经营企业的提案深感担忧，认为应非常谨慎。该提案拟设立名为 Delaware AIC 的独立法律实体，其日常事务由 AI 智能体而非人类管理，可依智能体指示以自身名义起诉应诉、持有和处置财产并承担债务。
-
-来源：X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)；发布时间：2026-11-05T16:33:21Z
-
-原文：https://x.com/mustafasuleyman/status/2118381163136123019
-收录页：https://aihot.news/items/kl8ufrhv3zm38108gy2d7mins
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击
+### N1｜看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785351
-
-### N2｜看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？
-
-平台：知乎；榜单排名：3；实际出现快照数：1。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101987202196400085
 
-### N3｜近百亿美股持仓遭遇大跌，但斌回应：AI就此落幕，可能极小
+### N2｜donk鉴赏AI整活短片
+
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87
+
+### N3｜撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3785351
+
+### N4｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
+
+平台：财联社热门；榜单排名：4；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2527812
+
+### N5｜近百亿美股持仓遭遇大跌，但斌回应：AI就此落幕，可能极小
 
 平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2527369
 
-### N4｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
-
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2527812
-
-### N5｜AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785294
-
 ### N6｜民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？
 
-平台：知乎；榜单排名：6；实际出现快照数：1。
+平台：知乎；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101977105504235968
 
-### N7｜donk鉴赏AI整活短片
+### N7｜AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87
+链接：https://wallstreetcn.com/articles/3785294
 
 ### N8｜如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？
 
@@ -189,64 +162,76 @@ Mustafa Suleyman 表示对特拉华州允许 AI 智能体经营企业的提案�
 
 链接：https://www.zhihu.com/question/2101823381955990842
 
-### N9｜美议员扬言推动AI禁令
+### N9｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
 
-平台：贴吧；榜单排名：9；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
-
-### N10｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
-
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2527541
 
-### N11｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
+### N10｜如何看待广电总局重申未来将把重点放在扶持真人短剧，以及规范 AI 短剧？这对短剧行业会带来哪些影响？
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：知乎；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2101979474723960031
+
+### N11｜美议员扬言推动AI禁令
+
+平台：贴吧；榜单排名：9；实际出现快照数：2。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
+
+### N12｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785306
 
-### N12｜这到底是机器人还是真人
+### N13｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
 
-平台：百度热搜；榜单排名：14；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2527443
+
+### N14｜这到底是机器人还是真人
+
+平台：百度热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
 
-### N13｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
+### N15｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
 
-平台：知乎；榜单排名：15；实际出现快照数：1。
+平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101923145217209086
 
-### N14｜DeepSeek最新Super Agent实测
+### N16｜DeepSeek最新Super Agent实测
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Super+Agent
 
-### N15｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
+### N17｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2096226529332180229
 
-### N16｜王子璇走心发言疑似AI预制
+### N18｜王子璇走心发言疑似AI预制
 
-平台：贴吧；榜单排名：19；实际出现快照数：1。
+平台：贴吧；榜单排名：19；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6&topic_id=28369346
 
-### N17｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
+### N19｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34404164
 
-### N18｜官方要求2030年剧集AI渗透超九成
+### N20｜官方要求2030年剧集AI渗透超九成
 
-平台：贴吧；榜单排名：24；实际出现快照数：1。
+平台：贴吧；榜单排名：24；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
 
-核对：AI HOT 14 条；TrendRadar 18 条。
+核对：AI HOT 11 条；TrendRadar 20 条。
