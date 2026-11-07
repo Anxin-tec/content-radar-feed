@@ -1,17 +1,28 @@
-# AI 日报｜2026-11-07
+# AI 日报｜2026-11-08
 
-数据生成时间：2026-11-07T10:43:38+08:00（北京时间）
+数据生成时间：2026-11-08T00:31:27+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：29 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：3 条；TrendRadar：25 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现
+### A1｜美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划
+
+美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。
+
+来源：IT之家·人工智能；发布时间：2026-11-07T09:16:42.957000Z
+
+原文：https://www.ithome.com/1/023/765.htm
+收录页：https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv
+
+### A2｜Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现
 
 Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。
 
@@ -20,7 +31,7 @@ Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了
 原文：https://x.com/ArtificialAnlys/status/2118851088111865983
 收录页：https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z
 
-### A2｜Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元
+### A3｜Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元
 
 据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。
 
@@ -29,225 +40,156 @@ Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了
 原文：https://x.com/rohanpaul_ai/status/2118813225336873181
 收录页：https://aihot.news/items/m45kaixmfb2554qlzxbpnir36
 
-### A3｜约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿
-
-据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。尽管 Trump 去年已放行 H200 对华销售，中国正以每家科技巨头约 1 万块的速度小批量发放进口许可，推动国内服务器价格上涨 3 倍。
-
-来源：X：X.PIN (@thexpin)；发布时间：2026-11-06T15:32:00Z
-
-原文：https://x.com/thexpin/status/2118728111076335627
-收录页：https://aihot.news/items/aiiclbw9wwswwx60wfqw6eb6o
-
-### A4｜METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值
-
-METR 发布对 Anthropic 内部数据的十一周审计结果，称自 2025 年 10 月以来模型测试分数提升速度约加快 1.9 倍，其中约 80% 归因于 AI 用于公司自身研究，可能已在 7 月 15 日达到其负责任扩展政策中的预警阈值。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-11-06T13:40:07Z
-
-原文：https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/
-收录页：https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2
-
-### A5｜Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻
-
-据 Reuters，Anthropic 的 IPO 遇阻，投资者质疑 1.5 万亿美元估值过高，有投资者提出仅 1 万亿美元，公司 9 月曾瞄准最高 2 万亿美元估值。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-11-06T11:38:17Z
-
-原文：https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/
-收录页：https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf
-
-### A6｜蚂蚁百灵发布 Ling-3.2-flash：原生多模态，560B 总参数单步激活 25B
-
-蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，总参数 560B、单步激活 25B，支持 1M 原生长上下文，重点强化视觉反馈自检与异常自适应恢复能力。
-
-来源：公众号：蚂蚁百灵（Ling）；发布时间：2026-11-06T11:04:00Z
-
-原文：https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg
-收录页：https://aihot.news/items/apnpwouw9phkt81pijcxcl1a1
-
-### A7｜Meta 将基于 Muse Wonder 训练的专用模型上线 Muse 与 Meta AI
-
-Meta 宣布把基于 Muse Wonder 训练的专用模型推向 Muse 和 Meta AI 用户，Personal Superintelligence Index 得分从 38% 提升到 47%。
-
-来源：Meta AI：Research Blog（网页）；发布时间：2026-11-06T07:00:00Z
-
-原文：https://research.meta.ai/blog/specialized-models-for-muse-and-metaai
-收录页：https://aihot.news/items/fjuidf0zii7na78sxru5il7pr
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜如何看待广电总局重申未来将把重点放在扶持真人短剧，以及规范 AI 短剧？这对短剧行业会带来哪些影响？
+### N1｜外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？
 
-平台：知乎；榜单排名：1；实际出现快照数：2。
+平台：知乎；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2101979474723960031
+链接：https://www.zhihu.com/question/2102096628895240211
 
-### N2｜看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？
+### N2｜AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账
 
-平台：知乎；榜单排名：2；实际出现快照数：2。
+平台：财联社热门；榜单排名：2；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2101987202196400085
+链接：https://www.cls.cn/detail/2528016
 
-### N3｜撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击
+### N3｜大肥鱼AI宣布竞选吧主
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：贴吧；榜单排名：2；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785351
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB&topic_id=28369404
 
-### N4｜近百亿美股持仓遭遇大跌，但斌回应：AI就此落幕，可能极小
+### N4｜微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌
 
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2527369
+链接：https://wallstreetcn.com/articles/3785404
 
-### N5｜美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌
+### N5｜如何看待 11 月 7 日 DeepSeek 再次崩溃？
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：知乎；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2102422630783571434
+
+### N6｜美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌
+
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2527967
 
-### N6｜特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场
+### N7｜AI短剧迎来“拿到大结果”时刻？券商看好产业链价值重估，平台与IP端有望受益
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2528002
+
+### N8｜怎么看字节跳动的扣子宣布下线解散，AI 工作流是不是已经没有市场了？
+
+平台：知乎；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2101391707430565604
+
+### N9｜中国不买英伟达芯片美国人急什么
+
+平台：今日头条；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7704527128851398719/
+
+### N10｜特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场
 
 平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2527972
 
-### N7｜民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？
+### N11｜美国女议员戳破美股AI泡沫
 
-平台：知乎；榜单排名：6；实际出现快照数：2。
+平台：贴吧；榜单排名：6；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2101977105504235968
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB&topic_id=28369406
 
-### N8｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
+### N12｜10月非农重燃12月加息预期！华尔街押注概率超八成，“新美联储通讯社”：AI抛售或成政策变量
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2527812
+链接：https://wallstreetcn.com/articles/3785400
 
-### N9｜AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水
+### N13｜曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：知乎；榜单排名：8；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785294
+链接：https://www.zhihu.com/question/2102194286016082260
 
-### N10｜如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？
-
-平台：知乎；榜单排名：7；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2101823381955990842
-
-### N11｜DeepSeek Harness基础教学
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
-
-### N12｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
-
-平台：财联社热门；榜单排名：8；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2527541
-
-### N13｜微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785404
-
-### N14｜不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约
-
-平台：财联社热门；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2527960
-
-### N15｜创业板跌4%，AI硬件集体调整、“易中天”再度大跌，电力、农业逆势活跃，恒指、恒科指均跌超1%
+### N14｜AI泡沫破裂了吗？高盛：当下更像1998年，而非2000年
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785325
+链接：https://wallstreetcn.com/articles/3785440
 
-### N16｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
+### N15｜不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785306
+链接：https://www.cls.cn/detail/2527960
 
-### N17｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
+### N16｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2527443
+链接：https://www.cls.cn/detail/2527812
 
-### N18｜美议员扬言推动AI禁令
+### N17｜平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证
 
-平台：贴吧；榜单排名：12；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：11；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
+链接：https://www.thepaper.cn/newsDetail_forward_34427916
 
-### N19｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
+### N18｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
 
-平台：知乎；榜单排名：12；实际出现快照数：1。
+平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2101942075734471491
 
-### N20｜进博观察｜从“展示”到“干活”，人形机器人回到工作场景
+### N19｜横店短剧女主半年接不到戏，选择摆摊交房租，当 AI 短剧越来越火，未来真人短剧行业将如何发展？
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34422539
+链接：https://www.zhihu.com/question/2101613309371986604
 
-### N21｜DeepSeek最新Super Agent实测
+### N20｜DeepSeek Harness基础教学
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Super+Agent
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
 
-### N22｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
+### N21｜教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？
 
-平台：知乎；榜单排名：16；实际出现快照数：1。
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2096226529332180229
+链接：https://www.zhihu.com/question/2101733537099559120
 
-### N23｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
+### N22｜美议员扬言推动AI禁令
 
-平台：知乎；榜单排名：16；实际出现快照数：2。
+平台：贴吧；榜单排名：23；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2101923145217209086
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
 
-### N24｜donk鉴赏AI整活短片
+### N23｜梁文锋DeepSeek不止国运级
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
+平台：微博；榜单排名：23；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87
+链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7
 
-### N25｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
+### N24｜AI面试逼疯打工人
 
-平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
+平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34404164
+链接：https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95%E9%80%BC%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA
 
-### N26｜这到底是机器人还是真人
+### N25｜模型蒸馏为何让Anthropic忌惮
 
-平台：百度热搜；榜单排名：21；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
+链接：https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE
 
-### N27｜王子璇走心发言疑似AI预制
-
-平台：贴吧；榜单排名：22；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6&topic_id=28369346
-
-### N28｜美股收盘：AI概念股止跌反弹
-
-平台：今日头条；榜单排名：25；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7705199330826653247/
-
-### N29｜官方要求2030年剧集AI渗透超九成
-
-平台：贴吧；榜单排名：27；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
-
-核对：AI HOT 7 条；TrendRadar 29 条。
+核对：AI HOT 3 条；TrendRadar 25 条。
