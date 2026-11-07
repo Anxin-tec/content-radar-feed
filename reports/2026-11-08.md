@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-08
 
-数据生成时间：2026-11-08T04:31:27+08:00（北京时间）
+数据生成时间：2026-11-08T05:04:43+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：29 条 AI 相关热点。
+AI HOT：4 条；TrendRadar：27 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -153,76 +153,64 @@ Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了
 
 链接：https://wallstreetcn.com/articles/3785432
 
-### N18｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
+### N18｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2527812
-
-### N19｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
-
-平台：知乎；榜单排名：12；实际出现快照数：2。
+平台：知乎；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101942075734471491
 
-### N20｜平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证
+### N19｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
+
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2527812
+
+### N20｜AI漫剧多赚钱？从业者揭内幕
+
+平台：今日头条；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7705360534392016393/
+
+### N21｜平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证
 
 平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34427916
 
-### N21｜教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？
+### N22｜教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？
 
 平台：知乎；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101733537099559120
 
-### N22｜美议员扬言推动AI禁令
+### N23｜DeepSeek Harness基础教学
 
-平台：贴吧；榜单排名：23；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
-
-### N23｜梁文锋DeepSeek不止国运级
-
-平台：微博；榜单排名：23；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
 
 ### N24｜AI面试逼疯打工人
 
-平台：百度热搜；榜单排名：24；实际出现快照数：2。
+平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95%E9%80%BC%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA
 
 ### N25｜模型蒸馏为何让Anthropic忌惮
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE
 
-### N26｜6位草根做AI短剧播放破120亿
+### N26｜美议员扬言推动AI禁令
 
-平台：今日头条；榜单排名：25；实际出现快照数：1。
+平台：贴吧；榜单排名：23；实际出现快照数：2。
 
-链接：https://www.toutiao.com/trending/7705239290376097307/
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
 
-### N27｜DeepSeek Harness基础教学
+### N27｜梁文锋DeepSeek不止国运级
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：2。
+平台：微博；榜单排名：23；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
+链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7
 
-### N28｜AI漫剧多赚钱？从业者：播放1万挣5块
-
-平台：百度热搜；榜单排名：27；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=AI%E6%BC%AB%E5%89%A7%E5%A4%9A%E8%B5%9A%E9%92%B1%EF%BC%9F%E4%BB%8E%E4%B8%9A%E8%80%85%EF%BC%9A%E6%92%AD%E6%94%BE1%E4%B8%87%E6%8C%A35%E5%9D%97
-
-### N29｜英伟达四处替客户找钱买芯片
-
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9B%9B%E5%A4%84%E6%9B%BF%E5%AE%A2%E6%88%B7%E6%89%BE%E9%92%B1%E4%B9%B0%E8%8A%AF%E7%89%87
-
-核对：AI HOT 4 条；TrendRadar 29 条。
+核对：AI HOT 4 条；TrendRadar 27 条。
