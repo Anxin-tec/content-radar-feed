@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-07
 
-数据生成时间：2026-11-07T10:20:28+08:00（北京时间）
+数据生成时间：2026-11-07T10:43:38+08:00（北京时间）
 
 AI HOT：7 条；TrendRadar：29 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -136,118 +136,118 @@ Meta 宣布把基于 Muse Wonder 训练的专用模型推向 Muse 和 Meta AI �
 
 链接：https://www.zhihu.com/question/2101823381955990842
 
-### N11｜微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌
+### N11｜DeepSeek Harness基础教学
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
+
+### N12｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
+
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2527541
+
+### N13｜微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785404
 
-### N12｜创业板跌4%，AI硬件集体调整、“易中天”再度大跌，电力、农业逆势活跃，恒指、恒科指均跌超1%
+### N14｜不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约
+
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2527960
+
+### N15｜创业板跌4%，AI硬件集体调整、“易中天”再度大跌，电力、农业逆势活跃，恒指、恒科指均跌超1%
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785325
 
-### N13｜美议员扬言推动AI禁令
-
-平台：贴吧；榜单排名：10；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
-
-### N14｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
+### N16｜AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785306
 
-### N15｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
+### N17｜【图解牛熊股】4只AI短剧概念股周涨幅超50%
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2527443
 
-### N16｜不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约
+### N18｜美议员扬言推动AI禁令
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：贴吧；榜单排名：12；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2527960
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
 
-### N17｜【焦点复盘】高股息红利股强势护盘，沪深300终结周线12连跌，算力硬件股低迷依旧
+### N19｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2527541
+链接：https://www.zhihu.com/question/2101942075734471491
 
-### N18｜DeepSeek最新Super Agent实测
+### N20｜进博观察｜从“展示”到“干活”，人形机器人回到工作场景
+
+平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34422539
+
+### N21｜DeepSeek最新Super Agent实测
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek+Super+Agent
 
-### N19｜进博观察｜从“展示”到“干活”，人形机器人回到工作场景
-
-平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34422539
-
-### N20｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
+### N22｜当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2096226529332180229
 
-### N21｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
+### N23｜美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？
 
 平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101923145217209086
 
-### N22｜donk鉴赏AI整活短片
+### N24｜donk鉴赏AI整活短片
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87
 
-### N23｜美股收盘：AI概念股止跌反弹
+### N25｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
 
-平台：今日头条；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7705199330826653247/
-
-### N24｜马上测丨百元即可定制“明星带货视频”，AI盗脸非法产业何以猖獗？
-
-平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34404164
 
-### N25｜王子璇走心发言疑似AI预制
+### N26｜这到底是机器人还是真人
 
-平台：贴吧；榜单排名：20；实际出现快照数：3。
+平台：百度热搜；榜单排名：21；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
+
+### N27｜王子璇走心发言疑似AI预制
+
+平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6&topic_id=28369346
 
-### N26｜DeepSeek Harness基础教学
+### N28｜美股收盘：AI概念股止跌反弹
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
+平台：今日头条；榜单排名：25；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
+链接：https://www.toutiao.com/trending/7705199330826653247/
 
-### N27｜官方要求2030年剧集AI渗透超九成
+### N29｜官方要求2030年剧集AI渗透超九成
 
-平台：贴吧；榜单排名：25；实际出现快照数：3。
+平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90&topic_id=28369262
-
-### N28｜“AI教父”：AI可能撕裂整个社会
-
-平台：今日头条；榜单排名：26；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7705096766776938047/
-
-### N29｜这到底是机器人还是真人
-
-平台：百度热搜；榜单排名：28；实际出现快照数：3。
-
-链接：https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA
 
 核对：AI HOT 7 条；TrendRadar 29 条。
