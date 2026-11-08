@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-08
 
-数据生成时间：2026-11-08T09:47:18+08:00（北京时间）
+数据生成时间：2026-11-08T10:23:12+08:00（北京时间）
 
-AI HOT：2 条；TrendRadar：28 条 AI 相关热点。
+AI HOT：2 条；TrendRadar：31 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -45,15 +45,15 @@ AI HOT：2 条；TrendRadar：28 条 AI 相关热点。
 
 ### N3｜微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785404
 
-### N4｜大肥鱼AI宣布竞选吧主
+### N4｜如何看待 11 月 7 日 DeepSeek 再次崩溃？
 
-平台：贴吧；榜单排名：3；实际出现快照数：3。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB&topic_id=28369404
+链接：https://www.zhihu.com/question/2102422630783571434
 
 ### N5｜AI短剧迎来“拿到大结果”时刻？券商看好产业链价值重估，平台与IP端有望受益
 
@@ -61,11 +61,11 @@ AI HOT：2 条；TrendRadar：28 条 AI 相关热点。
 
 链接：https://www.cls.cn/detail/2528002
 
-### N6｜怎么看字节跳动的扣子宣布下线解散，AI 工作流是不是已经没有市场了？
+### N6｜大肥鱼AI宣布竞选吧主
 
-平台：知乎；榜单排名：4；实际出现快照数：3。
+平台：贴吧；榜单排名：4；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2101391707430565604
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB&topic_id=28369404
 
 ### N7｜美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌
 
@@ -75,128 +75,146 @@ AI HOT：2 条；TrendRadar：28 条 AI 相关热点。
 
 ### N8｜AI泡沫破裂了吗？高盛：当下更像1998年，而非2000年
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785440
 
-### N9｜美国女议员戳破美股AI泡沫
-
-平台：贴吧；榜单排名：7；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB&topic_id=28369406
-
-### N10｜10月非农重燃12月加息预期！华尔街押注概率超八成，“新美联储通讯社”：AI抛售或成政策变量
+### N9｜10月非农重燃12月加息预期！华尔街押注概率超八成，“新美联储通讯社”：AI抛售或成政策变量
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785400
 
-### N11｜特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场
+### N10｜特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场
 
 平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2527972
 
-### N12｜横店短剧女主半年接不到戏，选择摆摊交房租，当 AI 短剧越来越火，未来真人短剧行业将如何发展？
+### N11｜投降式抛售后，大摩反思AI交易：从“建设”转向“应用”
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3785432
+
+### N12｜怎么看字节跳动的扣子宣布下线解散，AI 工作流是不是已经没有市场了？
+
+平台：知乎；榜单排名：8；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2101391707430565604
+
+### N13｜美国女议员戳破美股AI泡沫
+
+平台：贴吧；榜单排名：9；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB&topic_id=28369406
+
+### N14｜美股惊魂一周！AI抛售暂歇，但强劲非农敲响加息警钟，周五反弹恐只是“死猫跳”？
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785420
+
+### N15｜横店短剧女主半年接不到戏，选择摆摊交房租，当 AI 短剧越来越火，未来真人短剧行业将如何发展？
 
 平台：知乎；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2101613309371986604
 
-### N13｜投降式抛售后，大摩反思AI交易：从“建设”转向“应用”
+### N16｜AI基建融资新裂痕！一批数据中心贷款被打包甩卖，星际之门项目也在其中
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785432
+链接：https://wallstreetcn.com/articles/3785434
 
-### N14｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
+### N17｜为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？
 
 平台：知乎；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2101942075734471491
 
-### N15｜曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？
-
-平台：知乎；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2102194286016082260
-
-### N16｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
+### N18｜AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点
 
 平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2527812
 
-### N17｜不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约
+### N19｜不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2527960
 
-### N18｜AI漫剧多赚钱？从业者揭内幕
+### N20｜AI漫剧多赚钱？从业者揭内幕
 
 平台：今日头条；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7705360534392016393/
 
-### N19｜教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？
+### N21｜曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？
 
 平台：知乎；榜单排名：16；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2101733537099559120
+链接：https://www.zhihu.com/question/2102194286016082260
 
-### N20｜DeepSeek Harness基础教学
+### N22｜奔驰承认L3自动驾驶推进太超前
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+平台：微博；榜单排名：19；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
+链接：https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E6%89%BF%E8%AE%A4L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%8E%A8%E8%BF%9B%E5%A4%AA%E8%B6%85%E5%89%8D%23
 
-### N21｜AI面试逼疯打工人
+### N23｜AI面试逼疯打工人
 
 平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95%E9%80%BC%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA
 
-### N22｜平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证
+### N24｜平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34427916
 
-### N23｜如何看待 11 月 7 日 DeepSeek 再次崩溃？
+### N25｜教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？
 
 平台：知乎；榜单排名：20；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2102422630783571434
+链接：https://www.zhihu.com/question/2101733537099559120
 
-### N24｜中国不买英伟达芯片美国人急什么
+### N26｜“不想打工”的人形机器人在仓库吃灰
 
-平台：今日头条；榜单排名：23；实际出现快照数：3。
+平台：百度热搜；榜单排名：23；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7704527128851398719/
+链接：https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%83%B3%E6%89%93%E5%B7%A5%E2%80%9D%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E4%BB%93%E5%BA%93%E5%90%83%E7%81%B0
 
-### N25｜梁文锋DeepSeek不止国运级
+### N27｜梁文锋DeepSeek不止国运级
 
 平台：微博；榜单排名：23；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7
 
-### N26｜美议员扬言推动AI禁令
+### N28｜美议员扬言推动AI禁令
 
-平台：贴吧；榜单排名：24；实际出现快照数：3。
+平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4&topic_id=28369365
 
-### N27｜“不想打工”的人形机器人在仓库吃灰
+### N29｜中国不买英伟达芯片美国人急什么
 
-平台：百度热搜；榜单排名：26；实际出现快照数：1。
+平台：今日头条；榜单排名：28；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%83%B3%E6%89%93%E5%B7%A5%E2%80%9D%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E4%BB%93%E5%BA%93%E5%90%83%E7%81%B0
+链接：https://www.toutiao.com/trending/7704527128851398719/
 
-### N28｜模型蒸馏为何让Anthropic忌惮
+### N30｜模型蒸馏为何让Anthropic忌惮
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE
 
-核对：AI HOT 2 条；TrendRadar 28 条。
+### N31｜DeepSeek Harness基础教学
+
+平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek+Harness
+
+核对：AI HOT 2 条；TrendRadar 31 条。
