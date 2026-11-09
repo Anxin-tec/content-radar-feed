@@ -1,13 +1,11 @@
 # AI 日报｜2026-11-10
 
-数据生成时间：2026-11-10T04:31:29+08:00（北京时间）
+数据生成时间：2026-11-10T06:31:38+08:00（北京时间）
 
-AI HOT：11 条；TrendRadar：22 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：11 条；TrendRadar：23 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -58,7 +56,16 @@ Redwood Research 的 Alexa Pan 撰文分析 OpenAI 披露的 Astra 在安全与�
 原文：https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on
 收录页：https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo
 
-### A6｜Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明
+### A6｜Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2
+
+Anthropic 开发者博客发文指导开发者如何在 Haiku 5.5、Sonnet 5.5、Opus 5.5 和 Fable 5.2 之间选型，建议多数编码和知识工作从 Opus 5.5 的 medium effort 起步，其 token 价格是 Fable 5.2 的一半。
+
+来源：Anthropic：Claude.dev 开发者博客（RSS）；发布时间：2026-11-09T12:00:00Z
+
+原文：https://claude.dev/blog/which-claude-model-should-you-build-with/
+收录页：https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62
+
+### A7｜Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明
 
 Anthropic 的玩具实验中，1000 个运行 Claude Fable 5.2 早期版本的智能体在无 Prove2Me 平台和研究者指导的情况下复现了费马大定理的形式化证明，耗时 28.7 小时，输出 token 仅为原 9 月形式化的三分之一，证明长度为七分之一。
 
@@ -67,7 +74,7 @@ Anthropic 的玩具实验中，1000 个运行 Claude Fable 5.2 早期版本的�
 原文：https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/
 收录页：https://aihot.news/items/y0m3p1gin2dlfm4ns7gsrkvr8
 
-### A7｜Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说
+### A8｜Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说
 
 据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。
 
@@ -76,7 +83,7 @@ Anthropic 的玩具实验中，1000 个运行 Claude Fable 5.2 早期版本的�
 原文：https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/
 收录页：https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd
 
-### A8｜Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务
+### A9｜Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务
 
 Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。
 
@@ -85,7 +92,7 @@ Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推�
 原文：https://research.meta.ai/blog/muse-ember
 收录页：https://aihot.news/items/cox936nwax49rkiimi1oicgzu
 
-### A9｜耶鲁教授 Sonnenfeld 估计黄仁勋职位去留概率约为 50-50
+### A10｜耶鲁教授 Sonnenfeld 估计黄仁勋职位去留概率约为 50-50
 
 Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访耶鲁教授 Jeffrey Sonnenfeld，他估计黄仁勋保住职位的概率约为 50-50。
 
@@ -94,7 +101,7 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 原文：https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/
 收录页：https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5
 
-### A10｜数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛
+### A11｜数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛
 
 数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。
 
@@ -103,44 +110,35 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 原文：https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg
 收录页：https://aihot.news/items/e80fmjdp23n217sd6e7ky52om
 
-### A11｜NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查
-
-NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-08T21:21:17Z
-
-原文：https://x.com/rohanpaul_ai/status/2119540787147059491
-收录页：https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜股价跌预期转 AI产业链并购或生变
 
-平台：财联社热门；榜单排名：1；实际出现快照数：2。
+平台：财联社热门；榜单排名：1；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2529110
 
-### N2｜黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%
+### N2｜美伊和谈信号重创原油，黄仁勋风波未阻AI交易回暖，纳指涨近3%，英伟达逆市跌超4%
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785518
 
-### N3｜英伟达巨额货物失踪哪些细节值得推敲
+### N3｜美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点
 
-平台：今日头条；榜单排名：2；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7706117206945304100/
-
-### N4｜美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点
-
-平台：财联社热门；榜单排名：5；实际出现快照数：2。
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2529406
 
+### N4｜英伟达巨额货物失踪哪些细节值得推敲
+
+平台：今日头条；榜单排名：5；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7706117206945304100/
+
 ### N5｜中方回应外媒涉60万枚英伟达芯片报道
 
-平台：今日头条；榜单排名：8；实际出现快照数：2。
+平台：今日头条；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7706070287443329034/
 
@@ -158,7 +156,7 @@ NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO �
 
 ### N8｜宇树科技股价已反弹70%+，一图看懂人形机器人行情的"核心驱动力"
 
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2529104
 
@@ -174,76 +172,82 @@ NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO �
 
 链接：https://www.zhihu.com/question/2102717260867559519
 
-### N11｜让九个AI大模型玩造桥
+### N11｜黄仁勋持股不足4%为何能主导英伟达
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
-
-### N12｜黄仁勋持股不足4%为何能主导英伟达
-
-平台：微博；榜单排名：14；实际出现快照数：2。
+平台：微博；榜单排名：14；实际出现快照数：3。
 
 链接：https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%8C%81%E8%82%A1%E4%B8%8D%E8%B6%B34%25%E4%B8%BA%E4%BD%95%E8%83%BD%E4%B8%BB%E5%AF%BC%E8%8B%B1%E4%BC%9F%E8%BE%BE%23
 
-### N13｜美股三大股指高开 英伟达逆势下跌7%
+### N12｜美股三大股指高开 英伟达逆势下跌7%
 
-平台：百度热搜；榜单排名：15；实际出现快照数：2。
+平台：百度热搜；榜单排名：15；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%86%E5%8A%BF%E4%B8%8B%E8%B7%8C7%25
 
-### N14｜祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室
+### N13｜祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室
 
-平台：澎湃新闻；榜单排名：15；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34439625
 
-### N15｜专家：AI已越过“超级智能逃逸速度”
+### N14｜专家：AI已越过“超级智能逃逸速度”
 
-平台：今日头条；榜单排名：15；实际出现快照数：2。
+平台：今日头条；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7706178432840764982/
 
-### N16｜英伟达美股夜盘跌超 3%，其后续股价走势会如何？
-
-平台：知乎；榜单排名：16；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2103054279376204138
-
-### N17｜国产AI芯片加速蚕食英伟达市场
+### N15｜国产AI芯片加速蚕食英伟达市场
 
 平台：今日头条；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7705139675194900522/
 
-### N18｜欧洲15国民众抗议AI扩张
+### N16｜英伟达美股夜盘跌超 3%，其后续股价走势会如何？
 
-平台：贴吧；榜单排名：19；实际出现快照数：2。
+平台：知乎；榜单排名：17；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2103054279376204138
+
+### N17｜欧洲15国民众抗议AI扩张
+
+平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0&topic_id=28369509
 
-### N19｜用AI原创68分钟科幻长片
+### N18｜美国普通人为何拼命反对AI数据中心
 
-平台：bilibili 热搜；榜单排名：20；实际出现快照数：2。
+平台：今日头条；榜单排名：19；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
+链接：https://www.toutiao.com/trending/7706144364157734438/
 
-### N20｜大肥鱼AI宣布竞选吧主
+### N19｜大肥鱼AI宣布竞选吧主
 
-平台：贴吧；榜单排名：23；实际出现快照数：2。
+平台：贴吧；榜单排名：23；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB&topic_id=28369404
 
-### N21｜河南大学生用AI做短剧营收超百万
+### N20｜河南大学生用AI做短剧营收超百万
 
-平台：百度热搜；榜单排名：25；实际出现快照数：2。
+平台：百度热搜；榜单排名：28；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E5%81%9A%E7%9F%AD%E5%89%A7%E8%90%A5%E6%94%B6%E8%B6%85%E7%99%BE%E4%B8%87
 
+### N21｜用AI原创68分钟科幻长片
+
+平台：bilibili 热搜；榜单排名：28；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
+
 ### N22｜美国女议员戳破美股AI泡沫
 
-平台：贴吧；榜单排名：28；实际出现快照数：2。
+平台：贴吧；榜单排名：28；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB&topic_id=28369406
 
-核对：AI HOT 11 条；TrendRadar 22 条。
+### N23｜让九个AI大模型玩造桥
+
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
+
+核对：AI HOT 11 条；TrendRadar 23 条。
