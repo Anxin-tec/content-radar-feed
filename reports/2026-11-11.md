@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-11
 
-数据生成时间：2026-11-11T04:31:31+08:00（北京时间）
+数据生成时间：2026-11-11T05:57:01+08:00（北京时间）
 
-AI HOT：28 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：28 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -229,7 +229,16 @@ OpenRouter 发布教程，讲解从任意 LLM 获取可靠结构化输出的三�
 原文：https://openrouter.ai/blog/tutorials/structured-output-llm/
 收录页：https://aihot.news/items/b44e0p0xgg4j6d7wyei4fy5rl
 
-### A25｜The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响
+### A25｜Simon Willison 更新 llm-anthropic 0.31 支持 Anthropic 新模型 Fable 5.2 与 Mythos 5.2
+
+Simon Willison 发布 llm-anthropic 0.31，纳入 Anthropic 当日发布的 Fable 5.2 和 Mythos 5.2，并给出安装和调用命令。
+
+来源：Simon Willison 博客；发布时间：2026-11-09T23:58:46Z
+
+原文：https://simonwillison.net/2026/Nov/9/llm-anthropic/
+收录页：https://aihot.news/items/lfw4cc14h85i07c00tah6pc90
+
+### A26｜The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响
 
 The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加坡云服务商 Megaspeed 高管 Alice Huang 的婚外情风波。
 
@@ -238,7 +247,7 @@ The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加�
 原文：https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang
 收录页：https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri
 
-### A26｜实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出
+### A27｜实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出
 
 Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。
 
@@ -247,7 +256,7 @@ Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频�
 原文：https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg
 收录页：https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0
 
-### A27｜做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
+### A28｜做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
 
 Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。
 
@@ -255,15 +264,6 @@ Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 �
 
 原文：https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/
 收录页：https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964
-
-### A28｜Figma 官方讲解画布智能体的 6 种实用方法
-
-Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。
-
-来源：Figma AI / Agent / Make；发布时间：2026-11-09T21:46:00Z
-
-原文：https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/
-收录页：https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8
 
 ## TrendRadar 完整 AI 热点
 
@@ -315,35 +315,35 @@ Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖�
 
 链接：https://www.cls.cn/detail/2530667
 
-### N9｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
+### N9｜分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%
+
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2530729
+
+### N10｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785599
 
-### N10｜一人打造78分钟硬科幻AI电影
-
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
-
-### N11｜分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%
-
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2530729
-
-### N12｜用AI原创68分钟科幻长片
-
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
-
-### N13｜美股低开 英伟达开盘跌近3%
+### N11｜美股低开 英伟达开盘跌近3%
 
 平台：百度热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25
+
+### N12｜一人打造78分钟硬科幻AI电影
+
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
+
+### N13｜AI交易遭遇抛售潮后 全球资金盯上新兴市场低估值资产
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2530639
 
 ### N14｜分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势
 
@@ -357,46 +357,52 @@ Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖�
 
 链接：https://www.baidu.com/s?wd=%E4%B8%83%E5%B7%A8%E5%A4%B4260%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9C%E6%8A%BC%E6%B3%A8%E2%80%9DAnthropic
 
-### N16｜AI长片 汤症
+### N16｜用AI原创68分钟科幻长片
+
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
+
+### N17｜AI长片 汤症
 
 平台：bilibili 热搜；榜单排名：15；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
-### N17｜Anthropic IPO拟发行8.25亿股
+### N18｜让九个AI大模型玩造桥
+
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
+
+### N19｜Anthropic IPO拟发行8.25亿股
 
 平台：百度热搜；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic+IPO%E6%8B%9F%E5%8F%91%E8%A1%8C8.25%E4%BA%BF%E8%82%A1
 
-### N18｜三家国产AI预测BLG夺冠
+### N20｜失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0
-
-### N19｜失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？
-
-平台：知乎；榜单排名：19；实际出现快照数：1。
+平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2103115784310322006
 
-### N20｜Anthropic：年化营收约为810亿美元
+### N21｜Anthropic：年化营收约为810亿美元
 
 平台：百度热搜；榜单排名：25；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic%EF%BC%9A%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%BA%A6%E4%B8%BA810%E4%BA%BF%E7%BE%8E%E5%85%83
 
-### N21｜让九个AI大模型玩造桥
+### N22｜三家国产AI预测BLG夺冠
 
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
+链接：https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0
 
-### N22｜欧洲15国民众抗议AI扩张
+### N23｜欧洲15国民众抗议AI扩张
 
 平台：贴吧；榜单排名：30；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0&topic_id=28369509
 
-核对：AI HOT 28 条；TrendRadar 22 条。
+核对：AI HOT 28 条；TrendRadar 23 条。
