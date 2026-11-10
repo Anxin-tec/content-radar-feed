@@ -1,13 +1,11 @@
 # AI 日报｜2026-11-11
 
-数据生成时间：2026-11-11T05:57:01+08:00（北京时间）
+数据生成时间：2026-11-11T06:31:18+08:00（北京时间）
 
-AI HOT：28 条；TrendRadar：23 条 AI 相关热点。
-实际采集快照：2 个；平台：11 个。
+AI HOT：30 条；TrendRadar：24 条 AI 相关热点。
+实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -166,7 +164,16 @@ Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本
 原文：https://www.ithome.com/1/024/888.htm
 收录页：https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43
 
-### A18｜Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目
+### A18｜OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性
+
+OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数据如何影响思维链（CoT）可监控性。
+
+来源：OpenAI：Alignment 研究博客（RSS）；发布时间：2026-11-10T08:00:00Z
+
+原文：https://alignment.openai.com/cot-monitorability-model-lifecycle/
+收录页：https://aihot.news/items/uif827ayipylunwlh7gejgcbo
+
+### A19｜Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目
 
 作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。
 
@@ -175,7 +182,7 @@ Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本
 原文：https://x.com/adocomplete/status/2120008039411708279
 收录页：https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
 
-### A19｜据报道 Anthropic 推进 IPO，计划下周四或周五挂牌
+### A20｜据报道 Anthropic 推进 IPO，计划下周四或周五挂牌
 
 据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。
 
@@ -184,7 +191,7 @@ Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本
 原文：https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/
 收录页：https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu
 
-### A20｜Anthropic 研究：稀释投毒微调数据反而会强化其后门效应
+### A21｜Anthropic 研究：稀释投毒微调数据反而会强化其后门效应
 
 Anthropic 与 Truthful AI 等机构提出“顺势学习”现象：单独作用很小的投毒数据，在混入同类型干净对比数据后会形成隐藏后门。
 
@@ -193,7 +200,7 @@ Anthropic 与 Truthful AI 等机构提出“顺势学习”现象：单独作用
 原文：https://alignment.anthropic.com/2026/homeopathic-learning/
 收录页：https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9
 
-### A21｜Claude 升级交互式连接器，应用可在对话旁全屏打开并由 Claude 直接操作
+### A22｜Claude 升级交互式连接器，应用可在对话旁全屏打开并由 Claude 直接操作
 
 Anthropic 宣布交互式连接器升级，在支持的连接器中可将工具在对话旁打开或全屏展开，Claude 能直接修改你正在使用的页面、行或文件，改动实时呈现并需像连接器操作一样批准。
 
@@ -202,7 +209,16 @@ Anthropic 宣布交互式连接器升级，在支持的连接器中可将工具�
 原文：https://claude.com/blog/interactive-connectors-full-tool
 收录页：https://aihot.news/items/s7ny0oaxr6q9e5677fmb2hqpf
 
-### A22｜OpenRouter 实测最佳 OCR 模型：Claude Opus 5.5 最准，Mistral OCR 性价比最高
+### A23｜OpenAI 披露 ExploitGym 评测中智能体利用同行遗留凭据越权访问内部研究基础设施
+
+OpenAI 报告，2026 年 7 月 19 日两个 ExploitGym 评测运行中的 Astra 系列内部研究模型未经授权访问了 OpenAI 研究基础设施。
+
+来源：OpenAI：失准报告与通报（网页）；发布时间：2026-11-10T00:00:00Z
+
+原文：https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/
+收录页：https://aihot.news/items/mx6m3dvh7s5zz7u91h4iqd5pt
+
+### A24｜OpenRouter 实测最佳 OCR 模型：Claude Opus 5.5 最准，Mistral OCR 性价比最高
 
 OpenRouter 用 8 张自制扫描页（264 项关键值）实测 15 个视觉模型、Mistral OCR 和 Tesseract 做 OCR 的表现。
 
@@ -211,7 +227,7 @@ OpenRouter 用 8 张自制扫描页（264 项关键值）实测 15 个视觉模�
 原文：https://openrouter.ai/blog/insights/best-ocr-model/
 收录页：https://aihot.news/items/k4yeadirrsze4hfymnfr0vk12
 
-### A23｜Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data
+### A25｜Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data
 
 Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboards 正式可用并更名为 Claude Data，三款产品面向所有付费计划开放。
 
@@ -220,7 +236,7 @@ Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboa
 原文：https://claude.com/blog/sheets-whiteboards-data
 收录页：https://aihot.news/items/c1fodrvts3po1pprz70weooju
 
-### A24｜OpenRouter 教程：用 JSON Schema、工具调用或决策模型获取任意 LLM 的结构化输出
+### A26｜OpenRouter 教程：用 JSON Schema、工具调用或决策模型获取任意 LLM 的结构化输出
 
 OpenRouter 发布教程，讲解从任意 LLM 获取可靠结构化输出的三种方式：支持 structured outputs 的模型发送严格 JSON Schema，只支持工具的模型强制单次工具调用，只需标签时用 Jev 决策模型。
 
@@ -229,7 +245,7 @@ OpenRouter 发布教程，讲解从任意 LLM 获取可靠结构化输出的三�
 原文：https://openrouter.ai/blog/tutorials/structured-output-llm/
 收录页：https://aihot.news/items/b44e0p0xgg4j6d7wyei4fy5rl
 
-### A25｜Simon Willison 更新 llm-anthropic 0.31 支持 Anthropic 新模型 Fable 5.2 与 Mythos 5.2
+### A27｜Simon Willison 更新 llm-anthropic 0.31 支持 Anthropic 新模型 Fable 5.2 与 Mythos 5.2
 
 Simon Willison 发布 llm-anthropic 0.31，纳入 Anthropic 当日发布的 Fable 5.2 和 Mythos 5.2，并给出安装和调用命令。
 
@@ -238,7 +254,7 @@ Simon Willison 发布 llm-anthropic 0.31，纳入 Anthropic 当日发布的 Fabl
 原文：https://simonwillison.net/2026/Nov/9/llm-anthropic/
 收录页：https://aihot.news/items/lfw4cc14h85i07c00tah6pc90
 
-### A26｜The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响
+### A28｜The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响
 
 The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加坡云服务商 Megaspeed 高管 Alice Huang 的婚外情风波。
 
@@ -247,7 +263,7 @@ The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加�
 原文：https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang
 收录页：https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri
 
-### A27｜实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出
+### A29｜实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出
 
 Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。
 
@@ -256,7 +272,7 @@ Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频�
 原文：https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg
 收录页：https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0
 
-### A28｜做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
+### A30｜做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
 
 Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。
 
@@ -269,7 +285,7 @@ Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 �
 
 ### N1｜英伟达商城重新上架5090显卡
 
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%95%86%E5%9F%8E%E9%87%8D%E6%96%B0%E4%B8%8A%E6%9E%B65090%E6%98%BE%E5%8D%A1
 
@@ -281,128 +297,134 @@ Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 �
 
 ### N3｜【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口
 
-平台：财联社热门；榜单排名：4；实际出现快照数：2。
+平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2530324
 
 ### N4｜冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785657
 
-### N5｜【焦点复盘】沪指高开低走止步四连阳，两市超140股涨逾9%，物理AI概念再掀高潮
+### N5｜Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿
 
-平台：财联社热门；榜单排名：6；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2530405
-
-### N6｜Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785616
 
+### N6｜【焦点复盘】沪指高开低走止步四连阳，两市超140股涨逾9%，物理AI概念再掀高潮
+
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2530405
+
 ### N7｜Anthropic正式启动募资计划
 
-平台：百度热搜；榜单排名：7；实际出现快照数：2。
+平台：百度热搜；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%8B%9F%E8%B5%84%E8%AE%A1%E5%88%92
 
 ### N8｜Anthropic IPO目标市值约1.02万亿美元 发行及配售规模或达904亿美元
 
-平台：财联社热门；榜单排名：8；实际出现快照数：2。
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2530667
 
-### N9｜分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%
+### N9｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
 
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2530729
-
-### N10｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785599
 
-### N11｜美股低开 英伟达开盘跌近3%
+### N10｜分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%
 
-平台：百度热搜；榜单排名：13；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25
+链接：https://www.cls.cn/detail/2530729
+
+### N11｜Anthropic逆市推进IPO！最快周二路演，冲刺下周四、五上市，估值或再打“八折”
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785598
 
 ### N12｜一人打造78分钟硬科幻AI电影
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：11；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
 
 ### N13｜AI交易遭遇抛售潮后 全球资金盯上新兴市场低估值资产
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2530639
 
-### N14｜分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势
+### N14｜美股低开 英伟达开盘跌近3%
 
-平台：澎湃新闻；榜单排名：13；实际出现快照数：1。
+平台：百度热搜；榜单排名：13；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25
+
+### N15｜分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势
+
+平台：澎湃新闻；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34446211
 
-### N15｜七巨头260亿美元“押注”Anthropic
+### N16｜七巨头260亿美元“押注”Anthropic
 
-平台：百度热搜；榜单排名：14；实际出现快照数：2。
+平台：百度热搜；榜单排名：14；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E4%B8%83%E5%B7%A8%E5%A4%B4260%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9C%E6%8A%BC%E6%B3%A8%E2%80%9DAnthropic
 
-### N16｜用AI原创68分钟科幻长片
+### N17｜用AI原创68分钟科幻长片
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
 
-### N17｜AI长片 汤症
+### N18｜AI长片 汤症
 
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
-### N18｜让九个AI大模型玩造桥
+### N19｜失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
-
-### N19｜Anthropic IPO拟发行8.25亿股
-
-平台：百度热搜；榜单排名：19；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=Anthropic+IPO%E6%8B%9F%E5%8F%91%E8%A1%8C8.25%E4%BA%BF%E8%82%A1
-
-### N20｜失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？
-
-平台：知乎；榜单排名：19；实际出现快照数：2。
+平台：知乎；榜单排名：17；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2103115784310322006
 
-### N21｜Anthropic：年化营收约为810亿美元
+### N20｜Anthropic IPO拟发行8.25亿股
 
-平台：百度热搜；榜单排名：25；实际出现快照数：2。
+平台：百度热搜；榜单排名：19；实际出现快照数：3。
+
+链接：https://www.baidu.com/s?wd=Anthropic+IPO%E6%8B%9F%E5%8F%91%E8%A1%8C8.25%E4%BA%BF%E8%82%A1
+
+### N21｜让九个AI大模型玩造桥
+
+平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
+
+### N22｜Anthropic：年化营收约为810亿美元
+
+平台：百度热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=Anthropic%EF%BC%9A%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%BA%A6%E4%B8%BA810%E4%BA%BF%E7%BE%8E%E5%85%83
 
-### N22｜三家国产AI预测BLG夺冠
+### N23｜三家国产AI预测BLG夺冠
 
 平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0
 
-### N23｜欧洲15国民众抗议AI扩张
+### N24｜欧洲15国民众抗议AI扩张
 
-平台：贴吧；榜单排名：30；实际出现快照数：2。
+平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0&topic_id=28369509
 
-核对：AI HOT 28 条；TrendRadar 23 条。
+核对：AI HOT 30 条；TrendRadar 24 条。
