@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-10
 
-数据生成时间：2026-11-10T11:27:45+08:00（北京时间）
+数据生成时间：2026-11-10T12:18:32+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：39 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：36 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -178,47 +178,47 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 
 链接：https://www.toutiao.com/trending/7706117206945304100/
 
-### N6｜美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点
+### N6｜AI长片 汤症
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
+
+### N7｜美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2529406
 
-### N7｜AI长片 汤症
+### N8｜AI 短剧《持械入宋》为什么能火爆出圈？
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
+平台：知乎；榜单排名：7；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
+链接：https://www.zhihu.com/question/2101701219836060907
 
-### N8｜Anthropic发布Fable 5.2
-
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=Anthropic%E5%8F%91%E5%B8%83Fable+5.2
-
-### N9｜八天搓出操作系统，还能设计智能硬件！Anthropic新旗舰模型亮相
-
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2529571
-
-### N10｜中方回应外媒涉60万枚英伟达芯片报道
+### N9｜中方回应外媒涉60万枚英伟达芯片报道
 
 平台：今日头条；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7706070287443329034/
 
-### N11｜英伟达突发「史上最大 GPU 盗窃案」，价值 1140 万美元的硬件失踪，具体什么情况？可能带来哪些影响？
+### N10｜英伟达突发「史上最大 GPU 盗窃案」，价值 1140 万美元的硬件失踪，具体什么情况？可能带来哪些影响？
 
 平台：知乎；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2102838731207963818
 
-### N12｜美国AI泡沫还能撑多久
+### N11｜Anthropic发布Fable 5.2
 
 平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85
+链接：https://search.bilibili.com/all?keyword=Anthropic%E5%8F%91%E5%B8%83Fable+5.2
+
+### N12｜八天搓出操作系统，还能设计智能硬件！Anthropic新旗舰模型亮相
+
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2529571
 
 ### N13｜大二女生称AI毁了她的计算机学位
 
@@ -226,41 +226,41 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 
 链接：https://www.toutiao.com/trending/7706100701260156479/
 
-### N14｜宇树科技股价已反弹70%+，一图看懂人形机器人行情的"核心驱动力"
+### N14｜美国AI泡沫还能撑多久
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85
+
+### N15｜宇树科技股价已反弹70%+，一图看懂人形机器人行情的"核心驱动力"
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2529104
 
-### N15｜英伟达股价盘初下跌8.8%
+### N16｜无惧市场情绪降温！Anthropic据悉拟于下周冲刺IPO
+
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2529674
+
+### N17｜祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室
+
+平台：澎湃新闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34439625
+
+### N18｜英伟达股价盘初下跌8.8%
 
 平台：今日头条；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7706180452792405530/
 
-### N16｜出轨风波牵动千亿资产？黄仁勋1625亿美元英伟达持股中，1495亿美元是夫妻共同信托及基金会持有
+### N19｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785580
-
-### N17｜让九个AI大模型玩造桥
-
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
-
-### N18｜无惧市场情绪降温！Anthropic据悉拟于下周冲刺IPO
-
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2529674
-
-### N19｜祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室
-
-平台：澎湃新闻；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34439625
+链接：https://wallstreetcn.com/articles/3785599
 
 ### N20｜Claude Fable 5.2 正式发布了，大家怎么看它的实际能力和性价比？
 
@@ -268,17 +268,17 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 
 链接：https://www.zhihu.com/question/2103352437654474967
 
-### N21｜欧盟拟向“成瘾设计”开刀：社交媒体、AI聊天机器人面临新规
+### N21｜用AI原创68分钟科幻长片
+
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
+
+### N22｜欧盟拟向“成瘾设计”开刀：社交媒体、AI聊天机器人面临新规
 
 平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2529542
-
-### N22｜跟拍机器人来了
-
-平台：今日头条；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7706273445218369577/
 
 ### N23｜张朝阳说从来不看AI漫剧，AI让内容产生一种塑料感，像化肥催熟的西红柿没有味，你同意吗？
 
@@ -292,11 +292,11 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 
 链接：https://www.zhihu.com/question/2103388122998203709
 
-### N25｜AI 短剧《持械入宋》为什么能火爆出圈？
+### N25｜让九个AI大模型玩造桥
 
-平台：知乎；榜单排名：13；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2101701219836060907
+链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
 
 ### N26｜黄仁勋持股不足4%为何能主导英伟达
 
@@ -316,70 +316,52 @@ Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访
 
 链接：https://www.toutiao.com/trending/7706178432840764982/
 
-### N29｜用AI原创68分钟科幻长片
-
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
-
-### N30｜英伟达美股夜盘跌超 3%，其后续股价走势会如何？
+### N29｜英伟达美股夜盘跌超 3%，其后续股价走势会如何？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2103054279376204138
 
-### N31｜国产AI芯片加速蚕食英伟达市场
+### N30｜国产AI芯片加速蚕食英伟达市场
 
 平台：今日头条；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7705139675194900522/
 
-### N32｜人形机器人能翻跟头、跑半马，却难以进入工厂稳定作业，背后的原因是啥？其商业化落地核心卡点是什么？
+### N31｜跟拍机器人来了
 
-平台：知乎；榜单排名：17；实际出现快照数：1。
+平台：今日头条；榜单排名：19；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2102469513891541519
+链接：https://www.toutiao.com/trending/7706273445218369577/
 
-### N33｜英伟达和黄仁勋遭股东起诉
+### N32｜陈建斌直言 AI 陈建斌已经做到以假乱真，但 AI 只能提供丰富性，真人演员提供精神与灵魂，你认同吗？
 
-平台：微博；榜单排名：21；实际出现快照数：1。
+平台：知乎；榜单排名：19；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E9%81%AD%E8%82%A1%E4%B8%9C%E8%B5%B7%E8%AF%89%23
+链接：https://www.zhihu.com/question/2102445208474318071
 
-### N34｜欧洲15国民众抗议AI扩张
+### N33｜欧洲15国民众抗议AI扩张
 
 平台：贴吧；榜单排名：22；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0&topic_id=28369509
 
-### N35｜河南大学生用AI做短剧营收超百万
+### N34｜河南大学生用AI做短剧营收超百万
 
 平台：百度热搜；榜单排名：25；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E5%81%9A%E7%9F%AD%E5%89%A7%E8%90%A5%E6%94%B6%E8%B6%85%E7%99%BE%E4%B8%87
 
-### N36｜大肥鱼AI宣布竞选吧主
+### N35｜大肥鱼AI宣布竞选吧主
 
 平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB&topic_id=28369404
 
-### N37｜英伟达市值一夜蒸发1.29万亿元
-
-平台：微博；榜单排名：25；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911.29%E4%B8%87%E4%BA%BF%E5%85%83%23
-
-### N38｜英伟达接班人准备好了吗
-
-平台：百度热搜；榜单排名：27；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97
-
-### N39｜美国女议员戳破美股AI泡沫
+### N36｜美国女议员戳破美股AI泡沫
 
 平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB&topic_id=28369406
 
-核对：AI HOT 15 条；TrendRadar 39 条。
+核对：AI HOT 15 条；TrendRadar 36 条。
