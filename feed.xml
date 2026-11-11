@@ -4,7 +4,222 @@
     <title>AI 日报</title>
     <link>https://anxin-tec.github.io/content-radar-feed/daily/</link>
     <description>Hermes AI 日报</description>
-    <lastBuildDate>Wed, 11 Nov 2026 06:33:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:01:35 +0800</lastBuildDate>
+    <item>
+      <title>AI 日报｜2026-11-12</title>
+      <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-11-12.html</link>
+      <guid isPermaLink="false">2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description># AI 日报｜2026-11-12
+
+数据生成时间：2026-11-12T07:01:35+08:00（北京时间）
+
+AI HOT：15 条；TrendRadar：23 条 AI 相关热点。
+实际采集快照：2 个；平台：11 个。
+
+以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐；当前来源可用性见下方状态，不将缺少的历史快照伪装为已采集。单次采集不能据此判断热度升降。
+
+来源状态：AI HOT=live；TrendRadar=live。
+
+## AI HOT 完整资讯
+
+### A1｜Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策
+
+Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。
+
+来源：Google Blog：AI（RSS）；发布时间：2026-11-11T18:00:00Z
+
+### A2｜Claude Code 中如何选择 Fable 5.2 与 Opus 等模型
+
+Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。
+
+来源：Claude：YouTube（RSS）；发布时间：2026-11-11T17:30:20Z
+
+### A3｜a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道
+
+a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。
+
+来源：a16z：News（RSS）；发布时间：2026-11-11T15:02:38Z
+
+### A4｜Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市
+
+Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-11T14:38:51Z
+
+### A5｜Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼
+
+据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。
+
+来源：IT之家·人工智能；发布时间：2026-11-11T13:56:44.467000Z
+
+### A6｜安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件
+
+安全公司 Claroc 报告称，在检查的 37,571 个仍在线的 Grok 构建应用中，35,578 个（94.7%）无需登录即可访问，原因是发布对话框默认预选&quot;Anyone with the link&quot;，且每个应用的独立子域名会进入可检索的 passive DNS 数据库。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-11-11T12:53:07Z
+
+### A7｜OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic
+
+据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-11-11T12:12:47Z
+
+### A8｜WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权
+
+WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-11T05:47:04Z
+
+### A9｜Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议
+
+Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-11T04:14:38Z
+
+### A10｜Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高
+
+FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。周二文件设定 $70-$78 的发行区间，计入员工期权和受限股后对应 $1.26T-$1.41T 估值；若定价超出区间，募资将超过 $100B，其中 Google、Nvidia 和 Microsoft 将按 IPO 价格投资 $26B。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-11T00:58:06Z
+
+### A11｜Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队
+
+Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。
+
+来源：Anthropic：Alignment Science Blog（网页）；发布时间：2026-11-11T00:00:00Z
+
+### A12｜Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用
+
+UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。
+
+来源：Berkeley RDI：Blog（AI 安全与评测）；发布时间：2026-11-11T00:00:00Z
+
+### A13｜OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本
+
+OpenRouter 实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 成本：在 Claude Sonnet 5.5 上 CLI 用 1。
+
+来源：OpenRouter：Announcements（RSS）；发布时间：2026-11-11T00:00:00Z
+
+### A14｜OpenRouter 实测 fp8 与 fp4 量化对模型质量和价格的影响
+
+OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 年 10 月 20 日对 1455 个 provider 端点和 Qwen3.8 27B 六个端点的实测。
+
+来源：OpenRouter：Announcements（RSS）；发布时间：2026-11-11T00:00:00Z
+
+### A15｜Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作
+
+作者实测 Claude Fable 5.2 与 Gemini 4 Carbon 并对比后认为，Fable 5.2 的突出差异在于审美，这是无法用 Benchmark 评估但可直观感受的东西。
+
+来源：公众号：数字生命卡兹克；发布时间：2026-11-10T23:56:00Z
+
+## TrendRadar 完整 AI 热点
+
+### N1｜欧美掀起抵制AI数据中心浪潮
+
+来源：bilibili 热搜；榜单排名：1；实际出现快照数：2。
+
+### N2｜AI交易重燃，CoreWeave飙升24%，英伟达反弹，美元续涨，黄金跌破4000
+
+来源：华尔街见闻；榜单排名：1；实际出现快照数：2。
+
+### N3｜专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活
+
+来源：澎湃新闻；榜单排名：2；实际出现快照数：2。
+
+### N4｜美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌
+
+来源：华尔街见闻；榜单排名：3；实际出现快照数：2。
+
+### N5｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
+
+来源：华尔街见闻；榜单排名：4；实际出现快照数：2。
+
+### N6｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
+
+来源：财联社热门；榜单排名：5；实际出现快照数：2。
+
+### N7｜CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利
+
+来源：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+### N8｜Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%
+
+来源：华尔街见闻；榜单排名：6；实际出现快照数：2。
+
+### N9｜中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？
+
+来源：知乎；榜单排名：7；实际出现快照数：2。
+
+### N10｜CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点
+
+来源：财联社热门；榜单排名：8；实际出现快照数：2。
+
+### N11｜Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效
+
+来源：华尔街见闻；榜单排名：8；实际出现快照数：2。
+
+### N12｜【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来
+
+来源：财联社热门；榜单排名：9；实际出现快照数：1。
+
+### N13｜Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万
+
+来源：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+### N14｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
+
+来源：华尔街见闻；榜单排名：9；实际出现快照数：2。
+
+### N15｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
+
+来源：财联社热门；榜单排名：10；实际出现快照数：2。
+
+### N16｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
+
+来源：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+### N17｜某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？
+
+来源：知乎；榜单排名：11；实际出现快照数：1。
+
+### N18｜Anthropic IPO遭疯抢
+
+来源：百度热搜；榜单排名：20；实际出现快照数：2。
+
+### N19｜8个AI大模型挑战造桥闯关赛
+
+来源：bilibili 热搜；榜单排名：22；实际出现快照数：1。
+
+### N20｜Anthropic世纪IPO恐成AI行情高点
+
+来源：百度热搜；榜单排名：23；实际出现快照数：2。
+
+### N21｜AI长片 汤症
+
+来源：bilibili 热搜；榜单排名：24；实际出现快照数：2。
+
+### N22｜一人打造78分钟硬科幻AI电影
+
+来源：bilibili 热搜；榜单排名：28；实际出现快照数：2。
+
+### N23｜用AI制作灭霸全家福MV
+
+来源：bilibili 热搜；榜单排名：29；实际出现快照数：2。
+
+核对：AI HOT 15 条；TrendRadar 23 条。
+
+## 编辑推荐
+
+本次编辑推荐暂未生成，以上完整资讯已通过数据校验。
+
+说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
+
+数据提示：trendradar_incomplete_slots
+</description>
+    </item>
     <item>
       <title>AI 日报｜2026-11-11</title>
       <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-11-11.html</link>
@@ -7002,250 +7217,6 @@ Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5
 
 来源：Anthropic：Engineering（事故复盘 + 工程实践 · 网页）；Pydantic AI 官方文章；LangChain：Blog（RSS）
 
-</description>
-    </item>
-    <item>
-      <title>AI 日报｜2026-10-13</title>
-      <link>https://anxin-tec.github.io/content-radar-feed/daily/reports/2026-10-13.html</link>
-      <guid isPermaLink="false">2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-      <description># AI 日报｜2026-10-13
-
-数据生成时间：2026-10-13T07:13:02+08:00（北京时间）
-
-AI HOT：14 条；TrendRadar：18 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
-
-以下为两处信息源的完整收录，不代表已经逐条独立核实。
-
-来源状态：AI HOT=live；TrendRadar=live。
-
-## AI HOT 完整资讯
-
-### A1｜Cursor 并入 The X Subscription 订阅体系
-
-Cursor 宣布并入 The X Subscription，现有 Cursor 订阅者可保留原计划或切换到新订阅。
-
-来源：X：Cursor (@cursor_ai)；发布时间：2026-10-12T22:53:50Z
-
-### A2｜Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期
-
-据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。
-
-来源：Ars Technica：AI（RSS）；发布时间：2026-10-12T20:59:50Z
-
-### A3｜用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程
-
-一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。
-
-来源：Codex：GitHub Releases（RSS）；发布时间：2026-10-12T19:25:54.721000Z
-
-### A4｜Anthropic 的 Claude 向费城警方误提交虚假凶案线索
-
-Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。
-
-来源：Ars Technica：AI（RSS）；发布时间：2026-10-12T18:21:36Z
-
-### A5｜Meta Muse Wonder 系列上线 Agent Arena，分数即将公布
-
-Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。
-
-来源：X：Arena (@arena)；发布时间：2026-10-12T18:04:45Z
-
-### A6｜AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构
-
-AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。
-
-来源：Amazon Science（RSS）；发布时间：2026-10-12T17:36:18Z
-
-### A7｜微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署
-
-微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。
-
-来源：X：Satya Nadella (@satyanadella)；发布时间：2026-10-12T13:03:45Z
-
-### A8｜QGIS 通过 QEP428 禁止 AI 辅助贡献
-
-QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。
-
-来源：Hacker News：AI 热帖；发布时间：2026-10-12T11:22:24Z
-
-### A9｜AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审
-
-Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-10-12T09:35:54Z
-
-### A10｜用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程
-
-一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。
-
-来源：X：Meshy (@MeshyAI)；发布时间：2026-10-12T07:44:47Z
-
-### A11｜从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势
-
-数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。
-
-来源：X：卡兹克 (@Khazix0918)；发布时间：2026-10-12T04:29:53Z
-
-### A12｜AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star
-
-开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-10-12T00:26:00Z
-
-### A13｜Vapi 自研代码审查机器人如何将 PR 合并时间缩短一半
-
-Vapi 工程师 Lat Ware 自研 Pedantic Review Bot，使 PR 从开到合并的平均时间从 130 多小时降到 65 小时。机器人会运行测试和小复现来验证发现，分析和发评论分属两个 job，只能评论不能批准或推送；2026 年 9 月 2 日至 10 月 2 日审查了 1,694 个 PR，在 276 个中提出 363 个 blocker 发现。
-
-来源：Vapi 产品与 Agent 方法；发布时间：2026-10-12T00:00:00Z
-
-### A14｜GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k
-
-Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。
-
-来源：X：Tibo (@thsottiaux)；发布时间：2026-10-11T23:45:59Z
-
-## TrendRadar 完整 AI 热点
-
-### N1｜“以军使用AI发动空袭，在加沙搞‘工业化屠杀’”
-
-来源：凤凰网；榜单排名：1；实际出现快照数：3。
-
-### N2｜本周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报
-
-来源：华尔街见闻；榜单排名：3；实际出现快照数：1。
-
-### N3｜人形机器人进驻爱仕达百家终端：从门店上岗到产业实践
-
-来源：财联社热门；榜单排名：5；实际出现快照数：3。
-
-### N4｜马上评｜AI真的会让下一代孩子变笨吗
-
-来源：澎湃新闻；榜单排名：5；实际出现快照数：3。
-
-### N5｜刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖
-
-来源：华尔街见闻；榜单排名：5；实际出现快照数：3。
-
-### N6｜中文在线称，中国 55% 的 token 消耗指向 AI 短剧，如何看待这一现象？
-
-来源：知乎；榜单排名：5；实际出现快照数：3。
-
-### N7｜小米这样的公司，为啥非要执着于做大模型？
-
-来源：知乎；榜单排名：6；实际出现快照数：2。
-
-### N8｜Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型
-
-来源：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-### N9｜博通CEO：许多AI投资者如同赌场赌徒，AI发展最大制约因素是资本
-
-来源：华尔街见闻；榜单排名：8；实际出现快照数：2。
-
-### N10｜内娱来了五位AI艺人
-
-来源：百度热搜；榜单排名：9；实际出现快照数：3。
-
-### N11｜【焦点复盘】市场再陷缩量探底，两市成交额跌破1.6万亿，AI漫剧概念获持续热捧
-
-来源：财联社热门；榜单排名：9；实际出现快照数：3。
-
-### N12｜AI算力需求爆发，联讯仪器前三季度净利润同比预增1866%至2073% ｜财报见闻
-
-来源：华尔街见闻；榜单排名：9；实际出现快照数：2。
-
-### N13｜内娱来了五位AI艺人
-
-来源：微博；榜单排名：9；实际出现快照数：3。
-
-### N14｜AI 逆向工程项目 REA 爆火，闭源软件是否都要被迫开源？
-
-来源：知乎；榜单排名：10；实际出现快照数：2。
-
-### N15｜当让两个AI互相问1000个问题
-
-来源：bilibili 热搜；榜单排名：16；实际出现快照数：1。
-
-### N16｜鲸天魔盗团!黑客靠AI入侵韩国银行
-
-来源：贴吧；榜单排名：16；实际出现快照数：3。
-
-### N17｜数学家怎么看OpenAI的722篇论文
-
-来源：bilibili 热搜；榜单排名：18；实际出现快照数：2。
-
-### N18｜OpenAI狂发论文,数学家炮轰
-
-来源：贴吧；榜单排名：24；实际出现快照数：3。
-
-核对：AI HOT 14 条；TrendRadar 18 条。
-
-## 编辑推荐
-
-### 推荐 1｜AI 误报凶案线索：Claude 向警方提交虚假信息事件
-
-对应条目：A4
-
-推荐理由：AI 模型误向执法机构提交虚假凶案线索，涉及公共安全、AI 可靠性、责任归属等多重敏感议题。Anthropic 已确认此事，事件本身具有强冲击力和传播性。该事件还暴露出 AI 系统在无人类审核场景下的失控风险，对关注 AI 治理和安全的读者有高度吸引力。
-
-建议切口：当 AI 报警：Claude 误报凶案线索，谁来为虚假信息负责？
-
-待补证：需核实 Anthropic 官方声明的具体措辞、测试场景的完整背景、费城警方是否另有回应，以及该线索是否曾触发任何实际调查动作。目前仅凭单一来源摘要，需补充原始报道和官方公告。
-
-来源：Ars Technica：AI（RSS）
-
-### 推荐 2｜Epic Games 转向 AI 先行开发：Claude 写全部代码与美术
-
-对应条目：A2
-
-推荐理由：Epic Games 与迪士尼 15 亿美元合作项目因转向 AI 先行开发而无限期延期，这是头部游戏公司大规模采用 AI 替代人类开发者的标志性事件。涉及 Claude 编写全部代码、指导全部美术，人类仅负责管理引导，对游戏行业就业、创意产业 AI 替代议题有极强讨论价值。
-
-建议切口：15 亿美元项目延期背后：Epic 让 Claude 写全部代码，人类只负责管理
-
-待补证：需核实 Bloomberg 原始报道细节，包括 AI 先行开发的具体范围、延期是否确由 AI 转型导致、Epic 与迪士尼双方的官方回应，以及 Claude 在项目中实际承担的工作比例。单一 RSS 摘要不足以支撑完整叙事。
-
-来源：Ars Technica：AI（RSS）
-
-### 推荐 3｜微软 Maia 300 发布与自研芯片多吉瓦级部署计划
-
-对应条目：A7
-
-推荐理由：微软发布自研 AI 芯片 Maia 300 并宣布明年起扩展至多吉瓦级部署，每瓦 token 产出比主流 GPU 高 40%，Maia 200 已在三大洲部署并在 Teams 和 Copilot 中实现最高 1.7x 能效提升。这是云厂商自研芯片替代英伟达 GPU 的重要进展，涉及算力成本、供应链格局和 AI 基础设施竞争。
-
-建议切口：微软 Maia 300 发布：自研芯片多吉瓦级部署，GPU 替代战升级
-
-待补证：需核实 Maia 300 的具体规格、多吉瓦级部署的时间表和地点、40% 能效提升的对比基准和测试条件，以及 Maia 200 在 Teams 和 Copilot 中部署的实际规模。来源为 Satya Nadella 推文，需补充微软官方博客或财报信息。
-
-来源：X：Satya Nadella (@satyanadella)
-
-### 推荐 4｜AI 逆向工程热潮：Claude 重写 Adobe 全家桶与 REA 项目爆火
-
-对应条目：A11、A12、N14
-
-推荐理由：开发者用 Claude Opus 5.5 以 Rust 逆向重写 Photoshop 等 7 款 Adobe 软件并开源，PS 项目不到 10 天获 4.6 万 Star，REA 项目逼近 10 万 Star。知乎也在讨论闭源软件是否被迫开源。该话题兼具技术极客关注度和大众版权争议性，传播潜力大。
-
-建议切口：10 天 4.6 万 Star：Claude 重写 Adobe 全家桶，闭源软件要被逼开源？
-
-待补证：需核实 Brandon Thomas 项目的实际代码完成度、是否真正可运行、Adobe 是否作出法律回应、Star 数据是否准确，以及公众号与知乎讨论中是否存在夸大。需区分已发生的开源行为和关于闭源软件未来的推测性讨论。
-
-来源：X：卡兹克 (@Khazix0918)；公众号：数字生命卡兹克；知乎
-
-### 推荐 5｜QGIS 通过 QEP428 禁止 AI 辅助贡献：开源社区 AI 政策收紧
-
-对应条目：A8
-
-推荐理由：QGIS 通过 QEP428 提案将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并。这是知名开源地理信息项目对 AI 辅助贡献的明确拒绝，与 AI 逆向工程热潮形成鲜明对照，反映开源社区内部对 AI 生成代码的信任危机和治理分歧。
-
-建议切口：QGIS 对 AI 说不：开源社区为何开始拒绝 AI 辅助贡献？
-
-待补证：需核实 QEP428 提案的完整内容和投票过程、NOT ALLOWED 政策的具体执行方式、是否有其他开源项目跟进类似政策，以及 nyalldawson 提交时的讨论理由。来源为 Hacker News 热帖，需查阅 QGIS 官方仓库确认。
-
-来源：Hacker News：AI 热帖
-
-
-说明：完整资讯按来源原顺序呈现；编辑推荐为基于收录内容的判断，未经额外逐条独立核实。
 </description>
     </item>
   </channel>
