@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-12
 
-数据生成时间：2026-11-12T06:31:27+08:00（北京时间）
+数据生成时间：2026-11-12T07:01:35+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：25 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：23 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -200,7 +200,7 @@ OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 �
 
 ### N9｜中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？
 
-平台：知乎；榜单排名：6；实际出现快照数：2。
+平台：知乎；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2102940552853448626
 
@@ -216,29 +216,29 @@ OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 �
 
 链接：https://wallstreetcn.com/articles/3785747
 
-### N12｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
-
-平台：财联社热门；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2531976
-
-### N13｜【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来
+### N12｜【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来
 
 平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2531555
 
-### N14｜Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万
+### N13｜Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785675
 
-### N15｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
+### N14｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785720
+
+### N15｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
+
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2531976
 
 ### N16｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
 
@@ -252,52 +252,40 @@ OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 �
 
 链接：https://www.zhihu.com/question/2103844614528395225
 
-### N18｜8个AI大模型挑战造桥闯关赛
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=8%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8C%91%E6%88%98%E9%80%A0%E6%A1%A5%E9%97%AF%E5%85%B3%E8%B5%9B
-
-### N19｜用AI制作灭霸全家福MV
-
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
-
-### N20｜不少 AI 生成内容越来越晦涩难懂，Gemini 是怎么做到输出内容「说人话」的？
-
-平台：知乎；榜单排名：18；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2102869416480354456
-
-### N21｜Anthropic IPO遭疯抢
+### N18｜Anthropic IPO遭疯抢
 
 平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2
 
-### N22｜Anthropic世纪IPO恐成AI行情高点
+### N19｜8个AI大模型挑战造桥闯关赛
+
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=8%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8C%91%E6%88%98%E9%80%A0%E6%A1%A5%E9%97%AF%E5%85%B3%E8%B5%9B
+
+### N20｜Anthropic世纪IPO恐成AI行情高点
 
 平台：百度热搜；榜单排名：23；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9
 
-### N23｜男子滥用AI恶搞红军形象被行拘
-
-平台：百度热搜；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%BB%A5%E7%94%A8AI%E6%81%B6%E6%90%9E%E7%BA%A2%E5%86%9B%E5%BD%A2%E8%B1%A1%E8%A2%AB%E8%A1%8C%E6%8B%98
-
-### N24｜AI长片 汤症
+### N21｜AI长片 汤症
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
-### N25｜一人打造78分钟硬科幻AI电影
+### N22｜一人打造78分钟硬科幻AI电影
 
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：28；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
 
-核对：AI HOT 15 条；TrendRadar 25 条。
+### N23｜用AI制作灭霸全家福MV
+
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
+
+核对：AI HOT 15 条；TrendRadar 23 条。
