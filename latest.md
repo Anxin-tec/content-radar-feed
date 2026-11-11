@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-11
 
-数据生成时间：2026-11-11T08:31:21+08:00（北京时间）
+数据生成时间：2026-11-11T09:13:26+08:00（北京时间）
 
-AI HOT：26 条；TrendRadar：31 条 AI 相关热点。
+AI HOT：26 条；TrendRadar：34 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -249,7 +249,7 @@ OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数�
 
 ### N1｜【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展
 
-平台：财联社热门；榜单排名：2；实际出现快照数：1。
+平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2530870
 
@@ -265,113 +265,113 @@ OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数�
 
 链接：https://wallstreetcn.com/articles/3785518
 
-### N4｜【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口
+### N4｜怎么看路透社表示 Anthropic  IPO 估值下调到 1 万亿美元，目标募集 643.5 亿美元？
+
+平台：知乎；榜单排名：3；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2103576505762820339
+
+### N5｜【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口
 
 平台：财联社热门；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2530324
 
-### N5｜冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元
+### N6｜美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2530855
+
+### N7｜冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785657
 
-### N6｜美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元
+### N8｜Anthropic IPO目标市值约1.02万亿美元 发行及配售规模或达904亿美元
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2530855
+链接：https://www.cls.cn/detail/2530667
 
-### N7｜英伟达两日累跌超9%
+### N9｜NVIDIA显卡定价失控AMD销量反超
 
 平台：今日头条；榜单排名：5；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7706684595856477737/
+链接：https://www.toutiao.com/trending/7706338827526291977/
 
-### N8｜Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿
+### N10｜Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785616
 
-### N9｜Anthropic IPO目标市值约1.02万亿美元 发行及配售规模或达904亿美元
+### N11｜【焦点复盘】沪指高开低走止步四连阳，两市超140股涨逾9%，物理AI概念再掀高潮
 
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2530667
+链接：https://www.cls.cn/detail/2530405
 
-### N10｜Anthropic正式启动募资计划
+### N12｜Anthropic正式启动募资计划
 
 平台：百度热搜；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%8B%9F%E8%B5%84%E8%AE%A1%E5%88%92
 
-### N11｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
-
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3785599
-
-### N12｜【焦点复盘】沪指高开低走止步四连阳，两市超140股涨逾9%，物理AI概念再掀高潮
-
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2530405
-
 ### N13｜分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%
 
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2530729
 
-### N14｜美国人民不是在反对AI，他们只是想睡个整觉
+### N14｜微软股价应声跳水 Anthropic上市前夕推出AI办公套件
+
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2530817
+
+### N15｜AI交易遭遇抛售潮后 全球资金盯上新兴市场低估值资产
+
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2530639
+
+### N16｜Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3785599
+
+### N17｜美国人民不是在反对AI，他们只是想睡个整觉
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785662
 
-### N15｜AI交易遭遇抛售潮后 全球资金盯上新兴市场低估值资产
+### N18｜一人打造78分钟硬科幻AI电影
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：11；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2530639
+链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
 
-### N16｜AI长片 汤症
+### N19｜太空AI加速备战：SpaceX订购太阳能产线，星舰挑战首次“双回收”
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
-
-### N17｜太空AI加速备战：SpaceX订购太阳能产线，星舰挑战首次“双回收”
-
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2530830
 
-### N18｜美股低开 英伟达开盘跌近3%
+### N20｜美股低开 英伟达开盘跌近3%
 
 平台：百度热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25
 
-### N19｜一人打造78分钟硬科幻AI电影
-
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
-
-### N20｜让九个AI大模型玩造桥
+### N21｜AI长片 汤症
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
-
-### N21｜分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势
-
-平台：澎湃新闻；榜单排名：13；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34446211
+链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
 ### N22｜七巨头260亿美元“押注”Anthropic
 
@@ -379,58 +379,76 @@ OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数�
 
 链接：https://www.baidu.com/s?wd=%E4%B8%83%E5%B7%A8%E5%A4%B4260%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9C%E6%8A%BC%E6%B3%A8%E2%80%9DAnthropic
 
-### N23｜Anthropic IPO拟发行8.25亿股
+### N23｜分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势
+
+平台：澎湃新闻；榜单排名：14；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34446211
+
+### N24｜美为何要给AI芯片戴“电子脚镣”
+
+平台：今日头条；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7706671929704320548/
+
+### N25｜用AI原创68分钟科幻长片
+
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
+
+### N26｜Anthropic IPO拟发行8.25亿股
 
 平台：百度热搜；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic+IPO%E6%8B%9F%E5%8F%91%E8%A1%8C8.25%E4%BA%BF%E8%82%A1
 
-### N24｜失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？
+### N27｜失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？
 
 平台：知乎；榜单排名：19；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2103115784310322006
 
-### N25｜美为何要给AI芯片戴“电子脚镣”
-
-平台：今日头条；榜单排名：20；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7706671929704320548/
-
-### N26｜英伟达商城重新上架5090显卡
+### N28｜英伟达商城重新上架5090显卡
 
 平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%95%86%E5%9F%8E%E9%87%8D%E6%96%B0%E4%B8%8A%E6%9E%B65090%E6%98%BE%E5%8D%A1
 
-### N27｜Anthropic：年化营收约为810亿美元
+### N29｜Anthropic：年化营收约为810亿美元
 
 平台：百度热搜；榜单排名：25；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic%EF%BC%9A%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%BA%A6%E4%B8%BA810%E4%BA%BF%E7%BE%8E%E5%85%83
 
-### N28｜用AI原创68分钟科幻长片
+### N30｜最抗跌的苹果开始加码AI
 
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
+平台：今日头条；榜单排名：25；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87
+链接：https://www.toutiao.com/trending/7706421210003030079/
 
-### N29｜草根团队做出爆款AI漫剧持械入宋
+### N31｜让九个AI大模型玩造桥
+
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5
+
+### N32｜草根团队做出爆款AI漫剧持械入宋
 
 平台：抖音；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2739941
 
-### N30｜三家国产AI预测BLG夺冠
+### N33｜三家国产AI预测BLG夺冠
 
 平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0
 
-### N31｜欧洲15国民众抗议AI扩张
+### N34｜欧洲15国民众抗议AI扩张
 
 平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0&topic_id=28369509
 
-核对：AI HOT 26 条；TrendRadar 31 条。
+核对：AI HOT 26 条；TrendRadar 34 条。
