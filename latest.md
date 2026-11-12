@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-12
 
-数据生成时间：2026-11-12T09:52:16+08:00（北京时间）
+数据生成时间：2026-11-12T10:13:42+08:00（北京时间）
 
 AI HOT：12 条；TrendRadar：32 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
@@ -135,95 +135,95 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://wallstreetcn.com/articles/3785765
 
-### N3｜美媒：英伟达准备罢免黄仁勋，特朗普政府已知情
+### N3｜谷歌推出Gemini Decisions 1
+
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=Gemini+Decisions
+
+### N4｜美媒：英伟达准备罢免黄仁勋，特朗普政府已知情
 
 平台：凤凰网；榜单排名：2；实际出现快照数：1。
 
 链接：https://original.ifeng.com/c/8xz85EBAuVN
 
-### N4｜AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000
+### N5｜AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785732
 
-### N5｜美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌
+### N6｜美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785613
 
-### N6｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
+### N7｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
 
 平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2531587
 
-### N7｜浙江宣传：黄仁勋事件背后的美国AI焦虑
+### N8｜浙江宣传：黄仁勋事件背后的美国AI焦虑
 
 平台：凤凰网；榜单排名：4；实际出现快照数：1。
 
 链接：https://news.ifeng.com/c/8xz8ok7UvKJ
 
-### N8｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
+### N9｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785683
 
-### N9｜英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情
+### N10｜今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785762
+链接：https://wallstreetcn.com/articles/3785773
 
-### N10｜CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利
+### N11｜CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785686
 
-### N11｜今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO
+### N12｜英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785773
+链接：https://wallstreetcn.com/articles/3785762
 
-### N12｜CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点
+### N13｜CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点
 
 平台：财联社热门；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2531921
 
-### N13｜中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？
+### N14｜中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？
 
 平台：知乎；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2102940552853448626
 
-### N14｜Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了
+### N15｜Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了
 
 平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2532124
 
-### N15｜Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%
+### N16｜Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785694
 
-### N16｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
+### N17｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785720
-
-### N17｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
-
-平台：财联社热门；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2531976
 
 ### N18｜【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来
 
@@ -243,23 +243,23 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://wallstreetcn.com/articles/3785675
 
-### N21｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
+### N21｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
+
+平台：财联社热门；榜单排名：10；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2531976
+
+### N22｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785750
 
-### N22｜欧美掀起抵制AI数据中心浪潮
+### N23｜欧美掀起抵制AI数据中心浪潮
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE
-
-### N23｜高叶谈AI对演员职业的冲击
-
-平台：今日头条；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7706595933592486426/
 
 ### N24｜11月12日投资避雷针：16天9板人气股提示风险 AI漫剧营收占比仅约2.57%
 
@@ -267,52 +267,52 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://www.cls.cn/detail/2532119
 
-### N25｜一人打造78分钟硬科幻AI电影
+### N25｜高叶谈AI对演员职业的冲击
+
+平台：今日头条；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7706595933592486426/
+
+### N26｜一人打造78分钟硬科幻AI电影
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
 
-### N26｜Anthropic IPO遭疯抢
+### N27｜Anthropic IPO遭疯抢
 
 平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2
 
-### N27｜Anthropic披露AI仅用3天适配AMD芯片
+### N28｜Anthropic披露AI仅用3天适配AMD芯片
 
 平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87
 
-### N28｜Anthropic世纪IPO恐成AI行情高点
+### N29｜用AI制作灭霸全家福MV
+
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
+
+### N30｜Anthropic世纪IPO恐成AI行情高点
 
 平台：百度热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9
 
-### N29｜用AI制作灭霸全家福MV
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
-
-### N30｜AI长片 汤症
+### N31｜AI长片 汤症
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
-### N31｜撤回又重启 Anthropic IPO逆市推进
+### N32｜撤回又重启 Anthropic IPO逆市推进
 
 平台：百度热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E6%92%A4%E5%9B%9E%E5%8F%88%E9%87%8D%E5%90%AF+Anthropic+IPO%E9%80%86%E5%B8%82%E6%8E%A8%E8%BF%9B
-
-### N32｜东方新能押注算力是新格局还是老套路
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7706830490149326399/
 
 核对：AI HOT 12 条；TrendRadar 32 条。
