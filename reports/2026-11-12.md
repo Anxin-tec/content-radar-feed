@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-12
 
-数据生成时间：2026-11-12T11:19:09+08:00（北京时间）
+数据生成时间：2026-11-12T11:46:39+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：33 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：36 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -135,11 +135,11 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://wallstreetcn.com/articles/3785765
 
-### N3｜AI离完全证明千禧难题还有多远
+### N3｜谷歌推出Gemini Decisions 1
 
 平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E7%A6%BB%E5%AE%8C%E5%85%A8%E8%AF%81%E6%98%8E%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C
+链接：https://search.bilibili.com/all?keyword=Gemini+Decisions
 
 ### N4｜美媒：英伟达准备罢免黄仁勋，特朗普政府已知情
 
@@ -159,11 +159,11 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://wallstreetcn.com/articles/3785613
 
-### N7｜谷歌推出Gemini Decisions 1
+### N7｜AI离完全证明千禧难题还有多远
 
 平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=Gemini+Decisions
+链接：https://search.bilibili.com/all?keyword=AI%E7%A6%BB%E5%AE%8C%E5%85%A8%E8%AF%81%E6%98%8E%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C
 
 ### N8｜AI算力成消费新热点
 
@@ -171,29 +171,29 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://www.douyin.com/hot/2741974
 
-### N9｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
+### N9｜今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785773
+
+### N10｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
 
 平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2531587
 
-### N10｜浙江宣传：黄仁勋事件背后的美国AI焦虑
+### N11｜浙江宣传：黄仁勋事件背后的美国AI焦虑
 
 平台：凤凰网；榜单排名：4；实际出现快照数：1。
 
 链接：https://news.ifeng.com/c/8xz8ok7UvKJ
 
-### N11｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
+### N12｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785683
-
-### N12｜今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785773
 
 ### N13｜Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了
 
@@ -233,7 +233,7 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 ### N19｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785750
 
@@ -273,52 +273,70 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 
 链接：https://www.cls.cn/detail/2532119
 
-### N26｜一人打造78分钟硬科幻AI电影
+### N26｜欧美掀起抵制AI数据中心浪潮
+
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE
+
+### N27｜32个AI中文考试实测榜单
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=32%E4%B8%AAAI%E4%B8%AD%E6%96%87%E8%80%83%E8%AF%95%E5%AE%9E%E6%B5%8B%E6%A6%9C%E5%8D%95
+
+### N28｜一人打造78分钟硬科幻AI电影
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
 
-### N27｜欧美掀起抵制AI数据中心浪潮
-
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE
-
-### N28｜Anthropic IPO遭疯抢
+### N29｜Anthropic IPO遭疯抢
 
 平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2
 
-### N29｜Anthropic披露AI仅用3天适配AMD芯片
+### N30｜Anthropic披露AI仅用3天适配AMD芯片
 
 平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87
 
-### N30｜高叶谈AI对演员职业的冲击
+### N31｜李彦宏称AI变革势不可挡
 
-平台：今日头条；榜单排名：21；实际出现快照数：1。
+平台：微博；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7706595933592486426/
+链接：https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A6%E5%AE%8F%E7%A7%B0AI%E5%8F%98%E9%9D%A9%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1%23
 
-### N31｜Anthropic世纪IPO恐成AI行情高点
+### N32｜某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？
+
+平台：知乎；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2103844614528395225
+
+### N33｜用AI制作灭霸全家福MV
+
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
+
+### N34｜Anthropic世纪IPO恐成AI行情高点
 
 平台：百度热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9
 
-### N32｜AI长片 汤症
+### N35｜Claude57页路演PPT解读
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=Claude57%E9%A1%B5%E8%B7%AF%E6%BC%94PPT%E8%A7%A3%E8%AF%BB
+
+### N36｜AI长片 汤症
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
-### N33｜用AI制作灭霸全家福MV
-
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
-
-核对：AI HOT 12 条；TrendRadar 33 条。
+核对：AI HOT 12 条；TrendRadar 36 条。
