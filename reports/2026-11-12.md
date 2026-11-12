@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-12
 
-数据生成时间：2026-11-12T07:41:47+08:00（北京时间）
+数据生成时间：2026-11-12T08:58:46+08:00（北京时间）
 
-AI HOT：16 条；TrendRadar：30 条 AI 相关热点。
+AI HOT：12 条；TrendRadar：32 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -13,7 +13,25 @@ AI HOT：16 条；TrendRadar：30 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可
+### A1｜OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题
+
+OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。
+
+来源：OpenRouter：Announcements（RSS）；发布时间：2026-11-12T00:00:00Z
+
+原文：https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/
+收录页：https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde
+
+### A2｜WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋
+
+WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。起因是黄仁勋与一名被指为中国情报人员的女子交往，随后又曝出与一名 Nvidia 员工的第二段婚外情；周日开始独立调查时董事会表示没有理由认为 Nvidia 机密泄露。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-11T23:43:05Z
+
+原文：https://x.com/rohanpaul_ai/status/2120663635479625930
+收录页：https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd
+
+### A3｜Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可
 
 Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。
 
@@ -22,7 +40,7 @@ Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有
 原文：https://runwayml.com/news/company-news/praxis-1-is-now-available
 收录页：https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv
 
-### A2｜Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策
+### A4｜Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策
 
 Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。
 
@@ -31,7 +49,7 @@ Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可
 原文：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
 收录页：https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw
 
-### A3｜Claude Code 中如何选择 Fable 5.2 与 Opus 等模型
+### A5｜Claude Code 中如何选择 Fable 5.2 与 Opus 等模型
 
 Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。
 
@@ -40,7 +58,7 @@ Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Op
 原文：https://www.youtube.com/watch?v=C33hJGt-ySg
 收录页：https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk
 
-### A4｜a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道
+### A6｜a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道
 
 a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。
 
@@ -49,7 +67,7 @@ a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网
 原文：https://www.a16z.news/p/welcome-to-the-b2a-economy
 收录页：https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k
 
-### A5｜Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市
+### A7｜Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市
 
 Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。
 
@@ -58,7 +76,7 @@ Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来�
 原文：https://x.com/rohanpaul_ai/status/2120526677247939001
 收录页：https://aihot.news/items/r5kn7uexy6jx97qwxwvnpqrom
 
-### A6｜Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼
+### A8｜Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼
 
 据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。
 
@@ -67,7 +85,7 @@ Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来�
 原文：https://www.ithome.com/1/025/809.htm
 收录页：https://aihot.news/items/iz168hjk4ew8jpiokzjqcwbgi
 
-### A7｜安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件
+### A9｜安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件
 
 安全公司 Claroc 报告称，在检查的 37,571 个仍在线的 Grok 构建应用中，35,578 个（94.7%）无需登录即可访问，原因是发布对话框默认预选"Anyone with the link"，且每个应用的独立子域名会进入可检索的 passive DNS 数据库。
 
@@ -76,7 +94,7 @@ Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来�
 原文：https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/
 收录页：https://aihot.news/items/wlmgb3vb5ycgom7wq44felnin
 
-### A8｜OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic
+### A10｜OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic
 
 据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。
 
@@ -85,7 +103,7 @@ Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来�
 原文：https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/
 收录页：https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5
 
-### A9｜WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权
+### A11｜WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权
 
 WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。
 
@@ -94,7 +112,7 @@ WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股
 原文：https://x.com/rohanpaul_ai/status/2120392847505715324
 收录页：https://aihot.news/items/ajjv9abs8vd20j05emcig98ai
 
-### A10｜Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议
+### A12｜Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议
 
 Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。
 
@@ -103,91 +121,37 @@ Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成�
 原文：https://x.com/rohanpaul_ai/status/2120369586096976098
 收录页：https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy
 
-### A11｜Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高
-
-FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。周二文件设定 $70-$78 的发行区间，计入员工期权和受限股后对应 $1.26T-$1.41T 估值；若定价超出区间，募资将超过 $100B，其中 Google、Nvidia 和 Microsoft 将按 IPO 价格投资 $26B。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-11T00:58:06Z
-
-原文：https://x.com/rohanpaul_ai/status/2120320127484969162
-收录页：https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o
-
-### A12｜Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队
-
-Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。
-
-来源：Anthropic：Alignment Science Blog（网页）；发布时间：2026-11-11T00:00:00Z
-
-原文：https://alignment.anthropic.com/2026/worse-together/
-收录页：https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp
-
-### A13｜Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用
-
-UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。
-
-来源：Berkeley RDI：Blog（AI 安全与评测）；发布时间：2026-11-11T00:00:00Z
-
-原文：https://rdi.berkeley.edu/blog/cyberbingym
-收录页：https://aihot.news/items/xenhfme3azzcf8qpihr57fb93
-
-### A14｜OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本
-
-OpenRouter 实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 成本：在 Claude Sonnet 5.5 上 CLI 用 1。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-11-11T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/
-收录页：https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4
-
-### A15｜OpenRouter 实测 fp8 与 fp4 量化对模型质量和价格的影响
-
-OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 年 10 月 20 日对 1455 个 provider 端点和 Qwen3.8 27B 六个端点的实测。
-
-来源：OpenRouter：Announcements（RSS）；发布时间：2026-11-11T00:00:00Z
-
-原文：https://openrouter.ai/blog/insights/llm-quantization/
-收录页：https://aihot.news/items/i3gp1xj4j11gi4qoreya18izb
-
-### A16｜Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作
-
-作者实测 Claude Fable 5.2 与 Gemini 4 Carbon 并对比后认为，Fable 5.2 的突出差异在于审美，这是无法用 Benchmark 评估但可直观感受的东西。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-11-10T23:56:00Z
-
-原文：https://mp.weixin.qq.com/s/zgBGhOsuh6Z_5Enmzos3rQ
-收录页：https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜欧美掀起抵制AI数据中心浪潮
+### N1｜【早报】英伟达，盘后大跌9%；美股科技股，集体大幅走高；原油上行、黄金承压
 
-平台：bilibili 热搜；榜单排名：1；实际出现快照数：2。
+平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE
+链接：https://www.cls.cn/detail/2532081
 
-### N2｜AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000
+### N2｜专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活
+
+平台：澎湃新闻；榜单排名：1；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34440595
+
+### N3｜英伟达被曝考虑任命临时首席执行官
+
+平台：今日头条；榜单排名：1；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7707065433639095859/
+
+### N4｜AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000
 
 平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785732
 
-### N3｜曝黄仁勋曾与英伟达高管有婚外情
+### N5｜美媒：英伟达准备罢免黄仁勋，特朗普政府已知情
 
-平台：百度热搜；榜单排名：2；实际出现快照数：1。
+平台：凤凰网；榜单排名：2；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E6%9B%9D%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9B%BE%E4%B8%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%AB%98%E7%AE%A1%E6%9C%89%E5%A9%9A%E5%A4%96%E6%83%85
-
-### N4｜专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活
-
-平台：澎湃新闻；榜单排名：2；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34440595
-
-### N5｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
-
-平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785683
+链接：https://news.ifeng.com/c/8xz85EBAuVN
 
 ### N6｜美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌
 
@@ -195,148 +159,160 @@ OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 �
 
 链接：https://wallstreetcn.com/articles/3785613
 
-### N7｜【早报】英伟达，盘后大跌9%；美股科技股，集体大幅走高；原油上行、黄金承压
+### N7｜黄仁勋再曝新婚外情，董事会准备罢免！英伟达盘后跌幅达8%
 
-平台：财联社热门；榜单排名：3；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2532081
-
-### N8｜黄仁勋再曝新婚外情，董事会准备罢免！英伟达盘后跌幅达8%
-
-平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785765
 
-### N9｜CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利
+### N8｜CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3785686
+链接：https://wallstreetcn.com/articles/3785683
 
-### N10｜Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%
+### N9｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
 
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785694
-
-### N11｜摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账
-
-平台：财联社热门；榜单排名：7；实际出现快照数：2。
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2531587
 
+### N10｜浙江宣传：黄仁勋事件背后的美国AI焦虑
+
+平台：凤凰网；榜单排名：4；实际出现快照数：1。
+
+链接：https://news.ifeng.com/c/8xz8ok7UvKJ
+
+### N11｜Anthropic披露AI仅用3天适配AMD芯片
+
+平台：今日头条；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7706948038756929087/
+
 ### N12｜英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785762
 
-### N13｜Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效
+### N13｜欧美掀起抵制AI数据中心浪潮
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3785747
+链接：https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE
 
-### N14｜【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来
+### N14｜CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3785686
+
+### N15｜被曝新婚外情？黄仁勋据悉将遭罢免 英伟达股价盘后暴跌逾8%
+
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2532106
+
+### N16｜中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？
+
+平台：知乎；榜单排名：6；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2102940552853448626
+
+### N17｜Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3785694
+
+### N18｜CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点
+
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2531921
+
+### N19｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785720
+
+### N20｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
+
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2531976
+
+### N21｜【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来
 
 平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2531555
 
-### N15｜Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万
+### N22｜Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
+
+链接：https://wallstreetcn.com/articles/3785747
+
+### N23｜Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785675
 
-### N16｜科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785720
-
-### N17｜8个AI大模型挑战造桥闯关赛
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=8%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8C%91%E6%88%98%E9%80%A0%E6%A1%A5%E9%97%AF%E5%85%B3%E8%B5%9B
-
-### N18｜CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点
-
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2531921
-
-### N19｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
+### N24｜Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785750
 
-### N20｜Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度
+### N25｜高叶谈AI对演员职业的冲击
 
-平台：财联社热门；榜单排名：11；实际出现快照数：2。
+平台：今日头条；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2531976
+链接：https://www.toutiao.com/trending/7706595933592486426/
 
-### N21｜曝英伟达拟罢免黄仁勋
+### N26｜用AI制作灭霸全家福MV
 
-平台：百度热搜；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E7%BD%A2%E5%85%8D%E9%BB%84%E4%BB%81%E5%8B%8B
-
-### N22｜英伟达盘后跌9%
-
-平台：百度热搜；榜单排名：15；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E5%90%8E%E8%B7%8C9%25
-
-### N23｜中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？
-
-平台：知乎；榜单排名：15；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2102940552853448626
-
-### N24｜一人打造78分钟硬科幻AI电影
-
-平台：bilibili 热搜；榜单排名：16；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
-
-### N25｜某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？
-
-平台：知乎；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2103844614528395225
-
-### N26｜Anthropic IPO遭疯抢
-
-平台：百度热搜；榜单排名：20；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2
-
-### N27｜用AI制作灭霸全家福MV
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
 
-### N28｜Anthropic世纪IPO恐成AI行情高点
+### N27｜一人打造78分钟硬科幻AI电影
+
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1+%E5%AD%A4%E9%B2%B8
+
+### N28｜Anthropic IPO遭疯抢
+
+平台：百度热搜；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2
+
+### N29｜Anthropic披露AI仅用3天适配AMD芯片
+
+平台：百度热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87
+
+### N30｜Anthropic世纪IPO恐成AI行情高点
 
 平台：百度热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9
 
-### N29｜AI长片 汤症
+### N31｜AI长片 汤症
 
 平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87+%E6%B1%A4%E7%97%87
 
-### N30｜男子滥用AI恶搞红军形象被行拘
+### N32｜撤回又重启 Anthropic IPO逆市推进
 
-平台：百度热搜；榜单排名：27；实际出现快照数：1。
+平台：百度热搜；榜单排名：30；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%BB%A5%E7%94%A8AI%E6%81%B6%E6%90%9E%E7%BA%A2%E5%86%9B%E5%BD%A2%E8%B1%A1%E8%A2%AB%E8%A1%8C%E6%8B%98
+链接：https://www.baidu.com/s?wd=%E6%92%A4%E5%9B%9E%E5%8F%88%E9%87%8D%E5%90%AF+Anthropic+IPO%E9%80%86%E5%B8%82%E6%8E%A8%E8%BF%9B
 
-核对：AI HOT 16 条；TrendRadar 30 条。
+核对：AI HOT 12 条；TrendRadar 32 条。
