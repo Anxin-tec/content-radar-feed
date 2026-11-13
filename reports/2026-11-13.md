@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-13
 
-数据生成时间：2026-11-13T10:53:25+08:00（北京时间）
+数据生成时间：2026-11-13T11:22:44+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：51 条 AI 相关热点。
+AI HOT：20 条；TrendRadar：52 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -241,29 +241,29 @@ OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
 
-### N9｜黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克
+### N9｜美国AI发展要踩刹车了吗
+
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E5%8F%91%E5%B1%95%E8%A6%81%E8%B8%A9%E5%88%B9%E8%BD%A6%E4%BA%86%E5%90%97
+
+### N10｜黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克
 
 平台：财联社热门；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2533159
 
-### N10｜英伟达关于黄仁勋辞职及领导团队调整的声明全文
+### N11｜英伟达关于黄仁勋辞职及领导团队调整的声明全文
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785832
 
-### N11｜黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？
+### N12｜黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？
 
 平台：知乎；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2104342766322808640
-
-### N12｜谷歌发布Gemini 4 Hydrogen
-
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini+4+Hydroge
 
 ### N13｜AI需求持续爆发！美国半导体设备龙头：营收、盈利、业绩指引全面超预期
 
@@ -307,11 +307,11 @@ OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物�
 
 链接：https://wallstreetcn.com/articles/3785762
 
-### N20｜美国AI发展要踩刹车了吗
+### N20｜普通人用AI和会用AI的人
 
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：微博；榜单排名：8；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E5%8F%91%E5%B1%95%E8%A6%81%E8%B8%A9%E5%88%B9%E8%BD%A6%E4%BA%86%E5%90%97
+链接：https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23
 
 ### N21｜【每日收评】创业板指冲高回落跌超2%，全市场超4600股飘绿，算力芯片概念逆势走强
 
@@ -337,41 +337,41 @@ OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物�
 
 链接：https://wallstreetcn.com/articles/3785817
 
-### N25｜红楼梦AI短剧侵害17位演员肖像权
+### N25｜上海00后女生靠AI卖穿戴甲月入10万
+
+平台：微博；榜单排名：9；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B700%E5%90%8E%E5%A5%B3%E7%94%9F%E9%9D%A0AI%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%E6%9C%88%E5%85%A510%E4%B8%87%23
+
+### N26｜红楼梦AI短剧侵害17位演员肖像权
 
 平台：百度热搜；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83
 
-### N26｜财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账
+### N27｜机器人双十一"考场"：大卖之后，交付和产线才是真考题
+
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2533342
+
+### N28｜财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账
 
 平台：澎湃新闻；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34395707
 
-### N27｜赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖
+### N29｜赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖
 
 平台：澎湃新闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34458622
 
-### N28｜创业板冲高回落跌超2%，算力硬件龙头午后下跌，GPU活跃、寒武纪一度重返千元，恒科指跌超2%，阿里大跌逾6%
+### N30｜创业板冲高回落跌超2%，算力硬件龙头午后下跌，GPU活跃、寒武纪一度重返千元，恒科指跌超2%，阿里大跌逾6%
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785781
-
-### N29｜普通人用AI和会用AI的人
-
-平台：微博；榜单排名：10；实际出现快照数：3。
-
-链接：https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23
-
-### N30｜机器人双十一"考场"：大卖之后，交付和产线才是真考题
-
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2533342
 
 ### N31｜马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？
 
@@ -433,29 +433,29 @@ OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物�
 
 链接：https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B1993%E5%B9%B4%E5%88%9B%E5%8A%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE%23
 
-### N41｜AI动画重演BLG战胜T1
-
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1
-
-### N42｜GPT-6.2 开启首测，有网友称其性能可压倒 Opus5.5，二者实际体验差距有多大？
+### N41｜GPT-6.2 开启首测，有网友称其性能可压倒 Opus5.5，二者实际体验差距有多大？
 
 平台：知乎；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2103125335730669300
 
-### N43｜英伟达感谢黄仁勋不可估量的贡献
+### N42｜英伟达感谢黄仁勋不可估量的贡献
 
 平台：微博；榜单排名：15；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%84%9F%E8%B0%A2%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8D%E5%8F%AF%E4%BC%B0%E9%87%8F%E7%9A%84%E8%B4%A1%E7%8C%AE%23
 
-### N44｜黄仁勋辞职，英伟达大跌 13%，市值蒸发超 5000 亿美元，还会持续下跌吗？对市场影响有多大？
+### N43｜黄仁勋辞职，英伟达大跌 13%，市值蒸发超 5000 亿美元，还会持续下跌吗？对市场影响有多大？
 
 平台：知乎；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2104340228462700463
+
+### N44｜用AI制作灭霸全家福MV
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
 
 ### N45｜如何评价黄仁勋任职英伟达 CEO 期间的全部贡献？
 
@@ -493,10 +493,16 @@ OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物�
 
 链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E8%B7%8C13%25%23
 
-### N51｜用AI制作灭霸全家福MV
+### N51｜谷歌发布Gemini 4 Hydrogen
+
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini+4+Hydroge
+
+### N52｜AI动画重演BLG战胜T1
 
 平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
+链接：https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1
 
-核对：AI HOT 20 条；TrendRadar 51 条。
+核对：AI HOT 20 条；TrendRadar 52 条。
