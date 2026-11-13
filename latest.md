@@ -1,17 +1,73 @@
-# AI 日报｜2026-11-13
+# AI 日报｜2026-11-14
 
-数据生成时间：2026-11-13T11:22:44+08:00（北京时间）
+数据生成时间：2026-11-14T00:31:31+08:00（北京时间）
 
-AI HOT：20 条；TrendRadar：52 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：20 条；TrendRadar：25 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末
+### A1｜Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明
+
+Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。
+
+来源：X：Anthropic (@AnthropicAI)；发布时间：2026-11-13T16:00:50Z
+
+原文：https://x.com/AnthropicAI/status/2121272083863011714
+收录页：https://aihot.news/items/vsfne926njom5wnadceo8r04m
+
+### A2｜llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本
+
+Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。
+
+来源：X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)；发布时间：2026-11-13T15:13:14Z
+
+原文：https://x.com/ClementDelangue/status/2121260104913768931
+收录页：https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x
+
+### A3｜Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会
+
+Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。
+
+来源：TechCrunch：AI（RSS）；发布时间：2026-11-13T12:52:19Z
+
+原文：https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
+收录页：https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66
+
+### A4｜AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO
+
+Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。
+
+来源：Latent Space（RSS）；发布时间：2026-11-13T09:04:13Z
+
+原文：https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/
+收录页：https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo
+
+### A5｜腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力
+
+腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。
+
+来源：公众号：腾讯混元；发布时间：2026-11-13T08:32:39Z
+
+原文：https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg
+收录页：https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k
+
+### A6｜Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归
+
+据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。
+
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-13T06:56:56Z
+
+原文：https://x.com/rohanpaul_ai/status/2121135206342275529
+收录页：https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w
+
+### A7｜黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末
 
 英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。
 
@@ -20,7 +76,7 @@ AI HOT：20 条；TrendRadar：52 条 AI 相关热点。
 原文：https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg
 收录页：https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a
 
-### A2｜民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排
+### A8｜民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排
 
 民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。
 
@@ -29,7 +85,7 @@ AI HOT：20 条；TrendRadar：52 条 AI 相关热点。
 原文：https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
 收录页：https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4
 
-### A3｜Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋
+### A9｜Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋
 
 Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。
 
@@ -38,7 +94,7 @@ Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错
 原文：https://x.com/rohanpaul_ai/status/2120994977421705296
 收录页：https://aihot.news/items/k1kga19xtdab67lhplor8he8n
 
-### A4｜Google 智能眼镜开放预购，12 月 10 日发货
+### A10｜Google 智能眼镜开放预购，12 月 10 日发货
 
 Josh Woodward 宣布 Google 智能眼镜开启预购，用户可在 https://glasses.google 下单，12 月 10 日发货。首批用户可到部分 Warby Parker、Gentle Monster 和 Google 门店试戴体验。
 
@@ -47,7 +103,7 @@ Josh Woodward 宣布 Google 智能眼镜开启预购，用户可在 https://glas
 原文：https://x.com/joshwoodward/status/2120990821902397885
 收录页：https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j
 
-### A5｜Gemini 4 Hydrogen 今日起向全球所有用户推送
+### A11｜Gemini 4 Hydrogen 今日起向全球所有用户推送
 
 Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。
 
@@ -56,7 +112,7 @@ Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，�
 原文：https://x.com/GeminiApp/status/2120982674638864797
 收录页：https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4
 
-### A6｜Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%
+### A12｜Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%
 
 作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。
 
@@ -65,7 +121,7 @@ Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，�
 原文：https://x.com/mattyp/status/2120945253666762973
 收录页：https://aihot.news/items/mt013742fhedisepp2i31h1r4
 
-### A7｜World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats
+### A13｜World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats
 
 World Labs 宣布 Atlas 世界模型向所有人开放，李飞飞转发并表达期待用户用它构建的内容。官方为用户提供了应用和 API 端点，可用 Atlas 生成关键帧、视频片段或 3D Gaussian splats。
 
@@ -74,7 +130,7 @@ World Labs 宣布 Atlas 世界模型向所有人开放，李飞飞转发并表�
 原文：https://x.com/drfeifei/status/2120942509786558671
 收录页：https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm
 
-### A8｜Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%
+### A14｜Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%
 
 Artificial Analysis 评测 Google 新发布的 Gemini 4 Hydrogen：新增 xhigh 推理档在 Intelligence Index 得 54 分，比 Claude Sonnet 5.5 (max) 和 GPT-6.1 Sol (max) 低 1 分，每任务成本约为 Sonnet 的 32%，但约为 GPT-6.1 Sol 的 2.5 倍。
 
@@ -83,7 +139,7 @@ Artificial Analysis 评测 Google 新发布的 Gemini 4 Hydrogen：新增 xhigh 
 原文：https://x.com/ArtificialAnlys/status/2120941511223185722
 收录页：https://aihot.news/items/ajvxvhu8bh001pourbhhjl0ir
 
-### A9｜SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈
+### A15｜SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈
 
 SemiAnalysis 发表长文分析黄仁勋不再担任 Nvidia CEO 一事，认为其去职与美国情报界推动、针对中国远程访问 GPU 的 RASA 法案推进有关。
 
@@ -92,7 +148,7 @@ SemiAnalysis 发表长文分析黄仁勋不再担任 Nvidia CEO 一事，认为�
 原文：https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen
 收录页：https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4
 
-### A10｜Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道
+### A16｜Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道
 
 Google DeepMind 宣布开始向各渠道推送：开发者可在 Google AI Studio、Android Studio 中用 Gemini API，付费 Google AI Pro 和 Ultra 订阅者可在 Google Antigravity 中使用；企业可通过 Gemini for business 和 Google Antigravity 部署；所有用户可在 Google Search 和 Gemini 应用模型下拉菜单中访问。详情见 https://goo.gle/4zDCs8N。
 
@@ -101,7 +157,7 @@ Google DeepMind 宣布开始向各渠道推送：开发者可在 Google AI Studi
 原文：https://x.com/GoogleDeepMind/status/2120940342505566438
 收录页：https://aihot.news/items/v26fsdyhbktgyuedmrx25p58y
 
-### A11｜Google DeepMind 发布 Gemini 4 Hydrogen
+### A17｜Google DeepMind 发布 Gemini 4 Hydrogen
 
 Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。
 
@@ -110,7 +166,7 @@ Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智�
 原文：https://deepmind.google/blog/introducing-gemini-4-hydrogen/
 收录页：https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa
 
-### A12｜Edge0 开源 145B 端侧模型，可在笔记本本地运行
+### A18｜Edge0 开源 145B 端侧模型，可在笔记本本地运行
 
 Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。
 
@@ -119,7 +175,7 @@ Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部�
 原文：https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
 收录页：https://aihot.news/items/icmwp7qazk244f7fn6zlw8882
 
-### A13｜The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云
+### A19｜The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云
 
 The Verge 作者 Elizabeth Lopatto 分析 Nvidia 宣布黄仁勋辞职一事，认为第二桩婚外情只是导火索，真正原因或与芯片走私指控有关。
 
@@ -128,7 +184,7 @@ The Verge 作者 Elizabeth Lopatto 分析 Nvidia 宣布黄仁勋辞职一事，�
 原文：https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling
 收录页：https://aihot.news/items/licdk6vosezxouovor3gvtcpe
 
-### A14｜Replit Agent 新增代购能力和 Google Ads 投放功能
+### A20｜Replit Agent 新增代购能力和 Google Ads 投放功能
 
 Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。
 
@@ -137,372 +193,156 @@ Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企�
 原文：https://replit.com/blog/replit-agent-ads-commerce
 收录页：https://aihot.news/items/k7sfjumcmtq0zswb5yj5kmju1
 
-### A15｜黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析
-
-Azeem Azhar 分析黄仁勋辞任 Nvidia CEO 后的影响，CFO Colette Kress 将临时接任。他指出 Nvidia 五年间售出近 1400 万颗旗舰 AI 芯片、占市场 85%，并向 neocloud 提供财务担保、过去一年在欧洲投资近 100 亿美元；与乔布斯离任时不同，公司没有准备好的继任者，而黄仁勋本人一直是 AI 生态的关键纽带。
-
-来源：Azeem Azhar：Exponential View（RSS）；发布时间：2026-11-12T16:19:28Z
-
-原文：https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the
-收录页：https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv
-
-### A16｜Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距
-
-Epoch AI 通过卫星影像和冷却设备模型估算，华为和林格尔数据中心已投运约 105,000 颗 Ascend 910C 和 8,000 颗 Ascend 910B 芯片，对应约 81,000 H100 等效算力，为全球最大 AI 数据中心 SpaceX Colossus 2 的约 7%。
-
-来源：Epoch AI：Gradient Updates（RSS）；发布时间：2026-11-12T16:03:15Z
-
-原文：https://epochai.substack.com/p/what-huaweis-horinger-data-center
-收录页：https://aihot.news/items/adkgofriq3tvp6qrawfc63yw4
-
-### A17｜Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程
-
-Figma 宣布 3D transforms 进入 open beta，面向所有 Full seat 用户开放，可用 3D transform 和 perspective 效果在空间中倾斜、旋转和排布文本、图像、矢量与框架，效果非破坏性，原稿保持可编辑。
-
-来源：Figma AI / Agent / Make；发布时间：2026-11-12T14:00:00Z
-
-原文：https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/
-收录页：https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79
-
-### A18｜NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO
-
-NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。
-
-来源：NVIDIA：Newsroom（RSS）；发布时间：2026-11-12T13:48:00Z
-
-原文：https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
-收录页：https://aihot.news/items/qsbjbz754aodhcijq56puh6va
-
-### A19｜Anthropic 官宣首次公开募股（IPO）
-
-Anthropic 官方宣布启动首次公开募股（IPO），并公布入口 ipo.anthropic.com。Anthropic 已向 SEC 提交注册声明及招股说明书，证券在注册声明生效前不得出售，初步招股说明书可经高盛与摩根士丹利获取。
-
-来源：X：Anthropic (@AnthropicAI)；发布时间：2026-11-12T11:30:46Z
-
-原文：https://x.com/AnthropicAI/status/2120841731302154708
-收录页：https://aihot.news/items/k99zjo9hbtous9r6vmmz7pxyh
-
-### A20｜OpenAI 用自动化红队训练提升 GPT-6 Astra 和 Sol 在高风险领域的模糊鲁棒性
-
-OpenAI 研究团队介绍如何用自动化红队提升模型在网络、生物等高风险双用途领域的模糊鲁棒性，通过扩大攻击者模型的测试时算力迭代搜索越狱，并要求攻击在多次重复测试中成功（worst@n），生成可靠的对抗训练数据用于 RL 训练。
-
-来源：OpenAI：Alignment 研究博客（RSS）；发布时间：2026-11-12T08:00:00Z
-
-原文：https://alignment.openai.com/fuzzy-robustness/
-收录页：https://aihot.news/items/yg97h3u5vthadivuv5po5f0aw
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜【早报】黄仁勋辞职；英伟达市值，一夜蒸发1.2万亿元；多家美股科技硬件巨头，业绩超预期；国际油价，大幅拉升
+### N1｜英伟达员工内网投票请命，超97%希望黄仁勋回归
 
-平台：财联社热门；榜单排名：1；实际出现快照数：1。
+平台：凤凰网；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2533284
+链接：https://original.ifeng.com/c/8y0vtza37Pg
 
-### N2｜英伟达宣布CEO黄仁勋辞职
+### N2｜LCK选手AI性转视频走红韩网
 
-平台：凤凰网；榜单排名：1；实际出现快照数：2。
-
-链接：https://news.ifeng.com/c/8y04rOsPfwl
-
-### N3｜今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO
-
-平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785773
-
-### N4｜黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售
-
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3785806
-
-### N5｜男子花四千多元做AI短剧火了
-
-平台：微博；榜单排名：2；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%9B%9B%E5%8D%83%E5%A4%9A%E5%85%83%E5%81%9AAI%E7%9F%AD%E5%89%A7%E7%81%AB%E4%BA%86
-
-### N6｜英伟达CEO黄仁勋辞职 全球AI板块承压 纳指期货跌超1% | 今夜看点
-
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2533122
-
-### N7｜长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵
-
-平台：财联社热门；榜单排名：3；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2532837
-
-### N8｜LCK选手AI性转视频走红韩网
-
-平台：贴吧；榜单排名：3；实际出现快照数：1。
+平台：贴吧；榜单排名：1；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
 
-### N9｜美国AI发展要踩刹车了吗
+### N3｜黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售
 
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E5%8F%91%E5%B1%95%E8%A6%81%E8%B8%A9%E5%88%B9%E8%BD%A6%E4%BA%86%E5%90%97
+链接：https://wallstreetcn.com/articles/3785806
 
-### N10｜黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克
+### N4｜英伟达供应链变数丛生 亚洲半导体厂商担忧长期合作稳定性
 
-平台：财联社热门；榜单排名：4；实际出现快照数：2。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2533159
+链接：https://www.cls.cn/detail/2533903
 
-### N11｜英伟达关于黄仁勋辞职及领导团队调整的声明全文
+### N5｜警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓
 
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：3；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785832
+链接：https://www.thepaper.cn/newsDetail_forward_34466609
 
-### N12｜黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？
+### N6｜前字节美团招聘负责人称「给大模型人才开 1 亿年薪不贵」如何看待此观点？给大模型人才开上亿年薪，算天价吗？
 
-平台：知乎；榜单排名：4；实际出现快照数：1。
+平台：知乎；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2104342766322808640
+链接：https://www.zhihu.com/question/2104296182344426925
 
-### N13｜AI需求持续爆发！美国半导体设备龙头：营收、盈利、业绩指引全面超预期
+### N7｜医生用AI发现41名无症状肠癌患者
+
+平台：今日头条；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7707495873978040858/
+
+### N8｜“把老板请回来”！英伟达员工联名呼吁黄仁勋回归：他值得再给一次机会
+
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785868
+
+### N9｜失去黄仁勋的远见、影响力和号召力之后，华尔街料算力生态下一轮融资将更难、更贵……
 
 平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2533315
+链接：https://www.cls.cn/detail/2534023
 
-### N14｜张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”
+### N10｜一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2532641
+链接：https://wallstreetcn.com/articles/3785854
 
-### N15｜AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000
+### N11｜什么信号？高盛拿苹果历史对标英伟达：当前风险回报比具有吸引力！
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785732
+链接：https://www.cls.cn/detail/2533816
 
-### N16｜感觉影之刃里的各种字体都好帅啊，比如「决战、殒命」等，这是单独请人写的吗，还是说能靠 AI 跑一批出来？
+### N12｜英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”
 
-平台：知乎；榜单排名：6；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2101991601568536184
+链接：https://wallstreetcn.com/articles/3785870
 
-### N17｜英伟达宣布 CEO 黄仁勋辞职，CFO 科莱特·克雷斯出任临时 CEO，会对英伟达带来哪些影响？
+### N13｜【每日收评】创业板指震荡走低跌超3%，全市场逾4700股收绿，算力硬件股持续调整
 
-平台：知乎；榜单排名：6；实际出现快照数：1。
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2104331657389896505
+链接：https://www.cls.cn/detail/2533898
 
-### N18｜失去黄仁勋，英伟达会怎样？
+### N14｜“这是世代级错误”“不会再买英伟达股票”！黄仁勋走了，硅谷吵翻了，Twitter前CEO预测他3年后王者归来
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785823
+链接：https://wallstreetcn.com/articles/3785879
 
-### N19｜英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785762
-
-### N20｜普通人用AI和会用AI的人
-
-平台：微博；榜单排名：8；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23
-
-### N21｜【每日收评】创业板指冲高回落跌超2%，全市场超4600股飘绿，算力芯片概念逆势走强
-
-平台：财联社热门；榜单排名：9；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2532758
-
-### N22｜花旗、富国银行等多家投行密集下调英伟达目标价
-
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2532989
-
-### N23｜克雷斯就任英伟达临时首席执行官
-
-平台：澎湃新闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34463141
-
-### N24｜伯恩斯坦：为什么现在绝对不能抄底英伟达？
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785817
-
-### N25｜上海00后女生靠AI卖穿戴甲月入10万
-
-平台：微博；榜单排名：9；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B700%E5%90%8E%E5%A5%B3%E7%94%9F%E9%9D%A0AI%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%E6%9C%88%E5%85%A510%E4%B8%87%23
-
-### N26｜红楼梦AI短剧侵害17位演员肖像权
-
-平台：百度热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83
-
-### N27｜机器人双十一"考场"：大卖之后，交付和产线才是真考题
+### N15｜国会山再现“新股神”？民主党议员夫妇在英伟达股票高位减持
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2533342
+链接：https://www.cls.cn/detail/2533896
 
-### N28｜财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账
-
-平台：澎湃新闻；榜单排名：10；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34395707
-
-### N29｜赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖
-
-平台：澎湃新闻；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34458622
-
-### N30｜创业板冲高回落跌超2%，算力硬件龙头午后下跌，GPU活跃、寒武纪一度重返千元，恒科指跌超2%，阿里大跌逾6%
+### N16｜黄仁勋丑闻发酵前，量化之王精准清仓英伟达！
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785781
+链接：https://wallstreetcn.com/articles/3785873
 
-### N31｜马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？
+### N17｜港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链
 
-平台：澎湃新闻；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34459124
+链接：https://www.cls.cn/detail/2533894
 
-### N32｜英伟达临时CEO首次发声
-
-平台：微博；榜单排名：11；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%B4%E6%97%B6CEO%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0%23
-
-### N33｜如何评价 Google 11 月 13 日发布的模型 Gemini 4 Hydrogen？
-
-平台：知乎；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2104402653010834622
-
-### N34｜蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？
-
-平台：知乎；榜单排名：11；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2104153189284931494
-
-### N35｜英伟达盘中市值跌破4万亿美元
-
-平台：百度热搜；榜单排名：12；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E4%B8%AD%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B44%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83
-
-### N36｜“AI央行”大地震，冲击会沿融资链传多远？
-
-平台：财联社热门；榜单排名：12；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2533216
-
-### N37｜Anthropic CEO惊人预言：AI或在十年内攻克癌症、心脏病和精神疾病！
+### N18｜高盛2027年经济展望：AI投资仍是主引擎 通胀与利率构成下行风险
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2532591
+链接：https://www.cls.cn/detail/2533770
 
-### N38｜SpaceX拟投资740亿美元建两大算力园区 着重强调“对所在社区有益”
+### N19｜李彦宏称公司不会仅用 AI 就更有竞争力，这一说法有何依据？
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2533232
+链接：https://www.zhihu.com/question/2104247609519093199
 
-### N39｜首个AI漫剧晚会阵容官宣
+### N20｜英伟达高开低走 迅速转跌
 
-平台：抖音；榜单排名：13；实际出现快照数：3。
+平台：百度热搜；榜单排名：15；实际出现快照数：1。
 
-链接：https://www.douyin.com/hot/2742996
+链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0+%E8%BF%85%E9%80%9F%E8%BD%AC%E8%B7%8C
 
-### N40｜黄仁勋1993年创办英伟达
-
-平台：微博；榜单排名：13；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B1993%E5%B9%B4%E5%88%9B%E5%8A%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE%23
-
-### N41｜GPT-6.2 开启首测，有网友称其性能可压倒 Opus5.5，二者实际体验差距有多大？
-
-平台：知乎；榜单排名：14；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2103125335730669300
-
-### N42｜英伟达感谢黄仁勋不可估量的贡献
-
-平台：微博；榜单排名：15；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%84%9F%E8%B0%A2%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8D%E5%8F%AF%E4%BC%B0%E9%87%8F%E7%9A%84%E8%B4%A1%E7%8C%AE%23
-
-### N43｜黄仁勋辞职，英伟达大跌 13%，市值蒸发超 5000 亿美元，还会持续下跌吗？对市场影响有多大？
+### N21｜导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗？
 
 平台：知乎；榜单排名：15；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2104340228462700463
+链接：https://www.zhihu.com/question/2102865309602242713
 
-### N44｜用AI制作灭霸全家福MV
+### N22｜马上评｜我不想成为AI的“原料”，怎么办？
 
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV
+链接：https://www.thepaper.cn/newsDetail_forward_34466530
 
-### N45｜如何评价黄仁勋任职英伟达 CEO 期间的全部贡献？
+### N23｜男子花4千多元做AI短剧火了
 
-平台：知乎；榜单排名：17；实际出现快照数：2。
+平台：今日头条；榜单排名：19；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2104242987278546098
+链接：https://www.toutiao.com/trending/7707122868290748458/
 
-### N46｜英伟达执行副总裁出任临时CEO
+### N24｜Anthropic终将奔向10万亿
 
-平台：微博；榜单排名：19；实际出现快照数：2。
+平台：百度热搜；榜单排名：23；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%A7%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E5%87%BA%E4%BB%BB%E4%B8%B4%E6%97%B6CEO%23
+链接：https://www.baidu.com/s?wd=Anthropic%E7%BB%88%E5%B0%86%E5%A5%94%E5%90%9110%E4%B8%87%E4%BA%BF
 
-### N47｜怎么看 Anthropic IPO 提到 Claude 适配全芯片训练和推理，接入 AMD 只用 3 天？
+### N25｜英伟达董事会4天态度反转
 
-平台：知乎；榜单排名：19；实际出现快照数：1。
+平台：微博；榜单排名：29；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2103879116948771823
+链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A4%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%8D%E8%BD%AC%23
 
-### N48｜徐峥：糟糕的表演比AI还糟糕，想不被AI取代，表演就需要灵魂
-
-平台：澎湃新闻；榜单排名：20；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34458575
-
-### N49｜英伟达回应黄仁勋辞职
-
-平台：微博；榜单排名：20；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23
-
-### N50｜英伟达大跌13%
-
-平台：微博；榜单排名：20；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E8%B7%8C13%25%23
-
-### N51｜谷歌发布Gemini 4 Hydrogen
-
-平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini+4+Hydroge
-
-### N52｜AI动画重演BLG战胜T1
-
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1
-
-核对：AI HOT 20 条；TrendRadar 52 条。
+核对：AI HOT 20 条；TrendRadar 25 条。
