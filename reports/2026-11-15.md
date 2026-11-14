@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-15
 
-数据生成时间：2026-11-15T07:19:39+08:00（北京时间）
+数据生成时间：2026-11-15T07:47:35+08:00（北京时间）
 
-AI HOT：7 条；TrendRadar：18 条 AI 相关热点。
+AI HOT：6 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -65,15 +65,6 @@ The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，
 原文：https://x.com/rohanpaul_ai/status/2121391185499660332
 收录页：https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4
 
-### A7｜Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意
-
-Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic IPO 路演期间的市场动荡不以为意，称对上市时机和市场状况不太在意。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-13T23:39:27Z
-
-原文：https://x.com/rohanpaul_ai/status/2121387496722329833
-收录页：https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜黄仁勋时代落幕，英伟达面临三重考验
@@ -94,23 +85,23 @@ Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic 
 
 链接：https://wallstreetcn.com/articles/3785935
 
-### N4｜《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴？
-
-平台：知乎；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2104167693242691717
-
-### N5｜美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸
+### N4｜美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸
 
 平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2534350
 
-### N6｜纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万
+### N5｜纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785885
+
+### N6｜《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴？
+
+平台：知乎；榜单排名：4；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2104167693242691717
 
 ### N7｜黄仁勋时代落幕 英伟达面临三重考验
 
@@ -118,17 +109,17 @@ Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic 
 
 链接：https://www.cls.cn/detail/2534468
 
-### N8｜老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”
+### N8｜“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3785936
+链接：https://wallstreetcn.com/articles/3785942
 
-### N9｜“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！
+### N9｜老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3785942
+链接：https://wallstreetcn.com/articles/3785936
 
 ### N10｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
 
@@ -136,29 +127,29 @@ Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic 
 
 链接：https://www.cls.cn/detail/2534550
 
-### N11｜LCK选手AI性转视频走红韩网
+### N11｜英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周
 
-平台：贴吧；榜单排名：8；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
-
-### N12｜英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周
-
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785944
 
-### N13｜美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险
+### N12｜LCK选手AI性转视频走红韩网
+
+平台：贴吧；榜单排名：9；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
+
+### N13｜Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785931
+
+### N14｜美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险
 
 平台：财联社热门；榜单排名：10；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2534437
-
-### N14｜Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785931
 
 ### N15｜马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？
 
@@ -168,7 +159,7 @@ Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic 
 
 ### N16｜DeepSeek harness 相比 codex 有什么劣势？
 
-平台：知乎；榜单排名：17；实际出现快照数：3。
+平台：知乎；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2072669811511922890
 
@@ -184,4 +175,4 @@ Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic 
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99
 
-核对：AI HOT 7 条；TrendRadar 18 条。
+核对：AI HOT 6 条；TrendRadar 18 条。
