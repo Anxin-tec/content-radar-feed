@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-15
 
-数据生成时间：2026-11-15T06:31:36+08:00（北京时间）
+数据生成时间：2026-11-15T06:43:45+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -74,15 +74,6 @@ Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic 
 原文：https://x.com/rohanpaul_ai/status/2121387496722329833
 收录页：https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n
 
-### A8｜Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧
-
-Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress 更保守，短期难延续他每年数十亿美元、今年已参与 105 轮的投资节奏。
-
-来源：TechCrunch：AI（RSS）；发布时间：2026-11-13T22:43:00Z
-
-原文：https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
-收录页：https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜黄仁勋时代落幕，英伟达面临三重考验
@@ -133,17 +124,17 @@ Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress
 
 链接：https://wallstreetcn.com/articles/3785936
 
-### N9｜LCK选手AI性转视频走红韩网
+### N9｜“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3785942
+
+### N10｜LCK选手AI性转视频走红韩网
 
 平台：贴吧；榜单排名：8；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
-
-### N10｜“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3785942
 
 ### N11｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
 
@@ -181,4 +172,4 @@ Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99
 
-核对：AI HOT 8 条；TrendRadar 16 条。
+核对：AI HOT 7 条；TrendRadar 16 条。
