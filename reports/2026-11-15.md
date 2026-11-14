@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-15
 
-数据生成时间：2026-11-15T04:55:32+08:00（北京时间）
+数据生成时间：2026-11-15T05:40:48+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：15 条 AI 相关热点。
+AI HOT：7 条；TrendRadar：16 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -75,15 +75,6 @@ Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress
 
 原文：https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
 收录页：https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj
-
-### A8｜NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造
-
-Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-13T21:27:00Z
-
-原文：https://x.com/rohanpaul_ai/status/2121354165352096179
-收录页：https://aihot.news/items/kei20gkia8a0vhknc859jsfqr
 
 ## TrendRadar 完整 AI 热点
 
@@ -161,7 +152,7 @@ Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的�
 
 ### N13｜马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？
 
-平台：知乎；榜单排名：16；实际出现快照数：2。
+平台：知乎；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2104265147606889514
 
@@ -171,10 +162,16 @@ Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的�
 
 链接：https://www.zhihu.com/question/2072669811511922890
 
-### N15｜Anthropic能撑起高估值吗
+### N15｜DeepSeek翻唱说谎的马卡龙
 
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99
+
+### N16｜Anthropic能撑起高估值吗
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=Anthropic%E8%83%BD%E6%92%91%E8%B5%B7%E9%AB%98%E4%BC%B0%E5%80%BC%E5%90%97
 
-核对：AI HOT 8 条；TrendRadar 15 条。
+核对：AI HOT 7 条；TrendRadar 16 条。
