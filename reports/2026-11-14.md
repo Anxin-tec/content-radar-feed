@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-14
 
-数据生成时间：2026-11-14T08:50:08+08:00（北京时间）
+数据生成时间：2026-11-14T09:25:34+08:00（北京时间）
 
-AI HOT：17 条；TrendRadar：35 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：36 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -137,7 +137,16 @@ Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000
 原文：https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
 收录页：https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66
 
-### A15｜AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO
+### A15｜Cursor 披露安全事件调查结果，恶意 Claude Code 扩展波及最多 5000 用户
+
+Cursor 发布安全事件完整调查：攻击者利用 Fireworks 暴露的访问密钥读取用于模型训练的 coding agent trace，少于 0.01% 客户的 API 凭证暴露。
+
+来源：Cursor Blog；发布时间：2026-11-13T12:00:00Z
+
+原文：https://cursor.com/blog/security-incident-update
+收录页：https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k
+
+### A16｜AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO
 
 Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。
 
@@ -146,7 +155,7 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 原文：https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/
 收录页：https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo
 
-### A16｜腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力
+### A17｜腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力
 
 腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。
 
@@ -155,7 +164,7 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 原文：https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg
 收录页：https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k
 
-### A17｜Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归
+### A18｜Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归
 
 据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。
 
@@ -178,29 +187,29 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
 
-### N3｜英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”
+### N3｜DeepSeek开放全家桶应用API
+
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%94%BE%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8API
+
+### N4｜英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785870
 
-### N4｜失去黄仁勋的远见、影响力和号召力之后，华尔街料算力生态下一轮融资将更难、更贵……
+### N5｜前字节美团招聘负责人称「给大模型人才开 1 亿年薪不贵」如何看待此观点？给大模型人才开上亿年薪，算天价吗？
 
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
+平台：知乎；榜单排名：2；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2534023
+链接：https://www.zhihu.com/question/2104296182344426925
 
-### N5｜高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗
+### N6｜美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸
 
-平台：澎湃新闻；榜单排名：3；实际出现快照数：2。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34468836
-
-### N6｜数百英伟达员工联名让黄仁勋复职
-
-平台：贴吧；榜单排名：3；实际出现快照数：1。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%95%B0%E7%99%BE%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%98%E5%B7%A5%E8%81%94%E5%90%8D%E8%AE%A9%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C&topic_id=28369819
+链接：https://www.cls.cn/detail/2534350
 
 ### N7｜“把老板请回来”！英伟达员工联名呼吁黄仁勋回归：他值得再给一次机会
 
@@ -208,29 +217,29 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 
 链接：https://wallstreetcn.com/articles/3785868
 
-### N8｜英伟达供应链变数丛生 亚洲半导体厂商担忧长期合作稳定性
+### N8｜马斯克称将签名支持黄仁勋复职，97%英伟达员工要求黄仁勋回归
 
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
+平台：凤凰网；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2533903
+链接：https://news.ifeng.com/c/8y2Tzbl9Pfm
 
-### N9｜一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果
+### N9｜高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗
+
+平台：澎湃新闻；榜单排名：4；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34468836
+
+### N10｜一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785854
 
-### N10｜美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸
+### N11｜失去黄仁勋的远见、影响力和号召力之后，华尔街料算力生态下一轮融资将更难、更贵……
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2534350
-
-### N11｜英伟达创2012年以来最长连跌纪录
-
-平台：今日头条；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7707796859305070122/
+链接：https://www.cls.cn/detail/2534023
 
 ### N12｜纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万
 
@@ -244,11 +253,11 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 
 链接：https://www.cls.cn/detail/2533816
 
-### N14｜警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓
+### N14｜英伟达供应链变数丛生 亚洲半导体厂商担忧长期合作稳定性
 
-平台：澎湃新闻；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34466609
+链接：https://www.cls.cn/detail/2533903
 
 ### N15｜黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售
 
@@ -256,107 +265,107 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 
 链接：https://wallstreetcn.com/articles/3785806
 
-### N16｜“这是世代级错误”“不会再买英伟达股票”！黄仁勋走了，硅谷吵翻了，Twitter前CEO预测他3年后王者归来
+### N16｜英伟达市值一周蒸发超3.8万亿元
+
+平台：百度热搜；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%91%E8%B6%853.8%E4%B8%87%E4%BA%BF%E5%85%83
+
+### N17｜警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓
+
+平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34466609
+
+### N18｜英伟达创2012年以来最长连跌纪录
+
+平台：今日头条；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7707796859305070122/
+
+### N19｜“这是世代级错误”“不会再买英伟达股票”！黄仁勋走了，硅谷吵翻了，Twitter前CEO预测他3年后王者归来
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3785879
 
-### N17｜英伟达市值一周蒸发超3.8万亿元
-
-平台：百度热搜；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%91%E8%B6%853.8%E4%B8%87%E4%BA%BF%E5%85%83
-
-### N18｜黄仁勋丑闻发酵前，量化之王精准清仓英伟达！
+### N20｜黄仁勋丑闻发酵前，量化之王精准清仓英伟达！
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3785873
 
-### N19｜英伟达高开低走 迅速转跌
+### N21｜英伟达高开低走 迅速转跌
 
 平台：百度热搜；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0+%E8%BF%85%E9%80%9F%E8%BD%AC%E8%B7%8C
 
-### N20｜男子花4千多元做AI短剧火了
+### N22｜男子花4千多元做AI短剧火了
 
 平台：今日头条；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7707122868290748458/
 
-### N21｜国会山再现“新股神”？民主党议员夫妇在英伟达股票高位减持
-
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2533896
-
-### N22｜李彦宏称公司不会仅用 AI 就更有竞争力，这一说法有何依据？
+### N23｜李彦宏称公司不会仅用 AI 就更有竞争力，这一说法有何依据？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2104247609519093199
 
-### N23｜【每日收评】创业板指震荡走低跌超3%，全市场逾4700股收绿，算力硬件股持续调整
+### N24｜国会山再现“新股神”？民主党议员夫妇在英伟达股票高位减持
 
 平台：财联社热门；榜单排名：11；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2533898
+链接：https://www.cls.cn/detail/2533896
 
-### N24｜港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链
+### N25｜港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链
 
 平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2533894
 
-### N25｜导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗？
+### N26｜【每日收评】创业板指震荡走低跌超3%，全市场逾4700股收绿，算力硬件股持续调整
+
+平台：财联社热门；榜单排名：12；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2533898
+
+### N27｜导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗？
 
 平台：知乎；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2102865309602242713
 
-### N26｜高盛2027年经济展望：AI投资仍是主引擎 通胀与利率构成下行风险
+### N28｜高盛2027年经济展望：AI投资仍是主引擎 通胀与利率构成下行风险
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2533770
 
-### N27｜AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？
-
-平台：知乎；榜单排名：14；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2104307708622889582
-
-### N28｜纳指收跌0.91% 英伟达跌超2%
+### N29｜纳指收跌0.91% 英伟达跌超2%
 
 平台：百度热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E6%94%B6%E8%B7%8C0.91%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%852%25
 
-### N29｜AI短片我的猫猫比我富更新
+### N30｜AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？
 
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
+平台：知乎；榜单排名：16；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%8C%AB%E7%8C%AB%E6%AF%94%E6%88%91%E5%AF%8C
+链接：https://www.zhihu.com/question/2104307708622889582
 
-### N30｜马上评｜我不想成为AI的“原料”，怎么办？
-
-平台：澎湃新闻；榜单排名：18；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34466530
-
-### N31｜前字节美团招聘负责人称「给大模型人才开 1 亿年薪不贵」如何看待此观点？给大模型人才开上亿年薪，算天价吗？
-
-平台：知乎；榜单排名：18；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2104296182344426925
-
-### N32｜英伟达股价累涨47万倍
+### N31｜英伟达女员工哭了
 
 平台：微博；榜单排名：19；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E7%B4%AF%E6%B6%A847%E4%B8%87%E5%80%8D%23
+链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A5%B3%E5%91%98%E5%B7%A5%E5%93%AD%E4%BA%86%23
+
+### N32｜马上评｜我不想成为AI的“原料”，怎么办？
+
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34466530
 
 ### N33｜医生用AI发现41名无症状肠癌患者
 
@@ -366,14 +375,20 @@ Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年
 
 ### N34｜Anthropic终将奔向10万亿
 
-平台：百度热搜；榜单排名：23；实际出现快照数：2。
+平台：百度热搜；榜单排名：23；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E7%BB%88%E5%B0%86%E5%A5%94%E5%90%9110%E4%B8%87%E4%BA%BF
 
-### N35｜英伟达董事会4天态度反转
+### N35｜AI短片我的猫猫比我富更新
+
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%8C%AB%E7%8C%AB%E6%AF%94%E6%88%91%E5%AF%8C
+
+### N36｜英伟达董事会4天态度反转
 
 平台：微博；榜单排名：29；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A4%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%8D%E8%BD%AC%23
 
-核对：AI HOT 17 条；TrendRadar 35 条。
+核对：AI HOT 18 条；TrendRadar 36 条。
