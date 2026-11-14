@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-15
 
-数据生成时间：2026-11-15T04:31:26+08:00（北京时间）
+数据生成时间：2026-11-15T04:55:32+08:00（北京时间）
 
-AI HOT：8 条；TrendRadar：16 条 AI 相关热点。
+AI HOT：8 条；TrendRadar：15 条 AI 相关热点。
 实际采集快照：2 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -155,7 +155,7 @@ Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的�
 
 ### N12｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
 
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2534550
 
@@ -171,16 +171,10 @@ Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的�
 
 链接：https://www.zhihu.com/question/2072669811511922890
 
-### N15｜DeepSeek翻唱说谎的马卡龙
+### N15｜Anthropic能撑起高估值吗
 
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99
-
-### N16｜Anthropic能撑起高估值吗
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=Anthropic%E8%83%BD%E6%92%91%E8%B5%B7%E9%AB%98%E4%BC%B0%E5%80%BC%E5%90%97
 
-核对：AI HOT 8 条；TrendRadar 16 条。
+核对：AI HOT 8 条；TrendRadar 15 条。
