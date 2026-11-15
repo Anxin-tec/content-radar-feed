@@ -1,11 +1,13 @@
-# AI 日报｜2026-11-15
+# AI 日报｜2026-11-16
 
-数据生成时间：2026-11-15T10:34:22+08:00（北京时间）
+数据生成时间：2026-11-16T00:31:31+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：19 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：2 条；TrendRadar：9 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
@@ -29,147 +31,60 @@ Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走�
 原文：https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/
 收录页：https://aihot.news/items/vl3jnosrbdn6i5j2we400046i
 
-### A3｜黄仁勋离开 Nvidia 后，亚洲各国政府如何回应
-
-黄仁勋离开 Nvidia 后，亚洲多国政府相继回应：韩国科技部称 Nvidia 重申将向韩国供应 260,000 块先进 GPU 并继续联合 AI 项目，台湾经济部长龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本产业省表示将密切关注 Nvidia。
-
-来源：TechCrunch：AI（RSS）；发布时间：2026-11-14T16:34:15Z
-
-原文：https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/
-收录页：https://aihot.news/items/ni18shok3lh70l1e49nazmgdc
-
-### A4｜Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空
-
-Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。
-
-来源：Nathan Lambert：Interconnects（RSS）；发布时间：2026-11-14T12:23:15Z
-
-原文：https://www.interconnects.ai/p/open-source-ai-without-jensen
-收录页：https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n
-
-### A5｜黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕
-
-The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。
-
-来源：The Verge：AI（RSS）；发布时间：2026-11-14T12:00:00Z
-
-原文：https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
-收录页：https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜黄仁勋时代落幕，英伟达面临三重考验
+### N1｜谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？
+
+平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785952
+
+### N2｜英伟达两大股东发公开信：要求考虑让黄仁勋回归
 
 平台：凤凰网；榜单排名：2；实际出现快照数：1。
 
-链接：https://news.ifeng.com/c/8y2zZ2Md1AB
+链接：https://original.ifeng.com/c/8y4E10tC0vX
 
-### N2｜OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型
+### N3｜下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785914
+链接：https://wallstreetcn.com/articles/3785932
 
-### N3｜高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”
+### N4｜中专生拍出爆火AI短片 海外播放百万级、单集成本千元
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785935
+链接：https://www.cls.cn/detail/2534653
 
-### N4｜“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！
+### N5｜黄仁勋时代落幕 英伟达面临三重考验
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3785942
-
-### N5｜《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴？
-
-平台：知乎；榜单排名：3；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2104167693242691717
-
-### N6｜纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3785885
-
-### N7｜老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3785936
-
-### N8｜美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸
-
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2534350
-
-### N9｜英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785944
-
-### N10｜黄仁勋时代落幕 英伟达面临三重考验
-
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2534468
 
-### N11｜坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？
+### N6｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3785938
-
-### N12｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
-
-平台：财联社热门；榜单排名：10；实际出现快照数：2。
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2534550
 
-### N13｜华尔街与硅谷强推Anthropic上市：一场“大而不能败”的AI保卫战
+### N7｜麦穗与羊AI二创向原作者道歉
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+平台：贴吧；榜单排名：11；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3785948
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8AAI%E4%BA%8C%E5%88%9B%E5%90%91%E5%8E%9F%E4%BD%9C%E8%80%85%E9%81%93%E6%AD%89&topic_id=28369842
 
-### N14｜美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险
+### N8｜红果AI漫剧热播榜排名TOP10
 
-平台：财联社热门；榜单排名：11；实际出现快照数：3。
+平台：微博；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2534437
+链接：https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23
 
-### N15｜LCK选手AI性转视频走红韩网
+### N9｜LCK选手AI性转视频走红韩网
 
-平台：贴吧；榜单排名：14；实际出现快照数：3。
+平台：贴吧；榜单排名：25；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
 
-### N16｜马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？
-
-平台：知乎；榜单排名：14；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2104265147606889514
-
-### N17｜DeepSeek harness 相比 codex 有什么劣势？
-
-平台：知乎；榜单排名：17；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2072669811511922890
-
-### N18｜DeepSeek翻唱说谎的马卡龙
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99
-
-### N19｜Anthropic能撑起高估值吗
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=Anthropic%E8%83%BD%E6%92%91%E8%B5%B7%E9%AB%98%E4%BC%B0%E5%80%BC%E5%90%97
-
-核对：AI HOT 5 条；TrendRadar 19 条。
+核对：AI HOT 2 条；TrendRadar 9 条。
