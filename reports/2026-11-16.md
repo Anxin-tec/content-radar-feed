@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-16
 
-数据生成时间：2026-11-16T06:03:12+08:00（北京时间）
+数据生成时间：2026-11-16T06:31:27+08:00（北京时间）
 
-AI HOT：0 条；TrendRadar：11 条 AI 相关热点。
+AI HOT：0 条；TrendRadar：10 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -61,22 +61,16 @@ AI HOT：0 条；TrendRadar：11 条 AI 相关热点。
 
 链接：https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23
 
-### N9｜韩国税务师考试“状元”承认AI作弊
-
-平台：百度热搜；榜单排名：20；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A8%8E%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%95%E2%80%9C%E7%8A%B6%E5%85%83%E2%80%9D%E6%89%BF%E8%AE%A4AI%E4%BD%9C%E5%BC%8A
-
-### N10｜市场开始淘汰机器人了吗
-
-平台：今日头条；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7708403539675975187/
-
-### N11｜LCK选手AI性转视频走红韩网
+### N9｜LCK选手AI性转视频走红韩网
 
 平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
 
-核对：AI HOT 0 条；TrendRadar 11 条。
+### N10｜韩国税务师考试“状元”承认AI作弊
+
+平台：百度热搜；榜单排名：26；实际出现快照数：2。
+
+链接：https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A8%8E%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%95%E2%80%9C%E7%8A%B6%E5%85%83%E2%80%9D%E6%89%BF%E8%AE%A4AI%E4%BD%9C%E5%BC%8A
+
+核对：AI HOT 0 条；TrendRadar 10 条。
