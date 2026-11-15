@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-15
 
-数据生成时间：2026-11-15T10:06:36+08:00（北京时间）
+数据生成时间：2026-11-15T10:34:22+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：20 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：19 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -106,35 +106,35 @@ The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，
 
 链接：https://www.cls.cn/detail/2534350
 
-### N9｜黄仁勋时代落幕 英伟达面临三重考验
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2534468
-
-### N10｜英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周
+### N9｜英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785944
 
-### N11｜Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”
+### N10｜黄仁勋时代落幕 英伟达面临三重考验
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3785931
+链接：https://www.cls.cn/detail/2534468
 
-### N12｜坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？
+### N11｜坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3785938
 
-### N13｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
+### N12｜OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2534550
+
+### N13｜华尔街与硅谷强推Anthropic上市：一场“大而不能败”的AI保卫战
+
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3785948
 
 ### N14｜美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险
 
@@ -144,7 +144,7 @@ The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，
 
 ### N15｜LCK选手AI性转视频走红韩网
 
-平台：贴吧；榜单排名：13；实际出现快照数：3。
+平台：贴吧；榜单排名：14；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
 
@@ -154,28 +154,22 @@ The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，
 
 链接：https://www.zhihu.com/question/2104265147606889514
 
-### N17｜中国出口AI霸总生产线
-
-平台：今日头条；榜单排名：16；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7708203269067132459/
-
-### N18｜DeepSeek harness 相比 codex 有什么劣势？
+### N17｜DeepSeek harness 相比 codex 有什么劣势？
 
 平台：知乎；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2072669811511922890
 
-### N19｜DeepSeek翻唱说谎的马卡龙
+### N18｜DeepSeek翻唱说谎的马卡龙
 
 平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99
 
-### N20｜Anthropic能撑起高估值吗
+### N19｜Anthropic能撑起高估值吗
 
 平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=Anthropic%E8%83%BD%E6%92%91%E8%B5%B7%E9%AB%98%E4%BC%B0%E5%80%BC%E5%90%97
 
-核对：AI HOT 5 条；TrendRadar 20 条。
+核对：AI HOT 5 条；TrendRadar 19 条。
