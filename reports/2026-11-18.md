@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-18
 
-数据生成时间：2026-11-18T10:51:43+08:00（北京时间）
+数据生成时间：2026-11-18T11:50:56+08:00（北京时间）
 
-AI HOT：31 条；TrendRadar：45 条 AI 相关热点。
+AI HOT：31 条；TrendRadar：43 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -137,16 +137,7 @@ Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态�
 原文：https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/
 收录页：https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt
 
-### A15｜Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区
-
-Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash，主打低成本的前沿图像生成与编辑，并同步推出由 Flash 驱动的交互工作区 Canvas。
-
-来源：Microsoft AI：官方博客（RSS）；发布时间：2026-11-17T18:16:36Z
-
-原文：https://microsoft.ai/news/introducing-mai-image-2-7/
-收录页：https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j
-
-### A16｜Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起
+### A15｜Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起
 
 Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。
 
@@ -154,6 +145,15 @@ Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 
 
 原文：https://microsoft.ai/news/introducing-mai-realtime-1/
 收录页：https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb
+
+### A16｜Microsoft MAI 在 Ignite 2026 发布七款高性价比新模型
+
+Microsoft MAI 在 Ignite 2026 发布七款新模型，主打可扩展的性价比。
+
+来源：Microsoft AI：官方博客（RSS）；发布时间：2026-11-17T18:16:05Z
+
+原文：https://microsoft.ai/news/microsoft-ignite-2026/
+收录页：https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk
 
 ### A17｜Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型
 
@@ -334,77 +334,77 @@ OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在
 
 链接：https://wallstreetcn.com/articles/3785999
 
-### N8｜如何评价 OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol？
-
-平台：知乎；榜单排名：2；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2106209204986041745
-
-### N9｜特朗普支持黄仁勋回归，英伟达董事会称暂不考虑复职事项
+### N8｜特朗普支持黄仁勋回归，英伟达董事会称暂不考虑复职事项
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786042
 
-### N10｜英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”
+### N9｜英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786136
 
-### N11｜英伟达暴跌35%，空头狂赚240亿美元
+### N10｜英伟达暴跌35%，空头狂赚240亿美元
 
-平台：凤凰网；榜单排名：4；实际出现快照数：3。
+平台：凤凰网；榜单排名：4；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8y7qFoCdcas
 
-### N12｜黄仁勋喊话愿回英伟达
+### N11｜黄仁勋喊话愿回英伟达
 
 平台：贴吧；榜单排名：4；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%96%8A%E8%AF%9D%E6%84%BF%E5%9B%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE&topic_id=28369927
 
-### N13｜雷军、李彦宏、王兴兴、曾毓群等齐聚，再谈AI与机器人未来
+### N12｜雷军、李彦宏、王兴兴、曾毓群等齐聚，再谈AI与机器人未来
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2536992
 
-### N14｜英伟达：不会仓促任命新CEO
-
-平台：今日头条；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7709274047943131657/
-
-### N15｜AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电
+### N13｜AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786088
 
-### N16｜科技股反弹纳指期货涨0.37%  英伟达财报与Anthropic IPO接踵而至 | 今夜看点
+### N14｜OpenAI新模型遭差评海啸
+
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%81%AD%E5%B7%AE%E8%AF%84%E6%B5%B7%E5%95%B8
+
+### N15｜科技股反弹纳指期货涨0.37%  英伟达财报与Anthropic IPO接踵而至 | 今夜看点
 
 平台：财联社热门；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2537068
 
-### N17｜马上评｜AI检测不透明，别又成了知网的一门生意
+### N16｜马上评｜AI检测不透明，别又成了知网的一门生意
 
 平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34494042
 
-### N18｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3786122
-
-### N19｜【焦点复盘】沪指缩量跌0.5%失守3600点，影视、物理AI概念遭深幅回调，华为算力概念逆势走强
+### N17｜【焦点复盘】沪指缩量跌0.5%失守3600点，影视、物理AI概念遭深幅回调，华为算力概念逆势走强
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2536694
+
+### N18｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3786122
+
+### N19｜美联储主席警告美国 AI 热潮若落空将致美股大跌失业率攀升，该判断有哪些现实依据？
+
+平台：知乎；榜单排名：7；实际出现快照数：2。
+
+链接：https://www.zhihu.com/question/2105947087221412788
 
 ### N20｜中资私募Q3美股调仓全景：中概获普遍加仓 AI硬件现巨大分歧
 
@@ -412,154 +412,142 @@ OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在
 
 链接：https://www.cls.cn/detail/2536836
 
-### N21｜董明珠称格力已研发机器人十几年
+### N21｜宇树王兴兴：2026年无论是AI大模型还是机器人领域，水面以下的情况都非常激动人心
+
+平台：澎湃新闻；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34491510
+
+### N22｜董明珠称格力已研发机器人十几年
 
 平台：今日头条；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7709085700368908851/
 
-### N22｜索罗斯家族办公室领衔减持英伟达，黄仁勋离任前顶级富豪们已悄然套现
+### N23｜索罗斯家族办公室领衔减持英伟达，黄仁勋离任前顶级富豪们已悄然套现
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786054
 
-### N23｜41人没症状被AI查出早期肠癌
-
-平台：微博；榜单排名：8；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%2341%E4%BA%BA%E6%B2%A1%E7%97%87%E7%8A%B6%E8%A2%ABAI%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E8%82%A0%E7%99%8C%23
-
-### N24｜同台亮相 APEC，王传福谈新能源减排，雷军畅享 AI 未来，如何看待两位大佬的「殊途同归」？
-
-平台：知乎；榜单排名：8；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2106096949791408536
-
-### N25｜腾讯总办发文复盘司庆讲话，号召全员 AI 时代再创业，并推进组织扁平化，有哪些看点？这波改革能成吗？
+### N24｜腾讯总办发文复盘司庆讲话，号召全员 AI 时代再创业，并推进组织扁平化，有哪些看点？这波改革能成吗？
 
 平台：知乎；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2105757716606084891
 
-### N26｜AI开支大减致存储板块重挫
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%BC%80%E6%94%AF%E5%A4%A7%E5%87%8F%E8%87%B4%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%87%8D%E6%8C%AB
-
-### N27｜宇树王兴兴：2026年无论是AI大模型还是机器人领域，水面以下的情况都非常激动人心
-
-平台：澎湃新闻；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34491510
-
-### N28｜桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊
+### N25｜桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786053
 
-### N29｜现在的 AI 剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？
+### N26｜同台亮相 APEC，王传福谈新能源减排，雷军畅享 AI 未来，如何看待两位大佬的「殊途同归」？
+
+平台：知乎；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2106096949791408536
+
+### N27｜现在的 AI 剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2054598994492396545
 
-### N30｜方桃子被罚 AI代言不能啥都敢说
+### N28｜方桃子被罚 AI代言不能啥都敢说
 
 平台：百度热搜；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E6%96%B9%E6%A1%83%E5%AD%90%E8%A2%AB%E7%BD%9A+AI%E4%BB%A3%E8%A8%80%E4%B8%8D%E8%83%BD%E5%95%A5%E9%83%BD%E6%95%A2%E8%AF%B4
 
-### N31｜Anthropic IPO遭疯抢！硅谷投资大佬透露：超额认购10至20倍
+### N29｜英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2537322
+链接：https://www.cls.cn/detail/2537329
 
-### N32｜Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录
+### N30｜Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786120
 
-### N33｜英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作
+### N31｜Anthropic IPO遭疯抢！硅谷投资大佬透露：超额认购10至20倍
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2537329
+链接：https://www.cls.cn/detail/2537322
 
-### N34｜美联储主席警告美国 AI 热潮若落空将致美股大跌失业率攀升，该判断有哪些现实依据？
-
-平台：知乎；榜单排名：11；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2105947087221412788
-
-### N35｜马上测丨知网AI生成率检测数值暴涨？有学生为获通过不得不搞AI“魔法对轰”
+### N32｜马上测丨知网AI生成率检测数值暴涨？有学生为获通过不得不搞AI“魔法对轰”
 
 平台：澎湃新闻；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34492474
 
-### N36｜“AI股神”画地为牢！旗下基金态势感知在暴跌前再次买入AI股票
+### N33｜“AI股神”画地为牢！旗下基金态势感知在暴跌前再次买入AI股票
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2536578
 
-### N37｜打消50基点预期？美联储“三把手”：当前无需激进举措，加息节奏看AI！
+### N34｜打消50基点预期？美联储“三把手”：当前无需激进举措，加息节奏看AI！
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2537311
 
-### N38｜英伟达第三季度财报公布
-
-平台：抖音；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.douyin.com/hot/2751554
-
-### N39｜DeepSeek限额吧友心态崩了
+### N35｜DeepSeek限额吧友心态崩了
 
 平台：贴吧；榜单排名：13；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
 
-### N40｜英伟达财报大超预期 股价盘后上涨
+### N36｜英伟达第三季度财报公布
 
-平台：百度热搜；榜单排名：15；实际出现快照数：1。
+平台：抖音；榜单排名：17；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E5%A4%A7%E8%B6%85%E9%A2%84%E6%9C%9F+%E8%82%A1%E4%BB%B7%E7%9B%98%E5%90%8E%E4%B8%8A%E6%B6%A8
+链接：https://www.douyin.com/hot/2751554
 
-### N41｜DeepSeek用户呼吁取消7天限制
+### N37｜广东机器人在美国“上岗”
 
-平台：微博；榜单排名：17；实际出现快照数：1。
+平台：今日头条；榜单排名：17；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=DeepSeek%E7%94%A8%E6%88%B7%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%887%E5%A4%A9%E9%99%90%E5%88%B6
+链接：https://www.toutiao.com/trending/7709088766870700095/
 
-### N42｜Anthropic纳斯达克IPO获准
+### N38｜Anthropic纳斯达克IPO获准
 
 平台：百度热搜；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8BIPO%E8%8E%B7%E5%87%86
 
-### N43｜消息称Anthropic将上调发行价
+### N39｜消息称Anthropic将上调发行价
 
 平台：百度热搜；榜单排名：22；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B0Anthropic%E5%B0%86%E4%B8%8A%E8%B0%83%E5%8F%91%E8%A1%8C%E4%BB%B7
 
-### N44｜DeepSeek限制免费用量说明什么
+### N40｜如何看待雷军给AI的时间表
+
+平台：今日头条；榜单排名：26；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7709341079476129316/
+
+### N41｜DeepSeek限制免费用量说明什么
 
 平台：今日头条；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7709117569105399339/
 
-### N45｜雷军：未来三四年AI会有颠覆性时刻
+### N42｜41人没症状被AI查出早期肠癌
 
-平台：百度热搜；榜单排名：28；实际出现快照数：1。
+平台：微博；榜单排名：27；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%9B%9B%E5%B9%B4AI%E4%BC%9A%E6%9C%89%E9%A2%A0%E8%A6%86%E6%80%A7%E6%97%B6%E5%88%BB
+链接：https://s.weibo.com/weibo?q=%2341%E4%BA%BA%E6%B2%A1%E7%97%87%E7%8A%B6%E8%A2%ABAI%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E8%82%A0%E7%99%8C%23
 
-核对：AI HOT 31 条；TrendRadar 45 条。
+### N43｜企业家们在APEC回答了AI之问
+
+平台：今日头条；榜单排名：28；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7709291578536182298/
+
+核对：AI HOT 31 条；TrendRadar 43 条。
