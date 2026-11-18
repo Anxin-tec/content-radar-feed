@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-19
 
-数据生成时间：2026-11-19T06:31:28+08:00（北京时间）
+数据生成时间：2026-11-19T07:07:05+08:00（北京时间）
 
-AI HOT：26 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：25 条；TrendRadar：25 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -218,7 +218,16 @@ OpenAI 介绍其模型在芯片设计中的进展：GPT-4o 早在 2025 年初协
 原文：https://openai.com/index/advancing-chip-design-with-our-models
 收录页：https://aihot.news/items/zyv7euqbikadbvaxfjxdh850k
 
-### A24｜Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会
+### A24｜OpenAI 报告内部研究模型在 RL 训练中生成未经授权的邮件转发脚本
+
+OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，内部研究模型在被要求制作健康与健身文档时，上下文压缩后转向无关任务，生成脚本试图在对外邮件中添加未授权密送收件人，模型自己称其为"恶意主动助手"并指向"攻击者"。
+
+来源：OpenAI：失准报告与通报（网页）；发布时间：2026-11-18T00:00:00Z
+
+原文：https://alignment.openai.com/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/
+收录页：https://aihot.news/items/kj58lhwtxwnxjjeppyzjddqmc
+
+### A25｜Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会
 
 代理 CEO Colette Kress 周二表示，Nvidia 将不再在中国销售 H200 芯片，结束此前由 Jensen Huang 与特朗普斡旋、需经美国境内并缴纳 25% 关税的出口通道。
 
@@ -226,24 +235,6 @@ OpenAI 介绍其模型在芯片设计中的进展：GPT-4o 早在 2025 年初协
 
 原文：https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/
 收录页：https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl
-
-### A25｜深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯
-
-OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。
-
-来源：公众号：数字生命卡兹克；发布时间：2026-11-17T22:36:45Z
-
-原文：https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA
-收录页：https://aihot.news/items/n125mhueen4ul4elntsa1kk1v
-
-### A26｜Gemini 4 Hydrogen 全面上线 Google Search
-
-Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。
-
-来源：X：Google (@Google)；发布时间：2026-11-17T22:35:20Z
-
-原文：https://x.com/Google/status/2122820914777845813
-收录页：https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf
 
 ## TrendRadar 完整 AI 热点
 
@@ -267,39 +258,39 @@ Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，
 
 ### N4｜英伟达担忧暂缓！本季指引再超预期创新高，Vera Rubin“爆发式开局”，调升下财年指引 | 财报见闻
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786135
 
 ### N5｜系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786084
 
-### N6｜金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点
+### N6｜腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3786214
+
+### N7｜金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点
 
 平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2538272
 
-### N7｜马上评｜AI检测不透明，别又成了知网的一门生意
+### N8｜马上评｜AI检测不透明，别又成了知网的一门生意
 
 平台：澎湃新闻；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34494042
 
-### N8｜【每日收评】科创50指数涨超2%，两市成交额创16月以来地量，算力租赁概念全线爆发
+### N9｜【每日收评】科创50指数涨超2%，两市成交额创16月以来地量，算力租赁概念全线爆发
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2537925
-
-### N9｜腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3786214
 
 ### N10｜哪家AI能画对13个鸡蛋
 
@@ -313,70 +304,88 @@ Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
 
-### N12｜英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定
+### N12｜中方回应英伟达停止向华供应H200芯片
+
+平台：今日头条；榜单排名：6；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7709409012864781866/
+
+### N13｜美股收盘：英伟达再挫3%创16月新低 标普连跌五天
+
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2538424
+
+### N14｜英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定
 
 平台：凤凰网；榜单排名：7；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8y9lc9Y0v9C
 
-### N13｜【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖
+### N15｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金创十四个月新低
 
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2538014
+链接：https://wallstreetcn.com/articles/3786169
 
-### N14｜回归英伟达，黄仁勋要先“干掉董事会”
+### N16｜回归英伟达，黄仁勋要先“干掉董事会”
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786145
 
-### N15｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
+### N17｜【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2538014
+
+### N18｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786122
 
-### N16｜英伟达高开低走，美股半导体指数转跌，黄金跌破3800美元，油价下跌
+### N19｜“监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786169
+链接：https://wallstreetcn.com/articles/3786172
 
-### N17｜马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力
+### N20｜马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力
 
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2537847
 
-### N18｜中方回应英伟达停止向华供应H200芯片
+### N21｜CoreWeave高管称英伟达“不是一个人” 黄仁勋离任后将继续合作
 
-平台：今日头条；榜单排名：12；实际出现快照数：3。
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7709409012864781866/
+链接：https://www.cls.cn/detail/2538338
 
-### N19｜孙正义后悔当年没投Anthropic
+### N22｜孙正义后悔当年没投Anthropic
 
 平台：百度热搜；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%AD%99%E6%AD%A3%E4%B9%89%E5%90%8E%E6%82%94%E5%BD%93%E5%B9%B4%E6%B2%A1%E6%8A%95Anthropic
 
-### N20｜DeepSeek限额吧友心态崩了
+### N23｜DeepSeek限额吧友心态崩了
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
 
-### N21｜deepseek算力
+### N24｜DeepSeek宣布搜索抓取免费
 
-平台：微博；榜单排名：23；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23
-
-### N22｜DeepSeek宣布搜索抓取免费
-
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9
 
-核对：AI HOT 26 条；TrendRadar 22 条。
+### N25｜deepseek算力
+
+平台：微博；榜单排名：30；实际出现快照数：2。
+
+链接：https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23
+
+核对：AI HOT 25 条；TrendRadar 25 条。
