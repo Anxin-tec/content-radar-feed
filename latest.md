@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-19
 
-数据生成时间：2026-11-19T07:07:05+08:00（北京时间）
+数据生成时间：2026-11-19T07:33:36+08:00（北京时间）
 
-AI HOT：25 条；TrendRadar：25 条 AI 相关热点。
+AI HOT：25 条；TrendRadar：27 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,7 +11,16 @@ AI HOT：25 条；TrendRadar：25 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter
+### A1｜OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果
+
+OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。所引内容称与 AMD 合作在不到五个月内将旗舰 GPU IP 的 PPA 提升最高 14%，同样方法改进了 OpenAI 首款自研推理芯片 Jalapeño 且在真实硅片上验证，并与 Synopsys 合作把模型能力接入其 EDA 设计和验证工具，详情见 https://openai.com/index/advancing-chip-design-with-our-models/
+
+来源：X：Tibo (@thsottiaux)；发布时间：2026-11-18T22:03:01Z
+
+原文：https://x.com/thsottiaux/status/2123175166519992652
+收录页：https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j
+
+### A2｜Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter
 
 OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。Google 称其在 Artificial Analysis Coding Agent Index 排名第一，每任务成本比 Carbon 低 32%。
 
@@ -19,15 +28,6 @@ OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可�
 
 原文：https://x.com/OpenRouter/status/2123170058574905675
 收录页：https://aihot.news/items/k821p6smjnprmolffcr66q1mz
-
-### A2｜Anthropic IPO 定价 83 美元，高于发行区间
-
-Anthropic IPO 定价为每股 83 美元，高于此前发行区间。消息援引自 WSJ 报道。
-
-来源：X：Kate Clark (@KateClarkTweets)；发布时间：2026-11-18T21:41:58Z
-
-原文：https://x.com/KateClarkTweets/status/2123169870552436802
-收录页：https://aihot.news/items/kb0qscktovse2ejle2ubpcr2z
 
 ### A3｜Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放
 
@@ -262,23 +262,23 @@ OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，�
 
 链接：https://wallstreetcn.com/articles/3786135
 
-### N5｜系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨
+### N5｜美股收盘：英伟达再挫3%创16月新低 标普连跌五天
+
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2538424
+
+### N6｜系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786084
 
-### N6｜腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟
+### N7｜腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786214
-
-### N7｜金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点
-
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2538272
 
 ### N8｜马上评｜AI检测不透明，别又成了知网的一门生意
 
@@ -286,11 +286,11 @@ OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34494042
 
-### N9｜【每日收评】科创50指数涨超2%，两市成交额创16月以来地量，算力租赁概念全线爆发
+### N9｜金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点
 
 平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2537925
+链接：https://www.cls.cn/detail/2538272
 
 ### N10｜哪家AI能画对13个鸡蛋
 
@@ -310,82 +310,94 @@ OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，�
 
 链接：https://www.toutiao.com/trending/7709409012864781866/
 
-### N13｜美股收盘：英伟达再挫3%创16月新低 标普连跌五天
+### N13｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低
 
-平台：财联社热门；榜单排名：7；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2538424
+链接：https://wallstreetcn.com/articles/3786169
 
-### N14｜英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定
+### N14｜Anthropic IPO每股定价83美元
+
+平台：百度热搜；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=Anthropic+IPO%E6%AF%8F%E8%82%A1%E5%AE%9A%E4%BB%B783%E7%BE%8E%E5%85%83
+
+### N15｜【每日收评】科创50指数涨超2%，两市成交额创16月以来地量，算力租赁概念全线爆发
+
+平台：财联社热门；榜单排名：7；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2537925
+
+### N16｜英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定
 
 平台：凤凰网；榜单排名：7；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8y9lc9Y0v9C
 
-### N15｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金创十四个月新低
+### N17｜回归英伟达，黄仁勋要先“干掉董事会”
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3786169
-
-### N16｜回归英伟达，黄仁勋要先“干掉董事会”
-
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786145
 
-### N17｜【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖
+### N18｜“监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言
 
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2538014
+链接：https://wallstreetcn.com/articles/3786172
 
-### N18｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
+### N19｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786122
 
-### N19｜“监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言
+### N20｜投资者需求强劲，Anthropic计划上调IPO价格，估值将达1.5-1.6万亿美元
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786172
+链接：https://wallstreetcn.com/articles/3786141
 
-### N20｜马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力
+### N21｜【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖
+
+平台：财联社热门；榜单排名：11；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2538014
+
+### N22｜马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力
 
 平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2537847
 
-### N21｜CoreWeave高管称英伟达“不是一个人” 黄仁勋离任后将继续合作
+### N23｜CoreWeave高管称英伟达“不是一个人” 黄仁勋离任后将继续合作
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2538338
 
-### N22｜孙正义后悔当年没投Anthropic
+### N24｜孙正义后悔当年没投Anthropic
 
 平台：百度热搜；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%AD%99%E6%AD%A3%E4%B9%89%E5%90%8E%E6%82%94%E5%BD%93%E5%B9%B4%E6%B2%A1%E6%8A%95Anthropic
 
-### N23｜DeepSeek限额吧友心态崩了
+### N25｜DeepSeek限额吧友心态崩了
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
 
-### N24｜DeepSeek宣布搜索抓取免费
+### N26｜DeepSeek宣布搜索抓取免费
 
 平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9
 
-### N25｜deepseek算力
+### N27｜deepseek算力
 
 平台：微博；榜单排名：30；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23
 
-核对：AI HOT 25 条；TrendRadar 25 条。
+核对：AI HOT 25 条；TrendRadar 27 条。
