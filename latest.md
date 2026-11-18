@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-18
 
-数据生成时间：2026-11-18T11:50:56+08:00（北京时间）
+数据生成时间：2026-11-18T12:11:12+08:00（北京时间）
 
-AI HOT：31 条；TrendRadar：43 条 AI 相关热点。
+AI HOT：31 条；TrendRadar：41 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -370,23 +370,23 @@ OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在
 
 链接：https://wallstreetcn.com/articles/3786088
 
-### N14｜OpenAI新模型遭差评海啸
-
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%81%AD%E5%B7%AE%E8%AF%84%E6%B5%B7%E5%95%B8
-
-### N15｜科技股反弹纳指期货涨0.37%  英伟达财报与Anthropic IPO接踵而至 | 今夜看点
+### N14｜科技股反弹纳指期货涨0.37%  英伟达财报与Anthropic IPO接踵而至 | 今夜看点
 
 平台：财联社热门；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2537068
 
-### N16｜马上评｜AI检测不透明，别又成了知网的一门生意
+### N15｜马上评｜AI检测不透明，别又成了知网的一门生意
 
 平台：澎湃新闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34494042
+
+### N16｜同台亮相 APEC，王传福谈新能源减排，雷军畅享 AI 未来，如何看待两位大佬的「殊途同归」？
+
+平台：知乎；榜单排名：6；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2106096949791408536
 
 ### N17｜【焦点复盘】沪指缩量跌0.5%失守3600点，影视、物理AI概念遭深幅回调，华为算力概念逆势走强
 
@@ -442,23 +442,23 @@ OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在
 
 链接：https://wallstreetcn.com/articles/3786053
 
-### N26｜同台亮相 APEC，王传福谈新能源减排，雷军畅享 AI 未来，如何看待两位大佬的「殊途同归」？
-
-平台：知乎；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2106096949791408536
-
-### N27｜现在的 AI 剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？
+### N26｜现在的 AI 剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2054598994492396545
 
-### N28｜方桃子被罚 AI代言不能啥都敢说
+### N27｜方桃子被罚 AI代言不能啥都敢说
 
 平台：百度热搜；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E6%96%B9%E6%A1%83%E5%AD%90%E8%A2%AB%E7%BD%9A+AI%E4%BB%A3%E8%A8%80%E4%B8%8D%E8%83%BD%E5%95%A5%E9%83%BD%E6%95%A2%E8%AF%B4
+
+### N28｜OpenAI新模型遭差评海啸
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%81%AD%E5%B7%AE%E8%AF%84%E6%B5%B7%E5%95%B8
 
 ### N29｜英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作
 
@@ -502,17 +502,17 @@ OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
 
-### N36｜英伟达第三季度财报公布
+### N36｜如何看待雷军给AI的时间表
 
-平台：抖音；榜单排名：17；实际出现快照数：1。
+平台：今日头条；榜单排名：14；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7709341079476129316/
+
+### N37｜英伟达第三季度财报公布
+
+平台：抖音；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2751554
-
-### N37｜广东机器人在美国“上岗”
-
-平台：今日头条；榜单排名：17；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7709088766870700095/
 
 ### N38｜Anthropic纳斯达克IPO获准
 
@@ -526,28 +526,16 @@ OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在
 
 链接：https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B0Anthropic%E5%B0%86%E4%B8%8A%E8%B0%83%E5%8F%91%E8%A1%8C%E4%BB%B7
 
-### N40｜如何看待雷军给AI的时间表
-
-平台：今日头条；榜单排名：26；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7709341079476129316/
-
-### N41｜DeepSeek限制免费用量说明什么
+### N40｜DeepSeek限制免费用量说明什么
 
 平台：今日头条；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7709117569105399339/
 
-### N42｜41人没症状被AI查出早期肠癌
-
-平台：微博；榜单排名：27；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%2341%E4%BA%BA%E6%B2%A1%E7%97%87%E7%8A%B6%E8%A2%ABAI%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E8%82%A0%E7%99%8C%23
-
-### N43｜企业家们在APEC回答了AI之问
+### N41｜广东机器人在美国“上岗”
 
 平台：今日头条；榜单排名：28；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7709291578536182298/
+链接：https://www.toutiao.com/trending/7709088766870700095/
 
-核对：AI HOT 31 条；TrendRadar 43 条。
+核对：AI HOT 31 条；TrendRadar 41 条。
