@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-20
 
-数据生成时间：2026-11-20T07:13:50+08:00（北京时间）
+数据生成时间：2026-11-20T07:47:04+08:00（北京时间）
 
-AI HOT：21 条；TrendRadar：26 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：32 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -182,24 +182,6 @@ Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名�
 原文：https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
 收录页：https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y
 
-### A20｜黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售
-
-围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。相关声明未提及间谍行为，新加坡内政部亦表示未就间谍问题调查该公司负责人。
-
-来源：X：X.PIN (@thexpin)；发布时间：2026-11-18T23:41:28Z
-
-原文：https://x.com/thexpin/status/2123199944903581803
-收录页：https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3
-
-### A21｜微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心
-
-英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。
-
-来源：TechCrunch：AI（RSS）；发布时间：2026-11-18T23:17:28Z
-
-原文：https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
-收录页：https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿
@@ -214,148 +196,184 @@ Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名�
 
 链接：https://www.cls.cn/detail/2539544
 
-### N3｜阿里电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正
+### N3｜史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3786299
-
-### N4｜阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺
-
-平台：财联社热门；榜单排名：4；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2539407
-
-### N5｜Anthropic开盘涨幅收窄至21%，美股由涨转跌，纳斯达克100跌1.5%，金铜油走高
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786267
 
-### N6｜马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤
+### N4｜阿里电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3786299
+
+### N5｜【早报】高开低走，深夜美股大跳水；Anthropic上市首秀收涨17%；黄金、白银，大幅走弱
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2539556
+
+### N6｜阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺
+
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2539407
+
+### N7｜马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤
 
 平台：澎湃新闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34503761
 
-### N7｜史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿
+### N8｜Anthropic上市首日开盘最高涨39%
+
+平台：今日头条；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7710023838976708106/
+
+### N9｜史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786222
 
-### N8｜Anthropic上市
+### N10｜Anthropic上市
 
 平台：微博；榜单排名：5；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%8A%E5%B8%82%23
 
-### N9｜Anthropic上市如何影响全球AI格局
-
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=Anthropic%E4%B8%8A%E5%B8%82%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E6%A0%BC%E5%B1%80
-
-### N10｜Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2539359
-
-### N11｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低
+### N11｜腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
+链接：https://wallstreetcn.com/articles/3786214
+
+### N12｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低
+
+平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
+
 链接：https://wallstreetcn.com/articles/3786169
 
-### N12｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
+### N13｜Anthropic上市如何影响全球AI格局
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=Anthropic%E4%B8%8A%E5%B8%82%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E6%A0%BC%E5%B1%80
+
+### N14｜英伟达再跌3% 美股三大指数重挫2%
+
+平台：今日头条；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7710024612548972082/
+
+### N15｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786227
 
-### N13｜中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​
+### N16｜阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻
+
+平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3786285
+
+### N17｜Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点
+
+平台：财联社热门；榜单排名：9；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2539359
+
+### N18｜中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​
 
 平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34509594
 
-### N14｜腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功
+### N19｜如何看待网传小米大模型业务 MiMo 或独立融资？
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
+平台：知乎；榜单排名：9；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3786214
+链接：https://www.zhihu.com/question/2106468887957082303
 
-### N15｜阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻
+### N20｜Anthropic七位创始人百亿美元
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
+平台：微博；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786285
+链接：https://s.weibo.com/weibo?q=Anthropic%E4%B8%83%E4%BD%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83
 
-### N16｜怎么看 DeepSeek API 联网搜索与抓页改为免费？
+### N21｜怎么看 DeepSeek API 联网搜索与抓页改为免费？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2106672632099758448
 
-### N17｜“监管要求上报基金AI敞口”不实
+### N22｜“监管要求上报基金AI敞口”不实
 
 平台：百度热搜；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E2%80%9C%E7%9B%91%E7%AE%A1%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%9F%BA%E9%87%91AI%E6%95%9E%E5%8F%A3%E2%80%9D%E4%B8%8D%E5%AE%9E
 
-### N18｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
+### N23｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
 
 平台：澎湃新闻；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34505131
 
-### N19｜官方辟谣要求基金公司上报AI敞口
+### N24｜官方辟谣要求基金公司上报AI敞口
 
 平台：今日头条；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7709362078125195290/
 
-### N20｜证监会辟谣基金AI敞口报送传闻
+### N25｜腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
+
+平台：澎湃新闻；榜单排名：12；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34505653
+
+### N26｜证监会辟谣基金AI敞口报送传闻
 
 平台：抖音；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2754836
 
-### N21｜腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
-
-平台：澎湃新闻；榜单排名：13；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34505653
-
-### N22｜Anthropic正式登陆纳斯达克
+### N27｜Anthropic正式登陆纳斯达克
 
 平台：抖音；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2755061
 
-### N23｜OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？
+### N28｜OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106385974116574562
 
-### N24｜如何看待网传小米大模型业务 MiMo 或独立融资？
+### N29｜张朝阳称自己不看 AI 短剧，火可能只是昙花一现，当下批量生成的 AI 短剧普遍存在哪些痛点？
 
-平台：知乎；榜单排名：16；实际出现快照数：3。
+平台：知乎；榜单排名：16；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2106468887957082303
+链接：https://www.zhihu.com/question/2105945098756289549
 
-### N25｜湘雅二医院论文全AI造假
+### N30｜湘雅二医院论文全AI造假
 
 平台：贴吧；榜单排名：17；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
 
-### N26｜DeepSeek二轮融资出资方曝光
+### N31｜DeepSeek二轮融资出资方曝光
 
-平台：今日头条；榜单排名：26；实际出现快照数：3。
+平台：今日头条；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7709870926250118707/
 
-核对：AI HOT 21 条；TrendRadar 26 条。
+### N32｜Anthropic上市首秀收涨17%
+
+平台：百度热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%8A%E5%B8%82%E9%A6%96%E7%A7%80%E6%94%B6%E6%B6%A817%25
+
+核对：AI HOT 19 条；TrendRadar 32 条。
