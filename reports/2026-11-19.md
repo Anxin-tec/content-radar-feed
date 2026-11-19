@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-19
 
-数据生成时间：2026-11-19T11:49:22+08:00（北京时间）
+数据生成时间：2026-11-19T12:06:39+08:00（北京时间）
 
-AI HOT：24 条；TrendRadar：35 条 AI 相关热点。
+AI HOT：24 条；TrendRadar：34 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -253,7 +253,7 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://www.cls.cn/detail/2538418
 
-### N5｜腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟
+### N5｜腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
@@ -367,35 +367,35 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34503761
 
-### N24｜湘雅二医院论文全AI造假
-
-平台：贴吧；榜单排名：9；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
-
-### N25｜回归英伟达，黄仁勋要先“干掉董事会”
+### N24｜回归英伟达，黄仁勋要先“干掉董事会”
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786145
 
-### N26｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
+### N25｜黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786122
 
-### N27｜“监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言
+### N26｜“监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786172
 
-### N28｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
+### N27｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
 
 平台：澎湃新闻；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34505131
+
+### N28｜湘雅二医院论文全AI造假
+
+平台：贴吧；榜单排名：11；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
 
 ### N29｜马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力
 
@@ -423,7 +423,7 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 ### N33｜DeepSeek限额吧友心态崩了
 
-平台：贴吧；榜单排名：23；实际出现快照数：3。
+平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
 
@@ -433,10 +433,4 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23
 
-### N35｜雷军称真正挣钱的AI公司还不多
-
-平台：微博；榜单排名：30；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%9C%9F%E6%AD%A3%E6%8C%A3%E9%92%B1%E7%9A%84AI%E5%85%AC%E5%8F%B8%E8%BF%98%E4%B8%8D%E5%A4%9A%23
-
-核对：AI HOT 24 条；TrendRadar 35 条。
+核对：AI HOT 24 条；TrendRadar 34 条。
