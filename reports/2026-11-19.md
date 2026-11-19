@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-19
 
-数据生成时间：2026-11-19T09:26:53+08:00（北京时间）
+数据生成时间：2026-11-19T09:49:04+08:00（北京时间）
 
-AI HOT：24 条；TrendRadar：33 条 AI 相关热点。
+AI HOT：24 条；TrendRadar：35 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -253,11 +253,11 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://wallstreetcn.com/articles/3786169
 
-### N5｜Anthropic上市前遭质疑，美国五州民主党官员要求提高透明度
+### N5｜美股收盘：英伟达再挫3%创16月新低 标普连跌五天
 
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2538243
+链接：https://www.cls.cn/detail/2538424
 
 ### N6｜系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨
 
@@ -271,11 +271,11 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://wallstreetcn.com/articles/3786214
 
-### N8｜美股收盘：英伟达再挫3%创16月新低 标普连跌五天
+### N8｜Anthropic上市前遭质疑，美国五州民主党官员要求提高透明度
 
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
+平台：财联社热门；榜单排名：4；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2538424
+链接：https://www.cls.cn/detail/2538243
 
 ### N9｜马上评｜AI检测不透明，别又成了知网的一门生意
 
@@ -289,41 +289,41 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://www.cls.cn/detail/2537925
 
-### N11｜哪家AI能画对13个鸡蛋
+### N11｜英伟达临时CEO呼吁“向前看” Arm掌门人据悉获猎头接洽
+
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2538418
+
+### N12｜哪家AI能画对13个鸡蛋
 
 平台：微博；榜单排名：5；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%AE%B6AI%E8%83%BD%E7%94%BB%E5%AF%B913%E4%B8%AA%E9%B8%A1%E8%9B%8B%23
 
-### N12｜英伟达临时CEO呼吁“向前看” Arm掌门人据悉获猎头接洽
-
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2538418
-
-### N13｜湘雅二医院论文全AI造假
-
-平台：贴吧；榜单排名：6；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
-
-### N14｜史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿
+### N13｜史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786222
 
-### N15｜英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定
+### N14｜英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定
 
 平台：凤凰网；榜单排名：7；实际出现快照数：2。
 
 链接：https://news.ifeng.com/c/8y9lc9Y0v9C
 
-### N16｜DeepSeek宣布搜索抓取免费
+### N15｜湘雅二医院论文全AI造假
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
+平台：贴吧；榜单排名：7；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
+
+### N16｜【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖
+
+平台：财联社热门；榜单排名：8；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2538014
 
 ### N17｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
 
@@ -349,23 +349,23 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://wallstreetcn.com/articles/3786122
 
-### N21｜CoreWeave高管称英伟达“不是一个人” 黄仁勋离任后将继续合作
+### N21｜腾讯控股公布 2026Q3 季报，录得负自由现金流 691 亿元，若剔除算力采购预付款将转正，如何解读？
+
+平台：知乎；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2106427414389773016
+
+### N22｜CoreWeave高管称英伟达“不是一个人” 黄仁勋离任后将继续合作
 
 平台：财联社热门；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2538338
 
-### N22｜腾讯控股公布 2026Q3 季报，录得负自由现金流 691 亿元，若剔除算力采购预付款将转正，如何解读？
+### N23｜需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿
 
-平台：知乎；榜单排名：10；实际出现快照数：1。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2106427414389773016
-
-### N23｜【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖
-
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2538014
+链接：https://www.cls.cn/detail/2538472
 
 ### N24｜马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力
 
@@ -373,58 +373,70 @@ Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致�
 
 链接：https://www.cls.cn/detail/2537847
 
-### N25｜中方回应英伟达停止向华供应H200芯片
+### N25｜马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤
+
+平台：澎湃新闻；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34503761
+
+### N26｜中方回应英伟达停止向华供应H200芯片
 
 平台：今日头条；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7709409012864781866/
 
-### N26｜如何评价 11 月 19 日上线的 Gemini4 Neon 模型？
+### N27｜如何评价 11 月 19 日上线的 Gemini4 Neon 模型？
 
 平台：知乎；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106617058221879537
 
-### N27｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
+### N28｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
 
-平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34505131
 
-### N28｜孙正义后悔当年没投Anthropic
+### N29｜WorkBuddy 日活用户超 1000 万，它是怎么做到的？AI Agent 已经成为工作刚需了吗？
+
+平台：知乎；榜单排名：15；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2106443459233932915
+
+### N30｜孙正义后悔当年没投Anthropic
 
 平台：百度热搜；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E5%AD%99%E6%AD%A3%E4%B9%89%E5%90%8E%E6%82%94%E5%BD%93%E5%B9%B4%E6%B2%A1%E6%8A%95Anthropic
 
-### N29｜DeepSeek限额吧友心态崩了
-
-平台：贴吧；榜单排名：19；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
-
-### N30｜Anthropic IPO打破SpaceX纪录
+### N31｜Anthropic IPO打破SpaceX纪录
 
 平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic+IPO%E6%89%93%E7%A0%B4SpaceX%E7%BA%AA%E5%BD%95
 
-### N31｜AI股神爆仓后再交卷：Anthropic成底牌
+### N32｜DeepSeek限额吧友心态崩了
+
+平台：贴吧；榜单排名：20；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
+
+### N33｜DeepSeek宣布搜索抓取免费
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9
+
+### N34｜AI股神爆仓后再交卷：Anthropic成底牌
 
 平台：百度热搜；榜单排名：25；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E8%82%A1%E7%A5%9E%E7%88%86%E4%BB%93%E5%90%8E%E5%86%8D%E4%BA%A4%E5%8D%B7%EF%BC%9AAnthropic%E6%88%90%E5%BA%95%E7%89%8C
 
-### N32｜deepseek算力
+### N35｜deepseek算力
 
 平台：微博；榜单排名：25；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23
 
-### N33｜英伟达单季营收破1000亿美元
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8D%95%E5%AD%A3%E8%90%A5%E6%94%B6%E7%A0%B41000%E4%BA%BF%E7%BE%8E%E5%85%83
-
-核对：AI HOT 24 条；TrendRadar 33 条。
+核对：AI HOT 24 条；TrendRadar 35 条。
