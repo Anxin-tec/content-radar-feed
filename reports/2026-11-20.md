@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-20
 
-数据生成时间：2026-11-20T09:26:09+08:00（北京时间）
+数据生成时间：2026-11-20T09:44:48+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：35 条 AI 相关热点。
+AI HOT：18 条；TrendRadar：36 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -229,29 +229,29 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 
 链接：https://www.thepaper.cn/newsDetail_forward_34503761
 
-### N10｜Anthropic上市
+### N10｜阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3786285
+
+### N11｜Anthropic上市
 
 平台：微博；榜单排名：5；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%8A%E5%B8%82%23
 
-### N11｜如何看待混元 Hy4 flash 登顶 Openrouter 调用榜首，Tokens 达 DeepSeek 两倍？
+### N12｜如何看待混元 Hy4 flash 登顶 Openrouter 调用榜首，Tokens 达 DeepSeek 两倍？
 
 平台：知乎；榜单排名：5；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106540440845563614
 
-### N12｜Anthropic刷新全球史上最大IPO纪录
+### N13｜Anthropic股价跌破100
 
-平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
+平台：微博；榜单排名：6；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=Anthropic%E5%88%B7%E6%96%B0%E5%85%A8%E7%90%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO
-
-### N13｜阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3786285
+链接：https://s.weibo.com/weibo?q=Anthropic%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B4100
 
 ### N14｜中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​
 
@@ -265,124 +265,130 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 
 链接：https://wallstreetcn.com/articles/3786169
 
-### N16｜Anthropic股价跌破100
-
-平台：微博；榜单排名：7；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=Anthropic%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B4100
-
-### N17｜阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺
+### N16｜阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺
 
 平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2539407
 
-### N18｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
+### N17｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786227
 
-### N19｜如何看待网传小米大模型业务 MiMo 或独立融资？
+### N18｜腾讯姚顺雨主导 AI 架构精简，而全公司 11 万人面临大调整，这类扁平化变革落地难点在哪？
+
+平台：知乎；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2104663850607965878
+
+### N19｜英伟达之后下一个目标！做空报告重挫AMD
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3786312
+
+### N20｜如何看待网传小米大模型业务 MiMo 或独立融资？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2106468887957082303
 
-### N20｜Anthropic上市如何影响全球AI格局
+### N21｜Anthropic上市如何影响全球AI格局
 
 平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=Anthropic%E4%B8%8A%E5%B8%82%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E6%A0%BC%E5%B1%80
 
-### N21｜Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点
-
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2539359
-
-### N22｜马斯克“深圳连线”：详谈星舰、模型、算力、芯片、机器人、脑机，大赞黄仁勋“科技界乔丹”
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3786256
-
-### N23｜怎么看 DeepSeek API 联网搜索与抓页改为免费？
+### N22｜怎么看 DeepSeek API 联网搜索与抓页改为免费？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2106672632099758448
 
-### N24｜腾讯姚顺雨主导 AI 架构精简，而全公司 11 万人面临大调整，这类扁平化变革落地难点在哪？
-
-平台：知乎；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2104663850607965878
-
-### N25｜“监管要求上报基金AI敞口”不实
+### N23｜“监管要求上报基金AI敞口”不实
 
 平台：百度热搜；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=%E2%80%9C%E7%9B%91%E7%AE%A1%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%9F%BA%E9%87%91AI%E6%95%9E%E5%8F%A3%E2%80%9D%E4%B8%8D%E5%AE%9E
 
-### N26｜“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界
+### N24｜Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点
+
+平台：财联社热门；榜单排名：11；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2539359
+
+### N25｜“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界
 
 平台：澎湃新闻；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34513875
 
-### N27｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
+### N26｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
 
 平台：澎湃新闻；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34505131
 
-### N28｜官方辟谣要求基金公司上报AI敞口
+### N27｜官方辟谣要求基金公司上报AI敞口
 
-平台：今日头条；榜单排名：11；实际出现快照数：3。
+平台：今日头条；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7709362078125195290/
 
-### N29｜一单进账5.5亿美元！Anthropic巨额IPO掀起华尔街承销盛宴
-
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2539440
-
-### N30｜证监会辟谣基金AI敞口报送传闻
+### N28｜证监会辟谣基金AI敞口报送传闻
 
 平台：抖音；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2754836
 
-### N31｜腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
+### N29｜腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34505653
 
-### N32｜Anthropic正式登陆纳斯达克
+### N30｜史上最大 IPO 开始交易，Anthropic 首日收涨 17%，市值为 1.271 万亿美元，怎样评价这一表现？
+
+平台：知乎；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2106663248388960425
+
+### N31｜Anthropic正式登陆纳斯达克
 
 平台：抖音；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2755061
 
-### N33｜OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？
+### N32｜OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106385974116574562
 
-### N34｜DeepSeek二轮融资出资方曝光
+### N33｜DeepSeek二轮融资出资方曝光
 
 平台：今日头条；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7709870926250118707/
 
-### N35｜湘雅二医院论文全AI造假
+### N34｜湘雅二医院论文全AI造假
 
 平台：贴吧；榜单排名：18；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
 
-核对：AI HOT 18 条；TrendRadar 35 条。
+### N35｜中国机器人刷屏海外社交平台
+
+平台：今日头条；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7709667340145689098/
+
+### N36｜OpenAI印证了梁文锋的“预言”
+
+平台：百度热搜；榜单排名：27；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=OpenAI%E5%8D%B0%E8%AF%81%E4%BA%86%E6%A2%81%E6%96%87%E9%94%8B%E7%9A%84%E2%80%9C%E9%A2%84%E8%A8%80%E2%80%9D
+
+核对：AI HOT 18 条；TrendRadar 36 条。
