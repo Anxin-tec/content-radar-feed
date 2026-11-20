@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-20
 
-数据生成时间：2026-11-20T11:42:48+08:00（北京时间）
+数据生成时间：2026-11-20T11:57:40+08:00（北京时间）
 
-AI HOT：18 条；TrendRadar：43 条 AI 相关热点。
+AI HOT：19 条；TrendRadar：42 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,7 +11,16 @@ AI HOT：18 条；TrendRadar：43 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%
+### A1｜腾讯混元 Hy4 正式开源并发布 System Card
+
+腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。
+
+来源：公众号：腾讯混元；发布时间：2026-11-20T03:41:18Z
+
+原文：https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA
+收录页：https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6
+
+### A2｜Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%
 
 The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周新低。
 
@@ -20,7 +29,7 @@ The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1
 原文：https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings
 收录页：https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc
 
-### A2｜Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务
+### A3｜Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务
 
 Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。
 
@@ -29,7 +38,7 @@ Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功
 原文：https://x.com/joshwoodward/status/2123534862569324703
 收录页：https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj
 
-### A3｜Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验
+### A4｜Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验
 
 Arena 分享 Gemini 4 Neon 发布后的第一手实测视频，Peter Gostev 在 3D 场景、游戏、UI 和数据可视化等任务中将其与 Opus、Fable、Astra、Sol 对比，并评估其接近前沿的程度。
 
@@ -38,7 +47,7 @@ Arena 分享 Gemini 4 Neon 发布后的第一手实测视频，Peter Gostev 在 
 原文：https://x.com/arena/status/2123528811572846972
 收录页：https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6
 
-### A4｜Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO
+### A5｜Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO
 
 Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论模型评测和后训练难题的经历，并称赞他是唯一理解 scaling laws 的 VC。引用内容为 Sol 祝贺 Anthropic IPO 的推文，感谢 LP 及 GM 养老金、ICONIQ、Coatue、Lightspeed 等合作伙伴在增长投资最差时期押注 Anthropic。
 
@@ -47,7 +56,7 @@ Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论�
 原文：https://x.com/karinanguyen/status/2123509936475001310
 收录页：https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq
 
-### A5｜Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型
+### A6｜Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型
 
 Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。
 
@@ -56,7 +65,7 @@ Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示
 原文：https://x.com/AravSrinivas/status/2123480966459174920
 收录页：https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo
 
-### A6｜Google 在 Gemini API 推出 Tool Retrieval 预览
+### A7｜Google 在 Gemini API 推出 Tool Retrieval 预览
 
 Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。
 
@@ -65,7 +74,7 @@ Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retriev
 原文：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/
 收录页：https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l
 
-### A7｜Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型
+### A8｜Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型
 
 Philipp Schmid 宣布 Genie 4 正在 Gemini API 和 AI Studio 上推出，可从文本或图像生成 720p 24fps 的世界，并用 WASD、提示词和 48 kHz 立体声实时操控。可通过 WebRTC（浏览器加临时 token）或 WebSocket 串流，文档见 https://aistudio.google.com/docs/genie。
 
@@ -74,7 +83,7 @@ Philipp Schmid 宣布 Genie 4 正在 Gemini API 和 AI Studio 上推出，可从
 原文：https://x.com/_philschmid/status/2123465741592637445
 收录页：https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde
 
-### A8｜indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟
+### A9｜indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟
 
 indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IPO 敲响开市钟。作者恭喜这家最"人类"的科技公司上市，并调侃其敲钟鼓掌的样子怎么像是 AI 生成的。
 
@@ -83,7 +92,7 @@ indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IP
 原文：https://x.com/indigox/status/2123464879961186584
 收录页：https://aihot.news/items/gp3hccimt42ak2uh82nrpty65
 
-### A9｜芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击
+### A10｜芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击
 
 美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。Moonshot AI取消了与印尼云服务商的1.5亿美元合同，原计划租用Nvidia Blackwell Ultra B300集群训练Kimi K4，此前已预付约50%而非行业标准的15%。台积电和三星暂停向中国客户交付部分处理器，需申请许可；字节跳动、百度昆仑等客户受影响，非AI芯片豁免取消也波及小米、Oppo、vivo等智能手机处理器。
 
@@ -92,7 +101,7 @@ indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IP
 原文：https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/
 收录页：https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42
 
-### A10｜Anthropic CEO Dario Amodei 就公司 IPO 发表声明
+### A11｜Anthropic CEO Dario Amodei 就公司 IPO 发表声明
 
 Anthropic CEO Dario Amodei 就公司 IPO 发表声明，称今天让公司财务地位更稳固，并强调不会向商业或政治压力低头，将放慢 AI 训练与部署节奏以确保安全和人类可控。声明以生物学背景和 Claude 在科研中的应用为例阐述使命，同时承认滥用、经济冲击和失控等风险，倡导行业「向顶部竞赛」。
 
@@ -101,7 +110,7 @@ Anthropic CEO Dario Amodei 就公司 IPO 发表声明，称今天让公司财务
 原文：https://x.com/AnthropicAI/status/2123461658890686863
 收录页：https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5
 
-### A11｜Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%
+### A12｜Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%
 
 Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元，较 83 美元发行价高出 33%，发行价已超过公司此前 70 至 78 美元的预期区间。本次发行募资超过 810 亿美元，叠加同期私募融资后公司现金储备预计达 2200 亿美元；按开盘价计算市值超过 2 万亿美元，CEO Dario Amodei 在开盘致辞中强调公司对安全的承诺。
 
@@ -110,7 +119,7 @@ Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元�
 原文：https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
 收录页：https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv
 
-### A12｜Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能
+### A13｜Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能
 
 Perplexity CEO Aravind Srinivas 分享 Computer 中 Brain 智能体的自我改进技能研究：Brain 会读取历史会话轨迹（工具调用、推理、结果），识别重复模式，仅在证据足够时提议新技能或更新。
 
@@ -119,7 +128,7 @@ Perplexity CEO Aravind Srinivas 分享 Computer 中 Brain 智能体的自我改�
 原文：https://x.com/AravSrinivas/status/2123451045657690627
 收录页：https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv
 
-### A13｜Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元
+### A14｜Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元
 
 TechCrunch 分析 Anthropic IPO 如何检验 AI 行业的循环融资模式。Amazon 14.7% 股份价值超 1590 亿美元，Google 13.7% 股份约 1490 亿美元；Nvidia、AMD、Microsoft、Broadcom、Micron、TSMC 还以 83 美元/股参与 260 亿美元私募。
 
@@ -128,7 +137,7 @@ TechCrunch 分析 Anthropic IPO 如何检验 AI 行业的循环融资模式。Am
 原文：https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/
 收录页：https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx
 
-### A14｜Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视
+### A15｜Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视
 
 The Verge 报道 Anthropic 完成 IPO，募资 813 亿美元，超过 SpaceX 成为史上估值最高的上市，完全稀释市值约 1.5 万亿美元。
 
@@ -137,7 +146,7 @@ The Verge 报道 Anthropic 完成 IPO，募资 813 亿美元，超过 SpaceX 成
 原文：https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure
 收录页：https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf
 
-### A15｜MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡
+### A16｜MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡
 
 MIT 研究团队在 Environmental Research Letters 发表研究，估算 2023 年数据中心电力需求带来的额外空气污染在美国导致约 650 例过早死亡，其中 513 例来自 PM2.5、137 例来自烟雾，约占全国电力相关死亡总量的 5.3%。
 
@@ -146,7 +155,7 @@ MIT 研究团队在 Environmental Research Letters 发表研究，估算 2023 �
 原文：https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119
 收录页：https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav
 
-### A16｜Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码
+### A17｜Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码
 
 Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。
 
@@ -155,7 +164,7 @@ Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智�
 原文：https://allenai.org/blog/theorizer-in-asta
 收录页：https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w
 
-### A17｜OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能
+### A18｜OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能
 
 OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端自动排查并修复 ChatGPT 的性能回归。其中 Regression Workflow 在三个多月内跟踪超过 1700 次调查、定位超过 600 个根因，相当于每天约 17 次自动调查。
 
@@ -164,7 +173,7 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 原文：https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
 收录页：https://aihot.news/items/alwgjr29158n454prl9tjmmw1
 
-### A18｜彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲
+### A19｜彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲
 
 彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。
 
@@ -217,17 +226,17 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 
 链接：https://www.cls.cn/detail/2539544
 
-### N8｜Anthropic上市造就七位千亿富豪
-
-平台：今日头条；榜单排名：4；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7710072512314347050/
-
-### N9｜史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿
+### N8｜史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿
 
 平台：华尔街见闻；榜单排名：4；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786222
+
+### N9｜如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨 4 点起床，讲物理课也是工作？
+
+平台：知乎；榜单排名：4；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2106691940146331909
 
 ### N10｜马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤
 
@@ -241,113 +250,113 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 
 链接：https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%8A%E5%B8%82%23
 
-### N12｜如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨 4 点起床，讲物理课也是工作？
-
-平台：知乎；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2106691940146331909
-
-### N13｜中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​
+### N12｜中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​
 
 平台：澎湃新闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34509594
 
-### N14｜阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻
+### N13｜阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786285
 
-### N15｜28款主流AI大模型强度排行
-
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=28%E6%AC%BE%E4%B8%BB%E6%B5%81AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BC%BA%E5%BA%A6%E6%8E%92%E8%A1%8C
-
-### N16｜阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺
+### N14｜阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺
 
 平台：财联社热门；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2539407
 
-### N17｜Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？
+### N15｜Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786326
 
-### N18｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低
+### N16｜英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786169
 
-### N19｜“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界
+### N17｜“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界
 
 平台：澎湃新闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34513875
 
-### N20｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
+### N18｜美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786227
 
-### N21｜英伟达之后下一个目标！做空报告重挫AMD
+### N19｜英伟达之后下一个目标！做空报告重挫AMD
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786312
 
-### N22｜腾讯姚顺雨主导 AI 架构精简，而全公司 11 万人面临大调整，这类扁平化变革落地难点在哪？
+### N20｜腾讯姚顺雨主导 AI 架构精简，而全公司 11 万人面临大调整，这类扁平化变革落地难点在哪？
 
 平台：知乎；榜单排名：8；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2104663850607965878
 
-### N23｜Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点
+### N21｜AI泔水正在污染知识
+
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%B3%94%E6%B0%B4%E6%AD%A3%E5%9C%A8%E6%B1%A1%E6%9F%93%E7%9F%A5%E8%AF%86
+
+### N22｜Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点
 
 平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2539359
 
-### N24｜从“双头虾”到一万张鸟类贴纸，“AI泔水”正在污染知识
+### N23｜从“双头虾”到一万张鸟类贴纸，“AI泔水”正在污染知识
 
 平台：澎湃新闻；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34511494
 
-### N25｜如何看待网传小米大模型业务 MiMo 或独立融资？
+### N24｜如何看待网传小米大模型业务 MiMo 或独立融资？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2106468887957082303
 
-### N26｜Anthropic上市如何影响全球AI格局
+### N25｜Anthropic上市如何影响全球AI格局
 
 平台：bilibili 热搜；榜单排名：10；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=Anthropic%E4%B8%8A%E5%B8%82%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E6%A0%BC%E5%B1%80
 
-### N27｜怎么看 DeepSeek API 联网搜索与抓页改为免费？
+### N26｜Anthropic遭联名抵制
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=Anthropic%E9%81%AD%E8%81%94%E5%90%8D%E6%8A%B5%E5%88%B6
+
+### N27｜告别跑分竞赛：国产AI产业，比拼走向“Token产出效率”|行业观察
+
+平台：财联社热门；榜单排名：10；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2539630
+
+### N28｜怎么看 DeepSeek API 联网搜索与抓页改为免费？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2106672632099758448
 
-### N28｜“监管要求上报基金AI敞口”不实
+### N29｜“监管要求上报基金AI敞口”不实
 
 平台：百度热搜；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E2%80%9C%E7%9B%91%E7%AE%A1%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%9F%BA%E9%87%91AI%E6%95%9E%E5%8F%A3%E2%80%9D%E4%B8%8D%E5%AE%9E
-
-### N29｜告别跑分竞赛：国产AI产业，比拼走向“Token产出效率”|行业观察
-
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2539630
 
 ### N30｜专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步
 
@@ -361,65 +370,65 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 
 链接：https://www.toutiao.com/trending/7709362078125195290/
 
-### N32｜AI泔水正在污染知识
-
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E6%B3%94%E6%B0%B4%E6%AD%A3%E5%9C%A8%E6%B1%A1%E6%9F%93%E7%9F%A5%E8%AF%86
-
-### N33｜特朗普9月调仓披露：买入英伟达、Palantir、SpaceX 恰逢大额联邦合同落地前后
+### N32｜特朗普9月调仓披露：买入英伟达、Palantir、SpaceX 恰逢大额联邦合同落地前后
 
 平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2539601
 
-### N34｜Anthropic公开上市致辞
+### N33｜11 月 19 日美股三大指数集体收跌超 2%，AMD 遭做空重挫 8%，英伟达跌超 3%，怎样解读？
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=Anthropic%E5%85%AC%E5%BC%80%E4%B8%8A%E5%B8%82%E8%87%B4%E8%BE%9E
+链接：https://www.zhihu.com/question/2107014688521155453
 
-### N35｜证监会辟谣基金AI敞口报送传闻
+### N34｜证监会辟谣基金AI敞口报送传闻
 
 平台：抖音；榜单排名：13；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2754836
 
-### N36｜腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
+### N35｜腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
 
 平台：澎湃新闻；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34505653
 
-### N37｜史上最大 IPO 开始交易，Anthropic 首日收涨 17%，市值为 1.271 万亿美元，怎样评价这一表现？
-
-平台：知乎；榜单排名：14；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2106663248388960425
-
-### N38｜Anthropic正式登陆纳斯达克
+### N36｜Anthropic正式登陆纳斯达克
 
 平台：抖音；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2755061
 
-### N39｜OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？
+### N37｜OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106385974116574562
 
-### N40｜DeepSeek二轮融资出资方曝光
+### N38｜零AI纯手搓的3A大作玩一个少一个
+
+平台：百度热搜；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E9%9B%B6AI%E7%BA%AF%E6%89%8B%E6%90%93%E7%9A%843A%E5%A4%A7%E4%BD%9C%E7%8E%A9%E4%B8%80%E4%B8%AA%E5%B0%91%E4%B8%80%E4%B8%AA
+
+### N39｜DeepSeek二轮融资出资方曝光
 
 平台：今日头条；榜单排名：17；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7709870926250118707/
 
-### N41｜杨超越粉丝手搓太阳雨AI网页
+### N40｜史上最大 IPO 开始交易，Anthropic 首日收涨 17%，市值为 1.271 万亿美元，怎样评价这一表现？
 
-平台：微博；榜单排名：19；实际出现快照数：1。
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%B2%89%E4%B8%9D%E6%89%8B%E6%90%93%E5%A4%AA%E9%98%B3%E9%9B%A8AI%E7%BD%91%E9%A1%B5%23
+链接：https://www.zhihu.com/question/2106663248388960425
+
+### N41｜Anthropic上市造就七位千亿富豪
+
+平台：今日头条；榜单排名：19；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7710072512314347050/
 
 ### N42｜湘雅二医院论文全AI造假
 
@@ -427,10 +436,4 @@ OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
 
-### N43｜零AI纯手搓的3A大作玩一个少一个
-
-平台：百度热搜；榜单排名：23；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E9%9B%B6AI%E7%BA%AF%E6%89%8B%E6%90%93%E7%9A%843A%E5%A4%A7%E4%BD%9C%E7%8E%A9%E4%B8%80%E4%B8%AA%E5%B0%91%E4%B8%80%E4%B8%AA
-
-核对：AI HOT 18 条；TrendRadar 43 条。
+核对：AI HOT 19 条；TrendRadar 42 条。
