@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-21
 
-数据生成时间：2026-11-21T06:31:31+08:00（北京时间）
+数据生成时间：2026-11-21T06:48:52+08:00（北京时间）
 
 AI HOT：12 条；TrendRadar：30 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -133,29 +133,29 @@ Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chro
 
 链接：https://wallstreetcn.com/articles/3786330
 
-### N3｜数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？
+### N3｜DeepSeek付费体验直线上升
+
+平台：微博；榜单排名：1；实际出现快照数：2。
+
+链接：https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87
+
+### N4｜数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？
 
 平台：知乎；榜单排名：1；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2107239235015263538
 
-### N4｜UP主解读AI声称证明黎曼猜想
+### N5｜UP主解读AI声称证明黎曼猜想
 
 平台：bilibili 热搜；榜单排名：2；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E5%A3%B0%E7%A7%B0%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N5｜史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%
+### N6｜史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786267
-
-### N6｜DeepSeek付费体验直线上升
-
-平台：微博；榜单排名：2；实际出现快照数：2。
-
-链接：https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87
 
 ### N7｜神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude 、 GPT，这款模型到底是啥来历？
 
@@ -171,7 +171,7 @@ Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chro
 
 ### N9｜史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：3；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786269
 
@@ -181,29 +181,29 @@ Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chro
 
 链接：https://www.thepaper.cn/newsDetail_forward_34511494
 
-### N11｜数学家称用AI证明了黎曼猜想
+### N11｜Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？
 
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%A7%B0%E7%94%A8AI%E8%AF%81%E6%98%8E%E4%BA%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
-
-### N12｜Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786326
 
-### N13｜Anthropic首日股价冲高回落，彭博称其IPO或标志AI行情终结
+### N12｜AI攻破黎曼猜想声明细节
+
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%A3%B0%E6%98%8E%E7%BB%86%E8%8A%82
+
+### N13｜阿里、腾讯释放同一个信号：资本开支在2028年后下降，国产算力驱动推理
+
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3786331
+
+### N14｜Anthropic首日股价冲高回落，彭博称其IPO或标志AI行情终结
 
 平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786313
-
-### N14｜阿里、腾讯释放同一个信号：资本开支在2028年后下降，国产算力驱动推理
-
-平台：华尔街见闻；榜单排名：6；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3786331
 
 ### N15｜美股期指齐跌 纳指期货跌近2% Anthropic盘前跌逾10%  | 今夜看点
 
@@ -241,53 +241,53 @@ Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chro
 
 链接：https://s.weibo.com/weibo?q=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BC%A0%E9%97%BB
 
-### N21｜AI攻破黎曼猜想声明细节
+### N21｜数学家称用AI证明了黎曼猜想
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%A3%B0%E6%98%8E%E7%BB%86%E8%8A%82
+链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%A7%B0%E7%94%A8AI%E8%AF%81%E6%98%8E%E4%BA%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N22｜11 月 19 日美股三大指数集体收跌超 2%，AMD 遭做空重挫 8%，英伟达跌超 3%，怎样解读？
+### N22｜DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？
+
+平台：知乎；榜单排名：15；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2106889511993189511
+
+### N23｜11 月 19 日美股三大指数集体收跌超 2%，AMD 遭做空重挫 8%，英伟达跌超 3%，怎样解读？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2107014688521155453
 
-### N23｜DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？
+### N24｜AI御三家模型屎山代码论剑
 
-平台：知乎；榜单排名：16；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：2。
 
-链接：https://www.zhihu.com/question/2106889511993189511
+链接：https://search.bilibili.com/all?keyword=AI%E5%BE%A1%E4%B8%89%E5%AE%B6%E6%A8%A1%E5%9E%8B%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%E8%AE%BA%E5%89%91
 
-### N24｜“模型一代”与“错过”的焦虑：我们需要一场对人工智能的祛魅
+### N25｜“模型一代”与“错过”的焦虑：我们需要一场对人工智能的祛魅
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34511566
 
-### N25｜美国6天连环宕机，关键系统为何在AI时代“一改就崩”？
+### N26｜美国6天连环宕机，关键系统为何在AI时代“一改就崩”？
 
 平台：澎湃新闻；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34512926
 
-### N26｜我用AI做了个嘉豪模拟器
+### N27｜我用AI做了个嘉豪模拟器
 
 平台：bilibili 热搜；榜单排名：21；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E5%98%89%E8%B1%AA%E6%A8%A1%E6%8B%9F%E5%99%A8
 
-### N27｜Anthropic大跌逼近发行价
+### N28｜Anthropic大跌逼近发行价
 
 平台：百度热搜；榜单排名：22；实际出现快照数：3。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E5%A4%A7%E8%B7%8C%E9%80%BC%E8%BF%91%E5%8F%91%E8%A1%8C%E4%BB%B7
-
-### N28｜AI御三家模型屎山代码论剑
-
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%BE%A1%E4%B8%89%E5%AE%B6%E6%A8%A1%E5%9E%8B%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%E8%AE%BA%E5%89%91
 
 ### N29｜湘雅二医院论文全AI造假
 
@@ -297,7 +297,7 @@ Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chro
 
 ### N30｜华为首款鸿蒙AI手机
 
-平台：微博；榜单排名：28；实际出现快照数：2。
+平台：微博；榜单排名：26；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E6%89%8B%E6%9C%BA%23
 
