@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-22
 
-数据生成时间：2026-11-22T06:20:36+08:00（北京时间）
+数据生成时间：2026-11-22T06:31:30+08:00（北京时间）
 
 AI HOT：3 条；TrendRadar：35 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -70,17 +70,17 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://wallstreetcn.com/articles/3786423
 
-### N6｜“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性
-
-平台：澎湃新闻；榜单排名：3；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34521136
-
-### N7｜AI用25万页证明黎曼猜想
+### N6｜AI用25万页证明黎曼猜想
 
 平台：贴吧；榜单排名：3；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+
+### N7｜“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性
+
+平台：澎湃新闻；榜单排名：4；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34521136
 
 ### N8｜AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半
 
