@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-23
 
-数据生成时间：2026-11-23T06:31:26+08:00（北京时间）
+数据生成时间：2026-11-23T06:46:10+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：30 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：31 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -226,16 +226,22 @@ OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发�
 
 链接：https://www.baidu.com/s?wd=AI%E6%94%BB%E5%85%8B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%A5%BD%E5%87%A0%E4%B8%AA%E6%83%B3%E4%B8%8D%E5%88%B0
 
-### N29｜人类数学协会抵制AI证黎曼猜想
+### N29｜黎曼猜想真的被AI证明了吗
+
+平台：百度热搜；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9C%9F%E7%9A%84%E8%A2%ABAI%E8%AF%81%E6%98%8E%E4%BA%86%E5%90%97
+
+### N30｜人类数学协会抵制AI证黎曼猜想
 
 平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E8%AF%81%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N30｜第一批培养AI萌宠的人已赚翻
+### N31｜第一批培养AI萌宠的人已赚翻
 
-平台：今日头条；榜单排名：30；实际出现快照数：2。
+平台：今日头条；榜单排名：29；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7710908221879225866/
 
-核对：AI HOT 5 条；TrendRadar 30 条。
+核对：AI HOT 5 条；TrendRadar 31 条。
