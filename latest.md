@@ -1,17 +1,37 @@
-# AI 日报｜2026-11-22
+# AI 日报｜2026-11-23
 
-数据生成时间：2026-11-22T11:01:21+08:00（北京时间）
+数据生成时间：2026-11-23T00:31:36+08:00（北京时间）
 
-AI HOT：2 条；TrendRadar：46 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：3 条；TrendRadar：28 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限
+### A1｜Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确
+
+Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。
+
+来源：The Decoder：AI News（RSS）；发布时间：2026-11-22T11:08:31Z
+
+原文：https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/
+收录页：https://aihot.news/items/ikpixx0j7414se1f6lww2csek
+
+### A2｜菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可
+
+2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。
+
+来源：IT之家·人工智能；发布时间：2026-11-22T09:35:58.183000Z
+
+原文：https://www.ithome.com/1/030/677.htm
+收录页：https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt
+
+### A3｜Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限
 
 Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。
 
@@ -20,52 +40,43 @@ Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短�
 原文：https://x.com/rohanpaul_ai/status/2124213113583174076
 收录页：https://aihot.news/items/d32df9vzpliz9m348fug74inq
 
-### A2｜Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿
-
-Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-11-21T11:19:49Z
-
-原文：https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/
-收录页：https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜英伟达被查
 
-平台：财联社热门；榜单排名：1；实际出现快照数：3。
+平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2540777
 
-### N2｜美国人为什么开始反对AI了
+### N2｜AI是否已证明黎曼猜想
 
-平台：今日头条；榜单排名：1；实际出现快照数：2。
+平台：抖音；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.toutiao.com/trending/7710632433913171494/
+链接：https://www.douyin.com/hot/2758976
 
-### N3｜黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨
+### N3｜勒索组织给英伟达启动了倒计时
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：2。
+平台：凤凰网；榜单排名：2；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786330
+链接：https://news.ifeng.com/c/8yFwwo4zedi
 
-### N4｜2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”
+### N4｜英伟达被查市值接近腰斩
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786423
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9F%A5%E5%B8%82%E5%80%BC%E6%8E%A5%E8%BF%91%E8%85%B0%E6%96%A9
 
-### N5｜【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项
+### N5｜美国科技巨头称“AI已懂得忏悔”，知名牧师：那你们自己呢？
 
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
+平台：凤凰网；榜单排名：3；实际出现快照数：1。
+
+链接：https://news.ifeng.com/c/8yGMpXjmYyY
+
+### N6｜【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项
+
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2540705
-
-### N6｜“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性
-
-平台：澎湃新闻；榜单排名：3；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34521136
 
 ### N7｜【早报】英伟达据悉被SEC调查；多家品牌宣布：下调金饰克价
 
@@ -73,238 +84,130 @@ Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜�
 
 链接：https://www.cls.cn/detail/2540862
 
-### N8｜AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半
-
-平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
-
-链接：https://wallstreetcn.com/articles/3786403
-
-### N9｜AI算力市场的危险循环：越借不到钱，GPU租金反而越贵
+### N8｜Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786430
+链接：https://wallstreetcn.com/articles/3786445
 
-### N10｜马上评｜AI证明黎曼猜想，数学家该恐慌吗？
+### N9｜人类数学协会抵制AI证黎曼猜想
 
-平台：澎湃新闻；榜单排名：6；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34527175
+链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E8%AF%81%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N11｜AI用25万页证明黎曼猜想
+### N10｜周末要闻汇总：英伟达股价创18年以来最大单周跌幅；A股回购潮来了
 
-平台：贴吧；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+链接：https://www.cls.cn/detail/2540950
 
-### N12｜“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页
+### N11｜穿一次性围裙、扎头发露耳，韩国各高校自主招生防AI作弊措施引争议
 
-平台：华尔街见闻；榜单排名：6；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786421
+链接：https://www.thepaper.cn/newsDetail_forward_34528573
 
-### N13｜如何看待截至 2026 年 5 月 11 日，米哈游 57810 颗英伟达 H200 获批却未发货，这意味着什么？
-
-平台：知乎；榜单排名：6；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2107534705163777162
-
-### N14｜菲尔兹奖得主邓煜称「人类不能放弃自主思考给 AI 当狗」，如何看待这一观点？
-
-平台：知乎；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2099876169013258150
-
-### N15｜官方核实为假！“北京教师飞贵阳”背后是AI造谣流水线
-
-平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34528498
-
-### N16｜特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO
+### N12｜猜想：AI泡沫破灭和金融市场危机
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786408
+链接：https://wallstreetcn.com/articles/3786452
 
-### N17｜用AI攻破黎曼猜想的人啥来头
+### N13｜AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
+平台：知乎；榜单排名：7；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9A%84%E4%BA%BA%E5%95%A5%E6%9D%A5%E5%A4%B4
+链接：https://www.zhihu.com/question/2107333891975599197
 
-### N18｜特朗普：期待黄仁勋回英伟达
+### N14｜上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力
 
-平台：财联社热门；榜单排名：8；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540776
+链接：https://wallstreetcn.com/articles/3786442
 
-### N19｜Anthropic上市次日暴跌，盘中一度离破发仅差5美分，AI交易“买方罢工”
+### N15｜AI用25万页证明黎曼猜想
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+平台：贴吧；榜单排名：9；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786401
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N20｜怎么看陶哲轩博客下针对 AI 完成黎曼猜想评论：数学变成 F1 赛车，不进 AI 车队都看不到后尾灯？
+### N16｜用AI续写关谷悠悠婚礼
 
-平台：知乎；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2107581968296760732
-
-### N21｜邓煜谈AI证明黎曼猜想：25万页不可读
-
-平台：百度热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E9%82%93%E7%85%9C%E8%B0%88AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%EF%BC%9A25%E4%B8%87%E9%A1%B5%E4%B8%8D%E5%8F%AF%E8%AF%BB
-
-### N22｜美股收盘：AI交易遭遇猛烈抛售 纳指重挫5% 费半跌两位数 英伟达狂泻14%
-
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2540700
-
-### N23｜英伟达被查
-
-平台：凤凰网；榜单排名：10；实际出现快照数：2。
-
-链接：https://news.ifeng.com/c/8yESC9BsKuL
-
-### N24｜浙江老板们组团投AI！十余家上市公司借道16.5亿元基金入股DeepSeek
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3786428
-
-### N25｜用AI续写关谷悠悠婚礼
-
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：11；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
 
-### N26｜两名俄罗斯人冒充乌情报局长，与OpenAI高管大谈提供军事AI
+### N17｜特朗普：期待黄仁勋回英伟达
 
-平台：凤凰网；榜单排名：11；实际出现快照数：3。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
-链接：https://news.ifeng.com/c/8yERcDbJu27
+链接：https://www.cls.cn/detail/2540776
 
-### N27｜机构认证：Claude证明黎曼猜想无误
+### N18｜为什么看完 AI 短剧以后，就看不进真人演的剧呢？
 
-平台：百度热搜；榜单排名：12；实际出现快照数：1。
+平台：知乎；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E6%9C%BA%E6%9E%84%E8%AE%A4%E8%AF%81%EF%BC%9AClaude%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%97%A0%E8%AF%AF
+链接：https://www.zhihu.com/question/2096651689738687723
 
-### N28｜陶哲轩谈AI证明黎曼猜想传闻
+### N19｜吧友吐槽双帝之战剧场版滥用AI
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
+平台：贴吧；榜单排名：13；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E8%B0%88AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BC%A0%E9%97%BB
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-### N29｜数学家宣称 Claude 证明黎曼猜想，为啥 Anthropic 股价仍在暴跌？市场不买账，核心原因是啥？
+### N20｜当薛甄珠成为“可计算的经典”：AI如何重组我们的文化记忆
 
-平台：知乎；榜单排名：12；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2107267149399947120
+链接：https://www.thepaper.cn/newsDetail_forward_34490113
 
-### N30｜百年未解难题迎来突破？Anthropic数学家宣称破解黎曼猜想
+### N21｜纳指跌超 5%，英伟达跌 14%，BTC 跌破 6 万美元，黄金濒临 3500 美元，本轮跨市场金融冲击何时止？
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：知乎；榜单排名：16；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540656
+链接：https://www.zhihu.com/question/2107407389817321423
 
-### N31｜算力争夺战打响？特朗普警告科技巨头：海外建数据中心，要交巨额税款！
+### N22｜AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？
 
-平台：财联社热门；榜单排名：13；实际出现快照数：2。
+平台：知乎；榜单排名：18；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540746
+链接：https://www.zhihu.com/question/2079246734493066423
 
-### N32｜吧友质疑《麦穗与羊》是AI代写
+### N23｜国会山权力大洗牌，2027年谁会给美国AI巨头立规矩？｜907编辑部
 
-平台：贴吧；榜单排名：15；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34533314
+
+### N24｜吧友质疑《麦穗与羊》是AI代写
+
+平台：贴吧；榜单排名：20；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
 
-### N33｜AI宣称彻底击破NS方程问题
+### N25｜在B站玩AI像素射击游戏
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=AI%E5%AE%A3%E7%A7%B0%E5%BD%BB%E5%BA%95%E5%87%BB%E7%A0%B4NS%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98
-
-### N34｜AI若证明黎曼猜想将如何影响数学家
-
-平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E8%8B%A5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%AE%B6
-
-### N35｜Anthropic账本中的AI泡沫
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=Anthropic%E8%B4%A6%E6%9C%AC%E4%B8%AD%E7%9A%84AI%E6%B3%A1%E6%B2%AB
-
-### N36｜华为推出星芒试水AI手机
-
-平台：今日头条；榜单排名：22；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7710656315885882906/
-
-### N37｜AI证明黎曼猜想通过形式化验证
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%80%9A%E8%BF%87%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%AA%8C%E8%AF%81
-
-### N38｜在B站玩AI像素射击游戏
-
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E5%9C%A8B%E7%AB%99%E7%8E%A9AI%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F
 
-### N39｜为降AI疑似率把论文改到小学作文水平
+### N26｜积极视角看AI证明黎曼猜想
 
-平台：百度热搜；榜单排名：24；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E4%B8%BA%E9%99%8DAI%E7%96%91%E4%BC%BC%E7%8E%87%E6%8A%8A%E8%AE%BA%E6%96%87%E6%94%B9%E5%88%B0%E5%B0%8F%E5%AD%A6%E4%BD%9C%E6%96%87%E6%B0%B4%E5%B9%B3
+链接：https://search.bilibili.com/all?keyword=%E7%A7%AF%E6%9E%81%E8%A7%86%E8%A7%92%E7%9C%8BAI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N40｜我用AI做了个嘉豪模拟器
+### N27｜AI攻克黎曼猜想给人类好几个想不到
 
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：2。
+平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E5%98%89%E8%B1%AA%E6%A8%A1%E6%8B%9F%E5%99%A8
+链接：https://www.baidu.com/s?wd=AI%E6%94%BB%E5%85%8B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%A5%BD%E5%87%A0%E4%B8%AA%E6%83%B3%E4%B8%8D%E5%88%B0
 
-### N41｜Anthropic造富 谁接住了泼天富贵
+### N28｜AI证明黎曼猜想到底得出什么结论
 
-平台：今日头条；榜单排名：25；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7710798442733243945/
-
-### N42｜彭昱畅被AI融脸
-
-平台：百度热搜；榜单排名：28；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%BD%AD%E6%98%B1%E7%95%85%E8%A2%ABAI%E8%9E%8D%E8%84%B8
-
-### N43｜两个AI同台竞技OA争霸
-
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%B8%AAAI%E5%90%8C%E5%8F%B0%E7%AB%9E%E6%8A%80OA%E4%BA%89%E9%9C%B8
-
-### N44｜贝莱德：黄金是AI时代分散投资选择
-
-平台：今日头条；榜单排名：28；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7710796429271122442/
-
-### N45｜AI证明黎曼猜想到底得出什么结论
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
 
-### N46｜25万页AI黎曼猜想证明难核验
-
-平台：微博；榜单排名：30；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=25%E4%B8%87%E9%A1%B5AI%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E9%9A%BE%E6%A0%B8%E9%AA%8C
-
-核对：AI HOT 2 条；TrendRadar 46 条。
+核对：AI HOT 3 条；TrendRadar 28 条。
