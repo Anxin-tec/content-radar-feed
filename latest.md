@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-22
 
-数据生成时间：2026-11-22T07:54:48+08:00（北京时间）
+数据生成时间：2026-11-22T08:13:27+08:00（北京时间）
 
-AI HOT：4 条；TrendRadar：36 条 AI 相关热点。
+AI HOT：2 条；TrendRadar：37 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -28,24 +28,6 @@ Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜�
 
 原文：https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/
 收录页：https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
-
-### A3｜Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件
-
-Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。
-
-来源：Together AI 研究与产品博客（RSS）；发布时间：2026-11-21T00:00:00Z
-
-原文：https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026
-收录页：https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0
-
-### A4｜Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug
-
-Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。
-
-来源：Together AI 研究与产品博客（RSS）；发布时间：2026-11-21T00:00:00Z
-
-原文：https://www.together.ai/blog/qwen4-max
-收录页：https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc
 
 ## TrendRadar 完整 AI 热点
 
@@ -75,7 +57,7 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 ### N5｜【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项
 
-平台：财联社热门；榜单排名：2；实际出现快照数：3。
+平台：财联社热门；榜单排名：3；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2540705
 
@@ -85,17 +67,17 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N7｜“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性
+### N7｜“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页
+
+平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+
+链接：https://wallstreetcn.com/articles/3786421
+
+### N8｜“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性
 
 平台：澎湃新闻；榜单排名：4；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34521136
-
-### N8｜“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页
-
-平台：华尔街见闻；榜单排名：4；实际出现快照数：3。
-
-链接：https://wallstreetcn.com/articles/3786421
 
 ### N9｜菲尔兹奖得主邓煜称「人类不能放弃自主思考给 AI 当狗」，如何看待这一观点？
 
@@ -103,35 +85,35 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://www.zhihu.com/question/2099876169013258150
 
-### N10｜用AI攻破黎曼猜想的人啥来头
-
-平台：bilibili 热搜；榜单排名：5；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9A%84%E4%BA%BA%E5%95%A5%E6%9D%A5%E5%A4%B4
-
-### N11｜AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半
+### N10｜AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半
 
 平台：华尔街见闻；榜单排名：5；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786403
 
-### N12｜如何看待截至 2026 年 5 月 11 日，米哈游 57810 颗英伟达 H200 获批却未发货，这意味着什么？
+### N11｜如何看待截至 2026 年 5 月 11 日，米哈游 57810 颗英伟达 H200 获批却未发货，这意味着什么？
 
 平台：知乎；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2107534705163777162
 
-### N13｜马上评｜AI证明黎曼猜想，数学家该恐慌吗？
+### N12｜马上评｜AI证明黎曼猜想，数学家该恐慌吗？
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34527175
 
-### N14｜特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO
+### N13｜特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786408
+
+### N14｜用AI攻破黎曼猜想的人啥来头
+
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9A%84%E4%BA%BA%E5%95%A5%E6%9D%A5%E5%A4%B4
 
 ### N15｜官方核实为假！“北京教师飞贵阳”背后是AI造谣流水线
 
@@ -139,23 +121,23 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://www.thepaper.cn/newsDetail_forward_34528498
 
-### N16｜AI证明黎曼猜想到底得出什么结论
-
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
-
-### N17｜特朗普：期待黄仁勋回英伟达
+### N16｜特朗普：期待黄仁勋回英伟达
 
 平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2540776
 
-### N18｜两名俄罗斯人冒充乌情报局长，与OpenAI高管大谈提供军事AI
+### N17｜两名俄罗斯人冒充乌情报局长，与OpenAI高管大谈提供军事AI
 
 平台：凤凰网；榜单排名：9；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8yERcDbJu27
+
+### N18｜AI算力市场的危险循环：越借不到钱，GPU租金反而越贵
+
+平台：华尔街见闻；榜单排名：9；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3786430
 
 ### N19｜Anthropic上市次日暴跌，盘中一度离破发仅差5美分，AI交易“买方罢工”
 
@@ -175,35 +157,35 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://news.ifeng.com/c/8yESC9BsKuL
 
-### N22｜AI算力市场的危险循环：越借不到钱，GPU租金反而越贵
-
-平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
-
-链接：https://wallstreetcn.com/articles/3786430
-
-### N23｜陶哲轩谈AI证明黎曼猜想传闻
+### N22｜陶哲轩谈AI证明黎曼猜想传闻
 
 平台：bilibili 热搜；榜单排名：11；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E8%B0%88AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BC%A0%E9%97%BB
 
-### N24｜吧友质疑《麦穗与羊》是AI代写
+### N23｜吧友质疑《麦穗与羊》是AI代写
 
 平台：贴吧；榜单排名：11；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
 
-### N25｜怎么看 OpenAI 宣布升级反蒸馏防御，隐藏推理提取成功率从 54% 降至 0.2% ？
+### N24｜怎么看 OpenAI 宣布升级反蒸馏防御，隐藏推理提取成功率从 54% 降至 0.2% ？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2107430398359885371
 
-### N26｜用AI续写关谷悠悠婚礼
+### N25｜AI证明黎曼猜想到底得出什么结论
 
-平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
+链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
+
+### N26｜我用AI做了个嘉豪模拟器
+
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：2。
+
+链接：https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E5%98%89%E8%B1%AA%E6%A8%A1%E6%8B%9F%E5%99%A8
 
 ### N27｜数学家宣称 Claude 证明黎曼猜想，为啥 Anthropic 股价仍在暴跌？市场不买账，核心原因是啥？
 
@@ -211,23 +193,23 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://www.zhihu.com/question/2107267149399947120
 
-### N28｜我用AI做了个嘉豪模拟器
-
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E5%98%89%E8%B1%AA%E6%A8%A1%E6%8B%9F%E5%99%A8
-
-### N29｜百年未解难题迎来突破？Anthropic数学家宣称破解黎曼猜想
+### N28｜百年未解难题迎来突破？Anthropic数学家宣称破解黎曼猜想
 
 平台：财联社热门；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2540656
 
-### N30｜算力争夺战打响？特朗普警告科技巨头：海外建数据中心，要交巨额税款！
+### N29｜算力争夺战打响？特朗普警告科技巨头：海外建数据中心，要交巨额税款！
 
 平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2540746
+
+### N30｜AI剧里的太监都像太子
+
+平台：微博；榜单排名：17；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=AI%E5%89%A7%E9%87%8C%E7%9A%84%E5%A4%AA%E7%9B%91%E9%83%BD%E5%83%8F%E5%A4%AA%E5%AD%90
 
 ### N31｜AI宣称彻底击破NS方程问题
 
@@ -247,22 +229,28 @@ Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台
 
 链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%80%9A%E8%BF%87%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%AA%8C%E8%AF%81
 
-### N34｜为降AI疑似率把论文改到小学作文水平
+### N34｜用AI续写关谷悠悠婚礼
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
+
+### N35｜为降AI疑似率把论文改到小学作文水平
 
 平台：百度热搜；榜单排名：24；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E4%B8%BA%E9%99%8DAI%E7%96%91%E4%BC%BC%E7%8E%87%E6%8A%8A%E8%AE%BA%E6%96%87%E6%94%B9%E5%88%B0%E5%B0%8F%E5%AD%A6%E4%BD%9C%E6%96%87%E6%B0%B4%E5%B9%B3
 
-### N35｜彭昱畅被AI融脸
+### N36｜彭昱畅被AI融脸
 
 平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E5%BD%AD%E6%98%B1%E7%95%85%E8%A2%ABAI%E8%9E%8D%E8%84%B8
 
-### N36｜两个AI同台竞技OA争霸
+### N37｜两个AI同台竞技OA争霸
 
 平台：bilibili 热搜；榜单排名：28；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%B8%AAAI%E5%90%8C%E5%8F%B0%E7%AB%9E%E6%8A%80OA%E4%BA%89%E9%9C%B8
 
-核对：AI HOT 4 条；TrendRadar 36 条。
+核对：AI HOT 2 条；TrendRadar 37 条。
