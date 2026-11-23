@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-23
 
-数据生成时间：2026-11-23T11:04:25+08:00（北京时间）
+数据生成时间：2026-11-23T11:41:29+08:00（北京时间）
 
 AI HOT：6 条；TrendRadar：33 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -91,178 +91,178 @@ Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge �
 
 链接：https://news.ifeng.com/c/8yGMpXjmYyY
 
-### N5｜英伟达被查市值接近腰斩
+### N5｜病毒吧曝假deepseek藏银狐木马
+
+平台：贴吧；榜单排名：3；实际出现快照数：1。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+
+### N6｜英伟达被查市值接近腰斩
 
 平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9F%A5%E5%B8%82%E5%80%BC%E6%8E%A5%E8%BF%91%E8%85%B0%E6%96%A9
 
-### N6｜【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项
+### N7｜【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项
 
 平台：财联社热门；榜单排名：4；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2540705
 
-### N7｜【早报】英伟达据悉被SEC调查；多家品牌宣布：下调金饰克价
+### N8｜【早报】英伟达据悉被SEC调查；多家品牌宣布：下调金饰克价
 
 平台：财联社热门；榜单排名：5；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2540862
 
-### N8｜穿一次性围裙、扎头发露耳，韩国各高校自主招生防AI作弊措施引争议
+### N9｜穿一次性围裙、扎头发露耳，韩国各高校自主招生防AI作弊措施引争议
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34528573
 
-### N9｜AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？
+### N10｜AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？
 
 平台：知乎；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2107333891975599197
 
-### N10｜人类数学协会抵制AI证黎曼猜想
+### N11｜DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？
+
+平台：知乎；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2107183345205626254
+
+### N12｜人类数学协会抵制AI证黎曼猜想
 
 平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E8%AF%81%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N11｜Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的
+### N13｜Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786445
 
-### N12｜上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力
+### N14｜上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力
 
 平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786442
 
-### N13｜猜想：AI泡沫破灭和金融市场危机
+### N15｜猜想：AI泡沫破灭和金融市场危机
 
 平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786452
 
-### N14｜成毅白龙挂动作逼真被误以为AI
+### N16｜成毅白龙挂动作逼真被误以为AI
 
 平台：百度热搜；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E6%88%90%E6%AF%85%E7%99%BD%E9%BE%99%E6%8C%82%E5%8A%A8%E4%BD%9C%E9%80%BC%E7%9C%9F%E8%A2%AB%E8%AF%AF%E4%BB%A5%E4%B8%BAAI
 
-### N15｜AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？
+### N17｜AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2079246734493066423
 
-### N16｜AI用25万页证明黎曼猜想
-
-平台：贴吧；榜单排名：11；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
-
-### N17｜特朗普：期待黄仁勋回英伟达
+### N18｜特朗普：期待黄仁勋回英伟达
 
 平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2540776
 
-### N18｜DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？
+### N19｜AI用25万页证明黎曼猜想
 
-平台：知乎；榜单排名：13；实际出现快照数：1。
+平台：贴吧；榜单排名：13；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2107183345205626254
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N19｜为什么看完 AI 短剧以后，就看不进真人演的剧呢？
+### N20｜用AI续写关谷悠悠婚礼
+
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
+
+### N21｜为什么看完 AI 短剧以后，就看不进真人演的剧呢？
 
 平台：知乎；榜单排名：14；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2096651689738687723
 
-### N20｜吧友吐槽双帝之战剧场版滥用AI
+### N22｜如何评价 Google 发布的 Gemini 4 Neon？
 
-平台：贴吧；榜单排名：15；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
-
-### N21｜如何评价 Google 发布的 Gemini 4 Neon？
-
-平台：知乎；榜单排名：17；实际出现快照数：1。
+平台：知乎；榜单排名：15；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106628033834767756
 
-### N22｜AI证明黎曼猜想到底得出什么结论
+### N23｜吧友吐槽双帝之战剧场版滥用AI
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：3。
+平台：贴吧；榜单排名：17；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-### N23｜纳指跌超 5%，英伟达跌 14%，BTC 跌破 6 万美元，黄金濒临 3500 美元，本轮跨市场金融冲击何时止？
+### N24｜纳指跌超 5%，英伟达跌 14%，BTC 跌破 6 万美元，黄金濒临 3500 美元，本轮跨市场金融冲击何时止？
 
 平台：知乎；榜单排名：18；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2107407389817321423
 
-### N24｜AI是否已证明黎曼猜想
+### N25｜AI是否已证明黎曼猜想
 
 平台：抖音；榜单排名：19；实际出现快照数：3。
 
 链接：https://www.douyin.com/hot/2758976
 
-### N25｜国会山权力大洗牌，2027年谁会给美国AI巨头立规矩？｜907编辑部
+### N26｜国会山权力大洗牌，2027年谁会给美国AI巨头立规矩？｜907编辑部
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34533314
 
-### N26｜当薛甄珠成为“可计算的经典”：AI如何重组我们的文化记忆
+### N27｜当薛甄珠成为“可计算的经典”：AI如何重组我们的文化记忆
 
 平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34490113
 
-### N27｜吧友质疑《麦穗与羊》是AI代写
+### N28｜AI证明黎曼猜想到底得出什么结论
 
-平台：贴吧；榜单排名：22；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
+
+### N29｜在B站玩AI像素射击游戏
+
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E5%9C%A8B%E7%AB%99%E7%8E%A9AI%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F
+
+### N30｜吧友质疑《麦穗与羊》是AI代写
+
+平台：贴吧；榜单排名：24；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
 
-### N28｜积极视角看AI证明黎曼猜想
+### N31｜积极视角看AI证明黎曼猜想
 
 平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E7%A7%AF%E6%9E%81%E8%A7%86%E8%A7%92%E7%9C%8BAI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N29｜AI攻克黎曼猜想给人类好几个想不到
+### N32｜AI攻克黎曼猜想给人类好几个想不到
 
 平台：百度热搜；榜单排名：27；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=AI%E6%94%BB%E5%85%8B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%A5%BD%E5%87%A0%E4%B8%AA%E6%83%B3%E4%B8%8D%E5%88%B0
 
-### N30｜用AI续写关谷悠悠婚礼
-
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
-
-### N31｜在B站玩AI像素射击游戏
-
-平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E5%9C%A8B%E7%AB%99%E7%8E%A9AI%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F
-
-### N32｜第一批培养AI萌宠的人已赚翻
+### N33｜第一批培养AI萌宠的人已赚翻
 
 平台：今日头条；榜单排名：30；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7710908221879225866/
-
-### N33｜孩子用AI写小说被说不是自己写
-
-平台：微博；榜单排名：30；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%94%A8AI%E5%86%99%E5%B0%8F%E8%AF%B4%E8%A2%AB%E8%AF%B4%E4%B8%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E5%86%99
 
 核对：AI HOT 6 条；TrendRadar 33 条。
