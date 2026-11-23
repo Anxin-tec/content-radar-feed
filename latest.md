@@ -1,17 +1,73 @@
-# AI 日报｜2026-11-23
+# AI 日报｜2026-11-24
 
-数据生成时间：2026-11-23T11:41:29+08:00（北京时间）
+数据生成时间：2026-11-24T00:31:36+08:00（北京时间）
 
-AI HOT：6 条；TrendRadar：33 条 AI 相关热点。
-实际采集快照：3 个；平台：11 个。
+AI HOT：8 条；TrendRadar：38 条 AI 相关热点。
+实际采集快照：1 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
+
+采集说明：历史时段未齐或曾有部分平台采集失败；当前来源可用性见下方状态。后续完整采集恢复可用性，仍保留历史不完整记录。单次采集不能据此判断热度升降。
 
 来源状态：AI HOT=live；TrendRadar=live。
 
 ## AI HOT 完整资讯
 
-### A1｜Anthropic IPO 前三家机构如何重注押注
+### A1｜a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法
+
+a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。
+
+来源：a16z：News（RSS）；发布时间：2026-11-23T15:04:27Z
+
+原文：https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents
+收录页：https://aihot.news/items/qkxvs90ewfu3k430sdefndv56
+
+### A2｜特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据
+
+特朗普在社交平台表态支持英伟达董事会恢复黄仁勋CEO兼总裁职务，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长已确认政府没有黄仁勋违法行为的证据，但该部长本人尚未正式发表声明。报道还梳理了英伟达董事会决策与白宫表态的先后关系，并提及特朗普要求英伟达继续就出口管制合规开展内部调查。
+
+来源：TechCrunch：AI（RSS）；发布时间：2026-11-23T15:04:01Z
+
+原文：https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/
+收录页：https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn
+
+### A3｜Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例
+
+Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。
+
+来源：Wiz：Research（安全研究）；发布时间：2026-11-23T14:46:19Z
+
+原文：https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks
+收录页：https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff
+
+### A4｜ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散
+
+404 Media 报道，开源框架 ARTEX 让 AI 智能体以机器速度自动完成从侦察到窃取数据的整个入侵流程，FBI 称攻击者用它针对全球政府、医疗、电信、金融、半导体等行业，数小时内即可完成一次完整攻击。原作者 Autumn-27 已于 10 月将其从 GitHub 下架并转为闭源，但多个克隆版本仍在传播，有维护者表示不会删除仓库，理由是代码已被到处复制。
+
+来源：404 Media（RSS）；发布时间：2026-11-23T14:16:47Z
+
+原文：https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/
+收录页：https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7
+
+### A5｜NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会
+
+NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。
+
+来源：X：X.PIN (@thexpin)；发布时间：2026-11-23T14:04:30Z
+
+原文：https://x.com/thexpin/status/2124866686025400819
+收录页：https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l
+
+### A6｜智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding
+
+智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。
+
+来源：公众号：智谱（GLM）；发布时间：2026-11-23T09:42:11Z
+
+原文：https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ
+收录页：https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz
+
+### A7｜Anthropic IPO 前三家机构如何重注押注
 
 TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。
 
@@ -20,7 +76,7 @@ TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO �
 原文：https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
 收录页：https://aihot.news/items/dus34samsjrld1qopq65v54uq
 
-### A2｜卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法
+### A8｜卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法
 
 自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。
 
@@ -29,240 +85,234 @@ TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO �
 原文：https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA
 收录页：https://aihot.news/items/hz782dpcwhurj6584rtd13eaf
 
-### A3｜MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国
-
-面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。
-
-来源：X：面壁智能 OpenBMB (@OpenBMB)；发布时间：2026-11-22T11:25:20Z
-
-原文：https://x.com/OpenBMB/status/2124464239670964531
-收录页：https://aihot.news/items/dr26culfdd1cb21w56i8iruts
-
-### A4｜用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析
-
-用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。
-
-来源：X：面壁智能 OpenBMB (@OpenBMB)；发布时间：2026-11-22T11:15:31Z
-
-原文：https://x.com/OpenBMB/status/2124461770043785636
-收录页：https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m
-
-### A5｜Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确
-
-Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。
-
-来源：The Decoder：AI News（RSS）；发布时间：2026-11-22T11:08:31Z
-
-原文：https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/
-收录页：https://aihot.news/items/ikpixx0j7414se1f6lww2csek
-
-### A6｜菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可
-
-2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。
-
-来源：IT之家·人工智能；发布时间：2026-11-22T09:35:58.183000Z
-
-原文：https://www.ithome.com/1/030/677.htm
-收录页：https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt
-
 ## TrendRadar 完整 AI 热点
 
-### N1｜英伟达被查
+### N1｜黄仁勋王者归来！董事会一致同意复职，英伟达股价暴涨30%
 
-平台：财联社热门；榜单排名：1；实际出现快照数：2。
+平台：财联社热门；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540777
+链接：https://www.cls.cn/detail/2542222
 
-### N2｜勒索组织给英伟达启动了倒计时
+### N2｜英伟达恢复黄仁勋CEO职务
 
-平台：凤凰网；榜单排名：2；实际出现快照数：3。
+平台：抖音；榜单排名：1；实际出现快照数：1。
 
-链接：https://news.ifeng.com/c/8yFwwo4zedi
+链接：https://www.douyin.com/hot/2760751
 
-### N3｜周末要闻汇总：英伟达股价创18年以来最大单周跌幅；A股回购潮来了
+### N3｜英伟达重新任命黄仁勋为首席执行官
 
-平台：财联社热门；榜单排名：3；实际出现快照数：3。
+平台：凤凰网；榜单排名：1；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540950
+链接：https://news.ifeng.com/c/8yIN995Cvnz
 
-### N4｜美国科技巨头称“AI已懂得忏悔”，知名牧师：那你们自己呢？
+### N4｜黄仁勋重回英伟达CEO之位
 
-平台：凤凰网；榜单排名：3；实际出现快照数：3。
+平台：贴吧；榜单排名：1；实际出现快照数：1。
 
-链接：https://news.ifeng.com/c/8yGMpXjmYyY
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E5%9B%9E%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E4%B9%8B%E4%BD%8D&topic_id=28370168
 
-### N5｜病毒吧曝假deepseek藏银狐木马
+### N5｜黄仁勋重掌英伟达帅印！董事会恢复其CEO职务，股价暴涨27%
 
-平台：贴吧；榜单排名：3；实际出现快照数：1。
+平台：华尔街见闻；榜单排名：1；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3786536
+
+### N6｜黄仁勋恢复英伟达CEO职务
+
+平台：微博；榜单排名：1；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1
+
+### N7｜英伟达董事会恢复黄仁勋CEO职务
+
+平台：百度热搜；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1
+
+### N8｜黄仁勋正式回归！员工们奔走相告，英伟达大涨30%
+
+平台：凤凰网；榜单排名：2；实际出现快照数：1。
+
+链接：https://original.ifeng.com/c/8yIOgLayqXf
+
+### N9｜“数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想
+
+平台：澎湃新闻；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34537212
+
+### N10｜黄仁勋：很荣幸回到英伟达
+
+平台：今日头条；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7711369945560387135/
+
+### N11｜美股科技大反攻！黄仁勋回归，英伟达暴涨35%，纳指涨8%，布油失守90美元
+
+平台：华尔街见闻；榜单排名：2；实际出现快照数：1。
+
+链接：https://wallstreetcn.com/articles/3786472
+
+### N12｜英伟达董事会恢复黄仁勋总裁、 CEO 及董事会成员职务，哪些信息值得关注？
+
+平台：知乎；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2108319735347504730
+
+### N13｜黄仁勋说很荣幸回到英伟达
+
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%B4%E5%BE%88%E8%8D%A3%E5%B9%B8%E5%9B%9E%E5%88%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE
+
+### N14｜黄仁勋重返英伟达详尽始末
+
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AF%A6%E5%B0%BD%E5%A7%8B%E6%9C%AB
+
+### N15｜病毒吧曝假deepseek藏银狐木马
+
+平台：贴吧；榜单排名：4；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
 
-### N6｜英伟达被查市值接近腰斩
+### N16｜特朗普“再次施压”：我希望英伟达董事会重新聘用黄仁勋
 
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：4；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9F%A5%E5%B8%82%E5%80%BC%E6%8E%A5%E8%BF%91%E8%85%B0%E6%96%A9
+链接：https://wallstreetcn.com/articles/3786490
 
-### N7｜【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项
+### N17｜Claude证明黎曼假设“大反转”：论证无效，只是空转？
 
-平台：财联社热门；榜单排名：4；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：6；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540705
+链接：https://wallstreetcn.com/articles/3786480
 
-### N8｜【早报】英伟达据悉被SEC调查；多家品牌宣布：下调金饰克价
+### N18｜AI剧 人类消失后的大肥鱼
 
-平台：财联社热门；榜单排名：5；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2540862
+链接：https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
 
-### N9｜穿一次性围裙、扎头发露耳，韩国各高校自主招生防AI作弊措施引争议
+### N19｜【焦点复盘】算力硬件股午后反攻，连续7日超4000股下跌终结，大批红利股逆势走弱
 
-平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34528573
+链接：https://www.cls.cn/detail/2541816
 
-### N10｜AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？
+### N20｜英伟达盘前大涨30%
 
-平台：知乎；榜单排名：7；实际出现快照数：1。
+平台：抖音；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2107333891975599197
+链接：https://www.douyin.com/hot/2760770
 
-### N11｜DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？
+### N21｜标普、纳指有望终结“七连跌” 英伟达反弹近9%  | 今夜看点
 
-平台：知乎；榜单排名：7；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2107183345205626254
+链接：https://www.cls.cn/detail/2542176
 
-### N12｜人类数学协会抵制AI证黎曼猜想
+### N22｜AI服务器厂商最高涨价45%
 
-平台：bilibili 热搜；榜单排名：8；实际出现快照数：2。
+平台：抖音；榜单排名：8；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E8%AF%81%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
+链接：https://www.douyin.com/hot/2759405
 
-### N13｜Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的
+### N23｜黄仁勋回归，重任CEO！英伟达盘前暴涨超26%
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：8；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786445
+链接：https://www.thepaper.cn/newsDetail_forward_34541483
 
-### N14｜上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力
+### N24｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
-平台：华尔街见闻；榜单排名：8；实际出现快照数：2。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786442
+链接：https://wallstreetcn.com/articles/3786529
 
-### N15｜猜想：AI泡沫破灭和金融市场危机
+### N25｜悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了
 
-平台：华尔街见闻；榜单排名：9；实际出现快照数：3。
+平台：凤凰网；榜单排名：11；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786452
+链接：https://news.ifeng.com/c/8yI1gE8bNzr
 
-### N16｜成毅白龙挂动作逼真被误以为AI
+### N26｜大模型经过医考测试不实
 
-平台：百度热搜；榜单排名：10；实际出现快照数：1。
+平台：今日头条；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.baidu.com/s?wd=%E6%88%90%E6%AF%85%E7%99%BD%E9%BE%99%E6%8C%82%E5%8A%A8%E4%BD%9C%E9%80%BC%E7%9C%9F%E8%A2%AB%E8%AF%AF%E4%BB%A5%E4%B8%BAAI
+链接：https://www.toutiao.com/trending/7710656106531569700/
 
-### N17｜AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？
+### N27｜特朗普表示目前不担心AI泡沫
 
-平台：知乎；榜单排名：10；实际出现快照数：2。
+平台：微博；榜单排名：11；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2079246734493066423
+链接：https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E7%9B%AE%E5%89%8D%E4%B8%8D%E6%8B%85%E5%BF%83AI%E6%B3%A1%E6%B2%AB
 
-### N18｜特朗普：期待黄仁勋回英伟达
+### N28｜AI用25万页证明黎曼猜想
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
-
-链接：https://www.cls.cn/detail/2540776
-
-### N19｜AI用25万页证明黎曼猜想
-
-平台：贴吧；榜单排名：13；实际出现快照数：3。
+平台：贴吧；榜单排名：12；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N20｜用AI续写关谷悠悠婚礼
+### N29｜黄仁勋：很荣幸回到英伟达
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：3。
+平台：抖音；榜单排名：13；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
+链接：https://www.douyin.com/hot/2760762
 
-### N21｜为什么看完 AI 短剧以后，就看不进真人演的剧呢？
+### N30｜美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现
 
-平台：知乎；榜单排名：14；实际出现快照数：2。
+平台：澎湃新闻；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2096651689738687723
+链接：https://www.thepaper.cn/newsDetail_forward_34537819
 
-### N22｜如何评价 Google 发布的 Gemini 4 Neon？
+### N31｜黄仁勋回归，英伟达美股盘前涨幅扩大至 30%，能重回 5 万亿美元市值吗？
 
-平台：知乎；榜单排名：15；实际出现快照数：1。
+平台：知乎；榜单排名：13；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2106628033834767756
+链接：https://www.zhihu.com/question/2108324171658653833
 
-### N23｜吧友吐槽双帝之战剧场版滥用AI
+### N32｜陶哲轩再评价AI攻破黎曼猜想
 
-平台：贴吧；榜单排名：17；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：16；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%86%8D%E8%AF%84%E4%BB%B7AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
+
+### N33｜NVIDIA 董事会宣布即日起恢复黄仁勋的总裁、首席执行官和董事职务。如何评价该事件？
+
+平台：知乎；榜单排名：16；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2108319925819523250
+
+### N34｜小县城如何靠AI拿到大结果
+
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
+
+### N35｜英伟达市值重回美股第二
+
+平台：微博；榜单排名：17；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%BE%8E%E8%82%A1%E7%AC%AC%E4%BA%8C%23
+
+### N36｜吧友吐槽双帝之战剧场版滥用AI
+
+平台：贴吧；榜单排名：19；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-### N24｜纳指跌超 5%，英伟达跌 14%，BTC 跌破 6 万美元，黄金濒临 3500 美元，本轮跨市场金融冲击何时止？
+### N37｜Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？
 
-平台：知乎；榜单排名：18；实际出现快照数：2。
+平台：知乎；榜单排名：20；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2107407389817321423
+链接：https://www.zhihu.com/question/2107898424943179770
 
-### N25｜AI是否已证明黎曼猜想
+### N38｜吧友质疑《麦穗与羊》是AI代写
 
-平台：抖音；榜单排名：19；实际出现快照数：3。
-
-链接：https://www.douyin.com/hot/2758976
-
-### N26｜国会山权力大洗牌，2027年谁会给美国AI巨头立规矩？｜907编辑部
-
-平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34533314
-
-### N27｜当薛甄珠成为“可计算的经典”：AI如何重组我们的文化记忆
-
-平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34490113
-
-### N28｜AI证明黎曼猜想到底得出什么结论
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
-
-### N29｜在B站玩AI像素射击游戏
-
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E5%9C%A8B%E7%AB%99%E7%8E%A9AI%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F
-
-### N30｜吧友质疑《麦穗与羊》是AI代写
-
-平台：贴吧；榜单排名：24；实际出现快照数：3。
+平台：贴吧；榜单排名：26；实际出现快照数：1。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
 
-### N31｜积极视角看AI证明黎曼猜想
-
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E7%A7%AF%E6%9E%81%E8%A7%86%E8%A7%92%E7%9C%8BAI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
-
-### N32｜AI攻克黎曼猜想给人类好几个想不到
-
-平台：百度热搜；榜单排名：27；实际出现快照数：2。
-
-链接：https://www.baidu.com/s?wd=AI%E6%94%BB%E5%85%8B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%A5%BD%E5%87%A0%E4%B8%AA%E6%83%B3%E4%B8%8D%E5%88%B0
-
-### N33｜第一批培养AI萌宠的人已赚翻
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7710908221879225866/
-
-核对：AI HOT 6 条；TrendRadar 33 条。
+核对：AI HOT 8 条；TrendRadar 38 条。
