@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-24
 
-数据生成时间：2026-11-24T14:21:12+08:00（北京时间）
+数据生成时间：2026-11-24T14:55:26+08:00（北京时间）
 
-AI HOT：15 条；TrendRadar：54 条 AI 相关热点。
+AI HOT：15 条；TrendRadar：56 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -250,226 +250,238 @@ NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成�
 
 链接：https://wallstreetcn.com/articles/3786490
 
-### N18｜黄仁勋回归，重任CEO！英伟达盘前暴涨超26%
+### N18｜AI证明黎曼猜想将如何影响数学界
+
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C
+
+### N19｜黄仁勋回归，重任CEO！英伟达盘前暴涨超26%
 
 平台：澎湃新闻；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34541483
 
-### N19｜AI证明黎曼猜想将如何影响数学界
+### N20｜黄仁勋回英伟达为何黄金也涨了
 
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：1。
+平台：今日头条；榜单排名：6；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C
+链接：https://www.toutiao.com/trending/7711610431332159012/
 
-### N20｜黄仁勋说很荣幸回到英伟达
+### N21｜黄仁勋说很荣幸回到英伟达
 
 平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%B4%E5%BE%88%E8%8D%A3%E5%B9%B8%E5%9B%9E%E5%88%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE
 
-### N21｜【焦点复盘】算力硬件股午后反攻，连续7日超4000股下跌终结，大批红利股逆势走弱
+### N22｜【焦点复盘】算力硬件股午后反攻，连续7日超4000股下跌终结，大批红利股逆势走弱
 
 平台：财联社热门；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2541816
 
-### N22｜英伟达暴涨超31%创纪录
+### N23｜英伟达暴涨超31%创纪录
 
 平台：抖音；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.douyin.com/hot/2760812
 
-### N23｜英伟达盘前大涨30%
+### N24｜英伟达盘前大涨30%
 
 平台：抖音；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2760770
 
-### N24｜Claude证明黎曼假设“大反转”：论证无效，只是空转？
+### N25｜Claude证明黎曼假设“大反转”：论证无效，只是空转？
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://wallstreetcn.com/articles/3786480
 
-### N25｜黄仁勋回来了，英伟达回不去了
+### N26｜黄仁勋回来了，英伟达回不去了
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786558
 
-### N26｜病毒吧曝假deepseek藏银狐木马
+### N27｜病毒吧曝假deepseek藏银狐木马
 
 平台：贴吧；榜单排名：8；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
 
-### N27｜标普、纳指有望终结“七连跌” 英伟达反弹近9%  | 今夜看点
+### N28｜标普、纳指有望终结“七连跌” 英伟达反弹近9%  | 今夜看点
 
 平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2542176
 
-### N28｜AI服务器厂商最高涨价45%
+### N29｜AI服务器厂商最高涨价45%
 
 平台：抖音；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2759405
 
-### N29｜英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？
+### N30｜英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？
 
 平台：澎湃新闻；榜单排名：10；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34544383
 
-### N30｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N31｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786529
 
-### N31｜黄仁勋恢复英伟达CEO职务
+### N32｜内娱全女拍烂了都不如一部AI
+
+平台：微博；榜单排名：10；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23
+
+### N33｜黄仁勋恢复英伟达CEO职务
 
 平台：微博；榜单排名：10；实际出现快照数：2。
 
 链接：https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1
 
-### N32｜英伟达股价惊人飙涨 欧洲做空杠杆基金损失超90%！
+### N34｜英伟达股价惊人飙涨 欧洲做空杠杆基金损失超90%！
 
 平台：财联社热门；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2542566
 
-### N33｜大模型经过医考测试不实
+### N35｜大模型经过医考测试不实
 
 平台：今日头条；榜单排名：11；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7710656106531569700/
 
-### N34｜特朗普表示目前不担心AI泡沫
+### N36｜特朗普表示目前不担心AI泡沫
 
 平台：微博；榜单排名：11；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E7%9B%AE%E5%89%8D%E4%B8%8D%E6%8B%85%E5%BF%83AI%E6%B3%A1%E6%B2%AB
 
-### N35｜悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了
+### N37｜悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了
 
 平台：凤凰网；榜单排名：12；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8yI1gE8bNzr
 
-### N36｜黄仁勋：很荣幸回到英伟达
+### N38｜黄仁勋：很荣幸回到英伟达
 
 平台：抖音；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.douyin.com/hot/2760762
 
-### N37｜Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？
+### N39｜黄奕AI视频还原被家暴雪藏场景
+
+平台：微博；榜单排名：13；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95AI%E8%A7%86%E9%A2%91%E8%BF%98%E5%8E%9F%E8%A2%AB%E5%AE%B6%E6%9A%B4%E9%9B%AA%E8%97%8F%E5%9C%BA%E6%99%AF%23
+
+### N40｜Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？
 
 平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2107898424943179770
 
-### N38｜黄仁勋回归，英伟达美股盘前涨幅扩大至 30%，能重回 5 万亿美元市值吗？
+### N41｜黄仁勋回归，英伟达美股盘前涨幅扩大至 30%，能重回 5 万亿美元市值吗？
 
 平台：知乎；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108324171658653833
 
-### N39｜AI剧 人类消失后的大肥鱼
+### N42｜AI剧 人类消失后的大肥鱼
 
 平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
 
-### N40｜黄奕AI视频还原被家暴雪藏场景
-
-平台：微博；榜单排名：15；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95AI%E8%A7%86%E9%A2%91%E8%BF%98%E5%8E%9F%E8%A2%AB%E5%AE%B6%E6%9A%B4%E9%9B%AA%E8%97%8F%E5%9C%BA%E6%99%AF%23
-
-### N41｜NVIDIA 董事会宣布即日起恢复黄仁勋的总裁、首席执行官和董事职务。如何评价该事件？
+### N43｜NVIDIA 董事会宣布即日起恢复黄仁勋的总裁、首席执行官和董事职务。如何评价该事件？
 
 平台：知乎；榜单排名：15；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2108319925819523250
 
-### N42｜美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现
+### N44｜英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨
 
-平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34537819
+链接：https://www.thepaper.cn/newsDetail_forward_34544155
 
-### N43｜黄仁勋称将以最大的谦卑和新的承诺承担这一责任，英伟达接下来将怎样发展？此前的策略会发生变化吗？
+### N45｜黄仁勋称将以最大的谦卑和新的承诺承担这一责任，英伟达接下来将怎样发展？此前的策略会发生变化吗？
 
 平台：知乎；榜单排名：16；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108335183820579086
 
-### N44｜英伟达员工欢庆黄仁勋回归
+### N46｜小县城如何靠AI拿到大结果
 
-平台：bilibili 热搜；榜单排名：17；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：17；实际出现快照数：3。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%98%E5%B7%A5%E6%AC%A2%E5%BA%86%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92
+链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
 
-### N45｜英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨
+### N47｜美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现
 
-平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：17；实际出现快照数：3。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34544155
+链接：https://www.thepaper.cn/newsDetail_forward_34537819
 
-### N46｜英伟达市值重回美股第二
+### N48｜英伟达市值重回美股第二
 
 平台：微博；榜单排名：17；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%BE%8E%E8%82%A1%E7%AC%AC%E4%BA%8C%23
 
-### N47｜AI用25万页证明黎曼猜想
+### N49｜AI用25万页证明黎曼猜想
 
 平台：贴吧；榜单排名：18；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N48｜怎么看 Dario 在 OpenAI 工作期间，曾提出通过沉浸式电子游戏，缓解 AI 导致大规模失业？
+### N50｜怎么看 Dario 在 OpenAI 工作期间，曾提出通过沉浸式电子游戏，缓解 AI 导致大规模失业？
 
 平台：知乎；榜单排名：19；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108143859003831791
 
-### N49｜内娱全女拍烂了都不如一部AI
+### N51｜AI时代，产业园区正在失去什么？
 
-平台：微博；榜单排名：20；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23
+链接：https://www.thepaper.cn/newsDetail_forward_34540495
 
-### N50｜黄仁勋回归英伟达后，英伟达的股市将走向何方？能修复此前风波而受损的市场信心吗？
+### N52｜黄仁勋回归英伟达后，英伟达的股市将走向何方？能修复此前风波而受损的市场信心吗？
 
 平台：知乎；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108322859659387417
 
-### N51｜陶哲轩再评价AI攻破黎曼猜想
+### N53｜英伟达员工欢庆黄仁勋回归
+
+平台：bilibili 热搜；榜单排名：21；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%98%E5%B7%A5%E6%AC%A2%E5%BA%86%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92
+
+### N54｜陶哲轩再评价AI攻破黎曼猜想
 
 平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%86%8D%E8%AF%84%E4%BB%B7AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N52｜小县城如何靠AI拿到大结果
-
-平台：bilibili 热搜；榜单排名：24；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
-
-### N53｜吧友吐槽双帝之战剧场版滥用AI
+### N55｜吧友吐槽双帝之战剧场版滥用AI
 
 平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-### N54｜吧友质疑《麦穗与羊》是AI代写
+### N56｜吧友质疑《麦穗与羊》是AI代写
 
 平台：贴吧；榜单排名：27；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
 
-核对：AI HOT 15 条；TrendRadar 54 条。
+核对：AI HOT 15 条；TrendRadar 56 条。
