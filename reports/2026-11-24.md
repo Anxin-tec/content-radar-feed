@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-24
 
-数据生成时间：2026-11-24T12:04:37+08:00（北京时间）
+数据生成时间：2026-11-24T12:25:29+08:00（北京时间）
 
-AI HOT：14 条；TrendRadar：55 条 AI 相关热点。
+AI HOT：14 条；TrendRadar：56 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -229,23 +229,23 @@ NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成�
 
 链接：https://www.zhihu.com/question/2108319735347504730
 
-### N16｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+### N16｜美股收盘：英伟达暴涨超31% 单日市值大增逾9500亿美元创全球纪录
+
+平台：财联社热门；榜单排名：3；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2542382
+
+### N17｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：1。
 
 链接：https://wallstreetcn.com/articles/3786540
 
-### N17｜AI证明黎曼猜想将如何影响数学界
+### N18｜AI证明黎曼猜想将如何影响数学界
 
 平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C
-
-### N18｜美股收盘：英伟达暴涨超31% 单日市值大增逾9500亿美元创全球纪录
-
-平台：财联社热门；榜单排名：4；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2542382
 
 ### N19｜特朗普“再次施压”：我希望英伟达董事会重新聘用黄仁勋
 
@@ -321,7 +321,7 @@ NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成�
 
 ### N31｜标普、纳指有望终结“七连跌” 英伟达反弹近9%  | 今夜看点
 
-平台：财联社热门；榜单排名：9；实际出现快照数：3。
+平台：财联社热门；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2542176
 
@@ -373,77 +373,77 @@ NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成�
 
 链接：https://www.zhihu.com/question/2108319925819523250
 
-### N40｜悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了
+### N40｜英伟达股价惊人飙涨 欧洲做空杠杆基金损失超90%！
+
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2542566
+
+### N41｜悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了
 
 平台：凤凰网；榜单排名：12；实际出现快照数：3。
 
 链接：https://news.ifeng.com/c/8yI1gE8bNzr
 
-### N41｜Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？
+### N42｜Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？
 
 平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2107898424943179770
 
-### N42｜黄仁勋回归，英伟达美股盘前涨幅扩大至 30%，能重回 5 万亿美元市值吗？
+### N43｜黄仁勋回归，英伟达美股盘前涨幅扩大至 30%，能重回 5 万亿美元市值吗？
 
 平台：知乎；榜单排名：13；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108324171658653833
 
-### N43｜GPT-6.2 Sol上线ChatGPT
+### N44｜如何看待刚炒完黎曼猜想的 Anthropic，在美股借黄仁勋回归反弹时独自下跌？黄仁勋与达里奥有何竞合？
+
+平台：知乎；榜单排名：14；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2108353238521201953
+
+### N45｜GPT-6.2 Sol上线ChatGPT
 
 平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=GPT-6.2+Sol%E4%B8%8A%E7%BA%BFChatGPT
 
-### N44｜美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现
+### N46｜美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现
 
 平台：澎湃新闻；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34537819
 
-### N45｜英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨
+### N47｜英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨
 
 平台：澎湃新闻；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34544155
 
-### N46｜AI用25万页证明黎曼猜想
+### N48｜AI用25万页证明黎曼猜想
 
 平台：贴吧；榜单排名：17；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N47｜英伟达市值重回美股第二
+### N49｜英伟达市值重回美股第二
 
 平台：微博；榜单排名：17；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%BE%8E%E8%82%A1%E7%AC%AC%E4%BA%8C%23
 
-### N48｜AI剧 人类消失后的大肥鱼
+### N50｜AI剧 人类消失后的大肥鱼
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
 
-### N49｜怎么看 Dario 在 OpenAI 工作期间，曾提出通过沉浸式电子游戏，缓解 AI 导致大规模失业？
-
-平台：知乎；榜单排名：18；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2108143859003831791
-
-### N50｜小县城如何靠AI拿到大结果
+### N51｜小县城如何靠AI拿到大结果
 
 平台：bilibili 热搜；榜单排名：19；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
-
-### N51｜AI短剧丑狐爆火
-
-平台：微博；榜单排名：19；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%91%E7%8B%90%E7%88%86%E7%81%AB
 
 ### N52｜黄仁勋回归英伟达后，英伟达的股市将走向何方？能修复此前风波而受损的市场信心吗？
 
@@ -457,16 +457,22 @@ NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成�
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-### N54｜吧友质疑《麦穗与羊》是AI代写
+### N54｜AI短剧丑狐爆火
+
+平台：微博；榜单排名：24；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%91%E7%8B%90%E7%88%86%E7%81%AB
+
+### N55｜吧友质疑《麦穗与羊》是AI代写
 
 平台：贴吧；榜单排名：27；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
 
-### N55｜陶哲轩再评价AI攻破黎曼猜想
+### N56｜陶哲轩再评价AI攻破黎曼猜想
 
 平台：bilibili 热搜；榜单排名：29；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%86%8D%E8%AF%84%E4%BB%B7AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-核对：AI HOT 14 条；TrendRadar 55 条。
+核对：AI HOT 14 条；TrendRadar 56 条。
