@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-25
 
-数据生成时间：2026-11-25T11:09:01+08:00（北京时间）
+数据生成时间：2026-11-25T11:28:31+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：43 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：42 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -208,11 +208,11 @@ Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，�
 
 链接：https://www.cls.cn/detail/2543050
 
-### N14｜英伟达回落5% 美股反弹成色面临考验 | 今夜看点
+### N14｜黄仁勋前脚刚回归 AI信贷转眼警报狂响
 
-平台：财联社热门；榜单排名：7；实际出现快照数：3。
+平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2543335
+链接：https://www.cls.cn/detail/2543577
 
 ### N15｜黄仁勋回来了，英伟达回不去了
 
@@ -220,11 +220,11 @@ Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，�
 
 链接：https://wallstreetcn.com/articles/3786558
 
-### N16｜黄仁勋前脚刚回归 AI信贷转眼警报狂响
+### N16｜英伟达回落5% 美股反弹成色面临考验 | 今夜看点
 
-平台：财联社热门；榜单排名：8；实际出现快照数：1。
+平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2543577
+链接：https://www.cls.cn/detail/2543335
 
 ### N17｜英伟达为何非黄仁勋不可
 
@@ -322,17 +322,17 @@ Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，�
 
 链接：https://www.baidu.com/s?wd=Anthropic%E8%B7%8C%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B38.5%25
 
-### N33｜AI换脸还没完AI融脸又来了
-
-平台：微博；榜单排名：17；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E5%AE%8CAI%E8%9E%8D%E8%84%B8%E5%8F%88%E6%9D%A5%E4%BA%86%23
-
-### N34｜小县城如何靠AI拿到大结果
+### N33｜小县城如何靠AI拿到大结果
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
+
+### N34｜AI换脸还没完AI融脸又来了
+
+平台：微博；榜单排名：18；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E5%AE%8CAI%E8%9E%8D%E8%84%B8%E5%8F%88%E6%9D%A5%E4%BA%86%23
 
 ### N35｜纳指低开1.5% 英伟达跌超3%
 
@@ -382,10 +382,4 @@ Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，�
 
 链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%8A%E5%B8%825%E5%A4%A9%E5%8D%B3%E7%A0%B4%E5%8F%91
 
-### N43｜英伟达市值蒸发1.6万亿
-
-平台：微博；榜单排名：29；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911.6%E4%B8%87%E4%BA%BF%23
-
-核对：AI HOT 13 条；TrendRadar 43 条。
+核对：AI HOT 13 条；TrendRadar 42 条。
