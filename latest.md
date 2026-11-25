@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-25
 
-数据生成时间：2026-11-25T09:04:25+08:00（北京时间）
+数据生成时间：2026-11-25T09:34:41+08:00（北京时间）
 
-AI HOT：13 条；TrendRadar：45 条 AI 相关热点。
+AI HOT：13 条；TrendRadar：44 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -29,16 +29,7 @@ Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中�
 原文：https://x.com/AnthropicAI/status/2125341904644763678
 收录页：https://aihot.news/items/gat7lwf755dyryyd45gvlesxz
 
-### A3｜OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力
-
-OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。模型可依靠推理和代码设计新的蛋白质形状与序列，无需调用专用生物学模型来生成，详情见 openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/。
-
-来源：X：OpenAI (@OpenAI)；发布时间：2026-11-24T21:02:58Z
-
-原文：https://x.com/OpenAI/status/2125334383490105601
-收录页：https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9
-
-### A4｜GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜
+### A3｜GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜
 
 研究者引述案例称，GPT-6.2 Astra 仅用 22 分钟和公开资料，将耶鲁 Beinecke 图书馆藏的 1808 年蒙特利尔至苏必利尔湖匿名素描画作者鉴定为 vicomte de Chabot，并找到其微缩胶片日记供验证。日记笔迹与素描题注吻合，1808 年 6 月 18 日日记明确写下“我画了一幅素描”；作者认为这标志着模型的研究发现能力正从数学等可验证领域扩展到历史等非确定性领域。
 
@@ -47,7 +38,7 @@ OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具
 原文：https://x.com/gdb/status/2125305172721320165
 收录页：https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st
 
-### A5｜Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通
+### A4｜Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通
 
 Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增 Personal 模式一键开通，无需 Enterprise 计划或绑卡。共 8 个 server 覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks，免费档为每产品每天 5,000 次请求，发送和分享内置 HITL 确认。他提到仍需经过 Google Cloud，但比旧的 OAuth 同意屏和应用审核流程好得多，欢迎试用反馈。
 
@@ -56,7 +47,7 @@ Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增
 原文：https://x.com/_philschmid/status/2125296446459056156
 收录页：https://aihot.news/items/nm8mi41auemid3iivue4tel3d
 
-### A6｜Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元
+### A5｜Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元
 
 Anthropic 股价跌破 83 美元的 IPO 发行价，周二午盘最低跌至 76 美元，较周一收盘下跌近 12%，距其在 Nasdaq 以 111.33 美元上市不到一周。风投界视其为公开市场对 AI 行业估值的晴雨表，若持续走弱可能压低 AI 初创公司私募估值和其他公司 IPO 前景。同日 Nvidia 也跌超 7%。
 
@@ -65,7 +56,7 @@ Anthropic 股价跌破 83 美元的 IPO 发行价，周二午盘最低跌至 76 
 原文：https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
 收录页：https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo
 
-### A7｜Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险
+### A6｜Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险
 
 Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。
 
@@ -73,6 +64,15 @@ Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为
 
 原文：https://www.wheresyoured.at/defective-accelerationism/
 收录页：https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r
+
+### A7｜OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力
+
+OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。
+
+来源：OpenAI：官网动态（RSS · 排除企业/客户案例）；发布时间：2026-11-24T13:00:00Z
+
+原文：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+收录页：https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2
 
 ### A8｜Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day
 
@@ -172,11 +172,11 @@ ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧�
 
 链接：https://wallstreetcn.com/articles/3786540
 
-### N8｜英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？
+### N8｜知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答
 
-平台：澎湃新闻；榜单排名：4；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：4；实际出现快照数：2。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34544383
+链接：https://www.thepaper.cn/newsDetail_forward_34548287
 
 ### N9｜美股收盘：AI交易疑虑重燃 英伟达跌近6% Anthropic跌破发行价
 
@@ -184,11 +184,11 @@ ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧�
 
 链接：https://www.cls.cn/detail/2543493
 
-### N10｜AI换脸还没完AI融脸又来了
+### N10｜英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？
 
-平台：微博；榜单排名：5；实际出现快照数：1。
+平台：澎湃新闻；榜单排名：5；实际出现快照数：2。
 
-链接：https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E5%AE%8CAI%E8%9E%8D%E8%84%B8%E5%8F%88%E6%9D%A5%E4%BA%86%23
+链接：https://www.thepaper.cn/newsDetail_forward_34544383
 
 ### N11｜英伟达卖空者预计亏损 122 亿美元，创下 2019 年以来最大单日亏损，怎么看待这次史诗级空头暴击？
 
@@ -214,143 +214,143 @@ ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧�
 
 链接：https://wallstreetcn.com/articles/3786558
 
-### N15｜消息称两大AI巨头员工拉响警报：模型过于强大，或难以公开发布
+### N15｜AI换脸还没完AI融脸又来了
+
+平台：微博；榜单排名：7；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E5%AE%8CAI%E8%9E%8D%E8%84%B8%E5%8F%88%E6%9D%A5%E4%BA%86%23
+
+### N16｜消息称两大AI巨头员工拉响警报：模型过于强大，或难以公开发布
 
 平台：财联社热门；榜单排名：8；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2543264
 
-### N16｜一图看懂 | 章建平、葛卫东，闯入“AI世界”
+### N17｜英伟达回落5% 美股反弹成色面临考验 | 今夜看点
 
 平台：财联社热门；榜单排名：9；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2543038
+链接：https://www.cls.cn/detail/2543335
 
-### N17｜英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨
+### N18｜英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨
 
 平台：澎湃新闻；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34544155
 
-### N18｜为什么让 AI 随机说一个 1 到 30 之间的数，大部分都会说 17？
+### N19｜为什么让 AI 随机说一个 1 到 30 之间的数，大部分都会说 17？
 
 平台：知乎；榜单排名：9；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2078883145160582324
 
-### N19｜孩子用 AI 写小说遭父亲质疑非原创与之起争执，你认为用 AI 辅助写作算原创吗？若是你会怎样解答孩子的困惑？
+### N20｜孩子用 AI 写小说遭父亲质疑非原创与之起争执，你认为用 AI 辅助写作算原创吗？若是你会怎样解答孩子的困惑？
 
 平台：知乎；榜单排名：9；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108153080378123763
 
-### N20｜【每日收评】创业板指高开低走小幅收跌，机器人概念股延续强势，算力硬件股显著回落
+### N21｜英伟达为何非黄仁勋不可
+
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E9%9D%9E%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8D%E5%8F%AF
+
+### N22｜【每日收评】创业板指高开低走小幅收跌，机器人概念股延续强势，算力硬件股显著回落
 
 平台：财联社热门；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2542971
 
-### N21｜英伟达回落5% 美股反弹成色面临考验 | 今夜看点
-
-平台：财联社热门；榜单排名：10；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2543335
-
-### N22｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N23｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786529
 
-### N23｜如何看待 Anthropic 盘前价格跌破发行价？
+### N24｜“大空头”伯里完美闪避英伟达暴涨 上周五削减四分之三看跌仓位
+
+平台：财联社热门；榜单排名：11；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2543168
+
+### N25｜如何看待 Anthropic 盘前价格跌破发行价？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108665221980148805
 
-### N24｜黄仁勋回归后，英伟达消费级显卡路线会发生哪些变化？这对普通装机玩家显卡选择、价格和升级节奏意味着什么？
+### N26｜黄仁勋回归后，英伟达消费级显卡路线会发生哪些变化？这对普通装机玩家显卡选择、价格和升级节奏意味着什么？
 
 平台：知乎；榜单排名：11；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108333024727103191
 
-### N25｜知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答
+### N27｜AI剧 人类消失后的大肥鱼
 
-平台：澎湃新闻；榜单排名：12；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34548287
-
-### N26｜病毒吧曝假deepseek藏银狐木马
-
-平台：贴吧；榜单排名：12；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
-
-### N27｜“大空头”伯里完美闪避英伟达暴涨 上周五削减四分之三看跌仓位
-
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2543168
-
-### N28｜AI剧 人类消失后的大肥鱼
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：12；实际出现快照数：3。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
 
-### N29｜AI证明黎曼猜想将如何影响数学界
+### N28｜一图看懂 | 章建平、葛卫东，闯入“AI世界”
+
+平台：财联社热门；榜单排名：12；实际出现快照数：2。
+
+链接：https://www.cls.cn/detail/2543038
+
+### N29｜病毒吧曝假deepseek藏银狐木马
+
+平台：贴吧；榜单排名：13；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+
+### N30｜AI证明黎曼猜想将如何影响数学界
 
 平台：bilibili 热搜；榜单排名：16；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C
 
-### N30｜特朗普称亲自说服英伟达董事会推动黄仁勋复职，副总统万斯出面沟通，白宫为何这么拼？这波介入起了多大作用？
+### N31｜英伟达市值蒸发1.6万亿
 
-平台：知乎；榜单排名：16；实际出现快照数：3。
+平台：微博；榜单排名：16；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911.6%E4%B8%87%E4%BA%BF%23
+
+### N32｜特朗普称亲自说服英伟达董事会推动黄仁勋复职，副总统万斯出面沟通，白宫为何这么拼？这波介入起了多大作用？
+
+平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2108467893239400301
 
-### N31｜Anthropic跌幅扩大至8.5%
+### N33｜Anthropic跌幅扩大至8.5%
 
 平台：百度热搜；榜单排名：17；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E8%B7%8C%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B38.5%25
 
-### N32｜黄仁勋英伟达全员会议
+### N34｜小县城如何靠AI拿到大结果
 
-平台：微博；榜单排名：18；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：3。
 
-链接：https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%A8%E5%91%98%E4%BC%9A%E8%AE%AE%23
+链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
 
-### N33｜中方对黄仁勋重回英伟达有何评论？外交部回应
-
-平台：澎湃新闻；榜单排名：19；实际出现快照数：2。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34546549
-
-### N34｜纳指低开1.5% 英伟达跌超3%
+### N35｜纳指低开1.5% 英伟达跌超3%
 
 平台：百度热搜；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%801.5%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25
 
-### N35｜AI用25万页证明黎曼猜想
+### N36｜中方对黄仁勋重回英伟达有何评论？外交部回应
 
-平台：贴吧；榜单排名：22；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：20；实际出现快照数：2。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34546549
+
+### N37｜AI用25万页证明黎曼猜想
+
+平台：贴吧；榜单排名：23；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
-
-### N36｜美AI科技股集体暴跌
-
-平台：微博；榜单排名：23；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%23
-
-### N37｜AI模型强大到无法发布了吗
-
-平台：今日头条；榜单排名：24；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7711875922139287083/
 
 ### N38｜换脸还没消停 “AI融脸”又来了
 
@@ -358,46 +358,40 @@ ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧�
 
 链接：https://www.baidu.com/s?wd=%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E6%B6%88%E5%81%9C+%E2%80%9CAI%E8%9E%8D%E8%84%B8%E2%80%9D%E5%8F%88%E6%9D%A5%E4%BA%86
 
-### N39｜英伟达跌近6% Anthropic跌破发行价
-
-平台：百度热搜；榜单排名：25；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%916%25+Anthropic%E8%B7%8C%E7%A0%B4%E5%8F%91%E8%A1%8C%E4%BB%B7
-
-### N40｜小县城如何靠AI拿到大结果
-
-平台：bilibili 热搜；榜单排名：25；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
-
-### N41｜英伟达市值蒸发1.6万亿
-
-平台：微博；榜单排名：25；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911.6%E4%B8%87%E4%BA%BF%23
-
-### N42｜伪人AI广告 已经成了一种新的城市病
+### N39｜伪人AI广告 已经成了一种新的城市病
 
 平台：百度热搜；榜单排名：26；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E4%BC%AA%E4%BA%BAAI%E5%B9%BF%E5%91%8A+%E5%B7%B2%E7%BB%8F%E6%88%90%E4%BA%86%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E5%9F%8E%E5%B8%82%E7%97%85
 
-### N43｜英伟达为何非黄仁勋不可
+### N40｜英伟达跌近6% Anthropic跌破发行价
 
-平台：bilibili 热搜；榜单排名：26；实际出现快照数：3。
+平台：百度热搜；榜单排名：28；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E9%9D%9E%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8D%E5%8F%AF
+链接：https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%916%25+Anthropic%E8%B7%8C%E7%A0%B4%E5%8F%91%E8%A1%8C%E4%BB%B7
 
-### N44｜Anthropic上市5天即破发
+### N41｜美AI科技股集体暴跌
+
+平台：微博；榜单排名：28；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%23
+
+### N42｜Anthropic上市5天即破发
 
 平台：百度热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=Anthropic%E4%B8%8A%E5%B8%825%E5%A4%A9%E5%8D%B3%E7%A0%B4%E5%8F%91
 
-### N45｜吧友吐槽双帝之战剧场版滥用AI
+### N43｜AI模型强大到无法发布了吗
 
-平台：贴吧；榜单排名：29；实际出现快照数：3。
+平台：今日头条；榜单排名：29；实际出现快照数：1。
+
+链接：https://www.toutiao.com/trending/7711875922139287083/
+
+### N44｜吧友吐槽双帝之战剧场版滥用AI
+
+平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-核对：AI HOT 13 条；TrendRadar 45 条。
+核对：AI HOT 13 条；TrendRadar 44 条。
