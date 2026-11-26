@@ -1,6 +1,6 @@
 {
   "brief_sha256": "6559aad090268a1015622cc00841df3f440fad57f6bd7b01c0901a552cdaa22e",
-  "content_sha256": "6559aad090268a1015622cc00841df3f440fad57f6bd7b01c0901a552cdaa22e",
+  "content_sha256": "e51198f634a6bf4fcc252e18b6b65263a3714b2a84f1592eb058e0fd1a96cf8a",
   "counts": {
     "aihot_published": 13,
     "aihot_upstream": 13,
@@ -9,6 +9,6 @@
     "trendradar_raw": 336
   },
   "generated_at": "2026-11-26T06:31:34+08:00",
-  "recommendation_count": 0,
+  "recommendation_count": 5,
   "report_date": "2026-11-26"
 }
