@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-26
 
-数据生成时间：2026-11-26T10:44:05+08:00（北京时间）
+数据生成时间：2026-11-26T11:29:57+08:00（北京时间）
 
-AI HOT：12 条；TrendRadar：44 条 AI 相关热点。
+AI HOT：11 条；TrendRadar：45 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -74,9 +74,9 @@ TechCrunch 分析指出，黄仁勋回归 Nvidia CEO 后，公司仍面临多方
 原文：https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
 收录页：https://aihot.news/items/kzwj96fvnn3whzvnhqdvsh830
 
-### A8｜Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0
+### A8｜Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0
 
-Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。
+Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。
 
 来源：Pydantic AI 官方文章；发布时间：2026-11-25T09:00:00Z
 
@@ -110,15 +110,6 @@ MIT 和 Microsoft 的新论文《AI-Assisted Programming and Labor Demand》利�
 原文：https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw
 收录页：https://aihot.news/items/cebavio3uyjwli5r3imsuq1si
 
-### A12｜Anthropic 上市不到一周跌破 83 美元发行价
-
-Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。
-
-来源：IT之家·人工智能；发布时间：2026-11-25T03:29:13.877000Z
-
-原文：https://www.ithome.com/1/031/983.htm
-收录页：https://aihot.news/items/yhlpti07v4y216qat3ml1qmca
-
 ## TrendRadar 完整 AI 热点
 
 ### N1｜海外研选 | 美银2027年展望：AI投资成美国经济最大变数 美联储料再加息三次
@@ -151,119 +142,119 @@ Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收�
 
 链接：https://wallstreetcn.com/articles/3786472
 
-### N6｜美术生不是被AI干掉的
-
-平台：微博；榜单排名：2；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84
-
-### N7｜OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？
+### N6｜OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？
 
 平台：知乎；榜单排名：2；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2108865707819771232
 
-### N8｜多家机器人公司进入破产清算，两年近 30 家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？
+### N7｜多家机器人公司进入破产清算，两年近 30 家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？
 
 平台：知乎；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108863007048591328
 
-### N9｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+### N8｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786540
 
-### N10｜谷歌挂出6篇AI生成数学论文
+### N9｜AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录
 
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：3。
+平台：财联社热门；榜单排名：4；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87
+链接：https://www.cls.cn/detail/2544725
 
-### N11｜如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？
+### N10｜如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？
 
 平台：知乎；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2109042588002907107
 
-### N12｜AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录
+### N11｜避险情绪持续升温 英伟达盘前跌超5% | 今夜看点
 
-平台：财联社热门；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2544725
-
-### N13｜避险情绪持续升温 英伟达盘前跌超5% | 今夜看点
-
-平台：财联社热门；榜单排名：6；实际出现快照数：3。
+平台：财联社热门；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2544578
 
-### N14｜AI正在帮忙抓贪官
+### N12｜AI正在帮忙抓贪官
 
-平台：今日头条；榜单排名：6；实际出现快照数：3。
+平台：今日头条；榜单排名：5；实际出现快照数：3。
 
 链接：https://www.toutiao.com/trending/7712002196388905023/
 
-### N15｜AI正在帮忙抓贪官
+### N13｜谷歌挂出6篇AI生成数学论文
 
-平台：百度热搜；榜单排名：7；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：6；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98
+链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87
 
-### N16｜钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？
+### N14｜钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34529993
 
-### N17｜黄仁勋回来了，英伟达回不去了
+### N15｜黄仁勋回来了，英伟达回不去了
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786558
 
-### N18｜怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？
+### N16｜怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？
 
 平台：知乎；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2108663109493715917
 
-### N19｜学习时报：算力供给要避免“一哄而上”
+### N17｜SpaceX被曝下调Blackwell GPU租金最高约35% 并低价转租Anthropic退还的H200芯片
+
+平台：财联社热门；榜单排名：8；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2544702
+
+### N18｜学习时报：算力供给要避免“一哄而上”
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2544297
 
-### N20｜SpaceX被曝下调Blackwell GPU租金最高约35% 并低价转租Anthropic退还的H200芯片
+### N19｜美术生不是被AI干掉的
+
+平台：微博；榜单排名：8；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84
+
+### N20｜SpaceX太空数据中心获批！可发射至多100万颗卫星把算力搬上太空
 
 平台：财联社热门；榜单排名：9；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2544702
+链接：https://www.cls.cn/detail/2544713
 
-### N21｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N21｜梁文锋 DeepSeek
+
+平台：微博；榜单排名：9；实际出现快照数：1。
+
+链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B+DeepSeek
+
+### N22｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786529
 
-### N22｜如何评价黄仁勋回归英伟达首日说「没电脑用，想要台 RTX Spark」？你觉得最好用的办公电脑是啥？
+### N23｜如何评价黄仁勋回归英伟达首日说「没电脑用，想要台 RTX Spark」？你觉得最好用的办公电脑是啥？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2108890432125888397
 
-### N23｜黄仁勋重返英伟达背后谁在推动
+### N24｜李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业
 
-平台：bilibili 热搜；榜单排名：11；实际出现快照数：1。
+平台：财联社热门；榜单排名：11；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%83%8C%E5%90%8E%E8%B0%81%E5%9C%A8%E6%8E%A8%E5%8A%A8
-
-### N24｜SpaceX太空数据中心获批！可发射至多100万颗卫星把算力搬上太空
-
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2544713
+链接：https://www.cls.cn/detail/2544596
 
 ### N25｜顶尖AI和人类挑战游戏谁会赢
 
@@ -271,11 +262,11 @@ Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收�
 
 链接：https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%B0%96AI%E5%92%8C%E4%BA%BA%E7%B1%BB%E6%8C%91%E6%88%98%E6%B8%B8%E6%88%8F%E8%B0%81%E4%BC%9A%E8%B5%A2
 
-### N26｜李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业
+### N26｜11月26日投资避雷针：4连板人气股提示风险 目前不涉及人形机器人领域相关产品
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2544596
+链接：https://www.cls.cn/detail/2544795
 
 ### N27｜算力租赁需求持续：银行系金租加速布局百亿级算力项目，中小租赁公司拟“抱团”参与
 
@@ -289,29 +280,29 @@ Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收�
 
 链接：https://www.thepaper.cn/newsDetail_forward_34539623
 
-### N29｜豆包和 DeepSeek 哪个好用？
+### N29｜美国三季度GDP增速大幅上修至4.3% AI投资成经济增长核心引擎
+
+平台：财联社热门；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2544647
+
+### N30｜豆包和 DeepSeek 哪个好用？
 
 平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2042157689262826090
 
-### N30｜梁文锋成全球最富AI模型创始人
+### N31｜AI正在帮忙抓贪官
 
-平台：微博；榜单排名：14；实际出现快照数：1。
+平台：百度热搜；榜单排名：14；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8CAI%E6%A8%A1%E5%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA
+链接：https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98
 
-### N31｜黄仁勋称英伟达不需要接班人计划，经历这次离职风波，这个观点还站得住脚吗？英伟达到底需要怎样的管理模式？
+### N32｜黄仁勋重返英伟达背后谁在推动
 
-平台：知乎；榜单排名：14；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2108857850982293869
-
-### N32｜黄仁勋回归能否拯救美国AI泡沫
-
-平台：bilibili 热搜；榜单排名：15；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB
+链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%83%8C%E5%90%8E%E8%B0%81%E5%9C%A8%E6%8E%A8%E5%8A%A8
 
 ### N33｜病毒吧曝假deepseek藏银狐木马
 
@@ -325,17 +316,17 @@ Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收�
 
 链接：https://www.zhihu.com/question/2108835231264460864
 
-### N35｜大肥鱼挑战AI类魂BOSS
+### N35｜怎么看 Anthropic 最新发现，直接研究大模型神经元更有价值，这会改变 AI 可解释性方向吗？
+
+平台：知乎；榜单排名：17；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2108862705461417165
+
+### N36｜黄仁勋回归能否拯救美国AI泡沫
 
 平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
-
-### N36｜梁文锋 DeepSeek
-
-平台：微博；榜单排名：18；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B+DeepSeek
+链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB
 
 ### N37｜如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？
 
@@ -343,46 +334,52 @@ Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收�
 
 链接：https://www.zhihu.com/question/2108737825650762733
 
-### N38｜被戏称为「北美大豆包」的谷歌杀回 AI 牌桌中央，这次逆袭的核心路径是什么？
+### N38｜UP主做的机器人自己逃走了
+
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%87%AA%E5%B7%B1%E9%80%83%E8%B5%B0%E4%BA%86
+
+### N39｜被戏称为「北美大豆包」的谷歌杀回 AI 牌桌中央，这次逆袭的核心路径是什么？
 
 平台：知乎；榜单排名：20；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2106715996711142004
 
-### N39｜AI用25万页证明黎曼猜想
+### N40｜AI用25万页证明黎曼猜想
 
 平台：贴吧；榜单排名：26；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N40｜美股科技股持续回调 英伟达跌超7%
+### N41｜大肥鱼挑战AI类魂BOSS
+
+平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
+
+### N42｜美股科技股持续回调 英伟达跌超7%
 
 平台：百度热搜；榜单排名：29；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E6%8C%81%E7%BB%AD%E5%9B%9E%E8%B0%83+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%857%25
 
-### N41｜OpenAI发布九篇数学论文
+### N43｜OpenAI发布九篇数学论文
 
 平台：bilibili 热搜；榜单排名：30；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B9%9D%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87
 
-### N42｜吧友吐槽双帝之战剧场版滥用AI
+### N44｜吧友吐槽双帝之战剧场版滥用AI
 
 平台：贴吧；榜单排名：30；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
 
-### N43｜专家：AI若暴雷美国经济真伤不起
+### N45｜专家：AI若暴雷美国经济真伤不起
 
 平台：今日头条；榜单排名：30；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7712079887179189769/
 
-### N44｜被00后抛弃的流水线正在押注机器人
-
-平台：今日头条；榜单排名：30；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7712141407812587027/
-
-核对：AI HOT 12 条；TrendRadar 44 条。
+核对：AI HOT 11 条；TrendRadar 45 条。
