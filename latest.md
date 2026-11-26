@@ -1,6 +1,6 @@
 # AI 日报｜2026-11-26
 
-数据生成时间：2026-11-26T08:39:39+08:00（北京时间）
+数据生成时间：2026-11-26T09:08:41+08:00（北京时间）
 
 AI HOT：13 条；TrendRadar：43 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
@@ -142,113 +142,113 @@ Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布
 
 链接：https://www.cls.cn/detail/2544444
 
-### N3｜英伟达跌超7%
+### N3｜AI正在帮忙抓贪官
+
+平台：今日头条；榜单排名：2；实际出现快照数：3。
+
+链接：https://www.toutiao.com/trending/7712002196388905023/
+
+### N4｜英伟达跌超7%
 
 平台：今日头条；榜单排名：2；实际出现快照数：1。
 
 链接：https://www.toutiao.com/trending/7711519886043824164/
 
-### N4｜黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%
+### N5｜黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786472
 
-### N5｜梁文锋成全球最富AI模型创始人
+### N6｜梁文锋成全球最富AI模型创始人
 
 平台：微博；榜单排名：2；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8CAI%E6%A8%A1%E5%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA
 
-### N6｜美股收盘：道指抹去千点跌幅翻红 AI信用风险持续发酵
+### N7｜多家机器人公司进入破产清算，两年近 30 家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？
+
+平台：知乎；榜单排名：2；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2108863007048591328
+
+### N8｜美股收盘：道指抹去千点跌幅翻红 AI信用风险持续发酵
 
 平台：财联社热门；榜单排名：3；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2544737
 
-### N7｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+### N9｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786540
 
-### N8｜多家机器人公司进入破产清算，两年近 30 家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？
-
-平台：知乎；榜单排名：3；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2108863007048591328
-
-### N9｜AI正在帮忙抓贪官
+### N10｜AI正在帮忙抓贪官
 
 平台：百度热搜；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98
 
-### N10｜如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？
+### N11｜如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？
 
 平台：知乎；榜单排名：4；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2109042588002907107
 
-### N11｜避险情绪持续升温 英伟达盘前跌超5% | 今夜看点
+### N12｜避险情绪持续升温 英伟达盘前跌超5% | 今夜看点
 
-平台：财联社热门；榜单排名：5；实际出现快照数：3。
+平台：财联社热门；榜单排名：6；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2544578
 
-### N12｜AI正在帮忙抓贪官
-
-平台：今日头条；榜单排名：5；实际出现快照数：3。
-
-链接：https://www.toutiao.com/trending/7712002196388905023/
-
-### N13｜OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？
-
-平台：知乎；榜单排名：6；实际出现快照数：3。
-
-链接：https://www.zhihu.com/question/2108865707819771232
-
-### N14｜谷歌挂出6篇AI生成数学论文
-
-平台：bilibili 热搜；榜单排名：7；实际出现快照数：3。
-
-链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87
-
-### N15｜AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录
+### N13｜AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录
 
 平台：财联社热门；榜单排名：7；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2544725
 
-### N16｜钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？
+### N14｜钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？
 
 平台：澎湃新闻；榜单排名：7；实际出现快照数：2。
 
 链接：https://www.thepaper.cn/newsDetail_forward_34529993
 
-### N17｜黄仁勋回来了，英伟达回不去了
+### N15｜黄仁勋回来了，英伟达回不去了
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786558
 
-### N18｜大量英伟达GPU涌入转售市场
+### N16｜英伟达为何重金押注光通信
 
-平台：微博；榜单排名：7；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：8；实际出现快照数：1。
 
-链接：https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E6%B6%8C%E5%85%A5%E8%BD%AC%E5%94%AE%E5%B8%82%E5%9C%BA%23
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E9%87%8D%E9%87%91%E6%8A%BC%E6%B3%A8%E5%85%89%E9%80%9A%E4%BF%A1
 
-### N19｜学习时报：算力供给要避免“一哄而上”
+### N17｜学习时报：算力供给要避免“一哄而上”
 
 平台：财联社热门；榜单排名：8；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2544297
 
-### N20｜英伟达为何重金押注光通信
+### N18｜大量英伟达GPU涌入转售市场
 
-平台：bilibili 热搜；榜单排名：9；实际出现快照数：1。
+平台：微博；榜单排名：8；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E9%87%8D%E9%87%91%E6%8A%BC%E6%B3%A8%E5%85%89%E9%80%9A%E4%BF%A1
+链接：https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E6%B6%8C%E5%85%A5%E8%BD%AC%E5%94%AE%E5%B8%82%E5%9C%BA%23
+
+### N19｜谷歌挂出6篇AI生成数学论文
+
+平台：bilibili 热搜；榜单排名：9；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87
+
+### N20｜SpaceX被曝下调Blackwell GPU租金最高约35% 并低价转租Anthropic退还的H200芯片
+
+平台：财联社热门；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2544702
 
 ### N21｜AI世代｜第二层无明：机器知道，人类相信
 
@@ -256,95 +256,95 @@ Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布
 
 链接：https://www.thepaper.cn/newsDetail_forward_34539623
 
-### N22｜如何看待跟着黄仁勋离职的工程师考虑「重返英伟达」？他还有机会回去吗？
-
-平台：知乎；榜单排名：9；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2108613739905807307
-
-### N23｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N22｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786529
 
-### N24｜如何评价黄仁勋回归英伟达首日说「没电脑用，想要台 RTX Spark」？你觉得最好用的办公电脑是啥？
+### N23｜如何评价黄仁勋回归英伟达首日说「没电脑用，想要台 RTX Spark」？你觉得最好用的办公电脑是啥？
 
 平台：知乎；榜单排名：10；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2108890432125888397
 
-### N25｜SpaceX被曝下调Blackwell GPU租金最高约35% 并低价转租Anthropic退还的H200芯片
-
-平台：财联社热门；榜单排名：11；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2544702
-
-### N26｜如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？
+### N24｜如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？
 
 平台：知乎；榜单排名：11；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2108737825650762733
 
-### N27｜顶尖AI和人类挑战游戏谁会赢
+### N25｜顶尖AI和人类挑战游戏谁会赢
 
 平台：bilibili 热搜；榜单排名：12；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%B0%96AI%E5%92%8C%E4%BA%BA%E7%B1%BB%E6%8C%91%E6%88%98%E6%B8%B8%E6%88%8F%E8%B0%81%E4%BC%9A%E8%B5%A2
 
-### N28｜李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业
+### N26｜SpaceX太空数据中心获批！可发射至多100万颗卫星把算力搬上太空
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
+平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.cls.cn/detail/2544596
+链接：https://www.cls.cn/detail/2544713
 
-### N29｜算力租赁需求持续：银行系金租加速布局百亿级算力项目，中小租赁公司拟“抱团”参与
+### N27｜算力租赁需求持续：银行系金租加速布局百亿级算力项目，中小租赁公司拟“抱团”参与
 
 平台：财联社热门；榜单排名：12；实际出现快照数：1。
 
 链接：https://www.cls.cn/detail/2544186
 
-### N30｜SpaceX太空数据中心获批！可发射至多100万颗卫星把算力搬上太空
+### N28｜李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业
 
-平台：财联社热门；榜单排名：13；实际出现快照数：1。
+平台：财联社热门；榜单排名：13；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2544713
+链接：https://www.cls.cn/detail/2544596
 
-### N31｜病毒吧曝假deepseek藏银狐木马
-
-平台：贴吧；榜单排名：13；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
-
-### N32｜豆包和 DeepSeek 哪个好用？
+### N29｜豆包和 DeepSeek 哪个好用？
 
 平台：知乎；榜单排名：13；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2042157689262826090
 
-### N33｜黄仁勋称英伟达不需要接班人计划，经历这次离职风波，这个观点还站得住脚吗？英伟达到底需要怎样的管理模式？
+### N30｜病毒吧曝假deepseek藏银狐木马
+
+平台：贴吧；榜单排名：14；实际出现快照数：3。
+
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+
+### N31｜黄仁勋称英伟达不需要接班人计划，经历这次离职风波，这个观点还站得住脚吗？英伟达到底需要怎样的管理模式？
 
 平台：知乎；榜单排名：14；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2108857850982293869
 
-### N34｜如何评价 Sand.ai 发布的新一代视频生成模型 MAGI-2，实际体验如何？
+### N32｜OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？
 
-平台：知乎；榜单排名：15；实际出现快照数：2。
+平台：知乎；榜单排名：15；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2108835231264460864
+链接：https://www.zhihu.com/question/2108865707819771232
 
-### N35｜怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？
+### N33｜怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？
 
-平台：知乎；榜单排名：17；实际出现快照数：3。
+平台：知乎；榜单排名：16；实际出现快照数：3。
 
 链接：https://www.zhihu.com/question/2108663109493715917
 
-### N36｜黄仁勋回归能否拯救美国AI泡沫
+### N34｜美术生不是被AI干掉的
 
-平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
+平台：微博；榜单排名：19；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB
+链接：https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84
+
+### N35｜如何评价 Sand.ai 发布的新一代视频生成模型 MAGI-2，实际体验如何？
+
+平台：知乎；榜单排名：19；实际出现快照数：3。
+
+链接：https://www.zhihu.com/question/2108835231264460864
+
+### N36｜大肥鱼挑战AI类魂BOSS
+
+平台：bilibili 热搜；榜单排名：20；实际出现快照数：3。
+
+链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
 
 ### N37｜被戏称为「北美大豆包」的谷歌杀回 AI 牌桌中央，这次逆袭的核心路径是什么？
 
@@ -352,15 +352,15 @@ Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布
 
 链接：https://www.zhihu.com/question/2106715996711142004
 
-### N38｜大肥鱼挑战AI类魂BOSS
+### N38｜黄仁勋回归能否拯救美国AI泡沫
 
-平台：bilibili 热搜；榜单排名：23；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：2。
 
-链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
+链接：https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB
 
 ### N39｜AI用25万页证明黎曼猜想
 
-平台：贴吧；榜单排名：24；实际出现快照数：3。
+平台：贴吧；榜单排名：25；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
