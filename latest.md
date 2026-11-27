@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-27
 
-数据生成时间：2026-11-27T09:55:21+08:00（北京时间）
+数据生成时间：2026-11-27T10:23:07+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：28 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -58,11 +58,11 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜OpenAI发布重量级物理论文
+### N1｜英伟达与铠侠将显存扩至百万GB
 
 平台：bilibili 热搜；榜单排名：1；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E9%93%A0%E4%BE%A0%E5%B0%86%E6%98%BE%E5%AD%98%E6%89%A9%E8%87%B3%E7%99%BE%E4%B8%87GB
 
 ### N2｜【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器
 
@@ -76,11 +76,11 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://wallstreetcn.com/articles/3786536
 
-### N4｜DeepSeek上线价格计算功能
+### N4｜OpenAI发布重量级物理论文
 
 平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD
+链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87
 
 ### N5｜黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%
 
@@ -88,11 +88,11 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://wallstreetcn.com/articles/3786472
 
-### N6｜英伟达与铠侠将显存扩至百万GB
+### N6｜DeepSeek上线价格计算功能
 
 平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E9%93%A0%E4%BE%A0%E5%B0%86%E6%98%BE%E5%AD%98%E6%89%A9%E8%87%B3%E7%99%BE%E4%B8%87GB
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD
 
 ### N7｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
 
@@ -100,11 +100,11 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://wallstreetcn.com/articles/3786540
 
-### N8｜斯坦福学者与 AI 提出引力理论与量子力学统一的新理论，如何理解该事件？
+### N8｜数学变成AI的氪金游戏了吗
 
-平台：知乎；榜单排名：3；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：5；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2109335761182876043
+链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%8F%98%E6%88%90AI%E7%9A%84%E6%B0%AA%E9%87%91%E6%B8%B8%E6%88%8F%E4%BA%86%E5%90%97
 
 ### N9｜英伟达宣布：暂停向马来西亚、新加坡、泰国和印尼发货
 
@@ -124,35 +124,35 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://www.thepaper.cn/newsDetail_forward_34563169
 
-### N12｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N12｜如何评价 DeepSeek 网页和 App 端开始展示消耗额度？
+
+平台：知乎；榜单排名：9；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2109411707877695723
+
+### N13｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786529
 
-### N13｜如何评价 DeepSeek 网页和 App 端开始展示消耗额度？
+### N14｜医院机器人吓人 恐怖谷效应
 
-平台：知乎；榜单排名：11；实际出现快照数：1。
+平台：百度热搜；榜单排名：12；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2109411707877695723
+链接：https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%93%E4%BA%BA+%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94
 
-### N14｜“iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制
+### N15｜“iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制
 
 平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2545893
 
-### N15｜突发！上交所向5连板机器人牛股下发监管工作函|盘后公告集锦
+### N16｜突发！上交所向5连板机器人牛股下发监管工作函|盘后公告集锦
 
 平台：财联社热门；榜单排名：12；实际出现快照数：3。
 
 链接：https://www.cls.cn/detail/2545817
-
-### N16｜医院机器人吓人 恐怖谷效应
-
-平台：百度热搜；榜单排名：13；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%93%E4%BA%BA+%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94
 
 ### N17｜AI证明黎曼猜想代码大幅简化
 
@@ -160,46 +160,70 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B9%85%E7%AE%80%E5%8C%96
 
-### N18｜英伟达暂停向东南亚四国交付芯片
+### N18｜斯坦福学者与 AI 提出引力理论与量子力学统一的新理论，如何理解该事件？
+
+平台：知乎；榜单排名：13；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2109335761182876043
+
+### N19｜英伟达暂停向东南亚四国交付芯片
 
 平台：今日头条；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7712398819899769370/
 
-### N19｜曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？
+### N20｜曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？
 
 平台：知乎；榜单排名：16；实际出现快照数：2。
 
 链接：https://www.zhihu.com/question/2109197560539604552
 
-### N20｜病毒吧曝假deepseek藏银狐木马
+### N21｜病毒吧曝假deepseek藏银狐木马
 
 平台：贴吧；榜单排名：19；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
 
-### N21｜大肥鱼挑战AI类魂BOSS
+### N22｜大肥鱼挑战AI类魂BOSS
 
-平台：bilibili 热搜；榜单排名：27；实际出现快照数：3。
+平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
 
-### N22｜外国老哥装傻把AI逼到黑化
+### N23｜AI大肥鱼改编周深代表作
+
+平台：bilibili 热搜；榜单排名：23；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C
+
+### N24｜谷歌AI现在为何这么强
+
+平台：bilibili 热搜；榜单排名：26；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%8E%B0%E5%9C%A8%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%BC%BA
+
+### N25｜外国老哥装傻把AI逼到黑化
 
 平台：百度热搜；榜单排名：30；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E5%93%A5%E8%A3%85%E5%82%BB%E6%8A%8AAI%E9%80%BC%E5%88%B0%E9%BB%91%E5%8C%96
 
-### N23｜数学家们如何看待AI证明黎曼猜想
+### N26｜百亿播放量AI漫剧进影院
+
+平台：百度热搜；榜单排名：30；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E7%99%BE%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E6%BC%AB%E5%89%A7%E8%BF%9B%E5%BD%B1%E9%99%A2
+
+### N27｜数学家们如何看待AI证明黎曼猜想
 
 平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-### N24｜AI用25万页证明黎曼猜想
+### N28｜AI用25万页证明黎曼猜想
 
 平台：贴吧；榜单排名：30；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-核对：AI HOT 5 条；TrendRadar 24 条。
+核对：AI HOT 5 条；TrendRadar 28 条。
