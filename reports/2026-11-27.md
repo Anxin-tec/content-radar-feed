@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-27
 
-数据生成时间：2026-11-27T12:30:03+08:00（北京时间）
+数据生成时间：2026-11-27T12:57:10+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：24 条 AI 相关热点。
+AI HOT：5 条；TrendRadar：22 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -70,83 +70,83 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://wallstreetcn.com/articles/3786536
 
-### N3｜英伟达与铠侠将显存扩至百万GB
-
-平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E9%93%A0%E4%BE%A0%E5%B0%86%E6%98%BE%E5%AD%98%E6%89%A9%E8%87%B3%E7%99%BE%E4%B8%87GB
-
-### N4｜黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%
+### N3｜黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%
 
 平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786472
 
-### N5｜DeepSeek上线价格计算功能
+### N4｜英伟达与铠侠将显存扩至百万GB
 
 平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD
+链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E9%93%A0%E4%BE%A0%E5%B0%86%E6%98%BE%E5%AD%98%E6%89%A9%E8%87%B3%E7%99%BE%E4%B8%87GB
 
-### N6｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+### N5｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
 
 平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786540
 
-### N7｜如何评价 DeepSeek 网页和 App 端开始展示消耗额度？
+### N6｜DeepSeek上线价格计算功能
+
+平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD
+
+### N7｜美股AI风向变了：软件>硬件？
+
+平台：财联社热门；榜单排名：6；实际出现快照数：1。
+
+链接：https://www.cls.cn/detail/2546218
+
+### N8｜如何评价 DeepSeek 网页和 App 端开始展示消耗额度？
 
 平台：知乎；榜单排名：6；实际出现快照数：1。
 
 链接：https://www.zhihu.com/question/2109411707877695723
 
-### N8｜黄仁勋回来了，英伟达回不去了
+### N9｜王兴兴预测：5-10年内中国机器人产量或超汽车，年产量超2000万台
+
+平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
+
+链接：https://www.thepaper.cn/newsDetail_forward_34563169
+
+### N10｜黄仁勋回来了，英伟达回不去了
 
 平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786558
 
-### N9｜王兴兴预测：5-10年内中国机器人产量或超汽车，年产量超2000万台
-
-平台：澎湃新闻；榜单排名：9；实际出现快照数：3。
-
-链接：https://www.thepaper.cn/newsDetail_forward_34563169
-
-### N10｜OpenAI发布重量级物理论文
-
-平台：bilibili 热搜；榜单排名：10；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87
-
-### N11｜美股AI风向变了：软件>硬件？
-
-平台：财联社热门；榜单排名：10；实际出现快照数：1。
-
-链接：https://www.cls.cn/detail/2546218
-
-### N12｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N11｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
 
 平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
 
 链接：https://wallstreetcn.com/articles/3786529
 
-### N13｜“iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制
+### N12｜“iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制
 
 平台：财联社热门；榜单排名：12；实际出现快照数：2。
 
 链接：https://www.cls.cn/detail/2545893
 
-### N14｜突发！上交所向5连板机器人牛股下发监管工作函|盘后公告集锦
-
-平台：财联社热门；榜单排名：12；实际出现快照数：3。
-
-链接：https://www.cls.cn/detail/2545817
-
-### N15｜AI证明黎曼猜想代码大幅简化
+### N13｜AI证明黎曼猜想代码大幅简化
 
 平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B9%85%E7%AE%80%E5%8C%96
+
+### N14｜突发！上交所向5连板机器人牛股下发监管工作函|盘后公告集锦
+
+平台：财联社热门；榜单排名：13；实际出现快照数：3。
+
+链接：https://www.cls.cn/detail/2545817
+
+### N15｜OpenAI发布重量级物理论文
+
+平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
+
+链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87
 
 ### N16｜英伟达暂停向东南亚四国交付芯片
 
@@ -160,46 +160,34 @@ MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image �
 
 链接：https://www.zhihu.com/question/2109197560539604552
 
-### N18｜医院人形机器人 恐怖谷效应
-
-平台：微博；榜单排名：19；实际出现快照数：1。
-
-链接：https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA+%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94
-
-### N19｜病毒吧曝假deepseek藏银狐木马
-
-平台：贴吧；榜单排名：21；实际出现快照数：3。
-
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
-
-### N20｜大肥鱼挑战AI类魂BOSS
+### N18｜大肥鱼挑战AI类魂BOSS
 
 平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
 
-### N21｜医院机器人吓人 恐怖谷效应
+### N19｜病毒吧曝假deepseek藏银狐木马
 
-平台：百度热搜；榜单排名：27；实际出现快照数：1。
+平台：贴吧；榜单排名：22；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%93%E4%BA%BA+%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
 
-### N22｜AI用25万页证明黎曼猜想
+### N20｜AI用25万页证明黎曼猜想
 
 平台：贴吧；榜单排名：29；实际出现快照数：2。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
 
-### N23｜外国老哥装傻把AI逼到黑化
+### N21｜外国老哥装傻把AI逼到黑化
 
 平台：百度热搜；榜单排名：30；实际出现快照数：2。
 
 链接：https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E5%93%A5%E8%A3%85%E5%82%BB%E6%8A%8AAI%E9%80%BC%E5%88%B0%E9%BB%91%E5%8C%96
 
-### N24｜数学家们如何看待AI证明黎曼猜想
+### N22｜数学家们如何看待AI证明黎曼猜想
 
 平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
 
-核对：AI HOT 5 条；TrendRadar 24 条。
+核对：AI HOT 5 条；TrendRadar 22 条。
