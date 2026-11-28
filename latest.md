@@ -1,8 +1,8 @@
-# AI 日报｜2026-11-27
+# AI 日报｜2026-11-28
 
-数据生成时间：2026-11-27T12:57:10+08:00（北京时间）
+数据生成时间：2026-11-28T08:14:55+08:00（北京时间）
 
-AI HOT：5 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：3 条；TrendRadar：18 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -11,183 +11,141 @@ AI HOT：5 条；TrendRadar：22 条 AI 相关热点。
 
 ## AI HOT 完整资讯
 
-### A1｜实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱
+### A1｜OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction
 
-作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。买断制将 Skill 完整内容交付本地，订阅制把 Skill 保留在云端沙盒中、Agent 看不到明文；买断定价 0.01-50 元，订阅按周月季度收费上限 50 元，免费试用最低 5 次。
+OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。OpenBMB 称赞其边说边听、在不打断对话的情况下把复杂任务交给后端模型，是迈向更自然 AI 交互的一步，并向 InternLM 团队致意。
 
-来源：公众号：数字生命卡兹克；发布时间：2026-11-26T23:56:00Z
+来源：X：面壁智能 OpenBMB (@OpenBMB)；发布时间：2026-11-27T13:32:15Z
 
-原文：https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw
-收录页：https://aihot.news/items/cdkswjz368inpelrz3f52rekx
+原文：https://x.com/OpenBMB/status/2126308118741323853
+收录页：https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw
 
-### A2｜Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图
+### A2｜Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报
 
-Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。GDP 映射为金产量、城市按真实产业分化，含 19 个视图、524 个都市的 City View 和覆盖 3,100+ 县的 Explorer，已部署在 https://karpathy.ai/usaciv/。作者 Ado 转发并感叹。
+卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。
 
-来源：X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)；发布时间：2026-11-26T16:44:47Z
+来源：X：卡兹克 (@Khazix0918)；发布时间：2026-11-27T12:38:45Z
 
-原文：https://x.com/adocomplete/status/2125994186252161315
-收录页：https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj
+原文：https://x.com/Khazix0918/status/2126294658431201385
+收录页：https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc
 
-### A3｜Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP
+### A3｜Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接
 
-Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。
+据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。
 
-来源：X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)；发布时间：2026-11-26T13:30:28Z
+来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-27T07:21:40Z
 
-原文：https://x.com/_philschmid/status/2125945282072297794
-收录页：https://aihot.news/items/jcdfpftbam647yhc210dbace9
-
-### A4｜MiniMax 推出 H3 Family：旗舰与扩展视频图像模型
-
-MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image 系列及 fal、Suno、HeyGen、Pika 等第三方的扩展模型。H3 开源 100 天已衍生 1,472 个模型、累计下载超 1.48 亿次，旗舰 H3 支持 2K 输出、起价 $0.08/秒，H3-Image Highspeed 最快 10 秒内生成 4K 图像。
-
-来源：MiniMax：Blog（网页）；发布时间：2026-11-26T12:00:09Z
-
-原文：https://www.minimax.io/blog/minimax-h3-family
-收录页：https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf
-
-### A5｜FT 报道 Nvidia 暂停向东南亚四国发运服务器
-
-据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。此前中国 AI 实验室通过当地云厂商租用 Nvidia 算力绕开直接出口禁令，云厂商现有 90 天证明无受限用户但缺乏申请指引；Nvidia 2025 年经新加坡部门入账 $104B，同比增长 72%。
-
-来源：X：Rohan Paul (@rohanpaul_ai)；发布时间：2026-11-26T07:00:25Z
-
-原文：https://x.com/rohanpaul_ai/status/2125847124600656142
-收录页：https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30
+原文：https://x.com/rohanpaul_ai/status/2126214860421914884
+收录页：https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器
+### N1｜鉴定AI在物理领域的新成就
 
-平台：财联社热门；榜单排名：1；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：3；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2545997
+链接：https://search.bilibili.com/all?keyword=%E9%89%B4%E5%AE%9AAI%E5%9C%A8%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%96%B0%E6%88%90%E5%B0%B1
 
-### N2｜黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿
+### N2｜新质生产力大咖说AI季
 
-平台：华尔街见闻；榜单排名：1；实际出现快照数：3。
+平台：微博；榜单排名：3；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786536
+链接：https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23
 
-### N3｜黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%
+### N3｜如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？
 
-平台：华尔街见闻；榜单排名：2；实际出现快照数：3。
+平台：知乎；榜单排名：3；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786472
+链接：https://www.zhihu.com/question/2109705664087816135
 
-### N4｜英伟达与铠侠将显存扩至百万GB
+### N4｜美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%
 
-平台：bilibili 热搜；榜单排名：3；实际出现快照数：1。
+平台：财联社热门；榜单排名：5；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E9%93%A0%E4%BE%A0%E5%B0%86%E6%98%BE%E5%AD%98%E6%89%A9%E8%87%B3%E7%99%BE%E4%B8%87GB
+链接：https://www.cls.cn/detail/2547125
 
-### N5｜特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+### N5｜美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降
 
-平台：华尔街见闻；榜单排名：3；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：5；实际出现快照数：3。
 
-链接：https://wallstreetcn.com/articles/3786540
+链接：https://wallstreetcn.com/articles/3786861
 
-### N6｜DeepSeek上线价格计算功能
+### N6｜模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？
 
-平台：bilibili 热搜；榜单排名：4；实际出现快照数：1。
+平台：知乎；榜单排名：5；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD
+链接：https://www.zhihu.com/question/2109242936701478494
 
-### N7｜美股AI风向变了：软件>硬件？
+### N7｜吧友反问AI是否懂人味
 
-平台：财联社热门；榜单排名：6；实际出现快照数：1。
+平台：贴吧；榜单排名：8；实际出现快照数：3。
 
-链接：https://www.cls.cn/detail/2546218
+链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%8F%8D%E9%97%AEAI%E6%98%AF%E5%90%A6%E6%87%82%E4%BA%BA%E5%91%B3&topic_id=28370365
 
-### N8｜如何评价 DeepSeek 网页和 App 端开始展示消耗额度？
+### N8｜宇树机器人上线全身实时遥操功能
 
-平台：知乎；榜单排名：6；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：10；实际出现快照数：3。
 
-链接：https://www.zhihu.com/question/2109411707877695723
+链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E7%BA%BF%E5%85%A8%E8%BA%AB%E5%AE%9E%E6%97%B6%E9%81%A5%E6%93%8D%E5%8A%9F%E8%83%BD
 
-### N9｜王兴兴预测：5-10年内中国机器人产量或超汽车，年产量超2000万台
+### N9｜这波AI大崩盘，为何中国资金最先嗅到风险，随后才是亚洲，最后才到华尔街和硅谷？
 
-平台：澎湃新闻；榜单排名：7；实际出现快照数：3。
+平台：华尔街见闻；榜单排名：10；实际出现快照数：1。
 
-链接：https://www.thepaper.cn/newsDetail_forward_34563169
+链接：https://wallstreetcn.com/articles/3786834
 
-### N10｜黄仁勋回来了，英伟达回不去了
+### N10｜当AI闯入考场，韩国如何守住考试公平？
 
-平台：华尔街见闻；榜单排名：7；实际出现快照数：3。
+平台：凤凰网；榜单排名：11；实际出现快照数：1。
 
-链接：https://wallstreetcn.com/articles/3786558
+链接：https://original.ifeng.com/c/8yPZ9ylo3qt
 
-### N11｜面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长
+### N11｜国产大模型集体进军AI4S：年内融资突破200亿元，大模型从“会聊天”转向“做科研”？
 
-平台：华尔街见闻；榜单排名：10；实际出现快照数：3。
+平台：澎湃新闻；榜单排名：16；实际出现快照数：2。
 
-链接：https://wallstreetcn.com/articles/3786529
+链接：https://www.thepaper.cn/newsDetail_forward_34547146
 
-### N12｜“iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制
+### N12｜AI包装的烂奇迹能算原创吗
 
-平台：财联社热门；榜单排名：12；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2545893
+链接：https://search.bilibili.com/all?keyword=AI%E5%8C%85%E8%A3%85%E7%9A%84%E7%83%82%E5%A5%87%E8%BF%B9%E8%83%BD%E7%AE%97%E5%8E%9F%E5%88%9B%E5%90%97
 
-### N13｜AI证明黎曼猜想代码大幅简化
+### N13｜Claude开发搜打撤游戏
 
-平台：bilibili 热搜；榜单排名：13；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：24；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B9%85%E7%AE%80%E5%8C%96
+链接：https://search.bilibili.com/all?keyword=Claude%E5%BC%80%E5%8F%91%E6%90%9C%E6%89%93%E6%92%A4%E6%B8%B8%E6%88%8F
 
-### N14｜突发！上交所向5连板机器人牛股下发监管工作函|盘后公告集锦
+### N14｜闸门已开：AI失控离我们有多远
 
-平台：财联社热门；榜单排名：13；实际出现快照数：3。
+平台：百度热搜；榜单排名：25；实际出现快照数：2。
 
-链接：https://www.cls.cn/detail/2545817
+链接：https://www.baidu.com/s?wd=%E9%97%B8%E9%97%A8%E5%B7%B2%E5%BC%80%EF%BC%9AAI%E5%A4%B1%E6%8E%A7%E7%A6%BB%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E8%BF%9C
 
-### N15｜OpenAI发布重量级物理论文
+### N15｜DeepSeek开始“打表计费”了
 
-平台：bilibili 热搜；榜单排名：14；实际出现快照数：1。
+平台：百度热搜；榜单排名：26；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87
+链接：https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%A7%8B%E2%80%9C%E6%89%93%E8%A1%A8%E8%AE%A1%E8%B4%B9%E2%80%9D%E4%BA%86
 
-### N16｜英伟达暂停向东南亚四国交付芯片
+### N16｜病毒吧曝假deepseek藏银狐木马
 
-平台：今日头条；榜单排名：16；实际出现快照数：2。
-
-链接：https://www.toutiao.com/trending/7712398819899769370/
-
-### N17｜曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？
-
-平台：知乎；榜单排名：16；实际出现快照数：2。
-
-链接：https://www.zhihu.com/question/2109197560539604552
-
-### N18｜大肥鱼挑战AI类魂BOSS
-
-平台：bilibili 热搜；榜单排名：22；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
-
-### N19｜病毒吧曝假deepseek藏银狐木马
-
-平台：贴吧；榜单排名：22；实际出现快照数：3。
+平台：贴吧；榜单排名：26；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
 
-### N20｜AI用25万页证明黎曼猜想
+### N17｜《两京十五日》里的小演员是AI
 
-平台：贴吧；榜单排名：29；实际出现快照数：2。
+平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
-链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+链接：https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%87%8C%E7%9A%84%E5%B0%8F%E6%BC%94%E5%91%98%E6%98%AFAI
 
-### N21｜外国老哥装傻把AI逼到黑化
+### N18｜普京与印度AI领域天才少年自拍
 
-平台：百度热搜；榜单排名：30；实际出现快照数：2。
+平台：今日头条；榜单排名：29；实际出现快照数：3。
 
-链接：https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E5%93%A5%E8%A3%85%E5%82%BB%E6%8A%8AAI%E9%80%BC%E5%88%B0%E9%BB%91%E5%8C%96
+链接：https://www.toutiao.com/trending/7712748822061125170/
 
-### N22｜数学家们如何看待AI证明黎曼猜想
-
-平台：bilibili 热搜；榜单排名：30；实际出现快照数：1。
-
-链接：https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
-
-核对：AI HOT 5 条；TrendRadar 22 条。
+核对：AI HOT 3 条；TrendRadar 18 条。
