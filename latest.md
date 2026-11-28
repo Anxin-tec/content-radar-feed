@@ -1,8 +1,8 @@
 # AI 日报｜2026-11-28
 
-数据生成时间：2026-11-28T11:14:40+08:00（北京时间）
+数据生成时间：2026-11-28T12:12:38+08:00（北京时间）
 
-AI HOT：3 条；TrendRadar：22 条 AI 相关热点。
+AI HOT：3 条；TrendRadar：20 条 AI 相关热点。
 实际采集快照：3 个；平台：11 个。
 
 以下为两处信息源的完整收录，不代表已经逐条独立核实。
@@ -40,11 +40,11 @@ OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开�
 
 ## TrendRadar 完整 AI 热点
 
-### N1｜OpenAI反诉苹果窃取商业秘密
+### N1｜人类数学家联手解读黎曼猜想AI证明
 
-平台：bilibili 热搜；榜单排名：1；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：2；实际出现快照数：1。
 
-链接：https://search.bilibili.com/all?keyword=OpenAI%E5%8F%8D%E8%AF%89%E8%8B%B9%E6%9E%9C%E7%AA%83%E5%8F%96%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86
+链接：https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%81%94%E6%89%8B%E8%A7%A3%E8%AF%BB%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3AI%E8%AF%81%E6%98%8E
 
 ### N2｜新质生产力大咖说AI季
 
@@ -52,11 +52,11 @@ OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开�
 
 链接：https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23
 
-### N3｜如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？
+### N3｜模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？
 
 平台：知乎；榜单排名：4；实际出现快照数：1。
 
-链接：https://www.zhihu.com/question/2109705664087816135
+链接：https://www.zhihu.com/question/2109242936701478494
 
 ### N4｜美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%
 
@@ -70,17 +70,17 @@ OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开�
 
 链接：https://wallstreetcn.com/articles/3786861
 
-### N6｜模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？
-
-平台：知乎；榜单排名：5；实际出现快照数：1。
-
-链接：https://www.zhihu.com/question/2109242936701478494
-
-### N7｜宇树机器人上线全身实时遥操功能
+### N6｜宇树机器人上线全身实时遥操功能
 
 平台：bilibili 热搜；榜单排名：7；实际出现快照数：2。
 
 链接：https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E7%BA%BF%E5%85%A8%E8%BA%AB%E5%AE%9E%E6%97%B6%E9%81%A5%E6%93%8D%E5%8A%9F%E8%83%BD
+
+### N7｜如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？
+
+平台：知乎；榜单排名：7；实际出现快照数：1。
+
+链接：https://www.zhihu.com/question/2109705664087816135
 
 ### N8｜这波AI大崩盘，为何中国资金最先嗅到风险，随后才是亚洲，最后才到华尔街和硅谷？
 
@@ -114,62 +114,50 @@ OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开�
 
 ### N13｜AI包装的烂奇迹能算原创吗
 
-平台：bilibili 热搜；榜单排名：19；实际出现快照数：2。
+平台：bilibili 热搜；榜单排名：18；实际出现快照数：1。
 
 链接：https://search.bilibili.com/all?keyword=AI%E5%8C%85%E8%A3%85%E7%9A%84%E7%83%82%E5%A5%87%E8%BF%B9%E8%83%BD%E7%AE%97%E5%8E%9F%E5%88%9B%E5%90%97
 
-### N14｜车展外国观众纷纷围观小鹏机器人
-
-平台：今日头条；榜单排名：19；实际出现快照数：1。
-
-链接：https://www.toutiao.com/trending/7712468380137144358/
-
-### N15｜李香凝将用AIGC复活李小龙
-
-平台：百度热搜；榜单排名：20；实际出现快照数：1。
-
-链接：https://www.baidu.com/s?wd=%E6%9D%8E%E9%A6%99%E5%87%9D%E5%B0%86%E7%94%A8AIGC%E5%A4%8D%E6%B4%BB%E6%9D%8E%E5%B0%8F%E9%BE%99
-
-### N16｜冯骥长文谈AI时代人怎么办
+### N14｜冯骥长文谈AI时代人怎么办
 
 平台：微博；榜单排名：20；实际出现快照数：1。
 
 链接：https://s.weibo.com/weibo?q=%E5%86%AF%E9%AA%A5%E9%95%BF%E6%96%87%E8%B0%88AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E
 
-### N17｜普京与印度AI领域天才少年自拍
+### N15｜李香凝将用AIGC复活李小龙
+
+平台：百度热搜；榜单排名：24；实际出现快照数：1。
+
+链接：https://www.baidu.com/s?wd=%E6%9D%8E%E9%A6%99%E5%87%9D%E5%B0%86%E7%94%A8AIGC%E5%A4%8D%E6%B4%BB%E6%9D%8E%E5%B0%8F%E9%BE%99
+
+### N16｜普京与印度AI领域天才少年自拍
 
 平台：今日头条；榜单排名：25；实际出现快照数：2。
 
 链接：https://www.toutiao.com/trending/7712748822061125170/
 
-### N18｜DeepSeek开始“打表计费”了
+### N17｜DeepSeek开始“打表计费”了
 
 平台：百度热搜；榜单排名：26；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%A7%8B%E2%80%9C%E6%89%93%E8%A1%A8%E8%AE%A1%E8%B4%B9%E2%80%9D%E4%BA%86
 
-### N19｜《两京十五日》里的小演员是AI
+### N18｜《两京十五日》里的小演员是AI
 
 平台：百度热搜；榜单排名：27；实际出现快照数：1。
 
 链接：https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%87%8C%E7%9A%84%E5%B0%8F%E6%BC%94%E5%91%98%E6%98%AFAI
 
-### N20｜Claude开发搜打撤游戏
+### N19｜病毒吧曝假deepseek藏银狐木马
 
-平台：bilibili 热搜；榜单排名：28；实际出现快照数：2。
-
-链接：https://search.bilibili.com/all?keyword=Claude%E5%BC%80%E5%8F%91%E6%90%9C%E6%89%93%E6%92%A4%E6%B8%B8%E6%88%8F
-
-### N21｜病毒吧曝假deepseek藏银狐木马
-
-平台：贴吧；榜单排名：28；实际出现快照数：3。
+平台：贴吧；榜单排名：27；实际出现快照数：3。
 
 链接：https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
 
-### N22｜《黑神话》制作人发长文谈AI冲击
+### N20｜Claude开发搜打撤游戏
 
-平台：百度热搜；榜单排名：30；实际出现快照数：1。
+平台：bilibili 热搜；榜单排名：29；实际出现快照数：2。
 
-链接：https://www.baidu.com/s?wd=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%E3%80%8B%E5%88%B6%E4%BD%9C%E4%BA%BA%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88AI%E5%86%B2%E5%87%BB
+链接：https://search.bilibili.com/all?keyword=Claude%E5%BC%80%E5%8F%91%E6%90%9C%E6%89%93%E6%92%A4%E6%B8%B8%E6%88%8F
 
-核对：AI HOT 3 条；TrendRadar 22 条。
+核对：AI HOT 3 条；TrendRadar 20 条。
